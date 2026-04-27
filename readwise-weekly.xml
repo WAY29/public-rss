@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Readwise Weekly</title>
-    <link>https://rss.longlone.de5.net</link>
+    <link>http://rss.longlone.de5.net</link>
     <description>Weekly Wise Reads issues</description>
-    <language>zh-CN</language>
-    <lastBuildDate>Sat, 25 Apr 2026 00:00:00 GMT</lastBuildDate>
-    <atom:link href="https://rss.longlone.de5.net/readwise-weekly.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://rss.longlone.de5.net/readwise-weekly.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wisereads Vol. 138 — The Book of Delights by Ross Gay, the cost of outsourcing curiosity, and more</title>
+      <link>https://wise.readwise.io/issues/wisereads-vol-138/</link>
+      <guid>wisereads-vol-138</guid>
+    </item>
   </channel>
 </rss>
