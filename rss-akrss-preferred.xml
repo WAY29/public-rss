@@ -5,8 +5,44 @@
     <link>http://rss.longlone.de5.net</link>
     <description>Codex-curated preferred RSS items</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 29 Apr 2026 20:05:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 09:05:41 GMT</lastBuildDate>
     <atom:link href="http://rss.longlone.de5.net/rss-akrss-preferred.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Zig project's rationale for their firm anti-AI contribution policy</title>
+      <link>https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything</guid>
+      <pubDate>Thu, 30 Apr 2026 01:24:23 GMT</pubDate>
+      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
+      <description>(8.4/10) 文章梳理了 Zig 项目为何采取几乎最严格的反 LLM 贡献政策，禁止用模型提交 issue、PR 和评论。核心理由是维护沟通质量、责任归属与社区协作信号，反映开源项目对 AI 介入边界的现实担忧。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+
+&lt;p&gt;&lt;a href="https://ziglang.org/" rel="noopener noreferrer"&gt;Zig&lt;/a&gt; has one of the most stringent &lt;a href="https://ziglang.org/code-of-conduct/" rel="noopener noreferrer"&gt;anti-LLM policies&lt;/a&gt; of any major open source project:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;No LLMs for issues.&lt;/p&gt;
+&lt;p&gt;No LLMs for pull requests.&lt;/p&gt;
+&lt;p&gt;No LLMs for comments on the bug tracker, including translation. English is encouraged, but not required. You are welcome to post in your native language and rely on others to have their own translation tools of choice to interpret your words.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The most prominent project written in Zig may be the &lt;a href="https://bun.com/" rel="noopener noreferrer"&gt;Bun&lt;/a&gt; JavaScript runtime, which was &lt;a href="https://bun.com/blog/bun-joins-anthropic" rel="noopener noreferrer"&gt;acquired by Anthropic&lt;/a&gt; in December 2025 and, unsurprisingly, makes heavy use of AI assistance.&lt;/p&gt;
+&lt;p&gt;Bun operates its own fork of Zig, and recently &lt;a href="https://x.com/bunjavascript/status/2048427636414923250" rel="noopener noreferrer"&gt;achieved a 4x performance improvement&lt;/a&gt; on Bun compile after adding "parallel semantic analysis and multiple codegen units to the llvm backend". Here's &lt;a href="https://github.com/oven-sh/zig/compare/upgrade-0.15.2%E2%80%A6upgrade-0.15.2-fast" rel="noopener noreferrer"&gt;that code&lt;/a&gt;. But &lt;a href="https://twitter.com/bunjavascript/status/2048428104893542781" rel="noopener noreferrer"&gt;@bunjavascript says&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We do not currently plan to upstream this, as Zig has a strict ban on LLM-authored contributions.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In &lt;a href="https://kristoff.it/blog/contributor-poker-and-ai/" rel="noopener noreferrer"&gt;Contributor Poker and Zig's AI Ban&lt;/a&gt; (&lt;a href="https://lobste.rs/s/ifcyr1/contributor_poker_zig_s_ai_ban" rel="noopener noreferrer"&gt;via Lobste.rs&lt;/a&gt;) Zig Software Foundation VP of Community Loris Cro explains the rationale for this strict ban. It's the best articulation I've seen yet for a blanket ban on LLM-assisted contributions:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In successful open source projects you eventually reach a point where you start getting more PRs than what you’re capable of processing. Given what I mentioned so far, it would make sense to stop accepting imperfect PRs in order to maximize ROI from your work, but that’s not what we do in the Zig project. Instead,&amp;nbsp;&lt;strong&gt;we try our best to help new contributors to get their work in, even if they need some help getting there&lt;/strong&gt;. We don’t do this just because it’s the “right” thing to do, but also&amp;nbsp;&lt;strong&gt;because it’s the smart thing to do&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Zig values contributors over their contributions. Each contributor represents an investment by the Zig core team - the primary goal of reviewing and accepting PRs isn't to land new code, it's to help grow new contributors who can become trusted and prolific over time.&lt;/p&gt;
+&lt;p&gt;LLM assistance breaks that completely. It doesn't matter if the LLM helps you submit a &lt;em&gt;perfect&lt;/em&gt; PR to Zig - the time the Zig team spends reviewing your work does nothing to help them add new, confident, trustworthy contributors to their overall project.&lt;/p&gt;
+&lt;p&gt;Loris explains the name here:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The reason I call it “contributor poker” is because, just like people say about the actual card game, “you play the person, not the cards”. In contributor poker, you bet on the contributor, not on the contents of their first PR.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This makes a lot of sense to me. It relates to an idea I've seen circulating elsewhere: if a PR was mostly written by an LLM, why should a project maintainer spend time reviewing and discussing that PR as opposed to firing up their own LLM to solve the same problem?&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;</content:encoded>
+    </item>
     <item>
       <title>Reiner Pope – The math behind how LLMs are trained and served</title>
       <link>https://www.dwarkesh.com/p/reiner-pope</link>
