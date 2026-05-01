@@ -5,8 +5,58 @@
     <link>http://rss.longlone.de5.net</link>
     <description>Codex-curated preferred RSS items</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 30 Apr 2026 15:06:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 14:16:26 GMT</lastBuildDate>
     <atom:link href="http://rss.longlone.de5.net/rss-akrss-preferred.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Codex CLI 0.128.0 adds /goal</title>
+      <link>https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything</guid>
+      <pubDate>Thu, 30 Apr 2026 23:23:17 GMT</pubDate>
+      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
+      <description>(8.1/10) OpenAI 的 Codex CLI 新增 /goal，可让编码代理围绕目标持续循环执行。它会在完成目标或耗尽令牌预算前不断推进，体现了更自主的代理工作流。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+
+
+&lt;p&gt;30th April 2026 - Link Blog&lt;/p&gt;
+
+&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://github.com/openai/codex/releases/tag/rust-v0.128.0" rel="noopener noreferrer"&gt;Codex CLI 0.128.0 adds /goal&lt;/a&gt;&lt;/strong&gt; (&lt;a href="https://twitter.com/fcoury/status/2049917871799636201" title="@fcoury" rel="noopener noreferrer"&gt;via&lt;/a&gt;) The latest version of OpenAI's Codex CLI coding agent adds their own version of the &lt;a href="https://ghuntley.com/ralph/" rel="noopener noreferrer"&gt;Ralph loop&lt;/a&gt;: you can now set a &lt;code&gt;/goal&lt;/code&gt; and Codex will keep on looping until it evaluates that the goal has been completed... or the configured token budget has been exhausted.&lt;/p&gt;
+&lt;p&gt;It looks like the feature is mainly implemented though the &lt;a href="https://github.com/openai/codex/blob/6014b6679ffbd92eeddffa3ad7b4402be6a7fefe/codex-rs/core/templates/goals/continuation.md" rel="noopener noreferrer"&gt;goals/continuation.md&lt;/a&gt; and &lt;a href="https://github.com/openai/codex/blob/6014b6679ffbd92eeddffa3ad7b4402be6a7fefe/codex-rs/core/templates/goals/budget_limit.md" rel="noopener noreferrer"&gt;goals/budget_limit.md&lt;/a&gt; prompts, which are automatically injected at the end of a turn.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>We need RSS for sharing abundant vibe-coded apps</title>
+      <link>https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything</guid>
+      <pubDate>Thu, 30 Apr 2026 18:38:48 GMT</pubDate>
+      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
+      <description>(8.4/10) 文章提出在 AI 辅助开发让微型应用激增后，需要像 RSS 一样的分发机制。核心观点是应用发布正从“上线产品”转向“像发博客一样频繁分享个人工具”。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+
+
+&lt;p&gt;30th April 2026 - Link Blog&lt;/p&gt;
+
+&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://interconnected.org/home/2026/04/29/syndicating-vibes" rel="noopener noreferrer"&gt;We need RSS for sharing abundant vibe-coded apps&lt;/a&gt;&lt;/strong&gt;. Matt Webb:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I would love an RSS web feed for all those various tools and apps pages, each item with an “Install” button. (But install to where?)&lt;/p&gt;
+&lt;p&gt;The lesson here is that when vibe-coding accelerates app development, apps become more personal, more situated, and more frequent. Shipping a tool or a micro-app is less like launching a website and more like posting on a blog.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This inspired me to &lt;a href="https://github.com/simonw/simonwillisonblog/pull/665" rel="noopener noreferrer"&gt;have Claude&lt;/a&gt; add an Atom feed (and icon) to my &lt;a href="https://simonwillison.net/elsewhere/tool/" rel="noopener noreferrer"&gt;/elsewhere/tools/&lt;/a&gt; page, which itself is populated by content from my &lt;a href="https://tools.simonwillison.net/" rel="noopener noreferrer"&gt;tools.simonwillison.net&lt;/a&gt; site.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;</content:encoded>
+    </item>
     <item>
       <title>The Zig project's rationale for their firm anti-AI contribution policy</title>
       <link>https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything</link>
