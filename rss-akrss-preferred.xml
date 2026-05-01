@@ -5,8 +5,16 @@
     <link>http://rss.longlone.de5.net</link>
     <description>Codex-curated preferred RSS items</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 01 May 2026 14:16:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 20:17:11 GMT</lastBuildDate>
     <atom:link href="http://rss.longlone.de5.net/rss-akrss-preferred.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“A model that produces code which compiles and passes the tests it was given is not the same as a model that produces correct, secure, maintainable, well-architected software”</title>
+      <link>https://garymarcus.substack.com/p/a-model-that-produces-code-which</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/a-model-that-produces-code-which</guid>
+      <pubDate>Fri, 01 May 2026 20:04:02 GMT</pubDate>
+      <source url="https://garymarcus.substack.com/feed">garymarcus.substack.com</source>
+      <description>(8.3/10) 文章强调，能通过编译和测试的AI代码不等于真正正确、安全、可维护的软件。作者借此质疑当前对AI编程能力的乐观叙事，提醒业界关注架构与工程质量。</description>
+    </item>
     <item>
       <title>Codex CLI 0.128.0 adds /goal</title>
       <link>https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything</link>
