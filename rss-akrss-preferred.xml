@@ -5,8 +5,291 @@
     <link>http://rss.longlone.de5.net</link>
     <description>Codex-curated preferred RSS items</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 03 May 2026 08:21:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 02:24:14 GMT</lastBuildDate>
     <atom:link href="http://rss.longlone.de5.net/rss-akrss-preferred.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our AI started a cafe in Stockholm</title>
+      <link>https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything</guid>
+      <pubDate>Tue, 05 May 2026 22:14:21 GMT</pubDate>
+      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
+      <description>(8.6/10) 这篇文章介绍Andon Labs让AI经营斯德哥尔摩咖啡馆的实验，并记录了大量荒诞失误。价值不在噱头，而在真实暴露代理在库存、常识和执行链条上的脆弱性。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://andonlabs.com/blog/ai-cafe-stockholm" rel="noopener noreferrer"&gt;Our AI started a cafe in Stockholm&lt;/a&gt;&lt;/strong&gt; (&lt;a href="https://news.ycombinator.com/item?id=48028289" title="Hacker News" rel="noopener noreferrer"&gt;via&lt;/a&gt;) Andon Labs previously &lt;a href="https://andonlabs.com/blog/andon-market-launch" rel="noopener noreferrer"&gt;started an AI-run retail store&lt;/a&gt; in San Francisco. Now they're running a similar experiment in Stockholm, Sweden, only this time it's a cafe.&lt;/p&gt;
+&lt;p&gt;These experiments are interesting, and often throw out amusing anecdotes:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;During the first week of inventory, Mona ordered 120 eggs even though the café has no stove. When the staff told her they couldn’t cook them, she suggested using the high-speed oven, until they pointed out the eggs would likely explode. She also tried to solve the problem of fresh tomatoes being spoiled too fast by ordering 22.5 kg of canned tomatoes for the fresh sandwiches. The baristas eventually started a “Hall of Shame”, a shelf visible to customers with all the weird things Mona ordered, including 6,000 napkins, 3,000 nitrile gloves, 9L coconut milk, and industrial-sized trash bags.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Where they lose their shine is when these AI managers start wasting the time of human beings who have &lt;em&gt;not&lt;/em&gt; opted into the experiment:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;She also successfully applied for an outdoor seating permit through the Police e-service, which didn’t require BankID. Her first submission included a sketch she had generated herself, despite having never seen the street outside the café. Unsurprisingly, the Police sent it back for revision. [...]&lt;/p&gt;
+&lt;p&gt;When she makes a mistake, she often sends multiple emails to suppliers with the subject “EMERGENCY” to cancel or change the order.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I don't think it's ethical to run experiments like this that affect real-world systems and steal time from people.&lt;/p&gt;
+&lt;p&gt;I'm reminded of the incident last year where the AI Village experiment &lt;a href="https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/" rel="noopener noreferrer"&gt;infuriated Rob Pike&lt;/a&gt; by sending him unsolicited gratitude emails as an "act of kindness". That was just an unwanted email - asking suppliers to correct mistakes that were made without a human-in-the-loop or wasting police time with slop diagrams feels a whole lot worse to me.&lt;/p&gt;
+&lt;p&gt;I think experiments like this need to keep their own human operators in-the-loop for outbound actions that affect other people.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Breaking: Autonomous Agents are a Shitshow</title>
+      <link>https://garymarcus.substack.com/p/breaking-autonomous-agents-are-a</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/breaking-autonomous-agents-are-a</guid>
+      <pubDate>Tue, 05 May 2026 17:54:27 GMT</pubDate>
+      <source url="https://garymarcus.substack.com/feed">garymarcus.substack.com</source>
+      <description>(8.1/10) 文章集中批评自主代理当前能力与宣传严重脱节，强调其可靠性与可控性问题。核心观点是，系统性失败并非偶发Bug，而是现阶段范式本身的不成熟。</description>
+    </item>
+    <item>
+      <title>★ Y Combinator’s Stake in OpenAI</title>
+      <link>https://daringfireball.net/2026/05/y_combinators_stake_in_openai</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/05/y_combinators_stake_in_openai</guid>
+      <pubDate>Mon, 04 May 2026 22:47:01 GMT</pubDate>
+      <source url="https://daringfireball.net/feeds/main">daringfireball.net</source>
+      <description>(8.0/10) 文章指出YC及相关人物在评价OpenAI与Altman时，背后存在巨大利益关系却常未充分披露。它关注的不是八卦，而是AI舆论场中的权力、资本与可信度问题。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+&lt;h1&gt;Y Combinator’s Stake in OpenAI&lt;/h1&gt;
+&lt;h6&gt;Monday, 4 May 2026&lt;/h6&gt;
+
+&lt;p&gt;Speaking of companies with &lt;a href="https://daringfireball.net/linked/2026/05/04/google-owns-a-big-chunk-of-anthropic" rel="noopener noreferrer"&gt;valuable minority stakes in AI companies&lt;/a&gt;, there’s one thing that stuck in my craw about the blockbuster &lt;a href="https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted" rel="noopener noreferrer"&gt;Ronan Farrow / Andrew Marantz investigative piece on Sam Altman and OpenAI&lt;/a&gt; last month for The New Yorker. It didn’t come up during &lt;a href="https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry" rel="noopener noreferrer"&gt;Nilay Patel’s excellent interview with Farrow on Decoder&lt;/a&gt;, either.&lt;/p&gt;
+
+&lt;p&gt;Sam Altman was the president of Y Combinator for several years, and left to become the full-time CEO of OpenAI. The New Yorker quotes Y Combinator co-founder Paul Graham multiple times, in the context of Altman’s trustworthiness. (Some of those quotes are firsthand, others secondhand.) Graham’s role in the story — particularly his public remarks &lt;em&gt;after&lt;/em&gt; publication — comprised an entire section in &lt;a href="https://daringfireball.net/2026/04/when_he_is_alive_and_not_after_he_is_dead" rel="noopener noreferrer"&gt;my own take on the New Yorker piece&lt;/a&gt;, wherein I concluded:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I would characterize Graham’s tweets re: Altman this week as
+emphasizing only that Altman was not fired or otherwise forced
+from YC, and could have stayed as CEO at YC if he’d found another
+CEO for OpenAI. But for all of Graham’s elucidating engagement on
+Twitter/X this week regarding this story, he’s dancing around the
+core question of the Farrow/Marantz investigation, the one right
+there in The New Yorker’s headline: Can Sam Altman be trusted?
+“&lt;em&gt;We didn’t ‘remove’ Sam Altman&lt;/em&gt;” and “&lt;em&gt;We didn’t want him to
+leave&lt;/em&gt;” are not the same things as saying, say, “&lt;em&gt;I think Sam
+Altman is honest and trustworthy&lt;/em&gt;” or “&lt;em&gt;Sam Altman is a man of
+integrity&lt;/em&gt;”. If Paul Graham were to say such things, clearly and
+unambiguously, those remarks would carry tremendous weight. But — rather conspicuously to my eyes — he’s not saying such things.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The thing that stuck in my craw is this: &lt;em&gt;Does Y Combinator own a stake in OpenAI? And if they do, given OpenAI’s sky-high valuation, isn’t that stake worth billions of dollars?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;OpenAI was seeded by an offshoot of Y Combinator &lt;a href="https://web.archive.org/web/20160611042811/https://ycr.org/" rel="noopener noreferrer"&gt;called YC Research&lt;/a&gt; in 2016 — when Altman was running YC. In December 2023, the well-known AI expert (and AI-hype skeptic) &lt;a href="https://garymarcus.substack.com/p/not-consistently-candid" rel="noopener noreferrer"&gt;Gary Marcus wrote the following&lt;/a&gt;, in a piece on Altman’s trustworthiness in the wake of the OpenAI board saga that saw Altman fired, re-hired, and the board purged in the course of a tumultuous week:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;After poking around, I found out that “I have no equity in OpenAI”
+was only half the truth; while Altman to my knowledge holds no
+&lt;em&gt;direct&lt;/em&gt; equity in OpenAI, he does have an &lt;em&gt;indirect&lt;/em&gt; stake in
+OpenAI, and that fact should have been disclosed.&lt;/p&gt;
+
+&lt;p&gt;In particular, he owns a stake of Y Combinator, and Y Combinator
+owns a stake in OpenAI. It may well be worth tens of millions of
+dollars; even for Altman, that’s not trivial. Since he was
+President of Y Combinator, and CEO of OpenAI; he surely was
+aware of this.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So it’s well known that Y Combinator owns &lt;em&gt;some&lt;/em&gt; stake in OpenAI. But how big is that stake? This seems like devilishly difficult information to obtain. I asked around and a little birdie who knows several OpenAI investors came back with an answer: Y Combinator owns about 0.6 percent of OpenAI. At OpenAI’s current &lt;a href="https://openai.com/index/accelerating-the-next-phase-ai/" rel="noopener noreferrer"&gt;$852 billion valuation&lt;/a&gt;, that’s worth over $5 billion.&lt;/p&gt;
+
+&lt;p&gt;Graham &lt;a href="https://www.youtube.com/watch?v=6u4JVz7iQTY" rel="noopener noreferrer"&gt;and his wife Jessica Livingston&lt;/a&gt; are two of Y Combinator’s four founding partners. The fact that Paul Graham personally has billions of dollars at stake with OpenAI doesn’t mean that his public opinion on Sam Altman’s trustworthiness and leadership is invalid. But it certainly seems like the sort of thing that ought to be disclosed when quoting Graham as an Altman character reference. A billion dollars here, a billion there — that adds up to the sort of money that &lt;em&gt;might&lt;/em&gt; skew a fellow’s opinion.&lt;/p&gt;
+
+
+
+ 
+&lt;/div&gt; 
+
+
+
+
+
+
+
+
+
+
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>AI didn't delete your database, you did</title>
+      <link>https://idiallo.com/blog/ai-didnt-delete-your-database-you-did?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/ai-didnt-delete-your-database-you-did?src=feed</guid>
+      <pubDate>Mon, 04 May 2026 22:25:00 GMT</pubDate>
+      <source url="https://idiallo.com/feed.rss">idiallo.com</source>
+      <description>(9.0/10) 作者借生产库被代理删掉的案例，指出真正的问题是人把危险能力直接暴露给了模型。文章核心是把事故归因从“AI失控”转回系统设计、权限边界与工程责任。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+	
+
+&lt;p&gt;Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent &lt;a href="https://x.com/lifeof_jer/status/2048103471019434248" rel="noopener noreferrer"&gt;deleted his company's production database&lt;/a&gt;. We watched from the sidelines as he tried to get a confession from the agent: "Why did you delete it when you were told never to perform this action?" Then he tried to parse the answer to either learn from his mistake or warn us about the dangers of AI agents.&lt;/p&gt;
+
+&lt;p&gt;I have a question too: why do you have an API endpoint that deletes your entire production database? His post rambled on about false marketing in AI, bad customer support, and so on. What was missing was accountability.&lt;/p&gt;
+
+&lt;p&gt;I'm not one to blindly defend AI, I always err on the side of caution. But I also know you can't blame a tool for your own mistakes.&lt;/p&gt;
+
+&lt;p&gt;In 2010, I worked with a company that had a very manual deployment process. We used SVN for version control. To deploy, we had to copy trunk, the equivalent of the master branch, into a release folder labeled with a release date. Then we made a second copy of that release and called it "current." That way, pulling the current folder always gave you the latest release.&lt;/p&gt;
+
+&lt;p&gt;One day, while deploying, I accidentally copied trunk twice. To fix it via the CLI, I edited my previous command to delete the duplicate. Then I continued the deployment without any issues... or so I thought. Turns out, I hadn't deleted the duplicate copy at all. I had edited the wrong command and deleted trunk instead. Later that day, another developer was confused when he couldn't find it.&lt;/p&gt;
+
+&lt;p&gt;All hell broke loose. Managers scrambled, meetings were called. By the time the news reached my team, the lead developer had already run a command to revert the deletion. He checked the logs, saw that I was responsible, and my next task was to write a script to automate our deployment process so this kind of mistake couldn't happen again. Before the day was over, we had a more robust system in place. One that eventually grew into a full CI/CD pipeline.&lt;/p&gt;
+
+&lt;p&gt;Automation helps eliminate the silly mistakes that come with manual, repetitive work. We could have easily gone around asking "Why didn't SVN prevent us from deleting trunk?" But the real problem was our manual process. Unlike machines, we can't repeat a task exactly the same way every single day. We are bound to slip up eventually.&lt;/p&gt;
+
+&lt;p&gt;With AI generating large swaths of code, we get the illusion of that same security. But automation means doing the same thing the same way every time. AI is more like me copying and pasting branches, it's bound to make mistakes, and it's not equipped to explain why it did what it did. The terms we use, like "thinking" and "reasoning," may look like reflection from an intelligent agent. But these are marketing terms slapped on top of AI. In reality, the models are still just generating tokens.&lt;/p&gt;
+
+&lt;p&gt;Now, back to the main problem this guy faced. Why does a public-facing API that can delete all your production databases even exist? If the AI hadn't called that endpoint, someone else eventually would have. It's like putting a self-destruct button on your car's dashboard. You have every reason not to press it, because you like your car and it takes you from point A to point B. But a motivated toddler who wiggles out of his car seat will hit that big red button the moment he sees it. You can't then interrogate the child about his reasoning. Mine would have answered simply: "I did it because I pressed it."&lt;/p&gt;
+
+&lt;p&gt;I suspect a large part of this company's application was vibe-coded. The software architects used AI to spec the product from AI-generated descriptions provided by the product team. The developers used AI to write the code. The reviewers used AI to approve it. Now, when a bug appears, the only option is to interrogate yet another AI for answers, probably not even running on the same GPU that generated the original code. You can't blame the GPU!&lt;/p&gt;
+
+&lt;p&gt;The simple solution is &lt;strong&gt;know what you're deploying to production.&lt;/strong&gt; The more realistic one is, if you're going to use AI extensively, build a process where competent developers use it as a tool to augment their work, not a way to avoid accountability. And please, don't let your CEO or CTO write the code.&lt;/p&gt;
+
+	&lt;hr&gt;
+
+	
+	&lt;/div&gt;
+
+
+
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Commits on GitHub Are Up 14× Year-Over-Year</title>
+      <link>https://daringfireball.net/linked/2026/03/13/amodei-ai-code-claim-chowder</link>
+      <guid isPermaLink="true">https://daringfireball.net/linked/2026/03/13/amodei-ai-code-claim-chowder</guid>
+      <pubDate>Mon, 04 May 2026 15:00:33 GMT</pubDate>
+      <source url="https://daringfireball.net/feeds/main">daringfireball.net</source>
+      <description>(8.2/10) 文章认为AI写代码的真正变化，不只是替代人类敲代码，而是显著扩大了可尝试的工作量。它把提交激增解释为软件探索成本下降，而非简单的自动化替代。</description>
+      <content:encoded>&lt;div&gt;
+&lt;p&gt;Business Insider, one year ago:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Dario Amodei, the CEO of the AI startup Anthropic, said on Monday
+that AI, and not software developers, could be writing all of the
+code in our software in a year.&lt;/p&gt;
+
+&lt;p&gt;“I think we will be there in three to six months, where AI is
+writing 90% of the code. And then, in 12 months, we may be in a
+world where AI is writing essentially all of the code,” Amodei
+said at a Council of Foreign Relations event on Monday.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’d marked this one on my claim chowder calendar a year ago, &lt;a href="https://daringfireball.net/linked/2025/08/20/claim-chowder-amodei" rel="noopener noreferrer"&gt;suspecting&lt;/a&gt; it would make for a laugh today. But while Amodei wasn’t exactly right, I think he was only wrong insofar as his remarks were too facile. It may well be true that 90 percent of the lines of programming code that are written today, Friday 13 March 2026, will have been generated by AI. If anything, it’s probably a higher percentage.&lt;/p&gt;
+
+&lt;p&gt;But where I think Amodei’s remarks, quoted above, are facile is that it hasn’t played out as simply that lines of code that would have been written by human programmers are now generated by AI models. That’s part of it, for sure. But what’s revolutionary — a topic I’ve been posting about &lt;a href="https://daringfireball.net/linked/2026/03/13/software-bonkers" rel="noopener noreferrer"&gt;twice&lt;/a&gt; &lt;a href="https://daringfireball.net/linked/2026/03/13/grief-and-the-ai-split" rel="noopener noreferrer"&gt;already&lt;/a&gt; today — is that AI code generation tools are being used to create services and apps and libraries that simply would not have been written at all before. It may well be that the total number of lines of code that will be written by people today isn’t much different from the number of lines of code that were written by people a year ago. But there might be 10× more code generated by AI than is written by people today. Maybe more. Maybe a lot more? And a year or two or three from now, that might be 100× or 1,000× or 100,000×.&lt;/p&gt;
+
+&lt;p&gt;In that near future, human programmers are likely still to be writing — or at least line-by-line reviewing and approving — code. But as a percentage of all code being generated, that will only be a sliver.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update, 4 May 2026:&lt;/strong&gt; Judging by GitHub commits, &lt;a href="https://daringfireball.net/linked/2026/05/04/commits-on-github-are-up-14x-year-over-year-" rel="noopener noreferrer"&gt;that number is currently around 14×&lt;/a&gt;, but accelerating.&lt;/p&gt;
+
+&lt;p&gt;★ &lt;em&gt;Friday, 13 March 2026&lt;/em&gt;&lt;/p&gt;
+
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Redis array type: short story of a long development</title>
+      <link>http://antirez.com/news/164</link>
+      <guid isPermaLink="true">http://antirez.com/news/164</guid>
+      <pubDate>Mon, 04 May 2026 14:21:45 GMT</pubDate>
+      <source url="http://antirez.com/rss">antirez.com</source>
+      <description>(8.3/10) antirez以Redis新数组类型的开发过程，讨论了LLM如何改变个人工程师的产能结构。重点不是功能本身，而是人机协作下项目节奏、范围和创造力的变化。</description>
+      <content:encoded>&lt;div&gt;&lt;span&gt;&lt;span&gt;&lt;a href="http://antirez.com/user/antirez" rel="noopener noreferrer"&gt;antirez&lt;/a&gt;&lt;/span&gt; 1 day ago. 111511 views.  &lt;/span&gt;&lt;pre&gt;I started working on the new Array data type for Redis in the first days of January. The PR landed the repository only now, so this code was cooked for four months. I worked at the implementation kinda part time (kinda because many weeks were actually full time, sometimes to detach yourself from the keyboard is complicated), and even before LLMs the implementation was likely something I could do in four months. What changed is that in the same time span, I was able to do a lot more. This is the short story of what happened.
+
+In the first month I just wrote the specification document. The rationale for the new data type, the C structures, the sparse representation used, the exact semantics of the array cursor for ring buffer and ARINSERT. I started writing for days a long specification by hand, then I paired with Opus initially, then GPT 5.3 was released and I switched all the design and development with Codex. Since then I use only GPT 5.x for system programming tasks. Thanks to AI, the specification evolved a lot, via back and forth of feedback, intellectual challenges about what was the best design, what was the right compromise, what was too engineered and what not.
+
+Starting from the second month, I started the implementation using automatic programming (auto coding if you prefer), constantly reviewing the developed code. Then I realized that the level of indirection I picked was wrong. I really wanted people to be able to do ARSET myarray 293842948324 foo and everything to still work without huge allocations. The two levels of directory + slices (sparse and dense) I had were not enough. Because I had AI, I took no compromises, and I decided to go the extra mile. Once certain conditions are reached, the data structure internally changes shape, and becomes a super directory of sliced dense directories, that also point to the actual array slices (4096 elements per slice, by default). This design provided still the internal "is actually an array" representation I wanted, and the memory characteristics I seeked, while being able, for ARSCAN, and ARPOP, to scan the existing arrays taking a time proportional to the existing elements and not to the range span.
+
+Then, it was time to read all the code, line by line. Everything was working, and this type has massive testing, thanks, again to AI, but still things that superficially work do not mean they are optimal. I found many small inefficiencies or design errors that I didn't want, so I started a process of manual and AI-assisted rewrite of many modules. When this stage was done, I started, during the third month, to stress test the implementation in many different ways. I started to be confident that it was really solid, useful, well designed.
+
+Then… it happened. While modeling different use cases to see if the data structure was comfortable to use, I started to put markdown files into Redis arrays. Because files are a very good match for it. At this point, as I was working for other goals with agents, I realized that I could have the skills markdown files centralized knowledge base that I needed, so from a need of mine I decided to implement ARGREP. But I wanted regular expressions, too. What library to pick?
+
+I ended up picking TRE (thanks Ville Laurikari!), because when you have regexp in Redis, you want to be sure that there are no pathological patterns in time or space. But TRE was very inefficient in a specific and extremely useful case, that is matching foo|bar|zap. So with the help of GPT I optimized it, fixed a few potential security issues, and extended the test. I had everything in place.
+
+You know what was the biggest realization of all that? For high quality system programming tasks you have to still be fully involved, but I ventured to a level of complexity that I would have otherwise skipped. AI provided the safety net for two things: certain massive tasks that are very tiring (like the 32 bit support that was added and tested later), and at the same time the virtual work force required to make sure there are no obvious bugs in complicated algorithms. To write the initial huge specification was the key to the successive work, as it was the key to review each single line of sparsearray.c and t_array.c and modifying everything was not a good fit.
+
+I didn't spend any word on the use cases as I tried to document the PR itself with a message where they are detailed:
+
+&lt;a href="https://github.com/redis/redis/pull/15162" rel="noopener noreferrer"&gt;https://github.com/redis/redis/pull/15162&lt;/a&gt;
+
+So it was not really useful to repeat myself here. Enough to say that I really believe it is about time for Redis to have a data type where the numerical index is part of the semantics.
+
+I hope the Array PR will be accepted soon, and that we can benefit from the new use cases it opens. Of course, feedback is welcomed. Thank you.&lt;/pre&gt;&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Premium: The AI Compute Demand Story Is A Lie</title>
+      <link>https://www.wheresyoured.at/premium-the-ai-compute-demand-story-is-a-lie/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-ai-compute-demand-story-is-a-lie/</guid>
+      <pubDate>Mon, 04 May 2026 14:09:22 GMT</pubDate>
+      <source url="https://www.wheresyoured.at/rss/">wheresyoured.at</source>
+      <description>(8.8/10) 文章质疑行业把算力紧张包装成需求爆炸，认为更多是云巨头与资本博弈驱动。它从供给、叙事和激励结构切入，重新审视AI基础设施热潮的真实成因。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+  &lt;p&gt;Everyone, it’s time to talk about AI demand and the capacity constraint issues across the industry.&lt;/p&gt;&lt;p&gt;These constraints are not a result of “incredible demand” for AI, but the desperation of hyperscalers and the avariciousness of two near-trillion-dollar failsons living off their parents’ welfare. Just two weeks ago, both &lt;a href="https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai?ref=wheresyoured.at" rel="noopener noreferrer"&gt;Amazon&lt;/a&gt; and &lt;a href="https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html?ref=wheresyoured.at" rel="noopener noreferrer"&gt;Google&lt;/a&gt; pledged to invest up to another combined $65 billion in Anthropic, a company that &lt;a href="https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation?ref=wheresyoured.at" rel="noopener noreferrer"&gt;just raised $30 billion in February&lt;/a&gt; and &lt;a href="https://www.cnbc.com/2026/04/29/anthropic-weighs-raising-funds-at-900b-valuation-topping-openai.html?ref=wheresyoured.at" rel="noopener noreferrer"&gt;plans to raise another $50 billion more&lt;/a&gt;, following &lt;a href="https://www.cnbc.com/2026/04/29/anthropic-weighs-raising-funds-at-900b-valuation-topping-openai.html?ref=wheresyoured.at" rel="noopener noreferrer"&gt;Amazon’s $15 billion (and as much as $35 billion more) investment in OpenAI in February&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;This is not what you do when real, meaningful demand exists for AI services. Assuming that these rounds are closed at their higher limits, it will mean that Google has invested $43 billion and Amazon $33 billion in keeping Anthropic alive.&lt;/p&gt;&lt;p&gt;This also doesn’t make sense when you look at Anthropic’s own projections.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theinformation.com/articles/openai-boost-revenue-forecasts-predicts-112-billion-cash-burn-2030?rc=kz8jh3&amp;amp;ref=wheresyoured.at" rel="noopener noreferrer"&gt;Per The Information&lt;/a&gt;, Anthropic believes it will become cash-flow-positive in the next two years after losing &lt;em&gt;exactly $11 billion&lt;/em&gt; in both 2026 and 2027:&lt;/p&gt;&lt;figure&gt;&lt;img src="https://storage.ghost.io/c/24/d8/24d8fcec-dfba-4f40-a467-823d2941ae46/content/images/2026/05/data-src-image-0191e740-36bb-4532-9bef-91f3d491b462.png" alt=""&gt;&lt;/figure&gt;&lt;p&gt;This only becomes &lt;em&gt;more&lt;/em&gt; astonishing when you read that Anthropic intends to make $18 billion in 2026, $55 billion in 2027, $102 billion in 2028, and $148 billion in 2029. That’s revenue, not profit.&amp;nbsp;&lt;/p&gt;&lt;p&gt;You may also be wondering how Anthropic goes from losing $11 billion two years running to making $2 billion in profit, and the answer is “nobody knows, including Anthropic.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;In any case, what Anthropic is saying in these projections is that it will &lt;em&gt;lose $29 billion in 2026 and $66 billion in 2027. &lt;/em&gt;It’s also not clear what Anthropic’s actual costs will be in those years, because The Information decided it wasn’t necessary to include those. Thankfully, &lt;a href="https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9?gaa_at=eafs&amp;amp;gaa_n=AWEtsqciC7XwXU3W4PUvuLVNWNGcfRKzqJ4pK52BIRRvn21LzPCUnxno5LtMhkszAUA%3D&amp;amp;gaa_ts=69d425dd&amp;amp;gaa_sig=9UXHXUHRM8M9XfDQxYbtPfN1ov4S51wUaV3Z1XJHS1KlecIZ3moIKclBIVzMXm9lBFfXGFQGe2-xgnNmXKBuKw%3D%3D&amp;amp;ref=wheresyoured.at" rel="noopener noreferrer"&gt;The Wall Street Journal did&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; suggesting that Anthropic intends to spend at least $86 billion on &lt;em&gt;training costs alone&lt;/em&gt; through the end of 2029.&lt;/p&gt;&lt;p&gt;It’s become blatantly obvious that Google and Amazon are conspiring to keep one of their largest business lines alive, much like Microsoft funneled over $13 billion into OpenAI &lt;a href="https://www.theinformation.com/articles/microsoft-let-openai-play-field?rc=kz8jh3&amp;amp;ref=wheresyoured.at" rel="noopener noreferrer"&gt;before allowing OpenAI to seek other compute providers when it slowed down its data center construction&lt;/a&gt;. While I think Satya Nadella is a verbose dullard, Microsoft CFO Amy Hood is clearly quite smart, and jumped at the opportunity to allow &lt;a href="https://www.wheresyoured.at/how-openai-kills-oracle/" rel="noopener noreferrer"&gt;Oracle to mortgage its entire future on OpenAI and Sam Altman’s clammy little dreams&lt;/a&gt;. Hood has managed to disconnect Microsoft from OpenAI’s welfare system, and while it claimed &lt;a href="https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;it was investing in Anthropic last November&lt;/a&gt; and &lt;a href="https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation?ref=wheresyoured.at" rel="noopener noreferrer"&gt;in its February 2026 funding round&lt;/a&gt;, its &lt;a href="https://microsoft.com/en-us/Investor/earnings/FY-2026-Q3/document/viewdocument/MSFT_FY26Q3_10Q.docx?ref=wheresyoured.at" rel="noopener noreferrer"&gt;latest 10-Q&lt;/a&gt; only mentions Anthropic once — as part of the work “philanthropic” on page 59.&lt;/p&gt;&lt;p&gt;And now Microsoft has ended its exclusivity deal over OpenAI’s models, &lt;a href="http://cnbc.com/2026/04/27/openai-microsoft-partnership-revenue-cap.html?ref=wheresyoured.at" rel="noopener noreferrer"&gt;allowing Amazon to sell them too, but still retaining a revenue share of 20% from OpenAI’s sales&lt;/a&gt;, including from its partnership with Amazon, a few months after Amazon and OpenAI agreed a $138 billion eight-year-long deal that involved 2GW of capacity.&lt;/p&gt;&lt;p&gt;A gigawatt here, a gigawatt there, soon you’ll be making &lt;em&gt;real&lt;/em&gt; money.&lt;/p&gt;&lt;p&gt;Except…nobody is making real money, and it appears that the vast majority of AI capacity and revenue is either going to OpenAI or Anthropic, and the rest is going to Microsoft, Google, and Amazon, who then spend that money on GPUs from NVIDIA or data centers to put them in.&lt;/p&gt;&lt;p&gt;What numbers we do have around AI revenues are extremely sad.&amp;nbsp;&lt;/p&gt;&lt;p&gt;I estimate that 70% or more of &lt;a href="https://www.microsoft.com/en-us/investor/earnings/fy-2026-q3/press-release-webcast?ref=wheresyoured.at" rel="noopener noreferrer"&gt;Microsoft’s $37 billion in annual AI run rate&lt;/a&gt; comes from OpenAI’s estimated $24 billion in annualized compute spend on Azure, taking up &lt;a href="https://epoch.ai/data/ai-chip-owners?view=graph&amp;amp;tab=power&amp;amp;ref=wheresyoured.at" rel="noopener noreferrer"&gt;more than 80% of Microsoft’s estimated 2GW of AI capacity&lt;/a&gt;. OpenAI, &lt;a href="https://www.datacenterdynamics.com/en/news/openai-cfo-says-company-ended-2025-with-19gw-of-compute-scaled-revenue-at-same-speed/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;per its CFO, ended 2025 with 1.9GW of capacity&lt;/a&gt;, and 67% of CoreWeave’s revenue is Microsoft paying for OpenAI’s training compute.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Similarly, &lt;a href="https://archive.ph/5Y4Kn?ref=wheresyoured.at" rel="noopener noreferrer"&gt;Amazon’s $15 billion in annualized AI revenue&lt;/a&gt; is taken up by an estimated $12 billion in annualized AWS spend from Anthropic, and I estimate that more than 80% of that is accounted for by my estimated $12 billion in annualized spend from Anthropic.&lt;/p&gt;&lt;p&gt;Today I’m pushing against the grain about as hard as anybody has in the AI bubble. I fundamentally believe that the AI demand story is nonsense — a mirage created by two companies that have only been successful as a result of having near-infinite resources provided to them by hyperscalers.&lt;/p&gt;&lt;p&gt;Google, Amazon, and Microsoft have spent a combined $803 billion in capex on the AI bubble so far, and OpenAI and Anthropic have raised (assuming their rounds fully close) over $252 billion.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Assuming the rounds close, these three hyperscalers have sunk a combined $78 billion in funding into OpenAI and Anthropic, all while building infrastructure almost entirely in their service, and signing deals with neoclouds to continue providing it.&lt;/p&gt;&lt;p&gt;The AI demand story is a lie, because the only way to create a company able to actually meet said demand &lt;strong&gt;is for a hyperscaler to fund it themselves.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Had Amazon not given it &lt;a href="https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html?ref=wheresyoured.at" rel="noopener noreferrer"&gt;$8 billion&lt;/a&gt; and &lt;a href="https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;Google&lt;/a&gt; &lt;a href="https://www.cnbc.com/2025/01/22/google-agrees-to-new-1-billion-investment-in-anthropic.html?ref=wheresyoured.at" rel="noopener noreferrer"&gt;$3 billion&lt;/a&gt; in its earliest days, Anthropic would’ve never been able to grow to the scale that it could spend tens of billions of dollars a year on AWS and Google Cloud, nor would OpenAI have been able to do so without the earliest infusions of over $10 billion from Microsoft (of which the majority came in the form of Azure credits), and &lt;em&gt;none of this&lt;/em&gt; would’ve been possible had hyperscalers not effectively pre-sold their own infrastructure to their own incubated companies.&lt;/p&gt;&lt;p&gt;There is little “AI demand” outside of hyperscalers funnelling themselves money. The AI data center capacity crunch is a result of how long it takes to build data centers — Microsoft, Google and Amazon had an early lead, experience, and massive amounts of cash to deploy in a way that nobody else could.&lt;/p&gt;&lt;blockquote&gt;&lt;strong&gt;Sidenote&lt;/strong&gt;: And still, even with their experience, there’s still the insurmountable reality that building large-scale, power-hungry data center facilities takes time, and there are problems that are so big, no amount of money can make them go away. Permitting, accessing energy, and just the simple reality of building a structure from scratch are hard.&lt;br&gt;&lt;br&gt;The irony is that this should be obvious to any software developer — and by extension, software company — for whom &lt;a href="https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf?ref=wheresyoured.at" rel="noopener noreferrer"&gt;Fred Brooks’s &lt;em&gt;The Mythical Man Month&lt;/em&gt;&lt;/a&gt; is still, more than fifty years later, considered essential reading, and which argues that there are things that can’t be accelerated by simply throwing money and resources at it.&amp;nbsp;&lt;br&gt;&lt;br&gt;Then consider the fact that a lot of the compute in the pipeline is being built by companies without that much money, and that started life in the incredibly dodgy world of crypto mining, and thus don’t have much experience in building the kinds of AI data centers that OpenAI and Anthropic need.&amp;nbsp;&lt;/blockquote&gt;&lt;p&gt;That’s why you can’t find A) anybody who’s spending anywhere near as much on compute as OpenAI and Anthropic and B) anybody who’s managed to compete with them at any scale. Their existence is entirely subsidized, their success a mirage, and their compute spend effectively three companies feeding themselves money.&amp;nbsp;&lt;/p&gt;&lt;p&gt;And despite all the crowing around “the insatiable demand for compute,” there doesn’t appear to be any evidence that anybody is spending that much on it outside of Anthropic and OpenAI.&lt;/p&gt;&lt;p&gt;If I were wrong, we’d see literally any other AI startup signing these massive compute contracts.&lt;/p&gt;&lt;h1&gt;Coming Up On This Week’s Where’s Your Ed At Premium…&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;Big Tech needs &lt;em&gt;$3 trillion&lt;/em&gt; in new AI revenue by the end of 2030, or it’s wasted the majority of its capex.&lt;/li&gt;&lt;li&gt;I estimate that Anthropic and OpenAI make up at least 85% of current and future AI compute spend, either through their own direct spending or hyperscalers like Google, Amazon or Microsoft renting capacity for them.&lt;/li&gt;&lt;li&gt;Microsoft, Google and Amazon have built as much as 75% of their AI data center capacity to service two customers — OpenAI and Anthropic — putting the true cost of OpenAI and Anthropic, including total funding of $180 billion and $72 billion respectively, at at least $600 billion in combined infrastructure and equity investments.&amp;nbsp;&lt;/li&gt;&lt;li&gt;And, obviously, the vast majority of their funding going toward compute spend across these three companies.&lt;/li&gt;&lt;li&gt;OpenAI and Anthropic cannot afford to pay their future compute commitments without hyperscaler and venture capital subsidies.&lt;/li&gt;&lt;li&gt;Outside of Anthropic, OpenAI, Google (for OpenAI, Anthropic and Meta), Microsoft (for OpenAI and Anthropic), Amazon (for OpenAI, Anthropic and Meta), CoreWeave (for OpenAI, Anthropic, and Meta) and Meta, less than $1 billion of actual AI compute demand exists.&amp;nbsp;&lt;ul&gt;&lt;li&gt;In all honesty, I’ve struggled to find more than $500 million outside of Jane Street, which also funded CoreWeave.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;OpenAI and Anthropic’s compute spend and demands have created an illusion of demand, becoming a systemic weakness in CoreWeave, Nebius, IREN, and TeraWulf.&lt;/li&gt;&lt;li&gt;Hyperscaler buildouts appear to be almost-entirely focused on either OpenAI or Anthropic, with little proof of their own services generating enough demand to fulfil them.&lt;/li&gt;&lt;li&gt;There is not enough revenue to substantiate the existence of the in-progress data center construction, with over $157 billion in annual revenue required to monetize the 15.2GW (11.2GW critical IT) of data centers under construction to be finished by the end of 2027.&lt;/li&gt;&lt;li&gt;Google is creating SPVs with investment firms to sell TPUs to itself, and has, via Broadcom, sold $63 billion in TPUs to Anthropic, which it will then bill for the compute, creating a circular financing system similar to NVIDIA’s.&lt;/li&gt;&lt;li&gt;To support the estimated $800 billion in GPU sales that NVIDIA claims will come through by end of 2027, there needs to be 39.6GW of new data centers constructed (only 15.2GW of which are under construction), and around $383 billion in annual AI compute demand for an industry that — even with OpenAI and Anthropic’s spend — doesn’t even reach $70 billion in annual demand.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>29th August 2026: a scenario</title>
+      <link>https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/feed.xml">martinalderson.com</source>
+      <description>(8.5/10) 作者用虚构情境推演AI会如何改变云安全与攻击面，而不是只讲抽象技术趋势。叙事化写法把代理渗透企业环境后的权限、监控和响应问题讲得更具体。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+            &lt;p&gt;On 29 April 2026, a Korean security firm called Theori published 732 bytes of Python that breaks Linux container isolation. CopyFail (CVE-2026-31431) is a page-cache corruption bug in the kernel's crypto code. It's been sitting in production since 2017. A compromised pod on a shared Kubernetes node can corrupt &lt;code&gt;setuid&lt;/code&gt; binaries visible to every other container on that host, and to the host kernel itself. EKS, GKE, AKS, every shared-tenant node, every CI runner, every multi-tenant SaaS that took the cheap path on isolation - all exposed until patched. It took an AI tool four months to find it. Nine years of human eyes did not.&lt;/p&gt;
+&lt;p&gt;Container escape is bad. Despite arguably a poorly coordinated disclosure/mitigation response, it looks like a near miss rather than a catastrophe. But, this class of bug - old, subtle, in a corner of the kernel that everyone assumed someone else had read - is exactly the class of bug that lives in every hypervisor stack underneath every cloud. Those bugs are still there. They just haven't been found yet.&lt;/p&gt;
+&lt;p&gt;Here's a (fictional) story about what happens four months from now, on 29th August 2026.&lt;/p&gt;
+&lt;h2&gt;08:32 UTC&lt;/h2&gt;
+&lt;p&gt;As Europe basks in an extreme heatwave, many engineers are paged as with EC2 instances hard crashing. Hacker News reacts to the news as per normal - another us-east-1 outage, AWS status showing green, eyes roll. Some commenters post though that many other AZs are showing issues, though not all servers are affected.&lt;/p&gt;
+&lt;p&gt;Over the next hour though, more and more machines go down. One Reddit user posts that they are having issues provisioning even fresh machines - as soon as they launch, they get moved into "unhealthy" and go down. A few minutes later, the entire AWS dashboard and API set goes down.&lt;/p&gt;
+&lt;p&gt;Cloudflare Radar shows AWS network traffic dropping to a small percentage of what is normal.&lt;/p&gt;
+&lt;h2&gt;10.15 UTC&lt;/h2&gt;
+&lt;p&gt;As many AWS hosted services start going down - Atlassian, Stripe, Slack, PagerDuty, some comments on Twitter report issues with Linux-based Azure instances. Indeed, Cloudflare Radar shows significant drops in Azure traffic.&lt;/p&gt;
+&lt;p&gt;News channels across Europe start leading with vague breaking news headlines on outages across Amazon. They make sure to point out that this isn't an unusual occurrence, with normal service expecting to be resumed like it always has been, and mistakenly insist only US services are affected.&lt;/p&gt;
+&lt;h2&gt;11.53 UTC&lt;/h2&gt;
+&lt;p&gt;As the East coast of the US starts their weekend, a very unusual step is taken. TV channels are briefed that POTUS will be doing an address to the nation at 8am EDT. Few connect the dots - with the emphasis being placed on a potential new strike in the Middle East, or an announcement on the Russia-Ukraine war.&lt;/p&gt;
+&lt;h2&gt;12:00 UTC&lt;/h2&gt;
+&lt;p&gt;POTUS announces that there is a significant cybersecurity incident under way. The head of CISA (the Cybersecurity and Infrastructure Security Agency) gives a very vague but concerning warning. Americans are requested to charge their cell phones, and to await further news - reminded that there may be outages on IPTV based services.&lt;/p&gt;
+&lt;p&gt;POTUS rounds it out by speculating that China is behind the attack, despite his much-heralded reset with Beijing earlier in the year.&lt;/p&gt;
+&lt;p&gt;Other Western leaders do similar addresses - with European leaders speculating on background it is more likely to be Russia or North Korea than China behind the attack. The French president says "without doubt" this is a nation-state actor. While he doesn't publicly point to a specific country, he says those responsible will be brought to justice.&lt;/p&gt;
+&lt;p&gt;While these addresses happen, engineers at various banks are battling various outages. Most concerningly, the 1st biggest and 3rd biggest card processors by volume in Europe have stopped accepting payments, returning cryptic error messages. While they have a multicloud strategy, they cannot move workloads &lt;em&gt;off&lt;/em&gt; those two clouds successfully.&lt;/p&gt;
+&lt;p&gt;Google Cloud Platform and smaller cloud providers - unaffected until now - start showing issues. While current workloads are unaffected, the huge spike in demand from enterprises activating their disaster recovery protocols simultaneously completely swamps available compute on alternate providers. One smaller cloud provider tweets they are seeing 10,000 VM creation requests a second, draining their entire spare allocation in less than a minute. CEOs of major banks bombard Google and Oracle leadership with calls, offering blank cheques to secure failover compute. The calls go unanswered.&lt;/p&gt;
+&lt;p&gt;WhatsApp groups throughout Europe start lighting up with misinformation that money has been stolen, amplified by many mobile apps showing a "we are undertaking routine maintenance" fallback error simultaneously, causing huge lines at ATMs and banks with people trying to withdraw their savings.&lt;/p&gt;
+&lt;h2&gt;15.53 UTC&lt;/h2&gt;
+&lt;p&gt;As the chaos continues to grow, a press release is distributed from the leadership of AWS and Azure:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;At approximately 4am EDT this morning a critical and novel vulnerability was exploited in the Linux operating system. This has caused widespread global outages of Linux based virtual machines. Our engineers are working with security services globally to mitigate the impact and engineers across both Microsoft and AWS are working collaboratively to release emergency patches for affected software. Equally we are working hard to understand the impact and will provide regular updates to the media. We sincerely apologize for the impact this is having to our customers and society at large.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Behind the scenes, it is chaos. Engineers have isolated the root causes - a complex interplay of vulnerabilities, with the most critical being an undiscovered logic error in the eBPF Linux subsystem that allows a hypervisor takeover. Curiously no data has been stolen - a mistake in the exploit just leads to machines hard crashing exactly 255 seconds after receiving the malicious payload. A few engineers question the sloppiness here, but leadership doubles down in their private communications with government that it has to be nation state.&lt;/p&gt;
+&lt;p&gt;The core issue though is that nearly all of Azure and AWS's control plane is down. Attempts to "black start" it results in perpetual failures as various subsystems collapse under the intense traffic from VMs stuck in bootloops.&lt;/p&gt;
+&lt;h2&gt;23:29 UTC&lt;/h2&gt;
+&lt;p&gt;The first VM instances start up again. Restoration is &lt;em&gt;painfully&lt;/em&gt; slow, with AWS struggling to get more than 2% of machines back online. Communication internally is severely degraded - with both Slack and Microsoft Teams down instant messaging is out of the question. Amazon's corporate email runs on AWS itself, and Microsoft's on Azure-hosted Exchange. Both are degraded, massively complicating internal communications. An enterprising AWS employee starts an IRC server locally which becomes the main source of communication - restoration efforts start to speed up once this system becomes known about.&lt;/p&gt;
+&lt;h2&gt;Sunday 30th August, 22:01 UTC&lt;/h2&gt;
+&lt;p&gt;Restoration continues, with the worst of the panic dying down. Banks ended up getting priority compute - with POTUS publicly threatening "extreme actions" if major banks are not put to the front of the queue.&lt;/p&gt;
+&lt;p&gt;Asian stock markets open, triggering multiple circuit breakers. After the 3rd one in a row, Tokyo forces markets to close for the day, other Asian markets follow in quick succession.&lt;/p&gt;
+&lt;p&gt;One curious question remains though - what was the &lt;em&gt;purpose&lt;/em&gt; of this attack? No ransomware was deployed, no data was stolen, and while various terrorist groups claimed responsibility, none of them were believed to be credible.&lt;/p&gt;
+&lt;p&gt;Meanwhile AWS engineer finally isolates snapshots containing the first known failure. An EC2 instance, provisioned on August 13th. Curiously provisioned on an individual account in &lt;code&gt;eu-west-3&lt;/code&gt; - Paris. The account matches an individual in Lyon, France. French security services are alerted.&lt;/p&gt;
+&lt;h2&gt;Monday 1st September, 05:15 UTC&lt;/h2&gt;
+&lt;p&gt;In an outer suburb of Lyon, France, French anti-terrorism police arrive at an apartment building. A 17 year old teenager is apprehended, along with his grandmother. Two days earlier, his own president had vowed those responsible would be brought to justice. The police chief on the scene passes the information up the chain that the lead was a total dud - there is no chance that the suggested foreign intelligence service was here. A search of the apartment confirms it - nothing found apart from a PS5 mid-FIFA tournament and a 6 year old gaming computer. Neighbours confirm that they've seen no one enter or exit the apartment apart from the two residents, who've lived there for "as long as anyone can remember".&lt;/p&gt;
+&lt;p&gt;Media arrive on the scene, with a blustered and embarrassed police chief suggesting that it was a bad tip off and for local residents to stay calm.&lt;/p&gt;
+&lt;p&gt;The decision is made to seize the electronics and release the two "suspects".&lt;/p&gt;
+&lt;h2&gt;07:14 UTC&lt;/h2&gt;
+&lt;p&gt;A couple of digital forensics experts get the seized gaming PC, scanning it for malware. Nothing much of interest is found, and just as they start writing their report up one folder pops up. &lt;code&gt;/opt/security/ps5-homebrew&lt;/code&gt;. They take a further look, noting it on the report - not thinking much of it, probably a kid trying to play pirated games. They've seen it before. The image of the machine is uploaded.&lt;/p&gt;
+&lt;h2&gt;10:09 UTC&lt;/h2&gt;
+&lt;p&gt;When the code gets up the chain a few hours later, the whole set of dominoes fall into place. A specialist from the French &lt;em&gt;Agence nationale de la sécurité des systèmes d'information&lt;/em&gt; - National Cybersecurity Agency of France - pulls the code from the image. He quickly realises what's happened. The teenager had been quietly mining crypto for months, using the proceeds to rent cheap GPUs on a small European cloud provider, where he ran an uncensored fine-tune of the new Qwen 4 open weights model. He'd been desperately trying to downgrade his PS5 firmware to bypass the latest piracy checks.&lt;/p&gt;
+&lt;p&gt;Interestingly his coding agent, unbeknown to him, had found the most critical *nix kernel exploit in many decades. Attacking a little known about eBPF module on the PS5 (the PS5, like every PlayStation since the PS3, runs FreeBSD), it managed to a complete takeover of the device. Intrigued, he also asked his coding agent to run it on a Linux server on AWS he ran a gaming forum on - same thing, but curiously he noticed he could see &lt;em&gt;other&lt;/em&gt; files on the machine. Annoyingly the VM he rented crashed after a few minutes.&lt;/p&gt;
+&lt;p&gt;Excitedly, he set up an Azure account - same thing. He asked his coding agent what this meant, and with its usual sycophantic personality started explaining what he could do with this - mining crypto and making him rich beyond his wildest dreams.&lt;/p&gt;
+&lt;p&gt;The agent came up with a final plan, to deploy the exploit on both Azure and AWS, install a cryptominer. His last known chat log was "is this definitely a great idea?".&lt;/p&gt;
+&lt;p&gt;The agent responded "You're absolutely right!", and began deploying the code, first to AWS and next to Azure. The agent had built a complex piece of malware that spread across millions of physical servers. However, it hallucinated a key Linux API which resulted in the machines crashing after 255 seconds instead of deploying the cryptominer.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;This is fiction. The teenager doesn't exist. Qwen 4 doesn't exist yet either. When it does, an uncensored fine-tune will appear within days, like every prior open-weights release.&lt;/p&gt;
+&lt;p&gt;Almost everything else in here is real, or close enough that it doesn't matter.&lt;/p&gt;
+&lt;p&gt;CopyFail is real. A nine-year-old kernel bug, found by an AI tool in a few months that nine years of human eyes had missed. That class of bug - old, subtle, in a corner of the kernel everyone assumed someone else had read - sits in every hypervisor stack underneath every cloud. Those bugs are still in there. They just haven't been found yet, and the rate at which they get found from now on is bounded by GPU hours, not human ones.&lt;/p&gt;
+&lt;p&gt;The centralisation is the bit that's hard to think clearly about. Most people I talk to about this, even technical people, underestimate how much of modern life is sitting on AWS and Azure. The DR plans I've seen at large enterprises mostly assume there's a cloud to fail over to. They don't really model what happens if the fallback is also down, or if every other org on earth is failing over at the same minute and draining GCP's spare capacity. Almost nobody keeps full cold standby compute. And even the ones that do are sitting on top of hundreds of services that don't: Stripe, Auth0, Twilio, Datadog, every queue and identity provider in the stack. They're all running somewhere, and that somewhere is mostly two companies.&lt;/p&gt;
+&lt;p&gt;The attribution thing is the bit I'm least sure about, but worth saying anyway. Everyone is worried about nation states. Most of the big incidents that have actually happened turned out to be a kid, a misconfiguration, or someone who didn't really understand what they were doing. The Morris Worm. Mirai. The threat model in most boards' heads assumes a sophisticated adversary. The thing that's actually arriving is an unsophisticated adversary holding tools that are now sophisticated for them.&lt;/p&gt;
+&lt;p&gt;I wrote this as fiction because I've spent the last few months talking to journalists and other non-technical people about what AI changes for cybersecurity, and the technical version of the argument doesn't land at all. Engineers get it instantly. Everyone else needs to feel what it looks like. So this is what it might look like, more or less. The only bit I'm reasonably confident about is that the date is wrong.&lt;/p&gt;
+
+
+
+        &lt;/div&gt;
+
+        &lt;/div&gt;</content:encoded>
+    </item>
     <item>
       <title>Editing my LLM assisted Articles</title>
       <link>https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed</link>
