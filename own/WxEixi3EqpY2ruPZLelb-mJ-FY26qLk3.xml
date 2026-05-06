@@ -1,5 +1,967 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>TLDR AI</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml</link><description>Messages from sources matching dan@tldrnewsletter.com</description><lastBuildDate>Wed, 06 May 2026 12:10:41 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml" rel="self" type="application/rss+xml"></atom:link><item><title>Coinbase layoffs 📉, monitoring at scale 👀, take responsibility for AI 🤖</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-26</link><guid isPermaLink="false">own-newsletter:item:26</guid><pubDate>Wed, 06 May 2026 11:32:22 GMT</pubDate><author>TLDR Dev &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR Dev Coinbase is reducing its workforce by about 14% to navigate a down market and integrate the efficiency gains provided by AI ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|View Online TLDR TLDR...</description><content:encoded>TLDR Dev
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>TLDR AI</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml</link><description>Messages from sources matching dan@tldrnewsletter.com</description><lastBuildDate>Wed, 06 May 2026 13:11:03 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml" rel="self" type="application/rss+xml"></atom:link><item><title>WhatsApp File Spoofing 💬, Stripe Webhook Bypasses 💳, White House Considers Vetting AI 🏛️</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-28</link><guid isPermaLink="false">own-newsletter:item:28</guid><pubDate>Wed, 06 May 2026 13:06:54 GMT</pubDate><author>TLDR InfoSec &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR InfoSec WhatsApp fixed two medium-severity bugs reported via Meta’s bug bounty. One let attackers spoof Windows attachments using NUL bytes ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|View Onli...</description><content:encoded>TLDR InfoSec
+
+
+
+WhatsApp fixed two medium-severity bugs reported via Meta’s bug bounty. One let attackers spoof Windows attachments using NUL bytes&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;
+
+&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Finfosec%3Futm_source=tldrinfosec/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/WIlNZFK95JAAH-QltcUc__r6U0woYpFpUb9Mk2h6XOI=452" rel="noopener noreferrer"&gt;Sign Up&lt;/a&gt;
+|&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrinfosec%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/AAcMqWz5O_5DvQByInLvbtWd8Z5EJLd0A5WlUCq2smQ=452" rel="noopener noreferrer"&gt;Advertise&lt;/a&gt;|&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=14a14690-456d-11f1-9623-47608eee5fa8%26p=546f5980-4935-11f1-a764-c35404464fe0%26pt=campaign%26t=1778072814%26s=86e18ef871cca45ad33cb3655e9dba5a732b9ca58391f33b88134abe3514fe6e/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/LSGxKiCVXlEetyeVasdk66ci9H8YRwReMrC_DOZLnV0=452" rel="noopener noreferrer"&gt;View Online&lt;/a&gt;
+&lt;br&gt;
+
+
+
+TLDR
+&lt;br&gt;
+
+
+&lt;br&gt;
+
+&lt;strong&gt;Together With &lt;/strong&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ox.security%2Fresource-category%2Fwhitepapers-and-reports%2Fmother-of-all-ai-supply-chains%2F%3Futm_source=tldr%26utm_medium=paid%26utm_campaign=tldr-mcp-may26/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/CSE16VNFY-L2J6racsDAm3e9t3JTLz54t6g_I4Ff-jE=452" rel="noopener noreferrer"&gt;&lt;img src="https://images.tldr.tech/ox2.png" alt="OX Security"&gt;&lt;/a&gt;
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;TLDR Information Security 2026-05-06&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ox.security%2Fresource-category%2Fwhitepapers-and-reports%2Fmother-of-all-ai-supply-chains%2F%3Futm_source=tldr%26utm_medium=paid%26utm_campaign=tldr-mcp-may26/2/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/SynFT9gcHwmRM3BBiHtn7BND_CfdNaprzGLHgG2UXIY=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;150M+ affected downloads. 30+ disclosures. 10+ CVEs. One root cause. (Sponsor)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    &lt;strong&gt;RCE in the MCP: The Core Vulnerability No One Would Patch&lt;/strong&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;AI infrastructure is scaling without a safety net.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;OX Security researchers discovered a &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ox.security%2Fresource-category%2Fwhitepapers-and-reports%2Fmother-of-all-ai-supply-chains%2F%3Futm_source=tldr%26utm_medium=paid%26utm_campaign=tldr-mcp-may26/3/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/BcbFmtp3EvQkoywsQ6bqvsFTdJWnwHxJfF4zhqKrVNY=452" rel="noopener noreferrer"&gt;&lt;strong&gt;systemic RCE-by-design vulnerability at the core of&lt;/strong&gt; &lt;strong&gt;Anthropic's MCP&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; &lt;/strong&gt;STDIO implementation, propagating silently through all downstream frameworks, IDEs, and registries.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;This isn't a bug. It's how it was built to work.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ox.security%2Fresource-category%2Fwhitepapers-and-reports%2Fmother-of-all-ai-supply-chains%2F%3Futm_source=tldr%26utm_medium=paid%26utm_campaign=tldr-mcp-may26/4/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/lCSyBI4EsOBemLPO0G2pLN4oVccxtZZPABRPBqjVgSw=452" rel="noopener noreferrer"&gt;Read the full research: The Mother of All AI Supply Chains →&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+🔓
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Attacks &amp;amp; Vulnerabilities&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FDzbQl1/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/KvYXxbI7EcJwpNE9YF5wf_KjQg9Tdhn3I4IXWFtinGg=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;WhatsApp Discloses File Spoofing, Arbitrary URL Scheme Vulnerabilities (1 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    WhatsApp fixed two medium-severity bugs reported via Meta's bug bounty. One let attackers spoof Windows attachments using NUL bytes, so an apparent document executed instead. The other mishandled AI-rich responses for Instagram Reels in iOS and Android, allowing arbitrary URLs and OS URL schemes to be processed on a victim device. Meta reports no in-the-wild exploitation.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthehackernews.com%2F2026%2F05%2Fmicrosoft-details-phishing-campaign.html%3Futm_source=tldrinfosec/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/HYUzE6eLOdSJFZZti-YvfVYOKdIyR96EcgtvE2LZThQ=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries (4 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Microsoft describes a multi-stage credential theft campaign using code-of-conduct themed emails sent via a legitimate mail service to over 35,000 users in 26 countries. Messages use enterprise-style templates, urgent accusations, and PDFs linking to CAPTCHA‑gated flows that lead to AiTM phishing pages harvesting Microsoft credentials and tokens, bypassing MFA.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FwxWsBQ/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/KYOpj8Fs9mo_7pS7lhOGQFZBgWJW7yc3_77enYoiJSw=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Weaver E-cology Critical Bug Exploited In Attacks Since March (2 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Researchers at threat intel company Vega report that threat actors are exploiting an unauthenticated remote code execution (RCE) vulnerability in the Weaver E-colony enterprise automation software. The vulnerability is caused by an exposed debug API endpoint that improperly allows user-supplied parameters to reach backend RPC functionality without requiring authentication. Users are recommended to upgrade to the latest version as no other workaround exists.
+                                
+
+
+
+
+
+
+
+
+🧠
+
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Strategies &amp;amp; Tactics&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.huntress.com%2Fblog%2Fdmsa-ouroboros-credential-extraction-windows-server-2025%3Futm_source=tldrinfosec/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/i2MXKH6BvWkLSQP51NSbvtCOVbpk-DKQzr3oMGZ9FIc=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;dMSA Ouroboros: Self-Sustaining Credential Extraction in Windows Server 2025 (12 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Huntress detailed a six-command persistence technique against fully patched Windows Server 2025 in which a low-privilege user with CreateChild on any OU and WriteProperty on a target account creates a delegated Managed Service Account (dMSA), takes ownership to grant itself GenericAll, plants a Shadow Credential on msDS-KeyCredentialLink for PKINIT authentication, and writes the dMSA's own SID into msDS-GroupMSAMembership, so it authorizes itself to extract the superseded account's NT hash. The chain survives password rotation (PKINIT bypasses the managed password and the KDC repopulates the hash on every S4U2Self request), survives deletion of the original attacker account, and can lock Domain Admins out of remediation by writing a restrictive membership descriptor. Defenders should hunt for any dMSA whose own SID appears in its GroupMSAMembership, audit msDS-KeyCredentialLink writes on dMSA objects, monitor Event IDs 5136, 4662, and 4768 for PKINIT against dMSAs, and treat full deletion of the rogue dMSA as the only effective fix since Microsoft closed the report as a persistence technique that does not meet the servicing bar.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsecurityscanner.dev%2Fblog%2Fstripe-webhook-signature-bypass-1500-apps%3Futm_source=tldrinfosec/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/tqH6Uj3Kj-4UEsSE7-QhHUzT2r2IaGfSc5eRY0dlr4w=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;We probed 6,000 web apps for Stripe webhook signature checks. 1,542 don't bother (6 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    A scan of about 6,000 Stripe-style webhook endpoints sent a fake checkout.session.completed event with no Stripe-Signature header and logged which servers still returned 2xx. Around 1,542 endpoints did so, meaning they handle unsigned payment events that appear real. Many SaaS flows upgrade users or confirm bookings directly from webhook payload fields, allowing attackers to script free-plan upgrades or unpaid reservations with crafted JSON. The fix is to enforce official webhook signature verification using raw request bodies and stack-specific SDK helpers, then rerun targeted scans to confirm the behavior.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.sondera.ai%2Fp%2Fclaude-code-data-leaks-security%3Futm_source=tldrinfosec/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/GRDCPZFB2m21QqDP6PMcucVtbVwNFemDaBvYvuzqrpM=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;How to Stop Claude Code from Leaking Sensitive Data (5 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    As models have become more advanced, they've evolved from a simple “informational GPS” to a powerful “self-driving Waymo.” The additional power also brings additional risk of leaking sensitive data via the context window or other mechanisms. Sondera implements an agent harness using coding agent hooks in Claude Code to enforce Cedar policy-as-code fine-grained policies to protect against data exfiltration.
+                                
+
+
+
+
+
+
+
+
+🧑‍💻
+
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Launches &amp;amp; Tools&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdelinea.com%2Fresources%2Fai-and-identity-security-report-pdf%3Futm_medium=paid-newsletter%26utm_source=TLDR%26utm_campaign=FF-FY26Q2_TLDR_*VisIP%26utm_content=TLDR%2520Send%25203%26utm_term=Secondary/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/LgS2CB_rpavyzoGPgO4A6tIwlVAddc8XiYjwWLyxctc=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Identity security report: security orgs aren't ready for the impact of AI (Sponsor)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Research unambiguously shows most orgs have process &amp;amp; control gaps in AI identity management, but most leaders think their security systems are ready. &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdelinea.com%2Fresources%2Fai-and-identity-security-report-pdf%3Futm_medium=paid-newsletter%26utm_source=TLDR%26utm_campaign=FF-FY26Q2_TLDR_*VisIP%26utm_content=TLDR%2520Send%25203%26utm_term=Secondary/2/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/3cxMmrPYH8I_7mnQaAn3AinuX2NZCD6pJiBngqa_R9c=452" rel="noopener noreferrer"&gt;This Delinea survey&lt;/a&gt; of 2,000+ IT decision-makers lays out the most common blind spots. Get concrete steps you can take to address them. &amp;gt;&amp;gt; &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdelinea.com%2Fresources%2Fai-and-identity-security-report-pdf%3Futm_medium=paid-newsletter%26utm_source=TLDR%26utm_campaign=FF-FY26Q2_TLDR_*VisIP%26utm_content=TLDR%2520Send%25203%26utm_term=Secondary/3/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/q9rNglqmnwxstysp-Lz5wieiREjEhhAQmVcKsYTWBqw=452" rel="noopener noreferrer"&gt;Read the report&lt;/a&gt;
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fsix2dez%2Freconftw%3Futm_source=tldrinfosec/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/kBlwR5v0jzLJA6fDnWP2pW48_mG2ZhCZZ0zxHo9zoBs=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;reconFTW (GitHub Repo)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    reconFTW is a Bash-based automated reconnaissance framework that orchestrates 100+ tools for subdomain enumeration, OSINT, port scanning, web analysis, and vulnerability checks through an 8-module architecture. The v4.1 release adds adaptive rate limiting, incremental/monitor modes, parallel execution, structured JSON logging, a circuit breaker, and checkpoint-based scan resumption, as well as distributed scanning via the Ax Framework and optional AI-generated reports via reconftw_ai. Configuration is centralized in reconftw.cfg with secrets managed via environment variables or a gitignored secrets.cfg, and deployment supports local installs, Docker (with built-in HEALTHCHECK), and Terraform/Ansible on AWS.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2F1N3%2FSn1per%3Futm_source=tldrinfosec/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/qUdaNms2tBeVJFkBJQbLum9Jxo2ExLjlfQV_P9zfAJI=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Sn1per (GitHub Repo)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Sn1per is an offensive-security platform that consolidates reconnaissance, vulnerability scanning, exploitation, and reporting into a single workspace. The Community Edition orchestrates 90+ third-party tools with 600+ exploits and 10,000+ detections across scan modes, including normal, stealth, flyover, airstrike, nuke, discover, and mass variants for multi-target operations. The Sn1per Professional 2026 release adds Docker-first deployment, a Bootstrap 5/Tabler UI with a Workspace Navigator, JSON API v1.0 for CI/SOAR/SIEM pipelines, CSV/Excel/PDF report export, and expanded modules for ReverseAPK, MassPwn, Threat Intel, Nessus, and Burp Suite, alongside new -v, -db, and -rr CLI flags.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fgoogle%2Fosv-scanner%3Futm_source=tldrinfosec/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/DiL_2nkurohGtglRUiJ9FZWVBTEm2ATzjXisQnx2f9s=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;OSV-Scanner (GitHub Repo)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Use OSV-Scanner to find existing vulnerabilities affecting your project's dependencies. OSV-Scanner provides an officially supported frontend to the OSV database and CLI interface to OSV-Scalibr that connects a project's list of dependencies with the vulnerabilities that affect them.
+                                
+
+
+
+
+
+
+
+
+
+🎁
+
+
+
+
+&lt;strong&gt;&lt;h1&gt;Miscellaneous&lt;/h1&gt;&lt;/strong&gt;
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwebdirections.org%2Fblog%2Fhaving-your-cake-and-eating-it-an-implementation-guide-for-privacy-with-ai-nick-lothian-at-ai-engineer-melbourne-2026%2F%3Futm_source=tldrinfosec/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/uJ7O7G3HovbZkhb99XxiEFILJJaEZ17vlr9J_lWKV8c=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Having your cake and eating it: An implementation guide for privacy with AI — Nick Lothian at AI Engineer Melbourne 2026 (4 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    This piece explores the privacy-versus-capability trade-off across six methods: private local models, trusted execution environments, differential privacy, secure multi-party computation, federated learning, and homomorphic encryption. It draws on Nick Lothian's four years of hands-on experience. Private models and Trusted Execution Environments (TEEs) are shown as the most practical defaults, while homomorphic encryption is still too slow for full pipelines and should be used mainly for specific cryptographic tasks. AI system architects should view privacy as a composition problem: combining federated training with local inference, layering differential privacy with trusted execution environments, and applying heavy cryptographic primitives only where their benefits justify the costs.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwebhosting.today%2F2026%2F05%2F03%2Fthe-cpanel-zero-day-was-active-for-64-days-before-anyone-knew%2F%3Futm_source=tldrinfosec/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/xl00kK8NB4qYAjv9FGeEFwAwnAuDRF4PwqZr4btG91s=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;The cPanel Zero-Day Was Active for 64 Days Before Anyone Knew (5 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    KnownHost CEO Daniel Pearson confirmed exploitation attempts against CVE-2026-41940 (CVSS 9.8) starting February 23, roughly 64 days before cPanel's April 28 advisory, indicating attackers found the CRLF injection authentication bypass in cPanel/WHM session handling well before the researcher who responsibly disclosed it. Censys identified over 1 million exposed cPanel/WHM hosts (Rapid7 put the figure near 1.5 million across versions 11.86.0 through 11.136.0 and WP Squared v136.1.7 and earlier), and on May 1 alone, 15,448 cPanel hosts (79.99% of GreyNoise's malicious-host tracking that day) participated in attack activity, with 7,135 hosts already showing Sorry Ransomware ".sorry" extensions on WordPress core files and a separate Mirai variant ("nuclear.x86") deployed via Telnet post-compromise. CISA added the CVE to the KEV catalog on April 30, with a May 3 federal deadline. NocInit recommends migrating any server that was internet-accessible on ports 2082-2096 during the February-April window to a clean install from pre-breach backups rather than cleanup.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fseclists.org%2Foss-sec%2F2026%2Fq2%2F250%3Futm_source=tldrinfosec/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/76GamkKu9ZHKsr9Pd8kQ0RBl2CfWmvVbo8ssRt7zdbA=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Coordinated Disclosure in the LLM Age (2 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    OSS maintainer Jeremy Stanley highlights the risks that vulnerabilities discovered using LLM tooling may be fed back into the training data and be trivially discoverable by other users. This changes the calculus of coordinated disclosure and embargos as Stanley argues that maintainers should assume that the vulnerability is discoverable. Stanley believes that OSS maintainers shouldn't use LLMs to develop patches or documentation for vulnerabilities that are still under embargo.
+                                
+
+
+
+
+
+
+
+
+⚡
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Quick Links&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Foptro.ai%2Fresources%2Febook%2Fthe-resilient-enterprise-using-ai-to-connect-governance-risk-and-compliance%3Futm_campaign=the-resilient-enterprise-using-ai-to-connect-governance-risk-and-compliance-032026%26utm_medium=display%26utm_source=tldr-compliance%26utm_content=05-06-2026%23form/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/CR5Kz_Ol-MV2KVz0RMRh-pLLHI8Tsc05K-SLs9TMIdc=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;What the Harvard Business Review says about GRC: free eBook (Sponsor)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    This report from the Harvard Business Review takes an in-depth look at today's fragmented GRC silos and makes the case for a new, AI-powered approach. &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Foptro.ai%2Fresources%2Febook%2Fthe-resilient-enterprise-using-ai-to-connect-governance-risk-and-compliance%3Futm_campaign=the-resilient-enterprise-using-ai-to-connect-governance-risk-and-compliance-032026%26utm_medium=display%26utm_source=tldr-compliance%26utm_content=05-06-2026%23form/2/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/PU5eEl8GIir0fKx4jwKp0NIZNz140ne0rGBiePtBoaw=452" rel="noopener noreferrer"&gt;Get the eBook from Optro&lt;/a&gt;
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.csoonline.com%2Farticle%2F4166824%2Fanthropic-mythos-spurs-white-house-to-weigh-pre-release-reviews-for-high-risk-ai-models.html%3Futm_source=tldrinfosec/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/pbWIk_BGUz04Dq-JW8xOEj8oxXNEspKwwtOYuOy70uE=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Anthropic Mythos spurs White House to weigh pre-release reviews for high-risk AI models (3 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    The Trump administration is now considering pre-release vetting for high-risk AI models following Anthropic's Mythos Preview.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2F2026%2F05%2F05%2Fnhs_to_closesource_hundreds_of_repos%2F%3Futm_source=tldrinfosec/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/MWUF9v03-hVabD84y_yHlD-ioAC21E0vf-lm0iWs9zo=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;NHS to close-source hundreds of GitHub repos over AI, security concerns (4 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    NHS England ordered maintainers to flip hundreds of GitHub repos from public to private by May 11.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsecurityaffairs.com%2F191715%2Fdata-breach%2Fvimeo-confirms-breach-via-third-party-vendor-impacts-119k-users.html%3Futm_source=tldrinfosec/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/W554IRl7A7ewCwPS9F8AgCCLba4qdqGD7XSBIldeERs=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Vimeo confirms breach via third-party vendor impacts 119K users (2 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    ShinyHunters stole personal information of 119,000 Vimeo users in April by breaching Anodot, a third-party analytics vendor.
+                                
+
+
+
+
+
+
+
+
+
+
+&lt;p&gt;
+Love TLDR? Tell your friends and get rewards!
+&lt;/p&gt;
+
+
+
+Share your referral link below with friends to get free TLDR swag!
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F48f299f3%2F8/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/vuv2d-OuJMHun4RImwx7nj1CMGhjcJIJ7SPM9t1-jq8=452" rel="noopener noreferrer"&gt;https://refer.tldr.tech/48f299f3/8&lt;/a&gt;
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_969617670871%2F8/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/dlK2ERQfyLky908llVjy64fjouS3vU3nufj9B5Q6Y84=452" rel="noopener noreferrer"&gt;Track your referrals here.&lt;/a&gt;
+
+
+
+
+
+
+
+&lt;p&gt;
+Want to advertise in TLDR? 📰
+&lt;/p&gt;
+
+If your company is interested in reaching an audience of cybersecurity professionals and decision makers, you may want to &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrinfosec%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/Y0HOuXoI0rWrw4TfDQSH9D5eZ8O_z_ezqlS1BxM6Fdw=452" rel="noopener noreferrer"&gt;&lt;strong&gt;advertise with us&lt;/strong&gt;&lt;/a&gt;.
+
+&lt;br&gt;
+
+
+
+&lt;p&gt;
+Want to work at TLDR? 💼
+&lt;/p&gt;
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/LCVTEUjYISuJi2gWQz7pQ17JqkxWU1ncjMiBb45J7Tw=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Apply here&lt;/strong&gt;&lt;/a&gt;,
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/3_Ke5GgZpYQPVRIerd0Lesb4XmCVcFg5gaqheUcQqe4=452" rel="noopener noreferrer"&gt;&lt;strong&gt;create your own role&lt;/strong&gt;&lt;/a&gt; or send a friend's resume to &lt;a href="mailto:jobs@tldr.tech" rel="noopener noreferrer"&gt;jobs@tldr.tech&lt;/a&gt; and get $1k if we hire them! TLDR is one of &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/oaczD1-TkZ-vFnT4z2rFV3c4nuo32xRdUtMbV3DWKJM=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Inc.'s Best Bootstrapped businesses&lt;/strong&gt;&lt;/a&gt; of 2025.
+
+&lt;br&gt;
+
+
+If you have any comments or feedback, just respond to this email!
+&lt;br&gt;
+&lt;br&gt; Thanks for reading,
+&lt;br&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fprasannagautam%2F/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/4Voge6cmJgfEWfY3fMGuJZ1lLnUb6htkRUIIN8v_4Sc=452" rel="noopener noreferrer"&gt;Prasanna Gautam&lt;/a&gt;, &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fericfernandezdelcampo%2F/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/d26yl5L09Xo1d0OxNJ-nRDloLaindmvofEci9E0B4UM=452" rel="noopener noreferrer"&gt;Eric Fernandez&lt;/a&gt; &amp;amp; &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsammy-tbeile%2F/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/nFD2usD9KlyYVjDko8tqAwXyoca6kwyfVAghvdnZxok=452" rel="noopener noreferrer"&gt;Sammy Tbeile&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;br&gt;
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Finfosec%2Fmanage%3Femail=kob62291404%2540163.com/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/Raq3Ocenf7jJFz_kYknOUPqIlqb2A45GgavKJ3XHAnU=452" rel="noopener noreferrer"&gt;Manage your subscriptions&lt;/a&gt; to our other newsletters on tech, startups, and programming. Or if TLDR Information Security isn't for you, please &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=8d9cea11-3e94-11ed-9a32-0241b9615763%26lc=14a14690-456d-11f1-9623-47608eee5fa8%26p=546f5980-4935-11f1-a764-c35404464fe0%26pt=campaign%26pv=4%26spa=1778072496%26t=1778072814%26s=9242c7cac47011bb404f5fdd5c9744907a9b232d4f6da7d55d1522594e1822b0/1/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/YGLu-iLd9irTvwQpGqW3_NMUZxt0YxYEce8aRuGDfKE=452" rel="noopener noreferrer"&gt;unsubscribe&lt;/a&gt;.
+&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019dfd6604fa-61d0010f-a855-4d14-a983-b8d8d64f26d8-000000/6BcXP0d82OVwQovVQN013kLVfMyPQwns_8U4cBSqkSI=452"&gt;
+</content:encoded></item><item><title>AI Sprawl Gets A Kill Switch 🛑, Wall Street Funds Anthropic 🏦, SAP’s AI Lab Play 🧪</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-27</link><guid isPermaLink="false">own-newsletter:item:27</guid><pubDate>Wed, 06 May 2026 12:43:39 GMT</pubDate><author>TLDR IT &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR IT ServiceNow expanded its AI Control Tower to help enterprises discover, govern, secure, and monitor AI agents across both its own platform ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|View Onl...</description><content:encoded>TLDR IT
+
+
+
+ServiceNow expanded its AI Control Tower to help enterprises discover, govern, secure, and monitor AI agents across both its own platform&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;
+
+
+&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fit%3Futm_source=tldrit/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/glm18-so4XGJhXv048PQEFwdPLNymqS0IRNOnut6c9Y=452" rel="noopener noreferrer"&gt;Sign Up&lt;/a&gt;
+|&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrit%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/tM0zdUVWiuhlIbbWjdbjKaxMXdYeMyOT9vGC7I8oeXM=452" rel="noopener noreferrer"&gt;Advertise&lt;/a&gt;|&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=149dee8c-456d-11f1-ac4d-0b323ced8894%26p=1ab9a93e-4917-11f1-91e8-712c5602148a%26pt=campaign%26t=1778071419%26s=8c108cd596b5274fe43a696df952e51fc902162f46e85ce20f9be48f87f3c87c/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/KessQWWNKDt69sBMIw0cxcp6KCR3kJCkFXLwqvgL6fY=452" rel="noopener noreferrer"&gt;View Online&lt;/a&gt;
+&lt;br&gt;
+
+
+
+TLDR
+&lt;br&gt;
+
+
+&lt;br&gt;
+
+&lt;strong&gt;Together With &lt;/strong&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.notion.com%2Fwebinars%2Fautomate-your-first-workflows-with-custom-agents-question-answerer-agent%3Futm_source=tldr%26utm_medium=newsletter%26utm_content=%26utm_campaign=2026Q2_TLDR-IT-placement/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/cAR9VMS7EX6nctA-_rzSDCOyA8wm7pqc7k0CwZ4qnE8=452" rel="noopener noreferrer"&gt;&lt;img src="https://images.tldr.tech/notion50.png" alt="Notion"&gt;&lt;/a&gt;
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;TLDR IT 2026-05-06&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.notion.com%2Fwebinars%2Fautomate-your-first-workflows-with-custom-agents-question-answerer-agent%3Futm_source=tldr%26utm_medium=newsletter%26utm_content=%26utm_campaign=2026Q2_TLDR-IT-placement/2/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/iBVrjXaofpHIR0nZb0PTZKCBCCgpfLFQeHRU73IFByI=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Stop answering the same questions on repeat (Sponsor)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Build a custom AI agent that handles them so you don't have to. &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.notion.com%2Fwebinars%2Fautomate-your-first-workflows-with-custom-agents-question-answerer-agent%3Futm_source=tldr%26utm_medium=newsletter%26utm_content=%26utm_campaign=2026Q2_TLDR-IT-placement/3/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/93lQjpXs5hsjQdop6_qJXg3EqHCv8BYVwmdGtLPUgio=452" rel="noopener noreferrer"&gt;This on-demand webinar&lt;/a&gt; shows you how to create an agent that answers IT questions directly in Slack.
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.notion.com%2Fwebinars%2Fautomate-your-first-workflows-with-custom-agents-question-answerer-agent%3Futm_source=tldr%26utm_medium=newsletter%26utm_content=%26utm_campaign=2026Q2_TLDR-IT-placement/4/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/4_XYrbKiTGI3e9ktCisqY09WXPyuRX2aEEIxCe088so=452" rel="noopener noreferrer"&gt;Watch it&lt;/a&gt; to quickly build an agent that:&lt;/p&gt;
+
+&lt;p&gt;✅ Reads your own documentation to resolve queries independently&lt;/p&gt;
+
+&lt;p&gt;✅ Automatically escalates complex cases to your IT team&lt;/p&gt;
+
+&lt;p&gt;✅ Logs Q&amp;amp;A on its own&lt;/p&gt;
+
+&lt;p&gt;Get instant answers from your knowledge base, directly in Slack.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.notion.com%2Fwebinars%2Fautomate-your-first-workflows-with-custom-agents-question-answerer-agent%3Futm_source=tldr%26utm_medium=newsletter%26utm_content=%26utm_campaign=2026Q2_TLDR-IT-placement/5/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/g1KNsphogthKhnw_gIIX-JIMMn-SuPED8EmT913kTOQ=452" rel="noopener noreferrer"&gt;Access the session&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+🚀
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;News &amp;amp; Trends&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2F2026%2F05%2F05%2Fservicenow_clears_agents_for_landing%2F%3Futm_source=tldrit/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/HI6k_4O_EvYxBUju_3fy4w4IaRBdg_Od8qeLNLvww9k=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;ServiceNow expands AI Control Tower as enterprises manage agent sprawl (3 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    ServiceNow expanded its AI Control Tower to help enterprises discover, govern, secure, and monitor AI agents across both its own platform and third-party environments. The update adds integrations across Amazon Web Services, Google Cloud, Microsoft Azure, plus apps like SAP, Oracle Corporation, and Workday, along with a kill switch that can shut down compromised agents during attacks.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2026%2F05%2F05%2Fhackers-steal-students-data-during-breach-at-education-tech-giant-instructure%2F%3Futm_source=tldrit/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/LgyCKdrlRWRGIJHD6mt_gNUfCmK9eD8mOwceofefoSw=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Hackers steal student data on Canvas in Instructure breach (3 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Hackers stole student names, email addresses, ID numbers, and private messages during a breach at Instructure, the company behind Canvas. The company says passwords and financial data weren't exposed, but the incident is another reminder that non-core platforms like LMS systems often hold far more sensitive data than companies realize.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2026%2F05%2F04%2Fanthropic-goldman-blackstone-ai-venture.html%3Futm_source=tldrit/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/bmIvO4QjtVJRHdbEhf5k_2xHxhKaXA6X19su4wmMyoA=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Anthropic teams up with Wall Street firms to accelerate enterprise AI deployment (4 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Anthropic is launching a $1.5 billion venture backed by Goldman Sachs, Blackstone, and Hellman &amp;amp; Friedman to acquire AI services firms and embed engineers directly into customer environments. The move mirrors OpenAI's own deployment push and highlights a growing reality: enterprises don't need more AI demos - they need people who can actually integrate AI into messy workflows, data systems, and operations.
+                                
+
+
+
+
+
+
+
+
+🧠
+
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Analysis &amp;amp; Opinions&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbloomberry.com%2Fblog%2Fthe-data-on-jira-vs-linear-whos-winning-new-customers%2F%3Futm_source=tldrit/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/WW_RUqop7_O56cvwsT-8ll4t4vTy6i2eWSipLL7k7Tw=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;The data on Jira vs Linear: Who's winning new customers? (6 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Linear is rapidly closing the gap with Jira, with new customer acquisitions rising 67% year-over-year while Jira's dropped 32%. Linear dominates the 11-200 employee segment and AI-native stacks, whereas Jira maintains a stronghold in regulated industries and enterprise environments. Monday.com shows a significant 41% decline in new-user acquisition.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.computerweekly.com%2Fnews%2F366642660%2FThe-AI-Correction-Will-Not-Be-Evenly-Distributed%3Futm_source=tldrit/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/E459ilKfcGuQUyXEbH0GXKnpFmbpkEiAUKX3VKAhLG4=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;The AI Correction Will Not Be Evenly Distributed (5 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Not all AI revenue is created equal. While OpenAI may lead in headline revenue, much of it comes from consumer subscriptions that can churn quickly, while Anthropic is seeing more enterprise-driven revenue tied to deeply embedded workflows. AI vendors integrated into core business systems may prove far stickier than consumer-first players when the market inevitably cools.
+                                
+
+
+
+
+
+
+
+
+🤝
+
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Launches &amp;amp; Partnerships&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthenewstack.io%2Fairbyte-agents-context-store%2F%3Futm_source=tldrit/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/omU_G2AwOgD64dIxxrMH80FlOlYFKMZgFgfXxwwtAa0=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Airbyte launches context layer for enterprise AI agents (4 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Airbyte Agents is a new service that pre-indexes enterprise data into a managed Context Store so agents can search business data without constantly hitting live APIs. The company says that it can reduce tool calls by roughly 40% and token usage by up to 80% by letting agents search indexed customer, billing, support, and operational data before making live requests.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F9YUUit/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/msn0923tLKb5QMVbDgB763kla4Py4QOBC3ZRTds4mJg=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Microsoft Replaces Printer Drivers in Windows 11 With New Secure System (3 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Microsoft is phasing out legacy printer drivers in Windows 11, introducing Windows Protected Print Mode to enhance security. This shift mandates a modern, driverless printing architecture, reducing reliance on third-party software and minimizing potential attack vectors for enterprise and consumer systems alike.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnews.sap.com%2F2026%2F05%2Fsap-to-acquire-prior-labs-establish-frontier-ai-lab-europe%2F%3Futm_source=tldrit/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/qDmvaBgScUi4zp1D9b4h0gbzIYNiM_s1m9bfFYMOntM=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;SAP to Acquire Prior Labs (4 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    SAP is acquiring Prior Labs to advance tabular foundation models, committing over €1 billion over four years. The independent research lab will focus on structured business data, aiming to improve predictive accuracy for enterprise outcomes like churn and risk, while maintaining support for the open-source TabPFN ecosystem.
+                                
+
+
+
+
+
+
+
+
+🎁
+
+
+
+
+&lt;strong&gt;&lt;h1&gt;Miscellaneous&lt;/h1&gt;&lt;/strong&gt;
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.wiz.io%2Fblog%2Fpractical-package-security-the-unofficial-guide%3Futm_source=tldrit/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/4OJRmQ5ocrBHwwM9Udfa3JuN1yzbJyJvnHg2Q4C5yLs=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Practical Package Security: The Unofficial Guide (8 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Supply chain attacks like the Trivy-action and Axios compromises highlight the need for robust package security. Organizations should implement cooldown periods, disable install scripts, utilize lockfiles, and deploy honeytokens. These practical, scalable controls reduce exposure windows and limit the blast radius of malicious third-party dependencies in production.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftowardsdatascience.com%2Fhow-ai-tools-generate-technical-debt-in-iot-systems-and-what-to-do-about-it%2F%3Futm_source=tldrit/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/kyBr9aZCEzaUhavk-mHfb_1nrH3cCLfuXKxeRthrn58=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Managing technical debt generated by AI tools in complex IoT systems (9 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    AI tools accelerate IoT development but introduce systemic technical debt by ignoring hardware constraints and architectural boundaries. Research shows 15% of AI-generated commits contain quality issues and code duplication has risen to 12.3%. Mitigate risks through mandatory human reviews, strict architectural governance, and regular system refactoring.
+                                
+
+
+
+
+
+
+
+
+
+
+⚡
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Quick Links&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fenterprise-ai-services-company%3Futm_source=tldrit/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/QMkOYJFoHesYJJk00cuWsIWaQflt8JLjyIbfETpbUKU=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;New AI Services Venture Targets Mid-Sized Enterprises (2 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Anthropic, Blackstone, Hellman &amp;amp; Friedman, and Goldman Sachs are launching a new company to deliver customized Claude-powered AI solutions to mid-sized businesses lacking in-house capabilities.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkspaceupdates.googleblog.com%2F2026%2F04%2Frequire-explicit-consent-for-take-notes-with-Gemini-recordings-and-transcripts-in-Google-Meet.html%3Futm_source=tldrit/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/kQckByLvwV2kXCC_A7JrmI26TbbmDIspP26XrfrG5F0=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Google Meet adds consent controls for Gemini notes (2 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Google now lets Workspace admins require explicit participant consent before Gemini note-taking, recordings, or transcripts begin in Google Meet meetings.
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;p&gt;
+Want to advertise in TLDR? 📰
+&lt;/p&gt;
+
+If your company is interested in reaching an audience of IT professionals and decision makers, you may want to &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrit%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/oaLJFQmqYKf1H4BDrk0Yf8xXR3obwqTpYC96kW6lP5k=452" rel="noopener noreferrer"&gt;&lt;strong&gt;advertise with us&lt;/strong&gt;&lt;/a&gt;.
+
+&lt;br&gt;
+
+
+
+&lt;p&gt;
+Want to work at TLDR? 💼
+&lt;/p&gt;
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/eISI52HnMtJ6cdCyjAMX7QZw4nIOxXnr3SUItGMYVuM=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Apply here&lt;/strong&gt;&lt;/a&gt;,
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/wVehvzhpvm1mtW4AJFBAvZ7UxIYCZ5U3KAu_9fQp-Aw=452" rel="noopener noreferrer"&gt;&lt;strong&gt;create your own role&lt;/strong&gt;&lt;/a&gt; or send a friend's resume to &lt;a href="mailto:jobs@tldr.tech" rel="noopener noreferrer"&gt;jobs@tldr.tech&lt;/a&gt; and get $1k if we hire them! TLDR is one of &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/NOnH8138TLIDOo00sbuPnto-8Y88P_c_M6P-AGvp5qQ=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Inc.'s Best Bootstrapped businesses&lt;/strong&gt;&lt;/a&gt; of 2025.
+
+&lt;br&gt;
+
+
+If you have any comments or feedback, just respond to this email!
+&lt;br&gt;
+&lt;br&gt; Thanks for reading,
+&lt;br&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsiddhibansal%2F/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/4KlV2FLrac19BlBe7qXbbsVAIYVIarKcoCiJBfWOaOc=452" rel="noopener noreferrer"&gt;Siddhi Bansal&lt;/a&gt;, &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Ftongchen-yang-877116216%2F/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/iXnVSfY2twHsNsjEjhoNwxphe1jR0Fj6wBF1SSANCic=452" rel="noopener noreferrer"&gt;Tongchen Yang&lt;/a&gt;, &amp;amp; &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Frushdesh%2F/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/tKcYPNxeCp28FUmG0JmpGp4rPh5gam26kD9K5xw_GIQ=452" rel="noopener noreferrer"&gt;Rush Deshpande&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;br&gt;
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fit%2Fmanage%3Femail=kob62291404%2540163.com/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/YecWUTnMDK7Ge3ZTjubRGLcrrN5QWrBb0HMT-Sdr-bk=452" rel="noopener noreferrer"&gt;Manage your subscriptions&lt;/a&gt; to our other newsletters on tech, startups, and programming. Or if TLDR IT isn't for you, please &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=db791bc2-386d-11ee-a768-4730dc8aabb1%26lc=149dee8c-456d-11f1-ac4d-0b323ced8894%26p=1ab9a93e-4917-11f1-91e8-712c5602148a%26pt=campaign%26pv=4%26spa=1778068830%26t=1778071419%26s=4d3e11ab8283515b3c3965b0a63d118e1a055ee1f00c40f0b907588c20746c86/1/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/KZ-xYoU3g2SeGeOEhhIL4pi5WgwGNnSDV5sCmsip1oA=452" rel="noopener noreferrer"&gt;unsubscribe&lt;/a&gt;.
+&lt;br&gt;
+
+
+
+
+
+
+
+
+
+&lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019dfd50ba89-ea3eac7a-a105-4cc5-b397-07ae4ae52c5e-000000/gy4-eMmPY1bHxJXCFLW6CRyYtN6Nd_Ew2PrHbL7NURc=452"&gt;
+</content:encoded></item><item><title>Coinbase layoffs 📉, monitoring at scale 👀, take responsibility for AI 🤖</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-26</link><guid isPermaLink="false">own-newsletter:item:26</guid><pubDate>Wed, 06 May 2026 11:32:22 GMT</pubDate><author>TLDR Dev &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR Dev Coinbase is reducing its workforce by about 14% to navigate a down market and integrate the efficiency gains provided by AI ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|View Online TLDR TLDR...</description><content:encoded>TLDR Dev
 
 
 
