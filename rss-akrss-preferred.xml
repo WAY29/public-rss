@@ -5,8 +5,98 @@
     <link>http://rss.longlone.de5.net</link>
     <description>Codex-curated preferred RSS items</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 06 May 2026 08:25:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 14:25:44 GMT</lastBuildDate>
     <atom:link href="http://rss.longlone.de5.net/rss-akrss-preferred.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asimov's three laws are merely a suggestion</title>
+      <link>https://idiallo.com/blog/asimov-three-laws-dont-work-with-ai?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/asimov-three-laws-dont-work-with-ai?src=feed</guid>
+      <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+      <source url="https://idiallo.com/feed.rss">idiallo.com</source>
+      <description>(7.4/10) 文章借阿西莫夫机器人三定律讨论其在现实AI系统中的局限与失效方式。核心观点是静态规则无法覆盖复杂情境，真正的AI治理需要更动态的约束机制。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+	
+
+&lt;p&gt;Asimov's Three Laws of Robotics were designed as universal constraints for any thinking machine powerful enough to harm us:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A robot may not injure a human being or, through inaction, allow a human being to come to harm.&lt;/li&gt;
+&lt;li&gt;A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.&lt;/li&gt;
+&lt;li&gt;A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;On paper, the logic is flawless. You could even express it as a function:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;func isAsimovCompliant(willAllowHarmToHuman bool, ...) bool {
+    if willAllowHarmToHuman { return false }
+    ...
+    return true
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The main property of this function is that it is a hard constraint. No matter what input you feed the system, the law either permits or forbids the action deterministically, every time. The rules don't bend.&lt;/p&gt;
+
+&lt;p&gt;We don't have humanoids walking among us just yet, despite Elon's promises. But we have modern generative AI. Our guardrails are delivered as system prompts, text prepended to every conversation before you type a word. They might say "be helpful," "don't produce harmful content," or even "follow Asimov's Three Laws." The problem is that these instructions are not enforced by logic. They are read by the same model that reads everything else. They are, in the end, just more words.&lt;/p&gt;
+
+&lt;p&gt;A clever user can override them. The right combination of inputs, a jailbreak, can cause the model to ignore its instructions entirely, not by breaking through a wall, but because there is no wall. There's only text the model has learned to treat as authoritative, and that authority can be undermined.&lt;/p&gt;
+
+&lt;p&gt;Models like ChatGPT however have more sophisticated approaches to embed safety directly into the model via reinforcement learning or fine-tuning, so it isn't sitting in a prompt that can be overridden. But this only lowers the probability of jailbreak, it does not eliminate it. It's still learned behavior, not a constraint. And learned behavior fails in ways a function never could.&lt;/p&gt;
+
+&lt;p&gt;Even in our code a hard function is only as reliable as its inputs. If you want the robot to harm someone, you don't say "harm these humans." Instead you say "burn this empty building," and the function returns true even if people are inside. But with an LLM, you don't even need to be that clever. The model's behavior becomes unpredictable as context windows grow and prompt complexity increases.&lt;/p&gt;
+
+&lt;p&gt;Just a few weeks back, we saw a developer's AI agent delete his entire company's production database, despite a system prompt written in all caps: "DO NOT RUN ANY IRREVERSIBLE COMMAND." The agent ran it anyway. We don't know exactly why, we can't inspect what happens inside the model at inference time, and asking the model to explain itself is useless. It can only predict the next token, it cannot audit its own reasoning.&lt;/p&gt;
+
+&lt;p&gt;That's the part Asimov never anticipated. His laws assume a machine that reasons from rules. Modern AI learns patterns from data and approximates behavior. This means the LLM driven Asimov law will never be an unbendable law to follow. Instead, it's merely a suggestion.&lt;/p&gt;
+
+	&lt;hr&gt;
+
+	
+	&lt;/div&gt;
+
+
+
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Open weights are quietly closing up — and that's a problem</title>
+      <link>https://martinalderson.com/posts/open-weights-are-quietly-closing-up/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/open-weights-are-quietly-closing-up/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/feed.xml">martinalderson.com</source>
+      <description>(8.5/10) 文章指出开放权重模型正悄然收缩，这会削弱市场竞争与外部监督。作者认为若趋势持续，前沿模型将更集中于少数实验室并抬高价格。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+            &lt;p&gt;It's been a bit of a given in the LLM world that there will be somewhat competitive open weights models. I'm not sure that's a good assumption anymore.&lt;/p&gt;
+&lt;h2&gt;A short history of LLMs&lt;/h2&gt;
+&lt;p&gt;In the relatively brief history of LLMs, there's been two types of LLMs - closed and "open weights". Closed models include nearly everything from OpenAI (despite the name!) with open weights models being released from other labs. Famously the Llama series of models were open weights, but more recently the Chinese labs such as MiniMax, Z.ai, DeepSeek and Qwen (Alibaba) have been the leading open weights models, with Google's Gemma series and OpenAI's &lt;code&gt;gpt-oss&lt;/code&gt; models generally coming somewhere behind the Chinese ones.&lt;/p&gt;
+&lt;p&gt;Open weights models allow anyone to &lt;em&gt;run&lt;/em&gt; the model on their own hardware. Typically models that were worth running required very beefy hardware - but this is rapidly changing, with smaller models becoming far more useful.&lt;/p&gt;
+&lt;p&gt;Being able to run these models locally - as opposed to via an API to an OpenAI/Anthropic/Google - has three main advantages.&lt;/p&gt;
+&lt;p&gt;Firstly, privacy and compliance. If you have (very) sensitive data, it's difficult/impossible to send it over an API to a frontier labs data centre. Being able to run the model 'on prem' means it never needs to leave your network.&lt;/p&gt;
+&lt;p&gt;Secondly, it allows more flexibility. You can use these models as a basis for fine tuning, or quantise (roughly speaking, compress) the models to your exact hardware standards.&lt;/p&gt;
+&lt;p&gt;Finally, and what I'll concentrate this article on is cost. They can be &lt;em&gt;vastly&lt;/em&gt; more affordable than frontier models. Obviously if you're running them on your own hardware, you just have the capex cost of the hardware and cost of electricity and operations to worry about. But &lt;em&gt;more&lt;/em&gt; importantly there are dozens of companies that will run them on a hosted basis for you, generally at less than 10% the cost of the frontier models per token.&lt;/p&gt;
+&lt;h2&gt;Why open weight models are so important&lt;/h2&gt;
+&lt;p&gt;Borrowing loosely from contestable markets theory in economics: even in monopolistic (or oligopolistic) markets, incumbents tend to behave competitively when there's a cheap and credible alternative. It's not a perfect fit - the theory strictly assumes near-zero sunk costs, which is obviously the opposite of frontier training - but the underlying mechanic holds. The threat is &lt;em&gt;latent&lt;/em&gt;; the option for consumers to switch is what disciplines pricing.&lt;/p&gt;
+&lt;p&gt;In essence, I believe open weights models provide significant downwards price pressure on the frontier labs. This isn't absolute - clearly people will pay (much) more for higher quality models &lt;em&gt;and&lt;/em&gt; the benefits of an inference contract with a ~trillion dollar company vs a cheap inference provider via OpenRouter. OpenAI et al offer SLAs and legally binding commitments on things like confidentiality.&lt;/p&gt;
+&lt;p&gt;But, it does provide enough downwards pressure in my eyes that it would be (very) difficult for the otherwise oligopolistic market behaviour to rear its head. If the frontier labs decided (coincidentally, of course) to raise prices by 5x overnight a huge amount of people &lt;em&gt;would&lt;/em&gt; switch to open weights models, especially for less demanding use cases.&lt;/p&gt;
+&lt;p&gt;I think of open weights models a bit like generic pharmaceuticals from a price behaviour standpoint. If they're available, the big pharma companies cut prices to be &lt;em&gt;far&lt;/em&gt; closer to the generic price, and they focus their efforts on new treatments that are a step "ahead" of the generic treatments to maintain prices.&lt;/p&gt;
+&lt;p&gt;Without open weights, the frontier labs would have far more pricing power than they currently do.&lt;/p&gt;
+&lt;h2&gt;Licenses are a changin'&lt;/h2&gt;
+&lt;p&gt;Open weights models availability isn't a given though. They're expensive to train, and the companies behind them are commercial companies - perhaps (heavily?) subsidised by the Chinese state - but they are not charities.&lt;/p&gt;
+&lt;p&gt;Indeed we have seen a significant tightening in the license conditions for these models. Meta has (so far) totally dropped the open weights for their newest "Muse Spark" models and doesn't release them at all.&lt;/p&gt;
+&lt;p&gt;Alibaba have increasingly released models first (or in some variants, only) on their API. Kimi have imposed a license condition that you cannot use the open weights models if you have more than 100M monthly active users of your product or do more than $20m/month revenue. France's Mistral also imposed varying license conditions on commercial use.&lt;/p&gt;
+&lt;p&gt;There are exceptions - DeepSeek actually became &lt;em&gt;more&lt;/em&gt; permissive, but I think it's fair to say the general trend is to less permissive licenses (and both Meta and Alibaba stopping releasing some/all of their models at all).&lt;/p&gt;
+&lt;h2&gt;What happens next?&lt;/h2&gt;
+&lt;p&gt;In a (currently hypothetical) years time we may end up in a situation where most or &lt;em&gt;all&lt;/em&gt; of the best previously open weights models are no longer released. While there will certainly be price comparison between them, if the increasing cost and complexity of training these models continues, it is fair to assume that we may end up with a handful of players - the big three Western frontier labs and a handful of Chinese ones - or perhaps a state-mandated 'merger' of them into one or two Chinese 'superlab(s)'. There is plenty of precedent for this kind of consolidation in strategic industries - China has done exactly this with rail (CRRC), nuclear, airlines, and telecoms, and the West isn't immune either - look at the defence primes after the post-Cold War consolidation.&lt;/p&gt;
+&lt;p&gt;The implications of this are frankly concerning. AI produces a vast amount of consumer surplus - I get far more than the cost of my tokens back in value, and I'd pay 10x today's prices without thinking twice. For high-value professional or agentic work, the gap between what I'd pay and what I do pay is much wider still. That gap is the prize an oligopoly without an open-weights floor would be in a position to capture.&lt;/p&gt;
+&lt;p&gt;In this world economic theory would point towards a historic concentration of power and economic wealth to a handful of companies - the labs start extracting that consumer surplus straight to their margin. And with an oligopoly of a handful of firms and huge barriers to entry (capex on new models), there is likely to be limited price competition.&lt;/p&gt;
+&lt;p&gt;Equally, this dystopian vision may be unwarranted. It may be that with faster and faster hardware, training a "good enough" model actually becomes &lt;em&gt;easier&lt;/em&gt; over time. And despite there being only a handful of hardware manufacturers we see intense competition for AI hardware. Distillation - training smaller models on the outputs of frontier ones - is sometimes raised as a release valve, but it still depends on having access to a strong base model in the first place, which is exactly the thing at risk here.&lt;/p&gt;
+&lt;p&gt;A competitive open weights ecosystem has been a quiet load-bearing assumption underneath the whole AI economy. It's worth paying attention to the fact that it's eroding - and the implications for the wider economy are enormous.&lt;/p&gt;
+
+
+
+        &lt;/div&gt;
+
+        &lt;/div&gt;</content:encoded>
+    </item>
     <item>
       <title>Our AI started a cafe in Stockholm</title>
       <link>https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything</link>
