@@ -5,8 +5,85 @@
     <link>http://rss.longlone.de5.net</link>
     <description>Codex-curated preferred RSS items</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 07 May 2026 14:28:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 20:28:40 GMT</lastBuildDate>
     <atom:link href="http://rss.longlone.de5.net/rss-akrss-preferred.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Behind the Scenes Hardening Firefox with Claude Mythos Preview</title>
+      <link>https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything</guid>
+      <pubDate>Thu, 07 May 2026 17:56:25 GMT</pubDate>
+      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
+      <description>(9.2/10) 文章详述Mozilla如何用Claude Mythos预览版在Firefox中发现并修复数百个漏洞。重点是AI安全报告已从噪音变成高价值信号，展示了模型在真实安全流程中的新能力。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+
+
+&lt;p&gt;7th May 2026 - Link Blog&lt;/p&gt;
+
+&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/" rel="noopener noreferrer"&gt;Behind the Scenes Hardening Firefox with Claude Mythos Preview&lt;/a&gt;&lt;/strong&gt; (&lt;a href="https://lobste.rs/s/7zppv1/behind_scenes_hardening_firefox_with" title="Lobste.rs" rel="noopener noreferrer"&gt;via&lt;/a&gt;) Fascinating, in-depth details on how Mozilla used their access to the Claude Mythos preview to locate and then fix hundreds of vulnerabilities in Firefox:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Suddenly, the bugs are very good&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Just a few months ago, AI-generated security bug reports to open source projects were mostly known for being unwanted slop. Dealing with reports that look plausibly correct but are wrong imposes an asymmetric cost on project maintainers: it’s cheap and easy to prompt an LLM to find a “problem” in code, but slow and expensive to respond to it.&lt;/p&gt;
+&lt;p&gt;It is difficult to overstate how much this dynamic changed for us over a few short months. This was due to a combination of two main factors. First, the models got a lot more capable. Second, we dramatically improved our techniques for &lt;em&gt;harnessing&lt;/em&gt; these models — steering them, scaling them, and stacking them to generate large amounts of signal and filter out the noise.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;They include some detailed bug descriptions too, including a 20-year old XSLT bug and a 15-year-old bug in the &lt;code&gt;&amp;lt;legend&amp;gt;&lt;/code&gt; element.&lt;/p&gt;
+&lt;p&gt;A lot of the attempts made by the harness were blocked by Firefox's existing defense-in-depth measures, which is reassuring.&lt;/p&gt;
+&lt;p&gt;Mozilla were fixing around 20-30 security bugs in Firefox per month through 2025. That jumped to 423 in April.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Bar chart titled &amp;quot;Firefox Security Bug Fixes by Month&amp;quot; with subtitle &amp;quot;All Sources • All Severities&amp;quot; on a dark purple background, showing monthly counts: Jan 2025: 21, Feb 2025: 20, Mar 2025: 26, Apr 2025: 31, May 2025: 17, Jun 2025: 21, Jul 2025: 22, Aug 2025: 17, Sep 2025: 18, Oct 2025: 26, Nov 2025: 19, Dec 2025: 20, Jan 2026: 25, Feb 2026: 61, Mar 2026: 76, Apr 2026: 423 — a dramatic spike in the final month." src="https://static.simonwillison.net/static/2026/firefox-security.webp"&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Notes on the xAI/Anthropic data center deal</title>
+      <link>https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything</guid>
+      <pubDate>Thu, 07 May 2026 17:09:28 GMT</pubDate>
+      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
+      <description>(8.2/10) 文章解读Anthropic与SpaceX/xAI共享Colossus数据中心容量的交易及其意义。重点不在发布会消息，而在算力联盟背后的基础设施、环境代价与行业权力格局。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+&lt;h2&gt;Notes on the xAI/Anthropic data center deal&lt;/h2&gt;
+&lt;p&gt;7th May 2026&lt;/p&gt;
+
+
+
+&lt;p&gt;There weren’t a lot of big new announcements from Anthropic at yesterday’s Code w/ Claude event, but the biggest by far was the deal they’ve struck with SpaceX/xAI to use “all of the capacity of their Colossus data center”.&lt;/p&gt;
+&lt;p&gt;As I mentioned in my &lt;a href="https://simonwillison.net/2026/May/6/code-w-claude-2026/" rel="noopener noreferrer"&gt;live blog of the keynote&lt;/a&gt;, that’s the one with the &lt;a href="https://www.politico.com/news/2025/05/06/elon-musk-xai-memphis-gas-turbines-air-pollution-permits-00317582" rel="noopener noreferrer"&gt;particularly bad environmental record&lt;/a&gt;. The gas turbines installed to power the facility initially ran without Clean Air Act permits or pollution control devices, which they got away with by classifying them as “temporary”. Credible reports link it to increases in hospital admissions relating to low air quality.&lt;/p&gt;
+&lt;p&gt;Andy Masley, one of the most prolific voices pushing back against misleading rhetoric about data centers (see &lt;a href="https://blog.andymasley.com/p/the-ai-water-issue-is-fake" rel="noopener noreferrer"&gt;The AI water issue is fake&lt;/a&gt; and &lt;a href="https://blog.andymasley.com/p/data-center-land-use-issues-are-fake" rel="noopener noreferrer"&gt;Data center land issues are fake&lt;/a&gt;), had &lt;a href="https://x.com/andymasley/status/2052070252930826384" rel="noopener noreferrer"&gt;this to say&lt;/a&gt; about Colossus:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I would simply not run my computing out of this specific data center&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I get that Anthropic are severely compute-constrained, but in a world where the very existence of “AI data centers” is a red-hot political issue (see recent &lt;a href="https://kutv.com/news/local/amid-boos-box-elder-county-commission-unanimously-approves-plan-for-massive-data-center" rel="noopener noreferrer"&gt;news out of Utah&lt;/a&gt; for a fresh example), signing up with this particular data center is a really bad look.&lt;/p&gt;
+&lt;p&gt;There was a lot of initial chatter about how this meant xAI were clearly giving up on their own Grok models, since all of their capacity would be sold to Anthropic instead. That was a misconception—Anthropic are getting Colossus 1, but xAI are keeping their larger Colossus 2 data center for their own work.&lt;/p&gt;
+&lt;p&gt;As an interesting side note, the night before the Anthropic announcement, xAI sent out a deprecation notice for Grok 4.1 Fast and several other models providing just two weeks’ notice before shutdown, reported here &lt;a href="https://twitter.com/xlr8harder/status/2051901091906834439" rel="noopener noreferrer"&gt;by @xlr8harder&lt;/a&gt; from SpeechMap:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src="https://static.simonwillison.net/static/2026/grok-fast-shutdown.png" alt="Effective May 15, 2026 at 12:00pm PT, the following models will be retired from the xAI API: grok-4-1-fast-reasoning, grok-4-1-fast-non-reasoning, grok-4-fast-reasoning, grok-4-fast-non-reasoning, grok-4-0709, grok-code-fast-1, grok-3, grok-imagine-image-pro. After May 15, 2026, requests to these models will no longer work."&gt;&lt;/p&gt;
+&lt;p&gt;This is terrible @xai. I just spent time and money to migrate to grok 4.1 fast, and you’re disabling it with less than two weeks notice, after releasing it in November, with no migration path to a fast/cheap alternative.&lt;/p&gt;
+&lt;p&gt;I will never depend on one of your products again.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Here’s &lt;a href="https://speechmap.substack.com/p/speechmap-update-xai-loses-top-spot" rel="noopener noreferrer"&gt;SpeechMap’s detailed explanation&lt;/a&gt; of how they selected Grok 4.1 Fast for their project in March.&lt;/p&gt;
+&lt;p&gt;Were xAI serving those models out of Colossus 1?&lt;/p&gt;
+&lt;p&gt;xAI owner Elon Musk (who previously delighted in calling Anthropic &lt;a href="https://twitter.com/search?q=from%3Aelonmusk+misanthropic&amp;amp;src=typed_query&amp;amp;f=live" rel="noopener noreferrer"&gt;“Misanthropic”&lt;/a&gt;) &lt;a href="https://twitter.com/elonmusk/status/2052069691372478511" rel="noopener noreferrer"&gt;tweeted&lt;/a&gt; the following:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;By way of background for those who care, I spent a lot of time last week with senior members of the Anthropic team to understand what they do to ensure Claude is good for humanity and was impressed. [...]&lt;/p&gt;
+&lt;p&gt;After that, I was ok leasing Colossus 1 to Anthropic, as SpaceXAI had already moved training to Colossus 2.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And then &lt;a href="https://twitter.com/elonmusk/status/2052076315306864756" rel="noopener noreferrer"&gt;shortly afterwards&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Just as SpaceX launches hundreds of satellites for competitors with fair terms and pricing, we will provide compute to AI companies that are taking the right steps to ensure it is good for humanity.&lt;/p&gt;
+&lt;p&gt;We reserve the right to reclaim the compute if their AI engages in actions that harm humanity.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Presumably the criteria for “harm humanity” are decided by Elon himself. Sounds like a new form of supply chain risk for Anthropic to me!&lt;/p&gt;
+
+
+&lt;/div&gt;
+
+&lt;/div&gt;</content:encoded>
+    </item>
     <item>
       <title>The war between fast and legitimate is here</title>
       <link>https://www.joanwestenberg.com/the-war-between-fast-and-legitimate-is-here/</link>
