@@ -5,8 +5,82 @@
     <link>http://rss.longlone.de5.net</link>
     <description>Codex-curated preferred RSS items</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 08 May 2026 20:31:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 02:32:02 GMT</lastBuildDate>
     <atom:link href="http://rss.longlone.de5.net/rss-akrss-preferred.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quoting Luke Curley</title>
+      <link>https://simonwillison.net/2026/May/9/luke-curley/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/9/luke-curley/#atom-everything</guid>
+      <pubDate>Sat, 09 May 2026 01:03:58 GMT</pubDate>
+      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
+      <description>(8.1/10) 文章指出语音AI沿用WebRTC会为低延迟主动丢包，导致提示词在弱网下被破坏。作者认为对高成本模型交互，用户往往更愿多等200毫秒来换取更高准确性。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+
+
+&lt;p&gt;9th May 2026&lt;/p&gt;
+&lt;div&gt;
+
+&lt;blockquote cite="https://moq.dev/blog/webrtc-is-the-problem/"&gt;&lt;p&gt;WebRTC is designed to &lt;strong&gt;degrade and drop my prompt&lt;/strong&gt; during poor network conditions.&lt;/p&gt;
+&lt;p&gt;wtf my dude&lt;/p&gt;
+&lt;p&gt;WebRTC aggressively drops audio packets to keep latency low. If you’ve ever heard distorted audio on a conference call, that’s WebRTC baybee. The idea is that conference calls depend on rapid back-and-forth, so pausing to wait for audio is unacceptable.&lt;/p&gt;
+&lt;p&gt;…but as a user, I would much rather wait an extra 200ms for my slow/expensive prompt to be accurate. After all, I’m paying good money to boil the ocean, and a garbage prompt means a garbage response. It’s not like LLMs are particularly responsive anyway.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;But I’m not allowed to wait&lt;/strong&gt;. It’s &lt;em&gt;impossible&lt;/em&gt; to even retransmit a WebRTC audio packet within a browser; we tried at Discord. The &lt;em&gt;implementation&lt;/em&gt; is hard-coded for real-time latency &lt;strong&gt;or else&lt;/strong&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;— &lt;a href="https://moq.dev/blog/webrtc-is-the-problem/" rel="noopener noreferrer"&gt;Luke Curley&lt;/a&gt;, &lt;span&gt;OpenAI’s WebRTC Problem, in response to &lt;a href="https://openai.com/index/delivering-low-latency-voice-ai-at-scale/" rel="noopener noreferrer"&gt;How OpenAI delivers low-latency voice AI at scale&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>AI makes weak engineers less harmful</title>
+      <link>https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/</guid>
+      <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://www.seangoedecke.com/rss.xml">seangoedecke.com</source>
+      <description>(8.2/10) 作者提出AI未必只放大弱工程师的破坏力，反而可能约束其常见低级失误。文章从团队协作与代码产出角度讨论，认为AI会抬高最低表现而非只拉高上限。</description>
+      <content:encoded>&lt;div&gt;&lt;p&gt;Like other kinds of puzzle-solving, software engineering ability is strongly heavy-tailed. The strongest engineers produce way more useful output than the average, and the weakest engineers often are actively net-negative: instead of moving projects along, they create problems that their colleagues have to spend time solving. That’s why many tech companies try to &lt;a href="https://www.levels.fyi/companies/jane-street/salaries" rel="noopener noreferrer"&gt;build&lt;/a&gt; a small, ludicrously well-paid team instead of a large team of more average engineers, and why so far this seems to be a winning strategy.&lt;/p&gt;
+&lt;p&gt;Being effective in a large tech company is often about managing this phenomenon: trying to arrange things so that the most competent people land on projects you want to succeed, and the least competent are shunted out of the way. For instance, if you’re technical lead on a project, you more or less have to ensure that the most critical pieces are in the hands of people who won’t screw them up (whether by directly assigning the work, or by making sure someone can “sit on the shoulder” of the engineer who you’re worried about).&lt;/p&gt;
+&lt;p&gt;Claude Code changed this. Frontier LLMs don’t have the taste or the system familiarity of a strong engineer, but they have absolutely raised the floor for weak engineers. Instead of getting a pull request that could never possibly work or would cause immediate problems, the worst you’ll now see is a standard LLM pull request: wrong in some ways, baffling in others, but at least functional on the line-by-line level and not so obviously incorrect that someone with no knowledge of the codebase could point it out. That is a huge improvement!&lt;/p&gt;
+&lt;p&gt;You can try this out yourself. If you attempt to deliberately make mistakes while working with a coding agent, you’ll find that the agent pushes back hard against many obvious errors (i.e. caching user data with a non-user-specific key, writing an infinite loop that might never terminate, or leaking open files). Of course, the agent will still miss subtle errors, particularly ones that require understanding other parts of the codebase.&lt;/p&gt;
+&lt;p&gt;Working with the least effective engineers is now sometimes like working with a Claude Opus or Codex instance that you communicate with over Slack. Occasionally it’s &lt;em&gt;literally&lt;/em&gt; that: your colleague is simply pasting your messages into Claude Code and pasting you the response. This is annoying, but it’s a much better experience than working with this kind of engineer directly. After all, you probably already work with a bunch of LLM instances. The Slack interface is not ideal - unlike using Claude Code directly, you sometimes wait hours or days for a response, and you don’t get visibility into the agent’s thought processes - but it’s still helpful on the margin. More compute being thrown at your problem is better than less.&lt;/p&gt;
+&lt;p&gt;Of course, this isn’t a great state of affairs for the engineer in question, who is almost certainly learning less than if they were making their own (bad) decisions. It’s also a bad state of affairs for the company, who is paying a human salary and getting a Copilot subscription (which they’re likely also paying for). After the current push to figure out what value AI is adding to engineers, I suspect there will be a push to figure out what value &lt;em&gt;engineers are adding to AI&lt;/em&gt;, and the engineers who aren’t adding much may find themselves out of a job.&lt;/p&gt;
+&lt;p&gt;You can’t talk to Claude-over-Slack like you’d talk to normal Claude. If you tend to handle LLMs roughly (insulting them, or just being very curt), you’ll have to change your communication style. A human is going to read your messages, after all, even if you’re really interacting with a LLM. There’s no point being rude. But if, like me, you say please-and-thank-you to the models, you can treat your LLM-using coworker as just another Copilot window or Codex tab. It’s far better than having to treat them as an unwitting saboteur.&lt;/p&gt;
+&lt;p&gt;Not all net-negative engineers use AI tools like this. Many are strongly convinced in their own wrong opinions about how to build good software, or mistrust AI in general, or believe that relying heavily on LLMs is not a good way to improve. But &lt;em&gt;no&lt;/em&gt; strong engineers use AI tools like this. Even when they’re being lazy or sloppy, a capable engineer will have enough baseline taste to catch obvious AI-generated errors. So the phenomenon of engineers becoming thin wrappers around Claude Code is limited to the kind of engineers for whom this is an improvement in their work product.&lt;/p&gt;
+&lt;p&gt;Here's a preview of a related post that shares tags with this one.&lt;/p&gt;&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Using Claude Code: The Unreasonable Effectiveness of HTML</title>
+      <link>https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything</guid>
+      <pubDate>Fri, 08 May 2026 21:00:11 GMT</pubDate>
+      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
+      <description>(8.8/10) 文章主张在Claude Code中优先要求模型输出HTML而非Markdown，以获得更强表达和交互能力。文中给出评审PR等具体提示词，说明HTML制品如何提升代理式工作流的可读性与实用性。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://twitter.com/trq212/status/2052809885763747935" rel="noopener noreferrer"&gt;Using Claude Code: The Unreasonable Effectiveness of HTML&lt;/a&gt;&lt;/strong&gt;. Thought-provoking piece by Thariq Shihipar (on the Claude Code team at Anthropic) advocating for HTML over Markdown as an output format to request from Claude.&lt;/p&gt;
+&lt;p&gt;The article is crammed with interesting examples (collected on &lt;a href="https://thariqs.github.io/html-effectiveness/" rel="noopener noreferrer"&gt;this site&lt;/a&gt;) and prompt suggestions like this one:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;Help me review this PR by creating an HTML artifact that describes it. I'm not very familiar with the streaming/backpressure logic so focus on that. Render the actual diff with inline margin annotations, color-code findings by severity and whatever else might be needed to convey the concept well.&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I've been defaulting to asking for most things in Markdown since the GPT-4 days, when the 8,192 token limit meant that Markdown's token-efficiency over HTML was extremely worthwhile.&lt;/p&gt;
+&lt;p&gt;Thariq's piece here has caused me to reconsider that, especially for output. Asking Claude for an explanation in HTML means it can drop in SVG diagrams, interactive widgets, in-page navigation and all sorts of other neat ways of making the information more pleasant to navigate.&lt;/p&gt;
+&lt;p&gt;I wrote about &lt;a href="https://simonwillison.net/2025/Dec/10/html-tools/" rel="noopener noreferrer"&gt;Useful patterns for building HTML tools&lt;/a&gt; last December, but that was focused very much on interactive utilities like the ones on my &lt;a href="https://tools.simonwillison.net/" rel="noopener noreferrer"&gt;tools.simonwillison.net&lt;/a&gt; site. I'm excited to start experimenting more with rich HTML explanations in response to ad-hoc prompts.&lt;/p&gt;
+&lt;h4&gt;Trying this out on copy.fail&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href="https://copy.fail/" rel="noopener noreferrer"&gt;copy.fail&lt;/a&gt; describes a recently discovered Linux security exploit, including a proof of concept distributed as obfuscated Python.&lt;/p&gt;
+&lt;p&gt;I tried having GPT-5.5 create an HTML explanation of the exploit like this:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;curl https://copy.fail/exp | llm -m gpt-5.5 -s 'Explain this code in detail. Reformat it, expand out any confusing bits and go deep into what it does and how it works. Output HTML, neatly styled and using capabilities of HTML and CSS and JavaScript to make the explanation rich and interactive and as clear as possible'&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Here's &lt;a href="https://gisthost.github.io/?ae53e3461ffdbfd0826156aacf025c7e" rel="noopener noreferrer"&gt;the resulting HTML page&lt;/a&gt;. It's pretty good, though I should have emphasized explaining the exploit over the Python harness around it.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Screenshot of a dark-themed technical document titled &amp;quot;What this Python script does&amp;quot;. Body text: &amp;quot;This is a compact, deliberately obfuscated Linux-specific local privilege-escalation proof-of-concept. Its apparent goal is to tamper with the in-memory image/page cache of /usr/bin/su, then execute su to obtain elevated privileges.&amp;quot; A yellow-bordered callout reads: &amp;quot;Safety note: This explanation is for code understanding, reverse engineering, and defensive analysis. Do not run this on systems you do not own or administer. On a vulnerable kernel, code like this can alter the behavior of a privileged executable.&amp;quot; Left column heading &amp;quot;High-level summary&amp;quot;: &amp;quot;The script opens /usr/bin/su read-only, decompresses an embedded binary payload, and then processes that payload in 4-byte chunks. For each chunk, it performs a carefully arranged sequence involving Linux's kernel crypto socket interface, AF_ALG, pipes, and splice(). The important point is that this is not ordinary file writing. It never calls write() on /usr/bin/su. Instead, it appears to rely on a kernel bug/primitive involving spliced file pages and the crypto API to get controlled bytes placed into the page-cache representation of a privileged executable.&amp;quot; Numbered steps follow: &amp;quot;1. Open target executable — /usr/bin/su is opened read-only. 2. Decode hidden payload — A zlib-compressed hex blob is decompressed into bytes. 3. Patch in 4-byte chunks — The helper function is called repeatedly with offsets 0, 4, 8, ...&amp;quot;. Right column heading &amp;quot;Why it looks strange&amp;quot; contains a table with Pattern and Purpose columns: &amp;quot;import os as g — Short aliasing to make the script compact and harder to read. socket(38, 5, 0) — Uses raw numeric Linux constants instead of readable names. Compressed hex blob — Hides binary payload bytes and keeps the script small. splice() — Moves file-backed pages through pipes without normal user-space copying. try: recv(...) except: 0 — Triggers the kernel operation and ignores expected errors.&amp;quot;" src="https://static.simonwillison.net/static/2026/python-script-explainer.jpg"&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content:encoded>
+    </item>
     <item>
       <title>Agents and ROI</title>
       <link>https://garymarcus.substack.com/p/agents-and-roi</link>
@@ -1583,27 +1657,6 @@ llm -m openrouter/deepseek/deepseek-v4-pro 'Generate an SVG of a pelican riding 
       <guid isPermaLink="true">https://steveblank.com/2026/04/22/ai-and-teaching-the-brave-new-world/</guid>
       <pubDate>Wed, 22 Apr 2026 15:34:09 GMT</pubDate>
       <description>(8.0/10) Steve Blank 记录斯坦福课堂中 AI 对教学与学生工作方式带来的突变。文章强调这不是工具升级，而是课程设计、团队协作和学习目标都要重写。</description>
-    </item>
-    <item>
-      <title>An AI Odyssey, Part 4: Astounding Coding Agents</title>
-      <link>https://www.johndcook.com/blog/2026/04/21/an-ai-odyssey-part-4-astounding-coding-agents/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/21/an-ai-odyssey-part-4-astounding-coding-agents/</guid>
-      <pubDate>Tue, 21 Apr 2026 20:14:40 GMT</pubDate>
-      <description>(8.3/10) 作者基于亲身使用，回顾近几个月编码代理能力的明显跃迁。文章聚焦它们在真实代码库中的进步、边界与主观体验，而不是只看基准分数。</description>
-    </item>
-    <item>
-      <title>AI has no moat</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/04/22/ai-has-no-moat.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/22/ai-has-no-moat.html</guid>
-      <pubDate>Tue, 21 Apr 2026 16:00:00 GMT</pubDate>
-      <description>(8.0/10) 作者认为 AI 产品护城河被严重高估，模型与编码代理的差异更多来自封装和分发而非不可复制的核心能力。文章用尖锐口吻质疑高估值与平台垄断叙事能否持续。</description>
-    </item>
-    <item>
-      <title>brief</title>
-      <link>https://nesbitt.io/2026/04/21/brief.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/04/21/brief.html</guid>
-      <pubDate>Tue, 21 Apr 2026 10:00:00 GMT</pubDate>
-      <description>(8.9/10) 文章主张仓库应提供面向人类与 AI 编码代理的简明运行说明，回答依赖、测试、规范与风险点等关键问题。它把 repo brief 视为降低代理失误、加速上手和提升协作质量的基础设施。</description>
     </item>
   </channel>
 </rss>
