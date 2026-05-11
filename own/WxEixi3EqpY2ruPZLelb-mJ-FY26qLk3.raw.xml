@@ -1,5 +1,565 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>TLDR AI</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml</link><description>Messages from sources matching dan@tldrnewsletter.com</description><lastBuildDate>Mon, 11 May 2026 11:24:40 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml" rel="self" type="application/rss+xml"></atom:link><item><title>Rewriting React 📝, the end of software engineering 🏁, HTML vs Markdown 🤔</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-45</link><guid isPermaLink="false">own-newsletter:item:45</guid><pubDate>Mon, 11 May 2026 11:09:51 GMT</pubDate><author>TLDR Dev &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR Dev The React API was rebuilt from scratch for only TanStack Start, resulting in a ~9KB gzip size and running 2–3 times faster ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|View Online TLDR Toget...</description><content:encoded>&lt;!DOCTYPE html&gt;&lt;html lang="en"&gt;&lt;head&gt;&lt;meta http-equiv="Content-Type" content="text/html charset=UTF-8"&gt;&lt;meta charset="UTF-8"&gt;&lt;meta name="viewport" content="width=device-width"&gt;&lt;meta name="x-apple-disable-message-reformatting"&gt;&lt;title&gt;TLDR Dev&lt;/title&gt;&lt;meta name="color-scheme" content="light dark"&gt;&lt;meta name="supported-color-schemes" content="light dark"&gt;&lt;style type="text/css"&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>TLDR AI</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml</link><description>Messages from sources matching dan@tldrnewsletter.com</description><lastBuildDate>Mon, 11 May 2026 12:24:50 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml" rel="self" type="application/rss+xml"></atom:link><item><title>AI Attack Surface Expands ⚠️, Your ERP's New Coworker 🤖, Critical Infrastructure Gets a Wake-Up Call ⚡</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-46</link><guid isPermaLink="false">own-newsletter:item:46</guid><pubDate>Mon, 11 May 2026 12:09:42 GMT</pubDate><author>TLDR IT &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR IT Vercel open-sourced deepsec, a coding-agent-driven security harness that runs locally (or fans out to 1,000+ Vercel Sandboxes for parallelism) ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|Vie...</description><content:encoded>&lt;!DOCTYPE html&gt;&lt;html lang="en"&gt;&lt;head&gt;&lt;meta http-equiv="Content-Type" content="text/html charset=UTF-8"&gt;&lt;meta charset="UTF-8"&gt;&lt;meta name="viewport" content="width=device-width"&gt;&lt;meta name="x-apple-disable-message-reformatting"&gt;&lt;title&gt;TLDR IT&lt;/title&gt;&lt;meta name="color-scheme" content="light dark"&gt;&lt;meta name="supported-color-schemes" content="light dark"&gt;&lt;style type="text/css"&gt;
+			:root {
+				color-scheme: light dark; supported-color-schemes: light dark;
+			}
+			
+			*,
+			*:after,
+			*:before {
+				-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
+			}
+			
+			* {
+				-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
+			}
+			
+			html,
+			body,
+			.document {
+				width: 100% !important; height: 100% !important; margin: 0; padding: 0;
+			}
+			
+			body {
+				-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility;
+			}
+			
+			div[style*="margin: 16px 0"] {
+				margin: 0 !important;
+			}
+			
+			table,
+			td {
+				mso-table-lspace: 0pt; mso-table-rspace: 0pt;
+			}
+			
+			table {
+				border-spacing: 0; border-collapse: collapse; table-layout: fixed; margin: 0 auto;
+			}
+			
+			img {
+				-ms-interpolation-mode: bicubic; max-width: 100%; border: 0;
+			}
+			
+			*[x-apple-data-detectors] {
+				color: inherit !important; text-decoration: none !important;
+			}
+			
+			.x-gmail-data-detectors,
+			.x-gmail-data-detectors *,
+			.aBn {
+				border-bottom: 0 !important; cursor: default !important;
+			}
+			
+			.btn {
+				-webkit-transition: all 200ms ease; transition: all 200ms ease;
+			}
+			
+			.btn:hover {
+				background-color: #f67575; border-color: #f67575;
+			}
+			
+			* {
+				font-family: Arial, Helvetica, sans-serif; font-size: 18px;
+			}
+			
+			@media screen and (max-width: 600px) {
+				.container {
+					width: 100%; margin: auto;
+				}
+				.stack {
+					display: block!important; width: 100%!important; max-width: 100%!important;
+				}
+				.btn {
+					display: block; width: 100%; text-align: center;
+				}
+			}
+			
+			body,
+			p,
+			td,
+			tr,
+			.body,
+			table,
+			h1,
+			h2,
+			h3,
+			h4,
+			h5,
+			h6,
+			div,
+			span {
+				background-color: #FEFEFE !important; color: #010101 !important;
+			}
+			
+			@media (prefers-color-scheme: dark) {
+				body,
+				p,
+				td,
+				tr,
+				.body,
+				table,
+				h1,
+				h2,
+				h3,
+				h4,
+				h5,
+				h6,
+				div,
+				span {
+					background-color: #27292D !important; color: #FEFEFE !important;
+				}
+			}
+			
+			a {
+				color: inherit !important; text-decoration: underline !important;
+			}
+
+		&lt;/style&gt;&lt;!--[if mso | ie]&gt;
+		&lt;style type="text/css"&gt;
+			a {
+				background-color: #FEFEFE !important; color: #010101 !important;
+			}
+			@media (prefers-color-scheme: dark) {
+				a {
+					background-color: #27292D !important; color: #FEFEFE !important;
+				}
+			}
+	 &lt;/style&gt;
+			&lt;![endif]--&gt;&lt;/head&gt;&lt;body class=""&gt;
+
+
+
+&lt;div style="display: none; max-height: 0px; overflow: hidden;"&gt;Vercel open-sourced deepsec, a coding-agent-driven security harness that runs locally (or fans out to 1,000+ Vercel Sandboxes for parallelism)&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&lt;/div&gt;
+
+&lt;div style="display: none; max-height: 0px; overflow: hidden;"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;table align="center" class="document"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td valign="top"&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="container" width="600"&gt;&lt;tbody&gt;&lt;tr class="inner-body"&gt;&lt;td&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr class="header"&gt;&lt;td bgcolor="" class="container"&gt;
+
+&lt;table width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container"&gt;
+
+
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" style="margin-top: 0px;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding: 0px;"&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div style="text-align: center;"&gt;
+&lt;span style="margin-right: 0px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fit%3Futm_source=tldrit/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/wcaB81IuLuMFMyHnvjpjIqLxu2fXYQGdNd4Fv94riwE=452" rel="noopener noreferrer" target="_blank"&gt;&lt;span&gt;Sign Up&lt;/span&gt;&lt;/a&gt;
+|&lt;span style="margin-right: 2px; margin-left: 2px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrit%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/_BSA_GcNTCe8Fh8_fNwtKblvh66CPZuGTOHHgcNrRLk=452" rel="noopener noreferrer" target="_blank"&gt;&lt;span&gt;Advertise&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;|&lt;span style="margin-left: 2px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=149dee8c-456d-11f1-ac4d-0b323ced8894%26p=0290c62a-4d23-11f1-9eec-df7bd4313cb9%26pt=campaign%26t=1778501381%26s=ef80c62679b01f6bd27e7b15795179a76b11a160e2f0a2bdfcc472cc04a7c1a4/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/cE6lQ_EAdssfzhfhBXmxOtEUouIacd3xC9uIS4364ro=452"&gt;&lt;span&gt;View Online&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;/span&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="text-align: center;"&gt;&lt;span data-darkreader-inline-color="" style="--darkreader-inline-color:#3db3ff; color: rgb(51, 175, 255) !important; font-size: 30px;"&gt;T&lt;/span&gt;&lt;span style="font-size: 30px;"&gt;&lt;span data-darkreader-inline-color="" style="color: rgb(232, 192, 96) !important; --darkreader-inline-color:#e8c163; font-size:30px;"&gt;L&lt;/span&gt;&lt;span data-darkreader-inline-color="" style="color: rgb(101, 195, 173) !important; --darkreader-inline-color:#6ec7b2; font-size:30px;"&gt;D&lt;/span&gt;&lt;/span&gt;&lt;span data-darkreader-inline-color="" style="--darkreader-inline-color:#dd6e6e; color: rgb(220, 107, 107) !important; font-size: 30px;"&gt;R&lt;/span&gt;
+&lt;br&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;br&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr id="together-with"&gt;&lt;td align="center" height="20" style="vertical-align:middle !important;" valign="middle" width="100%"&gt;&lt;strong style="vertical-align:middle !important; height: 100%;"&gt;Together With &lt;/strong&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frunmyjobs.redwood.com%2Flp%2Fredwood-orchestration%3Futm_source=tldr%26utm_medium=listing%26utm_campaign=it_primary/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/v56OqEn2rhXRnA6L5mXbn9JvfhTkfXZ2X6xRTUYW7CQ=452"&gt;&lt;img src="https://images.tldr.tech/redwood.png" valign="middle" style="vertical-align: middle !important; height: 100%;" alt="Redwood"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+
+&lt;table style="table-layout: fixed; width:100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;"&gt;
+&lt;div style="text-align: center;"&gt;
+
+&lt;h1&gt;&lt;strong&gt;TLDR IT &lt;span id="date"&gt;2026-05-11&lt;/span&gt;&lt;/strong&gt;&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table style="table-layout: fixed; width:100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr id="sponsy-copy"&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frunmyjobs.redwood.com%2Flp%2Fredwood-orchestration%3Futm_source=tldr%26utm_medium=listing%26utm_campaign=it_primary/2/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/_VLZ2fQzs2AIhSt1Z8xFZnYlAavThcuXPIdryjPDtns=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;How UBS saved 30% and cut report production time by 45% with workload automation (Sponsor)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    UBS replaced 16 applications and automated 170+ cloud data sources with &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frunmyjobs.redwood.com%2Flp%2Fredwood-orchestration%3Futm_source=tldr%26utm_medium=listing%26utm_campaign=it_primary/3/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/gFUR4rg-njlX0z7AUU0dX7N7PnQ9wMTlOxx1g5zXIuQ=452" rel="noopener noreferrer nofollow" target="_blank"&gt;&lt;span&gt;RunMyJobs by Redwood&lt;/span&gt;&lt;/a&gt;. It's the only SAP Endorsed workload automation and a Gartner Magic Quadrant Leader with:
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;99.95% uptime SLA — 10x higher than the nearest enterprise competitor&lt;/li&gt;
+&lt;li&gt;Agentless architecture — no agents, VMs or databases to maintain&lt;/li&gt;
+&lt;li&gt;Native MCP and A2A support — your automation becomes AI-agent ready&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;👉 Over four billion SaaS executions run through RunMyJobs annually across Fortune 50 and global enterprises.&lt;/p&gt;
+
+&lt;p&gt;It's enterprise-grade orchestration built to reduce your total cost of ownership (TCO).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frunmyjobs.redwood.com%2Flp%2Fredwood-orchestration%3Futm_source=tldr%26utm_medium=listing%26utm_campaign=it_primary/4/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/heTdtQJhKT-3fMXaTwvfaQ_xaLL72yJ4b7KWo2Eh318=452" rel="noopener noreferrer nofollow" target="_blank"&gt;&lt;span&gt;Get a demo today and quantify your TCO reduction&lt;/span&gt;&lt;/a&gt;
+
+
+&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr bgcolor=""&gt;&lt;td class="container"&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding: 0px;"&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🚀&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;
+
+&lt;h1&gt;&lt;strong&gt;News &amp;amp; Trends&lt;/strong&gt;&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fk5pQ16/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/NCOnmvp8nx_oB3fE6OCf20G5WW0atN8_0m8AoUrBrT4=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Fake OpenAI repository on Hugging Face pushes infostealer malware (3 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    A malicious Hugging Face repository, Open-OSS/privacy-filter, impersonated OpenAI to distribute Rust-based infostealer malware. The repository reached 244,000 downloads before removal. The malware targets browser data, cryptocurrency wallets, and credentials, using anti-analysis techniques to evade detection. Victims should reimage machines and rotate all compromised credentials immediately.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.thenews.com.pk%2Flatest%2F1401893-microsoft-data-center-push-stalled-by-payment-issues-bloomberg-reports%3Futm_source=tldrit/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/ZMVTZBXrZrTzmTKDsmv7Ba1w9j5lwtgMVG6A-H3Vym0=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Microsoft's Kenya Data Center Hits a Payment Wall (3 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Microsoft and G42's planned $1B East Africa data center has stalled over payment guarantee demands from the Kenyan government. The project has not been canceled, but the dispute shows how AI/cloud infrastructure expansion is increasingly tied to energy, sovereign risk, and long-term capacity commitments.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cybersecuritydive.com%2Fnews%2Fcisa-ci-fortify-isolation-recovery-guidance%2F819317%2F%3Futm_source=tldrit/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/1BN2ulyfWpPcx-zURfOx4UJVaNKT8FefkXq16NVaoaU=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;CISA Tells Critical Infrastructure to Prepare for Isolation (4 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    CISA's new CI Fortify guidance urges critical infrastructure operators to plan for disruptive cyberattacks by building isolation and recovery capabilities before a crisis. The guidance is especially relevant for IT and security teams responsible for systems that may need to keep running even when vendors, networks, or cloud services are degraded.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🧠&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;
+
+&lt;h1&gt;&lt;strong&gt;Analysis &amp;amp; Opinions&lt;/strong&gt;&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+
+&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.saastr.com%2F20vc-x-saastr-the-most-aggressive-quarter-in-american-capitalism-palantirs-rule-of-145-and-why-brian-armstrong-just-killed-the-manager-of-managers%2F%3Futm_source=tldrit/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/FF5QV-_bGMTIEgtS0XM3H6u8gUcMC1VP3RwHUefrG14=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Earnings analysis: Palantir's 145% rule and the SaaS reacceleration trend (8 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Major tech firms reported $540 billion in revenue and $700 billion in AI capex, marking an aggressive quarter. Palantir achieved a 145% Rule of 40, while SaaS firms like Atlassian and Twilio show reacceleration. Success now requires both base monetization and net new customer acquisition via AI integration.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthehackernews.com%2F2026%2F05%2Fyour-ai-agents-are-already-inside.html%3Futm_source=tldrit/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/Ap1hygBWpzaJokVtTOJoqBMv5zkPn1_tBbdxq6nKYN0=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Enterprise AI Has an Identity Problem (5 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    A Hacker News piece argues that AI agents are already operating inside enterprise environments faster than IAM and governance systems can track them. The core issue is not just model risk, but delegated authority: which apps, tokens, workflows, and agents can act on behalf of users or systems.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthehackernews.com%2F2026%2F05%2Fwe-scanned-1-million-exposed-ai.html%3Futm_source=tldrit/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/Q3qBLJYqcQo38_F0poWhMa3ynyAIqOkTBV0XYkZkQa4=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Exposed AI Services Create a New Attack Surface (5 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Researchers scanned more than 1M exposed AI services and found weak defaults, misconfigurations, and public exposure across AI infrastructure. AI infra is being deployed like experimental software, but it is increasingly connected to real data and production systems.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🤝&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;
+
+&lt;h1&gt;&lt;strong&gt;Launches &amp;amp; Partnerships&lt;/strong&gt;&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F500oeT/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/25LwbR_5hL10y5SFxOsRsYsZla3YMI0DCa_1ejqm_L0=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;ServiceNow + NVIDIA Bring Governance to Autonomous AI Agents (4 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    ServiceNow and NVIDIA unveiled “Project Arc,” an autonomous desktop AI agent that can execute complex enterprise tasks while being monitored and governed through ServiceNow AI Control Tower and NVIDIA OpenShell. The partnership also extends AI governance into data centers via NVIDIA's Enterprise AI Factory and launches open-source benchmarks to measure enterprise AI agent performance.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FXoNwas/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/TnoJMlzq_MDdw9lDKetuiHaeX6MuYaVzp77LqhAZh_I=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Anthropic Signs $1.8B Akamai Cloud Deal (2 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Anthropic reportedly signed a $1.8B cloud computing deal with Akamai to support growing demand for its AI software. The deal adds another signal that AI infrastructure demand is spilling beyond the usual hyperscaler relationships.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🎁&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;&lt;strong&gt;&lt;h1&gt;Miscellaneous&lt;/h1&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcloudsquid.substack.com%2Fp%2Fyour-erp-has-a-new-coworker-heres%3Futm_source=tldrit/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/di67QpEuGUNlhUSGxXIuTpEPOKyD_Vbgtpm6daR5htY=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Integrating AI agents with enterprise ERP systems via CLI and MCP protocols (6 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    AI agents require data access, code environments, and integration layers to automate ERP tasks. While MCP offers structured tool discovery, CLI excels at handling high-volume data. SAP's new API policy restricts third-party agents, forcing developers to utilize alternative integration methods like SFTP, email, and screen automation.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.techzine.eu%2Fblogs%2Finfrastructure%2F141111%2Ffull-stack-ai-sounds-appealing-but-the-reality-of-it-environments-is-more-complex%2F%3Futm_source=tldrit/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/p1He_fC0_aY3_-SJOvAm1CnaXudQsmt81EEchPlBtPA=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;“Full-stack AI” sounds appealing, but the IT reality is more complex (7 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Full-stack AI marketing often ignores the reality of diverse, legacy-heavy IT environments. Organizations struggle to integrate turnkey AI stacks with existing VMs, containers, and proprietary systems, proving that bespoke, hybrid infrastructure designs remain essential for modern enterprise operations.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;⚡&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;
+
+&lt;h1&gt;&lt;strong&gt;Quick Links&lt;/strong&gt;&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Freleases%2Ftag%2Fv16.2.6%3Futm_source=tldrit/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/-rodgglJTD1huCTJjMvYwgoDqzZ96yldiO8Oo8IieVI=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Next.js v16.2.6 release addresses multiple critical security vulnerabilities (8 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Next.js v16.2.6 patches thirteen security vulnerabilities, including high-severity issues like Denial of Service, middleware bypass, and server-side request forgery.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnn.com%2F2026%2F05%2F05%2Ftech%2Fmicrosoft-google-xai-government-test-ai-models%3Futm_source=tldrit/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/D8a6l1c7zQGl2lLdCYP6gA0EkIh26MQVmEhVKanVe1o=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;AI Model Reviews Expand to Google, Microsoft, and xAI (2 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Microsoft, Google, and xAI agreed to give the US government early access to new AI models for national security evaluations.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+
+
+
+
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;"&gt;
+
+&lt;p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;"&gt;
+Want to advertise in TLDR? 📰
+&lt;/p&gt;
+&lt;div class="text-block" style="margin-top: 10px;"&gt;
+If your company is interested in reaching an audience of IT professionals and decision makers, you may want to &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrit%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/TtcPqp8Q27Mrzpi_DV8pcvDC1JH4jJ6QvwtO4vPlcmw=452"&gt;&lt;strong&gt;&lt;span&gt;advertise with us&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;.
+&lt;/div&gt;
+&lt;br&gt;
+
+&lt;!-- New "Want to work at TLDR?" section --&gt;
+
+&lt;p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;"&gt;
+Want to work at TLDR? 💼
+&lt;/p&gt;
+&lt;div class="text-block" style="margin-top: 10px;"&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/-EgMRReS9xE6c14-xt1gA4M7RcbrKp8llftcGRNAXWo=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;Apply here&lt;/strong&gt;&lt;/a&gt;,
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/y6-QHyWkMiKdgbuhuNkFugcFcXYFvvyW0VfeB585Svo=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;create your own role&lt;/strong&gt;&lt;/a&gt; or send a friend's resume to &lt;a href="mailto:jobs@tldr.tech" style="color: #0000EE; text-decoration: underline;"&gt;jobs@tldr.tech&lt;/a&gt; and get $1k if we hire them! TLDR is one of &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/lQ8gH0sl6Tap5IbbvIoZ7rD1gLQ3XejADn9cN14m8_E=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;Inc.'s Best Bootstrapped businesses&lt;/strong&gt;&lt;/a&gt; of 2025.
+&lt;/div&gt;
+&lt;br&gt;
+
+&lt;div class="text-block"&gt;
+If you have any comments or feedback, just respond to this email!
+&lt;br&gt;
+&lt;br&gt; Thanks for reading,
+&lt;br&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsiddhibansal%2F/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/MFHtmJ1sstv8_j3SgMZ4YZbpwCrXw_dYhw7EUXz8CLY=452"&gt;&lt;span&gt;Siddhi Bansal&lt;/span&gt;&lt;/a&gt;, &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Ftongchen-yang-877116216%2F/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/h1HlpHx0j3s9jBycmmXZfwelDHty6VqlROMTzlQC0nU=452"&gt;&lt;span&gt;Tongchen Yang&lt;/span&gt;&lt;/a&gt;, &amp;amp; &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Frushdesh%2F/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/lObAT_x6Ex0RrCGZd_wMwIEpY6UEeuHGOgPR1xZBKkA=452"&gt;&lt;span&gt;Rush Deshpande&lt;/span&gt;&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block" id="testing-id"&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fit%2Fmanage%3Femail=kob62291404%2540163.com/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/Npr3SfvyZ9RfxtIxlYlKHy1y36oihNQNrXQfOBQlXYA=452"&gt;Manage your subscriptions&lt;/a&gt; to our other newsletters on tech, startups, and programming. Or if TLDR IT isn't for you, please &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=db791bc2-386d-11ee-a768-4730dc8aabb1%26lc=149dee8c-456d-11f1-ac4d-0b323ced8894%26p=0290c62a-4d23-11f1-9eec-df7bd4313cb9%26pt=campaign%26pv=4%26spa=1778500829%26t=1778501381%26s=4906e93f22f9b24a440db1d9987c4bb47cb032d20bbc9272b5890bc321ff9473/1/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/8p14--1czL1XkMcliijLhOna7mAvlXRWs5PSdRJvts8=452"&gt;unsubscribe&lt;/a&gt;.
+&lt;br&gt;
+
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+
+&lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019e16f16f9a-cb6579e8-1582-4b6a-beae-fec0ea1e6708-000000/VphyTuq9ujqIzMYO3KW5O47PEcX5spgEp0qTnFPAq8I=452" style="display: none; width: 1px; height: 1px;"&gt;
+&lt;/body&gt;&lt;/html&gt;</content:encoded></item><item><title>Rewriting React 📝, the end of software engineering 🏁, HTML vs Markdown 🤔</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-45</link><guid isPermaLink="false">own-newsletter:item:45</guid><pubDate>Mon, 11 May 2026 11:09:51 GMT</pubDate><author>TLDR Dev &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR Dev The React API was rebuilt from scratch for only TanStack Start, resulting in a ~9KB gzip size and running 2–3 times faster ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|View Online TLDR Toget...</description><content:encoded>&lt;!DOCTYPE html&gt;&lt;html lang="en"&gt;&lt;head&gt;&lt;meta http-equiv="Content-Type" content="text/html charset=UTF-8"&gt;&lt;meta charset="UTF-8"&gt;&lt;meta name="viewport" content="width=device-width"&gt;&lt;meta name="x-apple-disable-message-reformatting"&gt;&lt;title&gt;TLDR Dev&lt;/title&gt;&lt;meta name="color-scheme" content="light dark"&gt;&lt;meta name="supported-color-schemes" content="light dark"&gt;&lt;style type="text/css"&gt;
 			:root {
 				color-scheme: light dark; supported-color-schemes: light dark;
 			}
