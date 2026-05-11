@@ -5,8 +5,32 @@
     <link>http://rss.longlone.de5.net</link>
     <description>Codex-curated preferred RSS items</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 10 May 2026 20:35:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 02:36:42 GMT</lastBuildDate>
     <atom:link href="http://rss.longlone.de5.net/rss-akrss-preferred.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quoting New York Times Editors’ Note</title>
+      <link>https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything</guid>
+      <pubDate>Sun, 10 May 2026 23:58:49 GMT</pubDate>
+      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
+      <description>(8.2/10) 《纽约时报》更正文称，先前把皮埃尔·波利耶夫的观点写成引号内原话，其实来自AI生成的摘要。事件凸显新闻编辑流程中对AI输出核验不足，以及把概述误当可归因引语的风险。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+
+
+&lt;p&gt;10th May 2026&lt;/p&gt;
+&lt;div&gt;
+
+&lt;blockquote cite="https://www.nytimes.com/2026/04/14/world/canada/election-carney-liberal-party.html"&gt;&lt;p&gt;&lt;em&gt;This article was updated after The Times learned that a remark attributed to Pierre Poilievre, the Conservative leader, was in fact an A.I.-generated summary of his views about Canadian politics that A.I. rendered as a quotation. The reporter should have checked the accuracy of what the A.I. tool returned.  The article now accurately quotes from a speech delivered by Mr. Poilievre in April. [...] He did not refer to politicians who changed allegiances as turncoats in that speech.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;— &lt;a href="https://www.nytimes.com/2026/04/14/world/canada/election-carney-liberal-party.html" rel="noopener noreferrer"&gt;New York Times Editors’ Note&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;</content:encoded>
+    </item>
     <item>
       <title>Misplaced panic over AI progress</title>
       <link>https://garymarcus.substack.com/p/misplaced-panic-over-ai-progress</link>
@@ -1668,13 +1692,6 @@ llm -m openrouter/deepseek/deepseek-v4-pro 'Generate an SVG of a pelican riding 
 &lt;p&gt;I hope that this isn’t true. It would be really unfortunate for software engineers. But it would be even more unfortunate if it were true and we refused to acknowledge it.&lt;/p&gt;
 &lt;p&gt;The career of a pro athlete has a maximum lifespan of around fifteen years. You have the opportunity to make a lot of money until around your mid-thirties, at which point your body just can’t keep up with it. A common tragic figure today is the professional athlete who believes the show will go on forever and doesn’t prepare for the day they can’t do it anymore. We may be in the first generation of software engineers in the same position. If so, it’s probably a good idea to plan accordingly.&lt;/p&gt;
 &lt;p&gt;Here's a preview of a related post that shares tags with this one.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;Luddites and burning down AI datacenters&lt;/p&gt;&lt;div&gt;&lt;p&gt;Is it time to start burning down datacenters?&lt;/p&gt;&lt;p&gt;Some people think so. An Indianapolis city council member had his house recently &lt;a href="https://www.kbtx.com/2026/04/07/councilman-says-someone-fired-shots-his-home-left-no-data-centers-note/" rel="noopener noreferrer"&gt;shot up&lt;/a&gt; for supporting datacenters, and Sam Altman’s home was &lt;a href="https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/" rel="noopener noreferrer"&gt;firebombed&lt;/a&gt; (and then &lt;a href="https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/" rel="noopener noreferrer"&gt;shot&lt;/a&gt;) shortly afterwards. People from all sides of the argument are &lt;a href="https://www.bloodinthemachine.com/p/why-the-ai-backlash-has-turned-violent" rel="noopener noreferrer"&gt;sounding&lt;/a&gt; the &lt;a href="https://thesoufancenter.org/intelbrief-2025-november-5/" rel="noopener noreferrer"&gt;alarm&lt;/a&gt; about imminent violence.&lt;/p&gt;&lt;p&gt;The obvious historical comparison is &lt;a href="https://en.wikipedia.org/wiki/Luddite" rel="noopener noreferrer"&gt;Luddism&lt;/a&gt;, the 19th-century phenomenon where English weavers and knitters destroyed the machines that were automating their work, and (in some cases) killed the machines’ owners. Anti-AI people are &lt;a href="https://www.theguardian.com/commentisfree/article/2024/jul/27/harm-ai-artificial-intelligence-backlash-human-labour" rel="noopener noreferrer"&gt;reclaiming&lt;/a&gt; the term to describe themselves, and many of the leading lights of the anti-AI movement (like &lt;a href="https://www.bloodinthemachine.com/" rel="noopener noreferrer"&gt;Brian Merchant&lt;/a&gt; or &lt;a href="https://www.versobooks.com/en-gb/products/688-breaking-things-at-work?srsltid=AfmBOorCgru7ReSwbVdt40nZmQaaeGfbpjLV7epM0fSv_V01QSY5b5TP" rel="noopener noreferrer"&gt;Gavin Mueller&lt;/a&gt;) have written books arguing more or less that the Luddites were right, and we ought to follow their example in order to resist AI automation.&lt;br&gt;&lt;a href="https://seangoedecke.com/luddites-and-ai-datacenters/" rel="noopener noreferrer"&gt;Continue reading...&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Nilay Patel: ‘Beware Software Brain’</title>
-      <link>https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation</link>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation</guid>
-      <pubDate>Thu, 23 Apr 2026 20:13:49 GMT</pubDate>
-      <description>(8.7/10) Nilay Patel 认为公众对 AI 的反感，源于科技行业试图用数据库和自动化逻辑重写一切人类流程。文章把 AI 反弹解释为对“软件脑”世界观的抵触，而不只是对某个模型的讨厌。</description>
     </item>
   </channel>
 </rss>
