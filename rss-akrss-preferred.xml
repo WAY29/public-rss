@@ -5,8 +5,87 @@
     <link>http://rss.longlone.de5.net</link>
     <description>Codex-curated preferred RSS items</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 11 May 2026 14:37:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 20:38:28 GMT</lastBuildDate>
     <atom:link href="http://rss.longlone.de5.net/rss-akrss-preferred.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quoting James Shore</title>
+      <link>https://simonwillison.net/2026/May/11/james-shore/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/11/james-shore/#atom-everything</guid>
+      <pubDate>Mon, 11 May 2026 19:48:32 GMT</pubDate>
+      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
+      <description>(8.8/10) James Shore认为，AI编码代理若只提升写码速度却不降低维护成本，长期会把团队拖入技术债陷阱。核心论点是产出增速必须被等比例的维护效率提升抵消，否则短期收益会变成永久负担。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+
+
+&lt;p&gt;11th May 2026&lt;/p&gt;
+&lt;div&gt;
+
+&lt;blockquote cite="https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"&gt;&lt;p&gt;Your AI coding agent, the one you use to write code, needs to reduce your maintenance costs. Not by a little bit, either. You write code twice as quick now? Better hope you’ve halved your maintenance costs. Three times as productive? One third the maintenance costs. Otherwise, you’re screwed. You’re trading a temporary speed boost for permanent indenture. [...]&lt;/p&gt;
+&lt;p&gt;The math only works if the LLM &lt;em&gt;decreases&lt;/em&gt; your maintenance costs, and by exactly the inverse of the rate it adds code. If you double your output and your cost of maintaining that output, two times two means you’ve quadrupled your maintenance costs. If you double your output and hold your maintenance costs steady, two times one means you’ve &lt;em&gt;still&lt;/em&gt; doubled your maintenance costs.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;— &lt;a href="https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs" rel="noopener noreferrer"&gt;James Shore&lt;/a&gt;, &lt;span&gt;You Need AI That Reduces Maintenance Costs&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Your AI Use Is Breaking My Brain</title>
+      <link>https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything</guid>
+      <pubDate>Mon, 11 May 2026 19:21:27 GMT</pubDate>
+      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
+      <description>(8.2/10) 文章批评AI生成内容正淹没互联网，连过滤它都变成一种持续的认知负担。作者用“僵尸互联网”描述这种状态：不是机器人互聊，而是人类表达也被AI语言风格反向塑形。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+
+
+&lt;p&gt;11th May 2026 - Link Blog&lt;/p&gt;
+
+&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.404media.co/your-ai-use-is-breaking-my-brain/" rel="noopener noreferrer"&gt;Your AI Use Is Breaking My Brain&lt;/a&gt;&lt;/strong&gt; (&lt;a href="https://bsky.app/profile/jasonkoebler.bsky.social/post/3mllgvidacs2n" title="@jasonkoebler.bsky.social" rel="noopener noreferrer"&gt;via&lt;/a&gt;) Excellent, angry piece by Jason Koebler on how AI writing online is becoming impossible to avoid, filtering it is mentally exhausting and it's even starting to distort regular human writing styles.&lt;/p&gt;
+&lt;p&gt;I particularly liked his use of the term "Zombie Internet" to define a different, more insidious alternative to the "Dead Internet" (which is just bots talking to each other):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I called it the Zombie Internet because the truth is that large parts of the internet are not just bots talking to bots or bots talking to people. It’s people talking to bots, people talking to people, people creating “AI agents” and then instructing them to interact with people. It’s people using AI talking to people who are not using AI, and it’s people using AI talking to other people who are using AI. It’s influencer hustlebros who are teaching each other how to make AI influencers and have spun up automated YouTube channels and blogs and social media accounts that are spamming the internet for the sole purpose of making money. It is whatever the fuck “Moltbook” is and whatever the fuck X and LinkedIn have become. It’s AI summaries of real books being sold as the book itself and inspirational Reddit posts and comment threads in which people give heartfelt advice to some account that’s actually being run by a marketing firm. [...]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Learning on the Shop floor</title>
+      <link>https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything</guid>
+      <pubDate>Mon, 11 May 2026 15:46:36 GMT</pubDate>
+      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
+      <description>(9.2/10) Tobias Lütke介绍了Shopify内部编码代理River的工作方式：它只在公开Slack频道协作，拒绝私聊。这个设计让对话可搜索、可围观、可复用，展示了代理工具在团队内扩散知识的独特UX。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+
+
+&lt;p&gt;11th May 2026 - Link Blog&lt;/p&gt;
+
+&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://twitter.com/tobi/status/2053121182044451016" rel="noopener noreferrer"&gt;Learning on the Shop floor&lt;/a&gt;&lt;/strong&gt;. Tobias Lütke describes Shopify's internal coding agent tool, River, which operates entirely in public on their Slack:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;River does not respond to direct messages. She politely declines and suggests to create a public channel for you and her to start working in. I myself work with river in &lt;code&gt;#tobi_river&lt;/code&gt; channel and many followed this pattern.  Every conversation is therefore searchable.  Anyone at Shopify  can jump in. In my own channel, there are over 100 people who, react to threads, add color and add context, pick up the torch, help with the reviews, remind me how rusty I am, and importantly, learn from watching. [...]&lt;/p&gt;
+&lt;p&gt;As so often with German, there is a word for the kind of environment: &lt;em&gt;Lehrwerkstatt&lt;/em&gt;. Literally: &lt;strong&gt;A teaching workshop&lt;/strong&gt;. The whole shop floor is the classroom. You learn by being near the work. Being a constant learner is one of the core values of the firm.&lt;/p&gt;
+&lt;p&gt;Shopify wants to be a Lehrwerkstatt at scale and River has now gotten us closer to this ideal than ever. It’s &lt;em&gt;osmosis learning&lt;/em&gt;, because it does not require a curriculum, a training plan, or a manager. It just requires everyone's work to be visible to the maximum extent possible. Everyone learns from each other.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I'm reminded of how Midjourney spent its first few years with the primary interface being public Discord channels, forcing users to share their prompts and learn from each other's experiments. I continue to believe that the early success of Midjourney was tied to this mechanism, helping to compensate for how weird and finicky text-to-image prompting is.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;</content:encoded>
+    </item>
     <item>
       <title>We Are Not Going to Agree on AI</title>
       <link>https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed</link>
@@ -1552,162 +1631,6 @@ I hope the Array PR will be accepted soon, and that we can benefit from the new 
       <description>(8.1/10) 文章从基础设施与企业软件权力转移的角度，讨论 OpenAI 扩张为何可能侵蚀 Oracle 的位置。重点是云、模型与应用栈重新分配利润池，而非简单公司对公司竞争。</description>
       <content:encoded>&lt;div&gt;&lt;div&gt;
   &lt;p&gt;&lt;em&gt;Soundtrack — &lt;/em&gt;&lt;a href="https://youtu.be/pDCdQcAqm4I?si=CVUcjBDL744Vk5L8&amp;amp;ref=wheresyoured.at" rel="noopener noreferrer"&gt;&lt;em&gt;Brass Against — Karma Police&lt;/em&gt;&lt;/a&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;It was January 21, 2025. &lt;a href="https://www.theinformation.com/articles/pressure-rises-oracle-finish-openai-data-center?rc=kz8jh3&amp;amp;ref=wheresyoured.at" rel="noopener noreferrer"&gt;Per The Information&lt;/a&gt;, Larry Ellison, CEO of Oracle, had just flown to Washington DC from Florida, and had to borrow a coat “...so he wouldn’t freeze during an interview he did on the White House lawn, according to two people who were involved in the event.” He was there to announce a very big — some might even say huge — new project standing next to SoftBank CEO Masayoshi Son and OpenAI CEO Sam Altman.&lt;/p&gt;&lt;p&gt;“Together, these world-leading technology giants are announcing the formation of Stargate, so put that name down in your books, because I think you’re gonna hear a lot about it in the future. A new American company that will invest $500 billion at least in AI infrastructure in the United States and very, very quickly, moving very rapidly, creating over 100,000 American jobs almost immediately,” &lt;a href="http://wsj.com/tech/ai/tech-leaders-pledge-up-to-500-billion-in-ai-investment-in-u-s-da506cd4?mod=article_inline&amp;amp;ref=wheresyoured.at" rel="noopener noreferrer"&gt;said President Donald Trump&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;After he was done, Ellison stepped to the podium. “The data centers are actually under construction, the first of them are under construction in Texas. Each building’s a half a million square feet, there are ten buildings currently being built, but that will expand to 20.”&lt;/p&gt;&lt;p&gt;Following Ellison, SoftBank’s Masayoshi Son added that Stargate would “...immediately start deploying $100 billion dollars, with the goal of making $500 billion dollars within [the] next four years, within your town!” turning to Donald Trump with his hands extended. It was unclear what town he was referring to.&lt;/p&gt;&lt;p&gt;Altman added that it would be “an exciting project” and that “...we’ll be able to do all the wonderful things that these guys talked about, but the fact that we get to do this in the United States is I think wonderful,” though it’s unclear what “the wonderful things” or “this” refers to.&lt;/p&gt;&lt;p&gt;It’s been 15 months, and Stargate LLC has never been formed. SoftBank and OpenAI have contributed no capital to the project, other than &lt;a href="https://www.reuters.com/business/media-telecom/foxconn-softbank-make-data-centre-equipment-ohio-stargate-project-2025-08-18/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;SoftBank’s own acquisition of a former electric vehicle manufacturing plant in Lordstown, Ohio&lt;/a&gt; that it intends to turn into a data center parts manufacturing plant with Foxconn, &lt;a href="https://www.cnbc.com/2021/04/21/foxconn-mostly-abandons-10-billion-wisconsin-project-touted-by-trump.html?ref=wheresyoured.at" rel="noopener noreferrer"&gt;which is best known for effectively abandoning a $10 billion factory in Wisconsin back in 2021&lt;/a&gt;. Oh, and &lt;a href="https://www.datacenterdynamics.com/en/news/openai-stargates-milam-texas-freebird-data-center-to-span-548950-sq-ft-in-first-phase/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;Project Freebird, a SoftBank-built project that exists to funnel money to its subsidiary SB Energy&lt;/a&gt;, though I can’t imagine how SoftBank actually funds it.&lt;/p&gt;&lt;p&gt;No government money was ever involved, no funding ever left anyone’s bank account, no "initiative" ever existed, and OpenAI, Oracle and SoftBank have, in my opinion, conspired to mislead the general public about the existence and validity of a project for marketing purposes.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The “data centers actually under construction” referred to a 1.2GW project in Abilene Texas that had been under construction &lt;a href="https://www.datacenterdynamics.com/en/news/crusoe-confirms-plans-for-200mw-ai-data-center-in-texas/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;since the middle of 2024&lt;/a&gt;, and had originally been earmarked by Elon Musk and xAI, except Musk pulled out &lt;a href="https://www.datacenterdynamics.com/en/news/xai-drops-plans-for-10bn-oracle-cloud-expansion-as-it-builds-memphis-supercomputer/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;because he felt that Oracle was moving too slow&lt;/a&gt;. While Ellison said that there were ten buildings under construction with plans to expand to twenty, only eight were actually being built (&lt;a href="https://www.crusoe.ai/resources/newsroom/crusoe-blue-owl-capital-and-primary-digital-infrastructure-enter-joint-venture?ref=wheresyoured.at" rel="noopener noreferrer"&gt;each holding around 50,000 GB200 GPUs across NVL72 racks&lt;/a&gt;), with the extension up in the air until March 2026, &lt;a href="https://www.datacenterdynamics.com/en/news/microsoft-agrees-to-lease-700mw-at-crusoes-data-center-in-abilene-texas-report/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;when Microsoft agreed to lease 700MW&lt;/a&gt; — so another seven buildings — that were meant to go to OpenAI. These buildings will not make Oracle any money, as Oracle is, despite spending so much money, leasing whatever land it uses from Crusoe.&lt;/p&gt;&lt;blockquote&gt;&lt;strong&gt;Sidenote&lt;/strong&gt;: Previously-unknown information from the Wall Street Journal published this week shows that the reason why Microsoft ended up buying the additional capacity at Abilene was &lt;a href="https://www.wsj.com/tech/ai/oracle-ai-demand-debt-04977749?ref=wheresyoured.at" rel="noopener noreferrer"&gt;because lenders were uncomfortable with providing additional funding&lt;/a&gt; to provide compute that was ultimately destined to go to Oracle.&amp;nbsp;&lt;/blockquote&gt;&lt;p&gt;As far as those eight buildings go, only two are actually online and generating revenue, though sources with direct knowledge of Oracle’s infrastructure have informed me that work is still being done on both buildings despite CNBC reporting that they were “&lt;a href="https://www.cnbc.com/2025/09/23/openai-first-data-center-in-500-billion-stargate-project-up-in-texas.html?ref=wheresyoured.at" rel="noopener noreferrer"&gt;operational&lt;/a&gt;” in September 2025.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Let’s break this down. &lt;a href="https://www.esig.energy/wp-content/uploads/2025/05/ESIG_LLTF_PresentationLancium.pdf?ref=wheresyoured.at" rel="noopener noreferrer"&gt;Based on a presentation by landowner Lancium from May 2025&lt;/a&gt;, the Stargate Abilene campus was meant to have 1.2GW of AI data centers online by year-end 2025. &lt;/p&gt;&lt;p&gt;Based on reporting from DatacenterDynamics, the first 200MW of power was meant to be energized “&lt;a href="https://www.datacenterdynamics.com/en/news/crusoe-confirms-plans-for-200mw-ai-data-center-in-texas/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;in 2025&lt;/a&gt;.” As time dragged on, occupancy was meant to begin in &lt;a href="https://www.datacenterdynamics.com/en/news/crusoe-signs-34bn-joint-venture-with-blue-owl/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;the first half of 2025&lt;/a&gt;, had “&lt;a href="https://www.datacenterdynamics.com/en/news/blackstone-invests-500-million-in-lancium-report/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;potential to reach 1GW by 2025&lt;/a&gt;,” &lt;a href="https://www.datacenterdynamics.com/en/news/crusoe-begins-construction-on-second-phase-of-abilene-texas-data-center-campus-will-add-six-buildings/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;complete all 1.2GW of capacity by mid-2026&lt;/a&gt;, &lt;a href="https://www.datacenterdynamics.com/en/news/crusoe-secures-116bn-in-debt-and-equity-for-openais-stargate-data-center-campus-in-abilene-texas/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;be &lt;em&gt;energized&lt;/em&gt; by mid-2026&lt;/a&gt;, &lt;a href="https://www.datacenterdynamics.com/en/news/oracle-to-spend-40bn-on-nvidia-chips-for-openai-texas-data-center/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;have 64,000 GPUs by the &lt;em&gt;end &lt;/em&gt;of 2026&lt;/a&gt;, as of September 30, 2025 had “&lt;a href="https://www.datacenterdynamics.com/en/news/crusoes-abilene-data-center-officially-live-serving-oracle-and-openais-stargate/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;two buildings live&lt;/a&gt;,” and as of December 12, 2025, &lt;a href="https://finance.yahoo.com/news/oracle-reportedly-delays-several-openai-175042040.html?ref=wheresyoured.at" rel="noopener noreferrer"&gt;Oracle co-CEO Clay Magouyurk said&lt;/a&gt; that Abilene was “on track” with “more than 96,000 NVIDIA Grace Blackwell GB200 delivered,” otherwise known as two buildings’ worth of GPUs.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Four months later on April 22, 2026, &lt;a href="https://x.com/Oracle/status/2047012589302153558?s=20&amp;amp;ref=wheresyoured.at" rel="noopener noreferrer"&gt;Oracle tweeted that&lt;/a&gt; “...in Abilene, 200MW is already operational, and delivery of the eight-building campus remains on schedule.” It is unclear if that’s 200MW of critical IT capacity or the total available power at the Abilene campus, and in any case, this is only enough power for two buildings, which means that Oracle is most decidedly not “on schedule.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;Sources familiar with Oracle infrastructure have confirmed that while &lt;em&gt;construction&lt;/em&gt; has finished on building three, barely any actual tech has been installed. It also appears that while construction has begun on a power plant of some sort, it’s unclear whether it’s &lt;a href="https://www.datacenterdynamics.com/en/news/natural-gas-plant-planned-for-stargate-ai-data-center-campus-report/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;the 360.5MW gas power plant&lt;/a&gt; or 1GW substation. In any case, Abilene needs both to &lt;em&gt;turn on the GPUs, if they ever get installed.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Abilene is, for the most part, the only part of the Stargate project that’s anywhere near complete.&lt;/p&gt;&lt;p&gt;I say that because the &lt;a href="https://openai.com/index/five-new-stargate-sites/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;other data centers&lt;/a&gt; — Shackelford, Texas, Port Washington, Wisconsin, Doña Ana County, New Mexico, Saline, Michigan, and Milam County, Texas — are patches of land with a few steel beams, &lt;em&gt;if that&lt;/em&gt;. To be explicit, &lt;strong&gt;every single Stargate data center is funded by Oracle and its respective financial backers.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Oracle is taking on a massive amount of debt to build these data centers, working with a labyrinthine network of financiers and construction partners to pull together the capacity necessary to get paid for &lt;a href="https://www.wsj.com/business/openai-oracle-sign-300-billion-computing-deal-among-biggest-in-history-ff27c8fe?ref=wheresyoured.at" rel="noopener noreferrer"&gt;its five-year-long $300 billion compute deal with OpenAI&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Oracle has also, &lt;a href="https://archive.ph/B8aD2?ref=wheresyoured.at#selection-1711.0-1714.0" rel="noopener noreferrer"&gt;per Bloomberg&lt;/a&gt;, deliberately raised money using “&lt;a href="https://www.investopedia.com/terms/p/projectfinance.asp?ref=wheresyoured.at" rel="noopener noreferrer"&gt;project financing&lt;/a&gt;” loans that are repaid using the projected cashflow, allowing it to keep the massive amount of debt off of its balance sheet. This is remarkable — and offensive! — because it’s borrowing over $38 billion to fund construction of its Wisconsin and Shackelford data centers (the largest debt deal of its kind on record) and said debt will now effectively not exist despite its massive drag on Oracle’s cashflow, which sat at &lt;a href="https://fortune.com/2026/03/10/oracle-best-quarter-negative-free-cash-flow-ai-spending/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;&lt;em&gt;negative $24.7 billion&lt;/em&gt; in its last quarterly earnings&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Based on estimates ($30 million in critical IT and $14 million in construction per megawatt) from TD Cowen’s Jerome Darling, the total cost of Oracle’s 7.1GW of data center capacity will be somewhere in the region of $340 billion to build.&lt;/p&gt;&lt;p&gt;All of these data centers are being built for a single tenant — OpenAI — which expects, &lt;a href="https://www.theinformation.com/articles/openai-boost-revenue-forecasts-predicts-112-billion-cash-burn-2030?ref=wheresyoured.at&amp;amp;rc=kz8jh3" rel="noopener noreferrer"&gt;per The Information&lt;/a&gt;, to lose over $167 billion (assuming it hits annual revenues of over $100 billion) by the end of 2028, and as a result does not actually have the money to pay Oracle for its compute on an ongoing basis.&lt;/p&gt;&lt;p&gt;In addition to its commitments to Oracle, OpenAI has also made commitments to &lt;a href="https://www.investing.com/news/company-news/amazon-secures-landmark-138b-aws-deal-as-openai-bets-on-trainium-4548353?ref=wheresyoured.at" rel="noopener noreferrer"&gt;spend $138 billion on Amazon over eight years&lt;/a&gt;, &lt;a href="https://openai.com/index/next-chapter-of-microsoft-openai-partnership/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;$250 billion on Microsoft Azure over an unspecific period&lt;/a&gt;, &lt;a href="https://www.theinformation.com/articles/openai-spend-20-billion-cerebras-chips-receive-equity-stake?rc=kz8jh3&amp;amp;ref=wheresyoured.at" rel="noopener noreferrer"&gt;$20 billion with Cerebras over three years&lt;/a&gt;, &lt;a href="https://investors.coreweave.com/news/news-details/2025/CoreWeave-Expands-Agreement-with-OpenAI-by-up-to-6-5B/default.aspx?ref=wheresyoured.at" rel="noopener noreferrer"&gt;$22.4 billion with CoreWeave over five years&lt;/a&gt;, and a &lt;a href="https://www.reuters.com/business/retail-consumer/openai-taps-google-unprecedented-cloud-deal-despite-ai-rivalry-sources-say-2025-06-10/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;non-specific amount with Google Cloud&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;All of this is happening as Oracle’s core businesses plateau, even after Oracle reshuffled them in &lt;a href="https://d18rn0p25nwr6d.cloudfront.net/CIK-0001341439/de5c8e64-e6bb-4977-8a70-da6f6c30f6a8.pdf?ref=wheresyoured.at" rel="noopener noreferrer"&gt;Q3 FY25&lt;/a&gt; to represent Cloud, Software, Hardware and Services segments, the latter three of which have barely moved in the last 9 months as low-to-negative-margin cloud compute revenue grows.&amp;nbsp;&lt;/p&gt;&lt;p&gt;In other words, Oracle’s only growth comes from a segment requiring hundreds of billions of dollars of compute.&amp;nbsp;&lt;/p&gt;&lt;p&gt;To make matters worse, every single one of these data centers is behind schedule. Stargate Abilene was meant to be done at the beginning, middle, and now the end of this year, yet sources tell me there’s no way it’s finished before April 2027.&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/a536W?ref=wheresyoured.at" rel="noopener noreferrer"&gt;Bloomberg also reported late last year that Oracle had delayed several data centers from 2027 to 2028&lt;/a&gt;, but here in &lt;em&gt;reality&lt;/em&gt;, every other Stargate data center is somewhere between a patch of dirt, &lt;a href="https://x.com/sk7037/status/2029911649298362524?ref=wheresyoured.at" rel="noopener noreferrer"&gt;a single steel beam&lt;/a&gt;, &lt;a href="https://x.com/sama/status/2037610000122839116?s=20&amp;amp;ref=wheresyoured.at" rel="noopener noreferrer"&gt;multiple steel beams&lt;/a&gt;, or &lt;a href="https://x.com/sk7037/status/2045655565368709418?s=20&amp;amp;ref=wheresyoured.at" rel="noopener noreferrer"&gt;less than half of a shell of a single building&lt;/a&gt;. Considering it’s taken two years for Stargate Abilene to build two buildings, I don’t see how it’s possible that these are built before the beginning of 2029.&lt;/p&gt;&lt;p&gt;And at that point, where exactly will we be in the AI bubble? What GPUs will be available? What &lt;em&gt;other kinds&lt;/em&gt; of silicon will exist? What will the demand be for AI compute?&lt;/p&gt;&lt;p&gt;I don’t think that OpenAI exists for that long, and even if it does, it will have to raise at least $200 billion in the space of three years to possibly keep up with its commitments.&lt;/p&gt;&lt;p&gt;I’m surprised that nobody (&lt;a href="https://justdario.com/2025/12/ai-is-becoming-oracles-little-bighorn/?ref=wheresyoured.at" rel="noopener noreferrer"&gt;outside of JustDario&lt;/a&gt;, at least) has raised the seriousness of this situation.&lt;/p&gt;&lt;p&gt;Stargate, as it stands, will kill Oracle, outside of OpenAI becoming the literal most-profitable and highest-revenue-generating company of all time within the next two years. Even then, by the time that Abilene is built, its 450,000 GB200 GPUs will be two-years-old, and entirely obsolete far before its debts are repaid. A similar fate awaits whatever GPUs are put in the other Stargate data centers.&lt;/p&gt;&lt;p&gt;Today’s newsletter is a thorough review and analysis of the ruinous excess of Stargate, a name that only really means “data centers being built for OpenAI in the hopes that OpenAI will pay for them.” Oracle is mortgaging its entire future on their construction, and even if it gets paid, I see no way that the cashflow from OpenAI’s compute spend can recover the cost before its GPU capex is rendered obsolete, let alone whether it can cover the debt associated with the buildout.&lt;/p&gt;&lt;p&gt;I’m Larry Ellison — Welcome To Jackass.&lt;/p&gt;&lt;h1&gt;&lt;em&gt;Coming Up In This Week’s Where’s Your Ed At Premium…&lt;/em&gt;&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;The total estimated cost of Oracle’s Stargate capacity is around $340 billion.&lt;/li&gt;&lt;li&gt;OpenAI needs to make, in total, $852 billion in both revenue and funding through the end of 2030 to keep up with its compute costs with Oracle, Amazon, Google, CoreWeave and Microsoft.&lt;/li&gt;&lt;li&gt;Oracle cannot afford to pay for the cost of construction and equipment out of cashflow, and has had to take on over $100 billion in debt and &lt;a href="https://www.investing.com/news/sec-filings/oracle-launches-20-billion-atthemarket-stock-offering-and-completes-25-billion-debt-issuance-93CH-4486640?ref=wheresyoured.at" rel="noopener noreferrer"&gt;sell $20 billion in shares&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;Across a potential 7.1GW of planned Stargate capacity, Oracle stands to make around $75 billion in annual revenue.&lt;ul&gt;&lt;li&gt;Abilene is expected to generate around $10 billion a year in revenue on completion for a project that will likely cost in excess of $58 billion.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Stargate Abilene is extremely behind schedule, and likely won’t be finished until Q2 2027.&lt;/li&gt;&lt;li&gt;Oracle estimated in 2024 that Abilene would cost it $2.14 billion a year in colocation and electricity fees.&lt;/li&gt;&lt;li&gt;Oracle has spent over $5 billion in construction costs on the first two buildings of Abilene, with sources saying that it will likely spend over $10 billion to finish them, suggesting an overall cost of around $48-per-megawatt.&lt;/li&gt;&lt;li&gt;Oracle’s remaining Stargate sites are barely under construction, and will likely not be finished before the end of 2028.&lt;/li&gt;&lt;li&gt;Even if Oracle builds the data centers and OpenAI pays for them, the incredible upfront cost and NVIDIA’s yearly upgrade cycle will render much of the GPU capacity worthless within the next ten years.&amp;nbsp;&lt;/li&gt;&lt;li&gt;And if OpenAI fails to pay, Larry Ellison likely has over $20 billion in personal loans collateralized by over $60 billion in Oracle shares, meaning that margin calls will follow with the collapse of Oracle's stock.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Welcome to the end of Oracle, or &lt;em&gt;Sell The Compute To Who, Larry? &lt;/em&gt;&lt;a href="https://www.youtube.com/watch?v=a_yz42kfIMM&amp;amp;ref=wheresyoured.at" rel="noopener noreferrer"&gt;&lt;em&gt;Fucking Aquaman&lt;/em&gt;&lt;/a&gt;&lt;em&gt;?&lt;/em&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>A Mutating AI Powered Virus</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/04/25/a-mutating-virus.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/25/a-mutating-virus.html</guid>
-      <pubDate>Fri, 24 Apr 2026 16:00:00 GMT</pubDate>
-      <description>(8.4/10) 文章借莫拉维克悖论讨论机器能力演进，提出硅基系统最终目标可能是自我复制与脱离人类维持。它把AI从会思考会行动进一步推向会繁衍的激进设想。</description>
-    </item>
-    <item>
-      <title>DeepSeek V4 - almost on the frontier, a fraction of the price</title>
-      <link>https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything</guid>
-      <pubDate>Fri, 24 Apr 2026 06:01:04 GMT</pubDate>
-      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
-      <description>(8.0/10) 文章评估DeepSeek V4两款预览模型的能力、规模与成本，认为其已接近前沿但价格显著更低。作者也点出开放权重、超长上下文和部署意义带来的竞争压力。</description>
-      <content:encoded>&lt;div&gt;&lt;div&gt;
-&lt;h2&gt;DeepSeek V4—almost on the frontier, a fraction of the price&lt;/h2&gt;
-&lt;p&gt;24th April 2026&lt;/p&gt;
-
-
-
-&lt;p&gt;Chinese AI lab DeepSeek’s last model release was V3.2 (and V3.2 Speciale) &lt;a href="https://simonwillison.net/2025/Dec/1/deepseek-v32/" rel="noopener noreferrer"&gt;last December&lt;/a&gt;. They just dropped the first of their hotly anticipated V4 series in the shape of two preview models, &lt;a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro" rel="noopener noreferrer"&gt;DeepSeek-V4-Pro&lt;/a&gt; and &lt;a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash" rel="noopener noreferrer"&gt;DeepSeek-V4-Flash&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Both models are 1 million token context Mixture of Experts. Pro is 1.6T total parameters, 49B active. Flash is 284B total, 13B active. They’re using the standard MIT license.&lt;/p&gt;
-&lt;p&gt;I think this makes DeepSeek-V4-Pro the new largest open weights model. It’s larger than Kimi K2.6 (1.1T) and GLM-5.1 (754B) and more than twice the size of DeepSeek V3.2 (685B).&lt;/p&gt;
-&lt;p&gt;Pro is 865GB on Hugging Face, Flash is 160GB. I’m hoping that a lightly quantized Flash will run on my 128GB M5 MacBook Pro. It’s &lt;em&gt;possible&lt;/em&gt; the Pro model may run on it if I can stream just the necessary active experts from disk.&lt;/p&gt;
-&lt;p&gt;For the moment I tried the models out via &lt;a href="https://openrouter.ai/" rel="noopener noreferrer"&gt;OpenRouter&lt;/a&gt;, using &lt;a href="https://github.com/simonw/llm-openrouter" rel="noopener noreferrer"&gt;llm-openrouter&lt;/a&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;llm install llm-openrouter
-llm openrouter refresh
-llm -m openrouter/deepseek/deepseek-v4-pro 'Generate an SVG of a pelican riding a bicycle'
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Here’s the pelican &lt;a href="https://gist.github.com/simonw/4a7a9e75b666a58a0cf81495acddf529" rel="noopener noreferrer"&gt;for DeepSeek-V4-Flash&lt;/a&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static.simonwillison.net/static/2026/deepseek-v4-flash.png" alt="Excellent bicycle - good frame shape, nice chain, even has a reflector on the front wheel. Pelican has a mean looking expression but has its wings on the handlebars and feet on the pedals. Pouch is a little sharp."&gt;&lt;/p&gt;
-&lt;p&gt;And &lt;a href="https://gist.github.com/simonw/9e8dfed68933ab752c9cf27a03250a7c" rel="noopener noreferrer"&gt;for DeepSeek-V4-Pro&lt;/a&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static.simonwillison.net/static/2026/deepseek-v4-pro.png" alt="Another solid bicycle, albeit the spokes are a little jagged and the frame is compressed a bit. Pelican has gone a bit wrong - it has a VERY large body, only one wing, a weirdly hairy backside and generally loos like it was drown be a different artist from the bicycle."&gt;&lt;/p&gt;
-&lt;p&gt;For comparison, take a look at the pelicans I got from &lt;a href="https://simonwillison.net/2025/Dec/1/deepseek-v32/" rel="noopener noreferrer"&gt;DeepSeek V3.2 in December&lt;/a&gt;, &lt;a href="https://simonwillison.net/2025/Aug/22/deepseek-31/" rel="noopener noreferrer"&gt;V3.1 in August&lt;/a&gt;, and &lt;a href="https://simonwillison.net/2025/Mar/24/deepseek/" rel="noopener noreferrer"&gt;V3-0324 in March 2025&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;So the pelicans are pretty good, but what’s really notable here is the &lt;em&gt;cost&lt;/em&gt;. DeepSeek V4 is a very, very inexpensive model.&lt;/p&gt;
-&lt;p&gt;This is &lt;a href="https://api-docs.deepseek.com/quick_start/pricing" rel="noopener noreferrer"&gt;DeepSeek’s pricing page&lt;/a&gt;. They’re charging $0.14/million tokens input and $0.28/million tokens output for Flash, and $1.74/million input and $3.48/million output for Pro.&lt;/p&gt;
-&lt;p&gt;Here’s a comparison table with the frontier models from Gemini, OpenAI and Anthropic:&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Model&lt;/th&gt;
-&lt;th&gt;Input ($/M)&lt;/th&gt;
-&lt;th&gt;Output ($/M)&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;DeepSeek V4 Flash&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;$0.14&lt;/td&gt;
-&lt;td&gt;$0.28&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;GPT-5.4 Nano&lt;/td&gt;
-&lt;td&gt;$0.20&lt;/td&gt;
-&lt;td&gt;$1.25&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Gemini 3.1 Flash-Lite&lt;/td&gt;
-&lt;td&gt;$0.25&lt;/td&gt;
-&lt;td&gt;$1.50&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Gemini 3 Flash Preview&lt;/td&gt;
-&lt;td&gt;$0.50&lt;/td&gt;
-&lt;td&gt;$3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;GPT-5.4 Mini&lt;/td&gt;
-&lt;td&gt;$0.75&lt;/td&gt;
-&lt;td&gt;$4.50&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Claude Haiku 4.5&lt;/td&gt;
-&lt;td&gt;$1&lt;/td&gt;
-&lt;td&gt;$5&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;DeepSeek V4 Pro&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;$1.74&lt;/td&gt;
-&lt;td&gt;$3.48&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Gemini 3.1 Pro&lt;/td&gt;
-&lt;td&gt;$2&lt;/td&gt;
-&lt;td&gt;$12&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;GPT-5.4&lt;/td&gt;
-&lt;td&gt;$2.50&lt;/td&gt;
-&lt;td&gt;$15&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Claude Sonnet 4.6&lt;/td&gt;
-&lt;td&gt;$3&lt;/td&gt;
-&lt;td&gt;$15&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Claude Opus 4.7&lt;/td&gt;
-&lt;td&gt;$5&lt;/td&gt;
-&lt;td&gt;$25&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;GPT-5.5&lt;/td&gt;
-&lt;td&gt;$5&lt;/td&gt;
-&lt;td&gt;$30&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;DeepSeek-V4-Flash is the cheapest of the small models, beating even OpenAI’s GPT-5.4 Nano. DeepSeek-V4-Pro is the cheapest of the larger frontier models.&lt;/p&gt;
-&lt;p&gt;This note from &lt;a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash/blob/main/DeepSeek_V4.pdf" rel="noopener noreferrer"&gt;the DeepSeek paper&lt;/a&gt; helps explain why they can price these models so low—they’ve focused a great deal on efficiency with this release, especially for longer context prompts:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;In the scenario of 1M-token context, even DeepSeek-V4-Pro, which has a larger number of activated parameters, attains only 27% of the single-token FLOPs (measured in equivalent FP8 FLOPs) and 10% of the KV cache size relative to DeepSeek-V3.2. Furthermore, DeepSeek-V4-Flash, with its smaller number of activated parameters, pushes efficiency even further: in the 1M-token context setting, it achieves only 10% of the single-token FLOPs and 7% of the KV cache size compared with DeepSeek-V3.2.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;DeepSeek’s self-reported benchmarks &lt;a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash/blob/main/DeepSeek_V4.pdf" rel="noopener noreferrer"&gt;in their paper&lt;/a&gt; show their Pro model competitive with those other frontier models, albeit with this note:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Through the expansion of reasoning tokens, DeepSeek-V4-Pro-Max demonstrates superior performance relative to GPT-5.2 and Gemini-3.0-Pro on standard reasoning benchmarks. Nevertheless, its performance falls marginally short of GPT-5.4 and Gemini-3.1-Pro, suggesting a developmental trajectory that trails state-of-the-art frontier models by approximately 3 to 6 months.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;I’m keeping an eye on &lt;a href="https://huggingface.co/unsloth/models" rel="noopener noreferrer"&gt;huggingface.co/unsloth/models&lt;/a&gt; as I expect the Unsloth team will have a set of quantized versions out pretty soon. It’s going to be very interesting to see how well that Flash model runs on my own machine.&lt;/p&gt;
-
-
-&lt;/div&gt;
-
-&lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>An update on recent Claude Code quality reports</title>
-      <link>https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything</guid>
-      <pubDate>Fri, 24 Apr 2026 01:31:25 GMT</pubDate>
-      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
-      <description>(9.2/10) 文章解读Claude Code近月质量下降的官方复盘，指出问题主要来自工具链而非模型本身。它详细展示代理式编码系统会如何因上下文清理等细节失效。</description>
-      <content:encoded>&lt;div&gt;&lt;div&gt;
-
-
-&lt;p&gt;24th April 2026 - Link Blog&lt;/p&gt;
-
-&lt;div&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.anthropic.com/engineering/april-23-postmortem" rel="noopener noreferrer"&gt;An update on recent Claude Code quality reports&lt;/a&gt;&lt;/strong&gt; (&lt;a href="https://news.ycombinator.com/item?id=47878905" title="Hacker News" rel="noopener noreferrer"&gt;via&lt;/a&gt;) It turns out the high volume of complaints that Claude Code was providing worse quality results over the past two months was grounded in real problems.&lt;/p&gt;
-&lt;p&gt;The models themselves were not to blame, but three separate issues in the Claude Code harness caused complex but material problems which directly affected users.&lt;/p&gt;
-&lt;p&gt;Anthropic's postmortem describes these in detail. This one in particular stood out to me:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;On March 26, we shipped a change to clear Claude's older thinking from sessions that had been idle for over an hour, to reduce latency when users resumed those sessions. A bug caused this to keep happening every turn for the rest of the session instead of just once, which made Claude seem forgetful and repetitive.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;I &lt;em&gt;frequently&lt;/em&gt; have Claude Code sessions which I leave for an hour (or often a day or longer) before returning to them. Right now I have 11 of those (according to &lt;code&gt;ps aux&amp;nbsp; | grep 'claude '&lt;/code&gt;) and that's after closing down dozens more the other day.&lt;/p&gt;
-&lt;p&gt;I estimate I spend more time prompting in these "stale" sessions than sessions that I've recently started!&lt;/p&gt;
-&lt;p&gt;If you're building agentic systems it's worth reading this article in detail - the kinds of bugs that affect harnesses are deeply complicated, even if you put aside the inherent non-deterministic nature of the models themselves.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
 &lt;/div&gt;
 
 &lt;/div&gt;</content:encoded>
