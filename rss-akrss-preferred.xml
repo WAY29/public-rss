@@ -5,8 +5,49 @@
     <link>http://rss.longlone.de5.net</link>
     <description>Codex-curated preferred RSS items</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 11 May 2026 08:37:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 14:37:46 GMT</lastBuildDate>
     <atom:link href="http://rss.longlone.de5.net/rss-akrss-preferred.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We Are Not Going to Agree on AI</title>
+      <link>https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed</guid>
+      <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
+      <source url="https://idiallo.com/feed.rss">idiallo.com</source>
+      <description>(8.1/10) 文章认为人们对AI的判断会因所处场景、工作流与结果差异而长期分裂，难有统一结论。作者用开发者体验、企业案例与媒体叙事说明，AI价值更多取决于具体用法而非抽象立场。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+	
+
+&lt;p&gt;On one hand, I know a developer producing 30,000 lines of code a month. On the other, I know a developer who says AI is stupid. Each swears by their stance and has evidence to back it up. One has a working product and the other has a broken one.&lt;/p&gt;
+
+&lt;p&gt;The New York Times profiled &lt;a href="https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html" rel="noopener noreferrer"&gt;Medvi&lt;/a&gt; and reported they're on track to make $1.8 billion this year. Clearly AI worked for them... if you ignore the alleged fraud for just a second. And while Microsoft now claims that at least &lt;a href="https://idiallo.com/blog/is-30-percent-of-microsoft-code-ai-generated" rel="noopener noreferrer"&gt;30% of their code is AI-generated&lt;/a&gt;, GitHub logged 89 incidents in 90 days (&lt;a href="https://mrshu.github.io/github-statuses/" rel="noopener noreferrer"&gt;as of this writing&lt;/a&gt;). That doesn't exactly paint a bright picture of a technology firing on all cylinders.&lt;/p&gt;
+
+&lt;p&gt;If you're sitting on the sidelines trying to decide whether AI works or not, you're not going to get a clean answer. But it's still the right question to be asking.&lt;/p&gt;
+
+&lt;p&gt;I don't think we'll ever reach a consensus, because after all the hype, what we're left with is a capable tool. And apparently, that's not enough. For AI companies, it's supposed to be the alpha and the omega. Something that will both &lt;a href="https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think" rel="noopener noreferrer"&gt;kill us and save us&lt;/a&gt;, take all our jobs and liberate us at the same time. For the rest of us, if we're not afraid, it's proof we don't understand it well enough, and we'll be left behind.&lt;/p&gt;
+
+&lt;p&gt;I think of AI as a capable tool. That's it.&lt;/p&gt;
+
+&lt;p&gt;I went to Home Depot once to buy what I needed to mount a TV. I asked an employee for a stud finder, and instead of just pointing me to the aisle, he walked me there himself. I hate when they do that, it usually means they're about to try to sell you something.&lt;/p&gt;
+
+&lt;p&gt;Sure enough, in Aisle 17, his coworker was manning a caged shelf stocked with expensive-looking tools. When the cage opened, he didn't reach for the simple one I wanted. He grabbed the model loaded with 13 additional sensors. I asked if the basic one could do the job. The first employee took my side and made the case for simplicity. The second shot back: "Sure, if you don't mind drilling through a live wire!"&lt;/p&gt;
+
+&lt;p&gt;I stood there watching these two argue, trading field stories like they were one-upping each other at a bar. One of them claimed he'd worked with a guy who didn't even need a stud finder, he'd just knock on the wall three times and know exactly where to drill. I put both stud finders in my basket, thanked them both, and walked away.&lt;/p&gt;
+
+&lt;p&gt;I circled the store a few times to make sure neither of them could see me before I quietly dropped the expensive one into an empty basket near the checkout. To this day, I'm a little afraid to go back to that Home Depot.&lt;/p&gt;
+
+&lt;p&gt;The only thing that matters to me is what &lt;em&gt;I&lt;/em&gt; can do with a tool, not what the tool can theoretically do. When a tooltip pops up on my screen, I dismiss it before I've even finished reading it. I don't care about Jira's latest feature update on the sidebar. I don't care that AI can rewrite my already written ticket. I just want the stud finder to help me hang the TV. Everything else it can do holds no interest for me, especially when I'll use it for ten minutes and not touch it again for three years.&lt;/p&gt;
+
+&lt;p&gt;When I have a goal, I reach for whatever helps me get there. If you're waiting for a tool to do the work &lt;em&gt;for&lt;/em&gt; you, you're going to be disappointed. A tool's job is to make your work easier, and sometimes it does, sometimes it doesn't. Figuring out when to reach for it is on you.&lt;/p&gt;
+
+	&lt;hr&gt;
+
+	
+	&lt;/div&gt;
+
+
+
+&lt;/div&gt;</content:encoded>
+    </item>
     <item>
       <title>Quoting New York Times Editors’ Note</title>
       <link>https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything</link>
@@ -1670,28 +1711,6 @@ llm -m openrouter/deepseek/deepseek-v4-pro 'Generate an SVG of a pelican riding 
 &lt;/div&gt;
 
 &lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Software engineering may no longer be a lifetime career</title>
-      <link>https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/</guid>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://www.seangoedecke.com/rss.xml">seangoedecke.com</source>
-      <description>(8.3/10) 文章讨论AI对软件工程职业路径的长期冲击，怀疑这份工作是否还能像过去那样稳定终身。作者关注的不只是效率提升，更是岗位结构与能力边界的重写。</description>
-      <content:encoded>&lt;div&gt;&lt;p&gt;I don’t think there’s compelling evidence that using AI makes you less intelligent overall. However, it seems pretty obvious that using AI to perform a task means you don’t learn as much &lt;em&gt;about performing that task&lt;/em&gt;. Some software engineers think this is a decisive argument against the use of AI. Their argument goes something like this:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Using AI means you don’t learn as much from your work&lt;/li&gt;
-&lt;li&gt;AI-users thus become less effective engineers over time, as their technical skills atrophy&lt;/li&gt;
-&lt;li&gt;Therefore we shouldn’t use AI in our work&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;I don’t necessarily agree with (2). On the one hand, moving from assembly language to C made programmers less effective in some ways and more effective in others. On the other hand, the transition from writing code by hand to using AI is arguably a bigger shift, so who knows? But it doesn’t matter. Even if we grant that (2) is correct, &lt;strong&gt;this is still a bad argument&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Until around 2024, the best way to learn how to do software engineering was just &lt;em&gt;doing software engineering&lt;/em&gt;. That was really lucky for us! It meant that we could parlay a coding hobby into a lucrative career, and that the people who really liked the work would just get better and better over time. However, that was never an immutable fact of what software engineering is. It was just a fortunate coincidence.&lt;/p&gt;
-&lt;p&gt;It would really suck for software engineers if using AI made us worse at our jobs in the long term (or even at general reasoning, though I still don’t believe that’s true). But &lt;strong&gt;we might still be obliged to use it, if it provided enough short-term benefits&lt;/strong&gt;, for the same reason that construction workers are obliged to lift heavy objects: because that’s what we’re being paid to do.&lt;/p&gt;
-&lt;p&gt;If you work in construction, you need to lift and carry a series of heavy objects in order to be effective. But lifting heavy objects puts long-term wear on your back and joints, making you less effective over time. Construction workers don’t say that being a good construction worker means not lifting heavy objects. They say “too bad, that’s the job”.&lt;/p&gt;
-&lt;p&gt;If AI does turn out to make you dumber, why can’t we just keep writing code by hand? You can! You just might not be able to earn a salary doing so, for the same reason that there aren’t many jobs out there for carpenters who refuse to use power tools. If the models are good enough, you will simply get outcompeted by engineers willing to trade their long-term cognitive ability for a short-term lucrative career.&lt;/p&gt;
-&lt;p&gt;I hope that this isn’t true. It would be really unfortunate for software engineers. But it would be even more unfortunate if it were true and we refused to acknowledge it.&lt;/p&gt;
-&lt;p&gt;The career of a pro athlete has a maximum lifespan of around fifteen years. You have the opportunity to make a lot of money until around your mid-thirties, at which point your body just can’t keep up with it. A common tragic figure today is the professional athlete who believes the show will go on forever and doesn’t prepare for the day they can’t do it anymore. We may be in the first generation of software engineers in the same position. If so, it’s probably a good idea to plan accordingly.&lt;/p&gt;
-&lt;p&gt;Here's a preview of a related post that shares tags with this one.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;Luddites and burning down AI datacenters&lt;/p&gt;&lt;div&gt;&lt;p&gt;Is it time to start burning down datacenters?&lt;/p&gt;&lt;p&gt;Some people think so. An Indianapolis city council member had his house recently &lt;a href="https://www.kbtx.com/2026/04/07/councilman-says-someone-fired-shots-his-home-left-no-data-centers-note/" rel="noopener noreferrer"&gt;shot up&lt;/a&gt; for supporting datacenters, and Sam Altman’s home was &lt;a href="https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/" rel="noopener noreferrer"&gt;firebombed&lt;/a&gt; (and then &lt;a href="https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/" rel="noopener noreferrer"&gt;shot&lt;/a&gt;) shortly afterwards. People from all sides of the argument are &lt;a href="https://www.bloodinthemachine.com/p/why-the-ai-backlash-has-turned-violent" rel="noopener noreferrer"&gt;sounding&lt;/a&gt; the &lt;a href="https://thesoufancenter.org/intelbrief-2025-november-5/" rel="noopener noreferrer"&gt;alarm&lt;/a&gt; about imminent violence.&lt;/p&gt;&lt;p&gt;The obvious historical comparison is &lt;a href="https://en.wikipedia.org/wiki/Luddite" rel="noopener noreferrer"&gt;Luddism&lt;/a&gt;, the 19th-century phenomenon where English weavers and knitters destroyed the machines that were automating their work, and (in some cases) killed the machines’ owners. Anti-AI people are &lt;a href="https://www.theguardian.com/commentisfree/article/2024/jul/27/harm-ai-artificial-intelligence-backlash-human-labour" rel="noopener noreferrer"&gt;reclaiming&lt;/a&gt; the term to describe themselves, and many of the leading lights of the anti-AI movement (like &lt;a href="https://www.bloodinthemachine.com/" rel="noopener noreferrer"&gt;Brian Merchant&lt;/a&gt; or &lt;a href="https://www.versobooks.com/en-gb/products/688-breaking-things-at-work?srsltid=AfmBOorCgru7ReSwbVdt40nZmQaaeGfbpjLV7epM0fSv_V01QSY5b5TP" rel="noopener noreferrer"&gt;Gavin Mueller&lt;/a&gt;) have written books arguing more or less that the Luddites were right, and we ought to follow their example in order to resist AI automation.&lt;br&gt;&lt;a href="https://seangoedecke.com/luddites-and-ai-datacenters/" rel="noopener noreferrer"&gt;Continue reading...&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;</content:encoded>
     </item>
   </channel>
 </rss>
