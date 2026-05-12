@@ -1,5 +1,791 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>bensbites newsletter</title><link>https://rss.longlone.de5.net/own/aZEO13FmoqtHnU2CXKZvoF1xxobEeaXd.xml</link><description>Messages from sources matching bensbites@substack.com</description><lastBuildDate>Sat, 09 May 2026 09:52:07 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/aZEO13FmoqtHnU2CXKZvoF1xxobEeaXd.xml" rel="self" type="application/rss+xml"></atom:link><item><title>Ben's Builds #3 - an email app</title><link>https://rss.longlone.de5.net/own/aZEO13FmoqtHnU2CXKZvoF1xxobEeaXd.xml#item-42</link><guid isPermaLink="false">own-newsletter:item:42</guid><pubDate>Sat, 09 May 2026 09:25:10 GMT</pubDate><author>ben's bites &lt;bensbites@substack.com&gt;</author><description>Ben's Builds #3 - an email appThey have some challenges 😅͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏...</description><content:encoded>&lt;html lang="en" dir="ltr" style="scrollbar-width: thin;scrollbar-color: rgb(219,219,219)rgb(255,255,255);"&gt;&lt;head&gt;&lt;meta charset="utf-8"&gt;&lt;title&gt;Ben's Builds #3 - an email app&lt;/title&gt;&lt;style&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>bensbites newsletter</title><link>https://rss.longlone.de5.net/own/aZEO13FmoqtHnU2CXKZvoF1xxobEeaXd.xml</link><description>Messages from sources matching bensbites@substack.com</description><lastBuildDate>Tue, 12 May 2026 13:56:50 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/aZEO13FmoqtHnU2CXKZvoF1xxobEeaXd.xml" rel="self" type="application/rss+xml"></atom:link><item><title>Learn the system</title><link>https://rss.longlone.de5.net/own/aZEO13FmoqtHnU2CXKZvoF1xxobEeaXd.xml#item-55</link><guid isPermaLink="false">own-newsletter:item:55</guid><pubDate>Tue, 12 May 2026 13:07:51 GMT</pubDate><author>ben's bites &lt;bensbites@substack.com&gt;</author><description>Learn the systemare live models making a comeback?͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏...</description><content:encoded>&lt;html lang="en" dir="ltr" style="scrollbar-width: thin;scrollbar-color: rgb(219,219,219)rgb(255,255,255);"&gt;&lt;head&gt;&lt;meta charset="utf-8"&gt;&lt;title&gt;Learn the system&lt;/title&gt;&lt;style&gt;
+@media (max-width: 1024px) {
+  .typography .pullquote-align-left,
+  .typography.editor .pullquote-align-left,
+  .typography .pullquote-align-right,
+  .typography.editor .pullquote-align-right,
+  .typography .pullquote-align-wide,
+  .typography.editor .pullquote-align-wide,
+  .typography .pullquote-align-center,
+  .typography.editor .pullquote-align-center {
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .typography .markup table.image-wrapper img,
+  .typography.editor .markup table.image-wrapper img,
+  .typography .markup table.kindle-wrapper img,
+  .typography.editor .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+@media (min-width: 1024px) {
+  .typography:not(:has(#toc)) .captioned-image-container figure:has(&gt; a.image2-offset-left),
+  .typography.editor:not(:has(#toc)) .captioned-image-container figure:has(&gt; a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  .typography:not(:has(#toc)) .captioned-image-container figure:has(&gt; a.image2-offset-right),
+  .typography.editor:not(:has(#toc)) .captioned-image-container figure:has(&gt; a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (min-width: 1300px) {
+  .typography .captioned-image-container figure:has(&gt; a.image2-offset-left),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  .typography .captioned-image-container figure:has(&gt; a.image2-offset-right),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (max-width: 1024px) {
+  .typography,
+  .typography.editor {
+    /* Disable offset on mobile/tablet */
+  }
+  .typography .captioned-image-container figure:has(&gt; a.image2-align-left),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-align-left),
+  .typography .captioned-image-container figure:has(&gt; a.image2-align-right),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-align-right) {
+    float: none;
+    margin: 1em auto;
+    max-width: 100%;
+    width: auto;
+    padding: 0;
+  }
+  .typography .captioned-image-container figure:has(&gt; a.image2-align-left.thefp),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-align-left.thefp),
+  .typography .captioned-image-container figure:has(&gt; a.image2-align-right.thefp),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-align-right.thefp) {
+    margin: 1em auto;
+  }
+  .typography .captioned-image-container figure:has(&gt; a.image2-offset-left),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-offset-left),
+  .typography .captioned-image-container figure:has(&gt; a.image2-offset-right),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-offset-right) {
+    margin: 1em auto;
+  }
+  .typography .captioned-image-container figure:has(&gt; a.image2-align-left) .image2-inset,
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-align-left) .image2-inset,
+  .typography .captioned-image-container figure:has(&gt; a.image2-align-right) .image2-inset,
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-align-right) .image2-inset {
+    display: block;
+    justify-content: initial;
+  }
+}
+@media (max-width: 768px) {
+  .typography .markup div.sponsorship-campaign-embed,
+  .typography.editor .markup div.sponsorship-campaign-embed {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+  .typography .markup div.sponsorship-campaign-embed:first-child,
+  .typography.editor .markup div.sponsorship-campaign-embed:first-child {
+    margin-top: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.youtube-overlay,
+  .typography.editor .markup div.youtube-overlay,
+  .typography .markup div.vimeo-overlay,
+  .typography.editor .markup div.vimeo-overlay {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 370px) {
+  .typography .markup div.tiktok-wrap,
+  .typography.editor .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.embedded-publication-wrap .embedded-publication.show-subscribe,
+  .typography.editor .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 0px 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed,
+  .typography.editor .markup .twitter-embed,
+  .typography .markup .tweet,
+  .typography.editor .markup .tweet {
+    padding: 12px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed .tweet-text,
+  .typography.editor .markup .twitter-embed .tweet-text,
+  .typography .markup .tweet .tweet-text,
+  .typography.editor .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed .tweet-photos-container.two,
+  .typography.editor .markup .twitter-embed .tweet-photos-container.two,
+  .typography .markup .tweet .tweet-photos-container.two,
+  .typography.editor .markup .tweet .tweet-photos-container.two,
+  .typography .markup .twitter-embed .tweet-photos-container.three,
+  .typography.editor .markup .twitter-embed .tweet-photos-container.three,
+  .typography .markup .tweet .tweet-photos-container.three,
+  .typography.editor .markup .tweet .tweet-photos-container.three,
+  .typography .markup .twitter-embed .tweet-photos-container.four,
+  .typography.editor .markup .twitter-embed .tweet-photos-container.four,
+  .typography .markup .tweet .tweet-photos-container.four,
+  .typography.editor .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed a.expanded-link .expanded-link-img,
+  .typography.editor .markup .twitter-embed a.expanded-link .expanded-link-img,
+  .typography .markup .tweet a.expanded-link .expanded-link-img,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed a.expanded-link .expanded-link-description,
+  .typography.editor .markup .twitter-embed a.expanded-link .expanded-link-description,
+  .typography .markup .tweet a.expanded-link .expanded-link-description,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup .apple-podcast-container,
+  .typography.editor .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed img.install-substack-app-embed-img,
+  .typography.editor .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-text,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-link,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-link {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container {
+    height: 38px;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container a.comment {
+    height: 38px;
+    line-height: 38px;
+    padding-right: 10px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .share-button-container .separator {
+    display: block;
+    margin: 0;
+    height: 8px;
+    border-left: none;
+  }
+}
+@media screen and (max-width: 480px) {
+  .share-button-container a.share.first img {
+    padding-left: 0;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container a.mobile {
+    display: none !important;
+  }
+}
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container {
+    padding: 36px;
+    height: 680px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container .footer {
+    position: absolute;
+    bottom: 36px;
+    margin: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .header-anchor-parent {
+    display: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  .post {
+    padding: 16px 0 0 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-header .post-label {
+    margin-top: 8px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-header .meta-author-wrap.alternative-meta .meta-right-column .post-meta {
+    margin-top: 6px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .footer-facepile-container {
+    height: 64px;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-footer.use-separators {
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-footer.next-prev {
+    height: 64px;
+    justify-content: space-between;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-contributor-footer .post-contributor-bio-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-table-row {
+    display: flex;
+    flex-direction: row;
+  }
+  .post-contributor-footer .post-contributor-bio-userhead-cell,
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    flex-grow: 1;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table-row {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell,
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell {
+    margin: 0 0 16px 0;
+  }
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    width: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls {
+    margin: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls .button.primary {
+    width: 100%;
+  }
+  .post-contributor-footer .post-contributor-bio-text {
+    font-size: 14px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .post-silhouette {
+    padding: 32px 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-title {
+    margin-top: 10.44225025px;
+    height: 120px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta {
+    width: 75%;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta.with-byline-image {
+    margin: 20px 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    padding-right: 16px;
+  }
+}
+@media screen and (max-width: 370px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item.guest-author-publication,
+  .post-meta.alternative-meta .post-meta-item.guest-author-publication {
+    display: none;
+  }
+}
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item .post-meta-button {
+    height: 36px !important;
+    /* important to override in-line height style on emails */
+  }
+  .post-meta .post-meta-item .post-meta-button .meta-button-label {
+    display: none;
+  }
+  .post-meta .post-meta-item .post-meta-button &gt; svg {
+    margin-right: 0;
+  }
+}
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item {
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .floating-subscribe-button {
+    bottom: 20px;
+    right: 20px;
+  }
+}
+@media (max-width: 1024px) {
+  body .pullquote-align-left,
+  body .pullquote-align-right,
+  body .pullquote-align-wide,
+  body .pullquote-align-center {
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  body .markup table.image-wrapper img,
+  body .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+@media (min-width: 1024px) {
+  body:not(:has(#toc)) .captioned-image-container figure:has(&gt; a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  body:not(:has(#toc)) .captioned-image-container figure:has(&gt; a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (min-width: 1300px) {
+  body .captioned-image-container figure:has(&gt; a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  body .captioned-image-container figure:has(&gt; a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (max-width: 1024px) {
+  body {
+    /* Disable offset on mobile/tablet */
+  }
+  body .captioned-image-container figure:has(&gt; a.image2-align-left),
+  body .captioned-image-container figure:has(&gt; a.image2-align-right) {
+    float: none;
+    margin: 1em auto;
+    max-width: 100%;
+    width: auto;
+    padding: 0;
+  }
+  body .captioned-image-container figure:has(&gt; a.image2-align-left.thefp),
+  body .captioned-image-container figure:has(&gt; a.image2-align-right.thefp) {
+    margin: 1em auto;
+  }
+  body .captioned-image-container figure:has(&gt; a.image2-offset-left),
+  body .captioned-image-container figure:has(&gt; a.image2-offset-right) {
+    margin: 1em auto;
+  }
+  body .captioned-image-container figure:has(&gt; a.image2-align-left) .image2-inset,
+  body .captioned-image-container figure:has(&gt; a.image2-align-right) .image2-inset {
+    display: block;
+    justify-content: initial;
+  }
+}
+@media (max-width: 768px) {
+  body .markup div.sponsorship-campaign-embed {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+  body .markup div.sponsorship-campaign-embed:first-child {
+    margin-top: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.youtube-overlay,
+  body .markup div.vimeo-overlay {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 370px) {
+  body .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  body .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 0px 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed,
+  body .markup .tweet {
+    padding: 12px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed .tweet-text,
+  body .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed .tweet-photos-container.two,
+  body .markup .tweet .tweet-photos-container.two,
+  body .markup .twitter-embed .tweet-photos-container.three,
+  body .markup .tweet .tweet-photos-container.three,
+  body .markup .twitter-embed .tweet-photos-container.four,
+  body .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed a.expanded-link .expanded-link-img,
+  body .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed a.expanded-link .expanded-link-description,
+  body .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-link {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 500px) {
+  body .header a.logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+  }
+}
+@media screen and (max-width: 420px) {
+  body .subscription-receipt table:first-of-type .subscription-amount .subscription-discount {
+    width: 72px !important;
+  }
+}
+@media screen and (min-width: 481px) {
+  body .share-button-container {
+    height: auto;
+  }
+}
+@media screen and (max-width: 480px) {
+  body .share-button-container .separator {
+    display: block !important;
+    margin: 0 !important;
+    height: 8px !important;
+    border-left: none !important;
+  }
+}
+@media screen and (max-width: 650px) {
+  .digest .item .post-meta-item.audience {
+    display: none;
+  }
+}
+@media screen and (min-width: 500px) {
+  .digest-publication .logo img {
+    width: 42px;
+    height: 42px;
+    border-radius: 8px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .comments-page .container .comment-list .collapsed-reply {
+    margin-left: calc(10 + 32px - 24px);
+  }
+}
+@media screen and (max-width: 650px) {
+  .comment &gt; .comment-list {
+    padding-left: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .finish-magic-login-modal .modal-content .container {
+    padding: 24px 0;
+  }
+}
+@media (max-width: 650px) {
+  .reader2-text-b3 {
+    line-height: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .reader2-text-h4 {
+    line-height: 24px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .user-profile-modal {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .subscribe-widget form.form .sideBySideWrap button.rightButton {
+    padding: 10px 12px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .pub-icon:hover .logo-hover,
+  .feed-item-icon:hover .logo-hover {
+    display: block;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper {
+    width: 100%;
+    padding: 16px;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper:empty {
+    display: none;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button {
+    width: 100%;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper {
+    padding: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor {
+    padding: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor:active {
+    padding: 0;
+  }
+}
+@media only screen and (max-width: 650px) {
+  .file-embed-button.wide,
+  .file-embed-error-button.wide {
+    display: none;
+  }
+}
+@media only screen and (min-width: 630px) {
+  .file-embed-button.narrow,
+  .file-embed-error-button.narrow {
+    display: none;
+  }
+}
+@media screen and (min-width: 541px) {
+  .audio-player-wrapper .audio-player {
+    min-width: 500px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+@media (min-width: 250px) {
+  .audio-player-wrapper-fancy .audio-player {
+    padding: 32px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:last-of-type {
+    display: block;
+  }
+}
+@media (min-width: 300px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-title {
+    margin-top: 16px;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 15%;
+    width: 15%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+}
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 25%;
+    width: 25%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+@media (min-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 40%;
+    width: 40%;
+  }
+}
+@media (max-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    margin-top: 12px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button {
+    font-size: 13px;
+    padding: 6px 12px;
+    height: auto;
+    margin-top: 10px;
+  }
+}
+@media (min-width: 600px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 55%;
+    width: 55%;
+  }
+}
+@media (max-width: 650px) {
+  .poll-editor-modal {
+    min-width: calc(100% - 20px);
+  }
+}
+@media (max-width: 750px) {
+  .poll-embed .poll-anchor-target .poll-anchor-copy-button {
+    left: 8px;
+    top: 45px;
+  }
+}&lt;/style&gt;&lt;/head&gt;&lt;body class="email-body" style="font-kerning: auto;--image-offset-margin: -120px;"&gt;&lt;img src="https://eotrx.substackcdn.com/o/3df1b7aa47d38098/p.gif?token=eyJtIjoiPDIwMjYwNTEyMTMwNzUxLjMuMGRjN2EyZjUyNzk4NDExNUBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6NTAwOTEzNDY2LCJyIjoia29iNjIyOTE0MDRAMTYzLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjoxOTczMzEzMzAsInQiOiJuZXdzbGV0dGVyIiwiYSI6ImV2ZXJ5b25lIiwicyI6NDM3OTI5OSwiYyI6InBvc3QiLCJmIjp0cnVlLCJwb3NpdGlvbiI6InRvcCIsImlhdCI6MTc3ODU5MTY2MiwiZXhwIjoxNzgxMTgzNjYyLCJpc3MiOiJwdWItMCIsInN1YiI6ImVvIn0.jfgtZyctDEg-OyLgZcH2U5cFUmtf3jc10jS67qsYsv4" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/&gt;&lt;div class="preview" style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;"&gt;are live models making a comeback?&lt;/div&gt;&lt;div class="preview" style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;"&gt;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&lt;/div&gt;&lt;table class="email-body-container" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td class="content" width="550"&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td class="content" width="550" align="left"&gt;&lt;div style="font-size: 16px;line-height: 26px;max-width: 550px;width: 100%;margin: 0 auto;overflow-wrap: break-word;"&gt;&lt;table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="right" style="height:20px;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ tw-font-body tw-text-ssm tw-text-substack-secondary" style="font-family: SF Pro Text, -apple-system, system-ui, BlinkMacSystemFont, Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;font-size: 13px;color: unset;list-style: none;text-decoration: unset;margin: 0;"&gt;&lt;div class="pencraft pc-reset align-right-VJbKw5 size-12-mmZ61m reset-IxiVJZ" style="list-style: none;color: unset;text-align: right;font-size: 12px;line-height: 16px;text-decoration: unset;margin: 0;"&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" translated="" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;Forwarded this email? &lt;a class="pencraft pc-reset decoration-underline-ClTkYc reset-IxiVJZ" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYmVuc2JpdGVzLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1lbWFpbCZ1dG1fY2FtcGFpZ249ZW1haWwtc3Vic2NyaWJlJnI9OGE4YmF5Jm5leHQ9aHR0cHMlM0ElMkYlMkZ3d3cuYmVuc2JpdGVzLmNvbSUyRnAlMkZsZWFybi10aGUtc3lzdGVtIiwicCI6MTk3MzMxMzMwLCJzIjo0Mzc5Mjk5LCJmIjp0cnVlLCJ1Ijo1MDA5MTM0NjYsImlhdCI6MTc3ODU5MTY2MSwiZXhwIjoyMDk0MTY3NjYxLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.QoIwGiJOyNATluuYmJeLjpJKjZNstujvjIlTBVZTgRY?" style="list-style: none;color: unset;text-decoration: unset;margin: 0;-webkit-text-decoration-line: underline;text-decoration-line: underline;"&gt;Subscribe here&lt;/a&gt; for more&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;div class="post typography" dir="auto" style="--image-offset-margin: -120px;padding: 32px 0 0 0;font-size: 16px;line-height: 26px;"&gt;&lt;div class="post-header" role="region" aria-label="Post header" style="font-size: 16px;line-height: 26px;"&gt;&lt;h1 class="post-title published title-X77sOw" dir="auto" style="direction: auto;text-align: start;unicode-bidi: isolate;color: rgb(54,55,55);font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 0;line-height: 36px;font-size: 32px;"&gt;&lt;a href="https://substack.com/app-link/post?publication_id=4379299&amp;post_id=197331330&amp;utm_source=post-email-title&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=8a8bay&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5NzMzMTMzMCwiaWF0IjoxNzc4NTkxNjYxLCJleHAiOjE3ODExODM2NjEsImlzcyI6InB1Yi00Mzc5Mjk5Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.13raGiGBLmg-jIma4G0Qp3b3PKy-sGv-XzRj4voGHls" style="color: rgb(54,55,55);text-decoration: none;"&gt;Learn the system&lt;/a&gt;&lt;/h1&gt;&lt;h3 class="subtitle subtitle-HEEcLo" dir="auto" style="direction: auto;text-align: start;unicode-bidi: isolate;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: normal;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 4px 0 0;color: #777777;line-height: 24px;font-size: 18px;margin-top: 12px;"&gt;are live models making a comeback?&lt;/h3&gt;&lt;table class="post-meta custom alternative-meta" cellpadding="0" cellspacing="0" style="margin: 1em 0;height: 20px;align-items: center;"&gt;&lt;tbody&gt;&lt;tr style="display: flex;align-items: center;"&gt;&lt;td class="post-meta-item post-date" title="2026-05-12T13:07:50.992Z" style="position: relative;padding: 0px 12px 0px 0;height: 14px;font-size: 14px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';text-decoration: none;font-weight: 400;padding-top: 2px;padding-bottom: 2px;padding-right: 0;margin-right: 0;overflow-y: visible;overflow-x: hidden;white-space: nowrap;text-overflow: ellipsis;min-width: 0;-ms-overflow-style: none;overflow: -moz-scrollbars-none;scrollbar-width: none;color: #363737;display: flex;align-items: center;"&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" style="list-style: none;font-size: 11px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;"&gt;&lt;time datetime="2026-05-12T13:07:50.992Z" style="padding-top: 2px;padding-bottom: 2px;overflow-y: visible;overflow-x: hidden;white-space: nowrap;text-overflow: ellipsis;"&gt;May 12&lt;/time&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table class="email-ufi-2-top" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-top: 1px solid rgb(0,0,0,.1);border-bottom: 1px solid rgb(0,0,0,.1);min-width: 100%;"&gt;&lt;tbody&gt;&lt;tr height="16"&gt;&lt;td height="16" style="font-size:0px;line-height:0;"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=4379299&amp;post_id=197331330&amp;utm_source=substack&amp;isFreemail=true&amp;submitLike=true&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5NzMzMTMzMCwicmVhY3Rpb24iOiLinaQiLCJpYXQiOjE3Nzg1OTE2NjEsImV4cCI6MTc4MTE4MzY2MSwiaXNzIjoicHViLTQzNzkyOTkiLCJzdWIiOiJyZWFjdGlvbiJ9.g5dYpbTajeZXbXvou4oO22yPfrdeBAO1RIPLf0-4Y10&amp;utm_medium=email&amp;utm_campaign=email-reaction&amp;r=8a8bay" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!PeVs!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=4379299&amp;post_id=197331330&amp;utm_source=substack&amp;utm_medium=email&amp;isFreemail=true&amp;comments=true&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5NzMzMTMzMCwiaWF0IjoxNzc4NTkxNjYxLCJleHAiOjE3ODExODM2NjEsImlzcyI6InB1Yi00Mzc5Mjk5Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.13raGiGBLmg-jIma4G0Qp3b3PKy-sGv-XzRj4voGHls&amp;r=8a8bay&amp;utm_campaign=email-half-magic-comments&amp;action=post-comment&amp;utm_source=substack&amp;utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!x1tS!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=4379299&amp;post_id=197331330&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;utm_campaign=email-share&amp;action=share&amp;triggerShare=true&amp;isFreemail=true&amp;r=8a8bay&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5NzMzMTMzMCwiaWF0IjoxNzc4NTkxNjYxLCJleHAiOjE3ODExODM2NjEsImlzcyI6InB1Yi00Mzc5Mjk5Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.13raGiGBLmg-jIma4G0Qp3b3PKy-sGv-XzRj4voGHls" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!_L14!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideShare2%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-icon-button" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvYmVuc2JpdGVzL3AvbGVhcm4tdGhlLXN5c3RlbT91dG1fc291cmNlPXN1YnN0YWNrJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWVtYWlsLXJlc3RhY2stY29tbWVudCZhY3Rpb249cmVzdGFjay1jb21tZW50JnI9OGE4YmF5JnRva2VuPWV5SjFjMlZ5WDJsa0lqbzFNREE1TVRNME5qWXNJbkJ2YzNSZmFXUWlPakU1TnpNek1UTXpNQ3dpYVdGMElqb3hOemM0TlRreE5qWXhMQ0psZUhBaU9qRTNPREV4T0RNMk5qRXNJbWx6Y3lJNkluQjFZaTAwTXpjNU1qazVJaXdpYzNWaUlqb2ljRzl6ZEMxeVpXRmpkR2x2YmlKOS4xM3JhR2lHQkxtZy1qSW1hNEcwUXAzYjNQS3ktc0d2LVh6Umo0dm9HSGxzIiwicCI6MTk3MzMxMzMwLCJzIjo0Mzc5Mjk5LCJmIjp0cnVlLCJ1Ijo1MDA5MTM0NjYsImlhdCI6MTc3ODU5MTY2MSwiZXhwIjoyMDk0MTY3NjYxLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.q8RN14OtpT81JQ8weLP-ketefiLj80DBIuQVkDtCeiQ?&amp;utm_source=substack&amp;utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!ubXF!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2Fnotes__NoteRestackIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2%26strokeLinecap%3Dround%26strokeLinejoin%3Dround" width="18" height="18" alt="" style="max-width: 550px;border: none !important;vertical-align: middle;"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td align="right"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-button-outline" href="https://open.substack.com/pub/bensbites/p/learn-the-system?utm_source=email&amp;redirect=app-store&amp;utm_campaign=email-read-in-app" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"&gt;&lt;div class="email-button-spacer" style="font-size: 16px;line-height: 26px;display: inline-block;vertical-align: middle;max-width: 0;min-height: 18px;"&gt;&lt;/div&gt;&lt;span class="email-button-text" style="vertical-align: middle;margin-right: 4px"&gt;READ IN APP&lt;/span&gt;&lt;img class="icon text-icon" src="https://substackcdn.com/image/fetch/$s_!ET-_!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideArrowUpRight%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="min-width: 18px;min-height: 18px;border: none;vertical-align: middle;margin-right: 0;margin-left: 0;max-width: 18px" alt=""&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="16"&gt;&lt;td height="16" style="font-size:0px;line-height:0;"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="post typography" dir="auto" style="--image-offset-margin: -120px;padding: 32px 0 0 0;font-size: 16px;line-height: 26px;"&gt;&lt;div class="body markup" dir="auto" style="text-align: initial;font-size: 16px;line-height: 26px;width: 100%;word-break: break-word;margin-bottom: 16px;font-family: 'SF Pro Display', -apple-system, system-ui, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';font-weight: 400;"&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;margin-top: 0;"&gt;Hey folks,&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;I watched &lt;/span&gt;&lt;a href="https://substack.com/redirect/3ef63062-339d-42da-b1bc-23a30d206553?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;this&lt;/a&gt;&lt;span&gt; this morning; &amp;#8216;Agentic coding is a trap &amp;#8212; and we all fell for it&amp;#8217; - it&amp;#8217;s surprising relevant past just developers.  &lt;/span&gt;&lt;/p&gt;&lt;blockquote style="border-left: 4px solid #ea580c;margin: 20px 0;padding: 0;"&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);margin-left: 20px;line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;enjoyed this because what i took away;&lt;/span&gt;&lt;br&gt;&lt;strong&gt;learn the system&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;to me, this is the difference of vibe coding and agentic engineering. i'm actively trying to learn the system, not the syntax. &lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;syntax is what i couldn't grapple when attempting to learn to code. but the system is clicking more for me the more i build&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;im miles away from a 'competent software engineer' but im only building things for myself, so i dont *need* to be - but the more i build, the more that clicks into place. &lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;i didnt realise it when i was slinging no-code in 2018 but it was a version of learning parts of a system to get software to work (webflow - frontend, airtable - database, zapier - api/backend). it had limitations but now i replaced all of that with code. &lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;having actual competent engineers create skills and systems to help a sloppy codebase or process is helping (as well as better models). but i do rely on that for years i didnt spend learning to code. &lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;stay curious folks&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;a href="https://substack.com/redirect/69492e1d-6767-468a-bd16-46cd5baa8fef?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;tweeted it earlier&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;Link to the &lt;/span&gt;&lt;a href="https://substack.com/redirect/38d81429-7504-467a-8105-15f788f166ff?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;original blog post&lt;/a&gt;&lt;span&gt;. &lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;And I&amp;#8217;ve been tweaking my AGENTS.md + setup files - as I&amp;#8217;m getting closer with the &amp;#8216;course&amp;#8217; I&amp;#8217;m reminding myself to not let your docs slip. &lt;/p&gt;&lt;div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"&gt;&lt;figure style="width: 100%;margin: 0 auto;"&gt;&lt;table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;/td&gt;&lt;td class="content" align="left" width="1456" style="text-align: center;"&gt;&lt;a class="image-link" target="_blank" href="https://substack.com/redirect/7f83bd16-4f7b-40ef-89a8-5a44c35728aa?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"&gt;&lt;img class="wide-image" data-attrs="{&amp;quot;src&amp;quot;:&amp;quot;https://substack-post-media.s3.amazonaws.com/public/images/88f08de1-aed6-40ee-ba2d-29cd8a9dc45b_2386x1858.png&amp;quot;,&amp;quot;srcNoWatermark&amp;quot;:null,&amp;quot;fullscreen&amp;quot;:null,&amp;quot;imageSize&amp;quot;:null,&amp;quot;height&amp;quot;:1134,&amp;quot;width&amp;quot;:1456,&amp;quot;resizeWidth&amp;quot;:null,&amp;quot;bytes&amp;quot;:603817,&amp;quot;alt&amp;quot;:null,&amp;quot;title&amp;quot;:null,&amp;quot;type&amp;quot;:&amp;quot;image/png&amp;quot;,&amp;quot;href&amp;quot;:null,&amp;quot;belowTheFold&amp;quot;:false,&amp;quot;topImage&amp;quot;:true,&amp;quot;internalRedirect&amp;quot;:&amp;quot;https://www.bensbites.com/i/197331330?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88f08de1-aed6-40ee-ba2d-29cd8a9dc45b_2386x1858.png&amp;quot;,&amp;quot;isProcessing&amp;quot;:false,&amp;quot;align&amp;quot;:null,&amp;quot;offset&amp;quot;:false}" alt="" width="550" height="428.36538461538464" src="https://substackcdn.com/image/fetch/$s_!cgXh!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88f08de1-aed6-40ee-ba2d-29cd8a9dc45b_2386x1858.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"&gt;&lt;/a&gt;&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;figcaption class="image-caption" style="box-sizing: content-box;color: rgb(119,119,119);font-size: 14px;line-height: 20px;font-weight: 400;letter-spacing: -.15px;margin-top: 8px;width: 70%;padding-left: 15%;padding-right: 15%;text-align: center;"&gt;there&amp;#8217;ll be a lesson on this and i&amp;#8217;ll go thru it all&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;Oh and&amp;#8230; &lt;/p&gt;&lt;table class="twitter-embed tweet" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="TweetToDOMStatic" style="background: rgb(255,255,255);color: rgb(54,55,55);display: flex;flex-direction: column;gap: 12px;max-width: 550px;margin: 32px auto;border: 1px solid rgb(0,0,0,.1);direction: ltr;border-radius: 12px;padding: 16px 16px 12px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;line-height: 20px;font-weight: 400;box-sizing: border-box;-webkit-font-smoothing: antialiased;text-rendering: optimizelegibility;transition: color .25scubic-bezier(.19,1,.22,1),background-color .25scubic-bezier(.19,1,.22,1),box-shadow .25scubic-bezier(.19,1,.22,1),border .25scubic-bezier(.19,1,.22,1),border-radius .25scubic-bezier(.19,1,.22,1),opacity .25scubic-bezier(.19,1,.22,1),filter .25scubic-bezier(.19,1,.22,1),stroke .25scubic-bezier(.19,1,.22,1),transform .25scubic-bezier(.19,1,.22,1),scale .25scubic-bezier(.19,1,.22,1),outline .25scubic-bezier(.19,1,.22,1);margin-bottom: 20px;margin-top: 20px"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0px;"&gt;&lt;a href="https://substack.com/redirect/24f64e38-8e08-47bc-ab42-ffff2ffb3ec1?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="text-decoration:none;color:inherit;display:block;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;img class="custom-css-email-avatar avatar-QIQ5yR" src="https://substackcdn.com/image/fetch/$s_!nwqO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fprofile_images%2F1878086921726943233%2FvOx1kjeP.jpg" alt="X avatar for @bentossell" style="box-sizing: border-box;border: none;vertical-align: middle;-ms-interpolation-mode: bicubic;max-width: 100%;width: 40px;height: 40px;min-width: 40px;min-height: 40px;object-fit: cover;margin: 0px;display: inline;border-radius: 50%" width="40" height="40"&gt;&lt;/td&gt;&lt;td width="12" style="min-width:12px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-semibold-uqA4FV reset-IxiVJZ" style="list-style: none;color: unset;font-size: 13px;line-height: 20px;text-decoration: unset;margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 600;"&gt;Ben Tossell&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;font-size: 13px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;@bentossell&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="12"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-regular-mUq6Gb reset-IxiVJZ text-aFN1BV" style="list-style: none;color: unset;font-size: 15px;line-height: 20px;text-decoration: unset;margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;white-space: pre-wrap"&gt;today-i-realised @ file in an AGENTS.md also gets auto-read by your agent i kinda knew this as i'd always @ AGENTS.md in my CLAUDE.md instead of the path otherwise claude wouldn't read it only today applying it to other setups &amp;#129318;&amp;#8205;&amp;#9794;&amp;#65039;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="12"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://substackcdn.com/image/fetch/$s_!vtfI!,w_550,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHIHPdarXUAAgp8_.png" alt="Image" style="border: none;vertical-align: middle;-ms-interpolation-mode: bicubic;margin: 0 auto;display: inline;width: auto;height: auto;max-width: 100%;max-height: 420px;border-radius: 8px"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="12"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="width:100%;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;font-size: 13px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;10:47 AM &amp;#183; May 12, 2026&lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt; &amp;#183; &lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;1.22K Views&lt;/span&gt;&lt;/div&gt;&lt;div class="emailSeparator-mtbezJ" style="border-bottom: 1px solid rgb(0,0,0,.1);width: 100%;height: 0;font-size: 16px;line-height: 26px;"&gt;&lt;/div&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;font-size: 13px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;7 Replies&lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt; &amp;#183; &lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;7 Likes&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;div style="font-size: 16px;line-height: 26px;"&gt;&lt;hr style="margin: 32px 0;padding: 0;height: 1px;background: rgb(0,0,0,.1);border: none;"&gt;&lt;/div&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;em&gt;&lt;span&gt;Ben&amp;#8217;s Bites is brought to you by &lt;/span&gt;&lt;a href="https://substack.com/redirect/02b816ea-9a3a-4d5f-9cfe-257554a143f7?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Lightfield&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;blockquote style="border-left: 4px solid #ea580c;margin: 20px 0;padding: 0;"&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);margin-left: 20px;line-height: 26px;font-size: 16px;"&gt;&lt;strong&gt;Lightfield&lt;/strong&gt;&lt;span&gt; is an AI-native CRM that just shipped &lt;/span&gt;&lt;strong&gt;&lt;a href="https://substack.com/redirect/02b816ea-9a3a-4d5f-9cfe-257554a143f7?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Skills&lt;/a&gt;&lt;/strong&gt;&lt;span&gt;. Define any workflow in plain English and trigger it with a sentence. The AI agent executes against your full CRM data graph with code execution, web search, and file I/O. 3,000+ startups on the platform. &lt;/span&gt;&lt;a href="https://substack.com/redirect/02b816ea-9a3a-4d5f-9cfe-257554a143f7?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Try free&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;div style="font-size: 16px;line-height: 26px;"&gt;&lt;hr style="margin: 32px 0;padding: 0;height: 1px;background: rgb(0,0,0,.1);border: none;"&gt;&lt;/div&gt;&lt;h4 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: calc(1.125em * 1);"&gt;Headlines&lt;/h4&gt;&lt;ul style="margin-top: 0;padding: 0;"&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;span&gt;You can now work with &lt;/span&gt;&lt;strong&gt;&lt;a href="https://substack.com/redirect/060f889f-d95a-4ad4-a223-699a7ffd509e?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;all your Claude Code agents in a single window&lt;/a&gt;&lt;/strong&gt;&lt;span&gt; inside the terminal. You can see their status and reply inline to unblock when they need your input. Any running session can be moved to the agent view with /bg.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;strong&gt;&lt;a href="https://substack.com/redirect/f638fde1-3859-475b-b808-7b24c3e16a93?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Codex now works directly in Chrome&lt;/a&gt;&lt;/strong&gt;&lt;span&gt; on macOS and Windows. It can use sites and apps across tabs in the background without taking over your browser. &lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;span&gt;OpenAI also released &lt;/span&gt;&lt;strong&gt;&lt;a href="https://substack.com/redirect/735e32d0-4af1-4f4e-9173-690962353de7?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;three new Realtime models&lt;/a&gt;&lt;/strong&gt;&lt;span&gt; in the API: Realtime 2 for voice-to-voice use cases with best intelligence, Realtime Translate for audio translation across 70 input and 13 output languages, and Realtime-Whisper for live speech to text.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;span&gt;OpenAI released a cyber defence product, &lt;/span&gt;&lt;strong&gt;&lt;a href="https://substack.com/redirect/579cb3f9-e7a4-4bfd-bf99-d7b6b9543660?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Daybreak&lt;/a&gt;&lt;/strong&gt;&lt;span&gt;. Their OpenAI&amp;#8217;s answer to Anthropic&amp;#8217;s Mythos?&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;strong&gt;Thinking Machines&lt;/strong&gt;&lt;span&gt; finally have a model to show us (not letting us try though). They are calling them &lt;/span&gt;&lt;strong&gt;&lt;a href="https://substack.com/redirect/280ea6d6-43f8-4a9a-8d53-f52d81d181aa?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;interaction models&lt;/a&gt;&lt;/strong&gt;&lt;span&gt;. Basically models where you can chat with audio and video input with audio outputs. It seems really impressive for the capabilites they are claiming, for example, time awareness, simultaneous speech and visual cues, but all similar products (ChatGPT&amp;#8217;s Advanced Voice Mode, Gemini Live) fail when put in users hands.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;"&gt;&lt;strong&gt;&lt;a href="https://substack.com/redirect/32aafe35-5d7d-44d2-a452-c9f2f2ac16e1?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;OpenAI is starting a deployment company&lt;/a&gt;&lt;/strong&gt;&lt;span&gt; in partnership with major consulting firms. It acquired a 150-person AI consulting company, &amp;#8220;Tomoro&amp;#8221;, to set this up and is putting in $4B of initial investment. The goal is to work with other companies and build AI systems for them.&lt;/span&gt;&lt;/p&gt;&lt;ul style="margin-top: 0;padding: 0;"&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;I think this means they&amp;#8217;re going to effectively transform a ton of knowledge workers and upskill them to knowing how to work with agents. ie able to be a builder. And if you&amp;#8217;re a builder &amp;#8594; you can use Codex. You can see how it all links &amp;#128522; &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div style="font-size: 16px;line-height: 26px;"&gt;&lt;hr style="margin: 32px 0;padding: 0;height: 1px;background: rgb(0,0,0,.1);border: none;"&gt;&lt;/div&gt;&lt;div class="subscribe-widget is-signed-up" data-component-name="SubscribeWidget" style="margin: 0 0 1em;direction: ltr;font-size: 16px;line-height: 26px;"&gt;&lt;div class="pencraft pc-reset button-wrapper" style="text-decoration: unset;list-style: none;font-size: 16px;line-height: 26px;text-align: center;cursor: pointer;border-radius: 4px;"&gt;&lt;a class="button subscribe-btn primary" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYmVuc2JpdGVzLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGd3d3LmJlbnNiaXRlcy5jb20lMkZwJTJGbGVhcm4tdGhlLXN5c3RlbSZyPThhOGJheSZ0b2tlbj1leUoxYzJWeVgybGtJam8xTURBNU1UTTBOallzSW1saGRDSTZNVGMzT0RVNU1UWTJNU3dpWlhod0lqb3hOemd4TVRnek5qWXhMQ0pwYzNNaU9pSndkV0l0TkRNM09USTVPU0lzSW5OMVlpSTZJbU5vWldOcmIzVjBJbjAudFJRbnpsM2tGbnMyZDlVQ1pXamlmN2p2WGV6QlpHWEdSSDVsQmF1cFZHRSIsInAiOjE5NzMzMTMzMCwicyI6NDM3OTI5OSwiZiI6dHJ1ZSwidSI6NTAwOTEzNDY2LCJpYXQiOjE3Nzg1OTE2NjEsImV4cCI6MjA5NDE2NzY2MSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.q3DbSjl6eIATvm82yXAIRdppHxde9aC1F2cIHdfmCPw?&amp;utm_medium=email&amp;utm_source=subscribe-widget&amp;utm_content=197331330" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;box-sizing: border-box;cursor: pointer;border: none;border-radius: 8px;font-size: 14px;line-height: 20px;font-weight: 600;text-align: center;opacity: 1;outline: none;white-space: nowrap;text-decoration: none !important;margin: 0 auto;background-color: #ea580c;color: #ffffff !important;padding: 12px 20px;height: auto;"&gt;&lt;span style="color: #ffffff;text-decoration: none;"&gt;Upgrade to paid&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="font-size: 16px;line-height: 26px;"&gt;&lt;hr style="margin: 32px 0;padding: 0;height: 1px;background: rgb(0,0,0,.1);border: none;"&gt;&lt;/div&gt;&lt;h4 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: calc(1.125em * 1);"&gt;My feed&lt;/h4&gt;&lt;ul style="margin-top: 0;padding: 0;"&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;span&gt;Artificial Analysis is testing rank models + harness combinations together in their &lt;/span&gt;&lt;a href="https://substack.com/redirect/62bdbed2-9864-4db2-ac99-ffa61b91d571?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Coding Agent Index&lt;/a&gt;&lt;span&gt;. Among the combinations they have tested, Opus 4.7 with Cursor CLI is on top with GPT-5.5 in Codex and Opus 4.7 in Claude Code at a close second.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;span&gt;Ramp trained a small RL model with &lt;/span&gt;&lt;a href="https://substack.com/redirect/4242ccde-51e5-4a57-a366-924730958090?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Fast Ask&lt;/a&gt;&lt;span&gt; with Prime Intellect for spreadsheet Q&amp;amp;A. They say it beats Opus by 4% on exact match accuracy at Haiku latency.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;a href="https://substack.com/redirect/f35d9553-acf2-4853-90a3-fbdc414e73ab?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Replit Parallel Agents&lt;/a&gt;&lt;span&gt; lets Replit Agent break work into tasks, run them in isolated copies of your app, and merge them back after review.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;a href="https://substack.com/redirect/657c21cf-22aa-484d-b938-db6c28a15c94?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Notion Skills&lt;/a&gt;&lt;span&gt; - Brian Lovin is using a Notion database like an app store for agent skills, with two-way sync to Claude, Codex and other local agents.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;a href="https://substack.com/redirect/6207b006-1d80-47ad-aa91-47da5a42c0cd?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;React Doctor v2&lt;/a&gt;&lt;span&gt; catches bad React code from agents.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;a href="https://substack.com/redirect/7b018344-4573-4fca-9c48-4ffa4ee38c46?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Printing Press&lt;/a&gt;&lt;span&gt; - generate agent-native CLIs for apps like Linear, ESPN, Kayak, etc.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;a href="https://substack.com/redirect/16ca9e69-0a66-4713-9927-f3955e15bf58?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;The Claude Platform on AWS&lt;/a&gt;&lt;span&gt; is now generally available. AWS customers get Claude API features with AWS auth, billing and commitment retirement.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;span&gt;OpenAI&amp;#8217;s API has a new &lt;/span&gt;&lt;a href="https://substack.com/redirect/5b4af8d5-892e-452f-9f2c-bd09ca626d5a?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Files SDK&lt;/a&gt;&lt;span&gt; for object and blob storage and an &lt;/span&gt;&lt;a href="https://substack.com/redirect/0c598cfa-e359-4ac8-b124-25c0f8898144?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;OpenAI Developers plugin&lt;/a&gt;&lt;span&gt; for Codex to build faster with OpenAI APIs.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;span&gt;Parallel AI&amp;#8217;s &lt;/span&gt;&lt;a href="https://substack.com/redirect/352584cd-6c22-4ecd-bc93-0db8657081e1?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Monitor API&lt;/a&gt;&lt;span&gt; is now GA. It sends web push updates to background agents instead of agents constantly polling for changes.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;a href="https://substack.com/redirect/acb1a0ca-c4a7-4311-96a5-c2bfce265e56?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;zero-native&lt;/a&gt;&lt;span&gt; - build native desktop and mobile apps with web UI.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;span&gt;A spec for &lt;/span&gt;&lt;a href="https://substack.com/redirect/78e7ec7c-7ece-4e91-bf62-a5369a35e7af?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;how interfaces should present Markdown&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;a href="https://substack.com/redirect/672bc0c2-7dff-45c2-ac31-5ed45665d0ea?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;7 Powers in the age of AI&lt;/a&gt;&lt;span&gt; for building a company.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;a href="https://substack.com/redirect/2a4beb8d-00d7-4b9b-8d76-16995e221654?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;a framework for hackable software&lt;/a&gt;&lt;span&gt; i.e. apps that ship with their raw source code, where users can modify them using coding agents. &lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;span&gt;New research from Anthropic &lt;/span&gt;&lt;a href="https://substack.com/redirect/7b651d2c-29e7-44bb-afa8-53199ea49d4e?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;translates the inner workings of Claude into text&lt;/a&gt;&lt;span&gt; and &lt;/span&gt;&lt;a href="https://substack.com/redirect/3f38fd71-5ef4-4d7d-a6e8-5da2515a4619?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;teaches it good behaviour&lt;/a&gt;&lt;span&gt; using fictional stories.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;a href="https://substack.com/redirect/69b86038-3c0c-4c16-96b5-25a046d9b867?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Peekaboo 3.0&lt;/a&gt;&lt;span&gt; - Peter&amp;#8217;s macOS computer-use tool got action-first automation, unified screenshot + UI detection, cleaner JSON and better snapshots.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div style="font-size: 16px;line-height: 26px;"&gt;&lt;hr style="margin: 32px 0;padding: 0;height: 1px;background: rgb(0,0,0,.1);border: none;"&gt;&lt;/div&gt;&lt;h4 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: calc(1.125em * 1);"&gt;Afters&lt;/h4&gt;&lt;table class="twitter-embed tweet" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="TweetToDOMStatic" style="background: rgb(255,255,255);color: rgb(54,55,55);display: flex;flex-direction: column;gap: 12px;max-width: 550px;margin: 32px auto;border: 1px solid rgb(0,0,0,.1);direction: ltr;border-radius: 12px;padding: 16px 16px 12px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;line-height: 20px;font-weight: 400;box-sizing: border-box;-webkit-font-smoothing: antialiased;text-rendering: optimizelegibility;transition: color .25scubic-bezier(.19,1,.22,1),background-color .25scubic-bezier(.19,1,.22,1),box-shadow .25scubic-bezier(.19,1,.22,1),border .25scubic-bezier(.19,1,.22,1),border-radius .25scubic-bezier(.19,1,.22,1),opacity .25scubic-bezier(.19,1,.22,1),filter .25scubic-bezier(.19,1,.22,1),stroke .25scubic-bezier(.19,1,.22,1),transform .25scubic-bezier(.19,1,.22,1),scale .25scubic-bezier(.19,1,.22,1),outline .25scubic-bezier(.19,1,.22,1);margin-bottom: 20px;margin-top: 20px"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0px;"&gt;&lt;a href="https://substack.com/redirect/c9f33dd6-0067-42fd-a7b7-a3d9bbae98a0?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="text-decoration:none;color:inherit;display:block;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;img class="custom-css-email-avatar avatar-QIQ5yR" src="https://substackcdn.com/image/fetch/$s_!jqhq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fprofile_images%2F1274285378955026438%2F3ybpBTcF.jpg" alt="X avatar for @lenjaminbeonard" style="box-sizing: border-box;border: none;vertical-align: middle;-ms-interpolation-mode: bicubic;max-width: 100%;width: 40px;height: 40px;min-width: 40px;min-height: 40px;object-fit: cover;margin: 0px;display: inline;border-radius: 50%" width="40" height="40"&gt;&lt;/td&gt;&lt;td width="12" style="min-width:12px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-semibold-uqA4FV reset-IxiVJZ" style="list-style: none;color: unset;font-size: 13px;line-height: 20px;text-decoration: unset;margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 600;"&gt;Ben Leonard&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;font-size: 13px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;@lenjaminbeonard&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="12"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-regular-mUq6Gb reset-IxiVJZ text-aFN1BV" style="list-style: none;color: unset;font-size: 15px;line-height: 20px;text-decoration: unset;margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;white-space: pre-wrap"&gt;explorer.oxide.computer&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="12"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/l_twitter_play_button_rvaygk,w_88/q9qswhpgs3gzrxvbbywa" alt="Image" style="border: none;vertical-align: middle;-ms-interpolation-mode: bicubic;margin: 0 auto;display: inline;width: auto;height: auto;max-width: 100%;max-height: 420px;border-radius: 8px"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="12"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="width:100%;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;font-size: 13px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;2:15 PM &amp;#183; May 11, 2026&lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt; &amp;#183; &lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;39.8K Views&lt;/span&gt;&lt;/div&gt;&lt;div class="emailSeparator-mtbezJ" style="border-bottom: 1px solid rgb(0,0,0,.1);width: 100%;height: 0;font-size: 16px;line-height: 26px;"&gt;&lt;/div&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;font-size: 13px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;22 Replies&lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt; &amp;#183; &lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;59 Reposts&lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt; &amp;#183; &lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;587 Likes&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table class="twitter-embed tweet" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="TweetToDOMStatic" style="background: rgb(255,255,255);color: rgb(54,55,55);display: flex;flex-direction: column;gap: 12px;max-width: 550px;margin: 32px auto;border: 1px solid rgb(0,0,0,.1);direction: ltr;border-radius: 12px;padding: 16px 16px 12px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;line-height: 20px;font-weight: 400;box-sizing: border-box;-webkit-font-smoothing: antialiased;text-rendering: optimizelegibility;transition: color .25scubic-bezier(.19,1,.22,1),background-color .25scubic-bezier(.19,1,.22,1),box-shadow .25scubic-bezier(.19,1,.22,1),border .25scubic-bezier(.19,1,.22,1),border-radius .25scubic-bezier(.19,1,.22,1),opacity .25scubic-bezier(.19,1,.22,1),filter .25scubic-bezier(.19,1,.22,1),stroke .25scubic-bezier(.19,1,.22,1),transform .25scubic-bezier(.19,1,.22,1),scale .25scubic-bezier(.19,1,.22,1),outline .25scubic-bezier(.19,1,.22,1);margin-bottom: 20px;margin-top: 20px"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0px;"&gt;&lt;a href="https://substack.com/redirect/e2932024-9641-4b23-a291-68e7c103570a?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="text-decoration:none;color:inherit;display:block;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;img class="custom-css-email-avatar avatar-QIQ5yR" src="https://substackcdn.com/image/fetch/$s_!FoTD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fprofile_images%2F1674180174634516480%2FmiiGAx_g.jpg" alt="X avatar for @coatuemgmt" style="box-sizing: border-box;border: none;vertical-align: middle;-ms-interpolation-mode: bicubic;max-width: 100%;width: 40px;height: 40px;min-width: 40px;min-height: 40px;object-fit: cover;margin: 0px;display: inline;border-radius: 50%" width="40" height="40"&gt;&lt;/td&gt;&lt;td width="12" style="min-width:12px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-semibold-uqA4FV reset-IxiVJZ" style="list-style: none;color: unset;font-size: 13px;line-height: 20px;text-decoration: unset;margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 600;"&gt;COATUE&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;font-size: 13px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;@coatuemgmt&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="12"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-regular-mUq6Gb reset-IxiVJZ text-aFN1BV" style="list-style: none;color: unset;font-size: 15px;line-height: 20px;text-decoration: unset;margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;white-space: pre-wrap"&gt;Memory is the new bottleneck. Nick Gagnet, Coatue Sector Head, on the AI infrastructure shift and why memory demand could 5x in 5 years.&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="12"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/l_twitter_play_button_rvaygk,w_88/h9ittb6umfwnggct6nwu" alt="Image" style="border: none;vertical-align: middle;-ms-interpolation-mode: bicubic;margin: 0 auto;display: inline;width: auto;height: auto;max-width: 100%;max-height: 420px;border-radius: 8px"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="12"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="width:100%;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;font-size: 13px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;5:20 PM &amp;#183; May 11, 2026&lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt; &amp;#183; &lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;1.3M Views&lt;/span&gt;&lt;/div&gt;&lt;div class="emailSeparator-mtbezJ" style="border-bottom: 1px solid rgb(0,0,0,.1);width: 100%;height: 0;font-size: 16px;line-height: 26px;"&gt;&lt;/div&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;font-size: 13px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;81 Replies&lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt; &amp;#183; &lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;212 Reposts&lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt; &amp;#183; &lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;2.07K Likes&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table class="twitter-embed tweet" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="TweetToDOMStatic" style="background: rgb(255,255,255);color: rgb(54,55,55);display: flex;flex-direction: column;gap: 12px;max-width: 550px;margin: 32px auto;border: 1px solid rgb(0,0,0,.1);direction: ltr;border-radius: 12px;padding: 16px 16px 12px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;line-height: 20px;font-weight: 400;box-sizing: border-box;-webkit-font-smoothing: antialiased;text-rendering: optimizelegibility;transition: color .25scubic-bezier(.19,1,.22,1),background-color .25scubic-bezier(.19,1,.22,1),box-shadow .25scubic-bezier(.19,1,.22,1),border .25scubic-bezier(.19,1,.22,1),border-radius .25scubic-bezier(.19,1,.22,1),opacity .25scubic-bezier(.19,1,.22,1),filter .25scubic-bezier(.19,1,.22,1),stroke .25scubic-bezier(.19,1,.22,1),transform .25scubic-bezier(.19,1,.22,1),scale .25scubic-bezier(.19,1,.22,1),outline .25scubic-bezier(.19,1,.22,1);margin-bottom: 20px;margin-top: 20px"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0px;"&gt;&lt;a href="https://substack.com/redirect/68b0db9d-d713-47c2-b80b-e34907082015?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="text-decoration:none;color:inherit;display:block;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;img class="custom-css-email-avatar avatar-QIQ5yR" src="https://substackcdn.com/image/fetch/$s_!jQFn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fprofile_images%2F1666460461884211204%2FSmBm505D.jpg" alt="X avatar for @mattpocockuk" style="box-sizing: border-box;border: none;vertical-align: middle;-ms-interpolation-mode: bicubic;max-width: 100%;width: 40px;height: 40px;min-width: 40px;min-height: 40px;object-fit: cover;margin: 0px;display: inline;border-radius: 50%" width="40" height="40"&gt;&lt;/td&gt;&lt;td width="12" style="min-width:12px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-semibold-uqA4FV reset-IxiVJZ" style="list-style: none;color: unset;font-size: 13px;line-height: 20px;text-decoration: unset;margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 600;"&gt;Matt Pocock&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;font-size: 13px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;@mattpocockuk&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="12"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-regular-mUq6Gb reset-IxiVJZ text-aFN1BV" style="list-style: none;color: unset;font-size: 15px;line-height: 20px;text-decoration: unset;margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;white-space: pre-wrap"&gt;The more I replace plans with prototypes, the better the outputs Who'd have thought that low fidelity prototypes were better than walls of spec Oh yeah, the entire industry for 20 years Stop going against decades of knowledge because someone in SF shipped it as a 'mode'&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="12"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border:1px solid #eeeeee;border-radius:8px;padding:12px;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;img class="custom-css-email-avatar avatar-QIQ5yR" src="https://substackcdn.com/image/twitter_name/w_40/thdxr.jpg" style="box-sizing: border-box;border: none;vertical-align: middle;-ms-interpolation-mode: bicubic;max-width: 100%;width: 20px;height: 20px;min-width: 20px;min-height: 20px;object-fit: cover;margin: 0px;display: inline;border-radius: 50%" width="20" height="20"&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;div class="pencraft pc-reset line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;color: unset;font-size: 13px;line-height: 20px;text-decoration: unset;margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;&lt;span style="font-weight:600;"&gt;dax&lt;/span&gt; &lt;span style="color:#888888;"&gt;@thdxr&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="8"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;color: unset;font-size: 15px;line-height: 20px;text-decoration: unset;margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;i never make plans i hate looking at markdown i don't wanna read markdown files i just plan by having it make changes to the code then i look at the code to see what sucks then i prompt again&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="12"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="width:100%;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;font-size: 13px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;5:16 PM &amp;#183; May 7, 2026&lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt; &amp;#183; &lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;323K Views&lt;/span&gt;&lt;/div&gt;&lt;div class="emailSeparator-mtbezJ" style="border-bottom: 1px solid rgb(0,0,0,.1);width: 100%;height: 0;font-size: 16px;line-height: 26px;"&gt;&lt;/div&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;font-size: 13px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;124 Replies&lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt; &amp;#183; &lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;114 Reposts&lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt; &amp;#183; &lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;2.04K Likes&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table class="twitter-embed tweet" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="TweetToDOMStatic" style="background: rgb(255,255,255);color: rgb(54,55,55);display: flex;flex-direction: column;gap: 12px;max-width: 550px;margin: 32px auto;border: 1px solid rgb(0,0,0,.1);direction: ltr;border-radius: 12px;padding: 16px 16px 12px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;line-height: 20px;font-weight: 400;box-sizing: border-box;-webkit-font-smoothing: antialiased;text-rendering: optimizelegibility;transition: color .25scubic-bezier(.19,1,.22,1),background-color .25scubic-bezier(.19,1,.22,1),box-shadow .25scubic-bezier(.19,1,.22,1),border .25scubic-bezier(.19,1,.22,1),border-radius .25scubic-bezier(.19,1,.22,1),opacity .25scubic-bezier(.19,1,.22,1),filter .25scubic-bezier(.19,1,.22,1),stroke .25scubic-bezier(.19,1,.22,1),transform .25scubic-bezier(.19,1,.22,1),scale .25scubic-bezier(.19,1,.22,1),outline .25scubic-bezier(.19,1,.22,1);margin-bottom: 20px;margin-top: 20px"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0px;"&gt;&lt;a href="https://substack.com/redirect/f18409aa-72c1-42ba-a0f8-f3f3291930dc?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="text-decoration:none;color:inherit;display:block;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;img class="custom-css-email-avatar avatar-QIQ5yR" src="https://substackcdn.com/image/fetch/$s_!FHcY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fprofile_images%2F1900416323030581248%2FLRlv5e8n.jpg" alt="X avatar for @gabriel1" style="box-sizing: border-box;border: none;vertical-align: middle;-ms-interpolation-mode: bicubic;max-width: 100%;width: 40px;height: 40px;min-width: 40px;min-height: 40px;object-fit: cover;margin: 0px;display: inline;border-radius: 50%" width="40" height="40"&gt;&lt;/td&gt;&lt;td width="12" style="min-width:12px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-semibold-uqA4FV reset-IxiVJZ" style="list-style: none;color: unset;font-size: 13px;line-height: 20px;text-decoration: unset;margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 600;"&gt;gabriel&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;font-size: 13px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;@gabriel1&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="12"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-regular-mUq6Gb reset-IxiVJZ text-aFN1BV" style="list-style: none;color: unset;font-size: 15px;line-height: 20px;text-decoration: unset;margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;white-space: pre-wrap"&gt;when i voice prompt, i yap for 10 minutes straight and change my mind 3 times in the middle of the yap, and send it without reading yap enough tokens for the picture to be complete, it understands well when you change your mind in the middle. ai is smarter than you think&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="12"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border:1px solid #eeeeee;border-radius:8px;padding:12px;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;img class="custom-css-email-avatar avatar-QIQ5yR" src="https://substackcdn.com/image/twitter_name/w_40/dev_alexandrum.jpg" style="box-sizing: border-box;border: none;vertical-align: middle;-ms-interpolation-mode: bicubic;max-width: 100%;width: 20px;height: 20px;min-width: 20px;min-height: 20px;object-fit: cover;margin: 0px;display: inline;border-radius: 50%" width="20" height="20"&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;div class="pencraft pc-reset line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;color: unset;font-size: 13px;line-height: 20px;text-decoration: unset;margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;&lt;span style="font-weight:600;"&gt;Alex&lt;/span&gt; &lt;span style="color:#888888;"&gt;@dev_alexandrum&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="8"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;color: unset;font-size: 15px;line-height: 20px;text-decoration: unset;margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;i feel like i don&amp;#8217;t think linearly enough for speech to text prompting. i frequently change wording as i write so the pressure of having to voice the right prompt first try is frustrating&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="12"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="width:100%;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;font-size: 13px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;2:16 AM &amp;#183; May 10, 2026&lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt; &amp;#183; &lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;111K Views&lt;/span&gt;&lt;/div&gt;&lt;div class="emailSeparator-mtbezJ" style="border-bottom: 1px solid rgb(0,0,0,.1);width: 100%;height: 0;font-size: 16px;line-height: 26px;"&gt;&lt;/div&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;font-size: 13px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;71 Replies&lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt; &amp;#183; &lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;54 Reposts&lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt; &amp;#183; &lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;1.75K Likes&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table class="twitter-embed tweet" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="TweetToDOMStatic" style="background: rgb(255,255,255);color: rgb(54,55,55);display: flex;flex-direction: column;gap: 12px;max-width: 550px;margin: 32px auto;border: 1px solid rgb(0,0,0,.1);direction: ltr;border-radius: 12px;padding: 16px 16px 12px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;line-height: 20px;font-weight: 400;box-sizing: border-box;-webkit-font-smoothing: antialiased;text-rendering: optimizelegibility;transition: color .25scubic-bezier(.19,1,.22,1),background-color .25scubic-bezier(.19,1,.22,1),box-shadow .25scubic-bezier(.19,1,.22,1),border .25scubic-bezier(.19,1,.22,1),border-radius .25scubic-bezier(.19,1,.22,1),opacity .25scubic-bezier(.19,1,.22,1),filter .25scubic-bezier(.19,1,.22,1),stroke .25scubic-bezier(.19,1,.22,1),transform .25scubic-bezier(.19,1,.22,1),scale .25scubic-bezier(.19,1,.22,1),outline .25scubic-bezier(.19,1,.22,1);margin-bottom: 20px;margin-top: 20px"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0px;"&gt;&lt;a href="https://substack.com/redirect/d24777a9-398b-4e17-9a61-5464a947de85?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="text-decoration:none;color:inherit;display:block;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;img class="custom-css-email-avatar avatar-QIQ5yR" src="https://substackcdn.com/image/fetch/$s_!O6CJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fprofile_images%2F1904919163757359104%2FTn3aeLGV.jpg" alt="X avatar for @dboskovic" style="box-sizing: border-box;border: none;vertical-align: middle;-ms-interpolation-mode: bicubic;max-width: 100%;width: 40px;height: 40px;min-width: 40px;min-height: 40px;object-fit: cover;margin: 0px;display: inline;border-radius: 50%" width="40" height="40"&gt;&lt;/td&gt;&lt;td width="12" style="min-width:12px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-semibold-uqA4FV reset-IxiVJZ" style="list-style: none;color: unset;font-size: 13px;line-height: 20px;text-decoration: unset;margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 600;"&gt;David Boskovic&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;font-size: 13px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;@dboskovic&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="12"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-regular-mUq6Gb reset-IxiVJZ text-aFN1BV" style="list-style: none;color: unset;font-size: 15px;line-height: 20px;text-decoration: unset;margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;white-space: pre-wrap"&gt;if software is spec, what if we got AI to make specs that weren't slop? working on this (very inspired by the beauty of makingsoftware.com by @DanHollick )&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="12"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/l_twitter_play_button_rvaygk,w_88/tmyd9utphozph3yhh5xe" alt="Image" style="border: none;vertical-align: middle;-ms-interpolation-mode: bicubic;margin: 0 auto;display: inline;width: auto;height: auto;max-width: 100%;max-height: 420px;border-radius: 8px"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="12"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border:1px solid #eeeeee;border-radius:8px;padding:12px;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;img class="custom-css-email-avatar avatar-QIQ5yR" src="https://substackcdn.com/image/twitter_name/w_40/dboskovic.jpg" style="box-sizing: border-box;border: none;vertical-align: middle;-ms-interpolation-mode: bicubic;max-width: 100%;width: 20px;height: 20px;min-width: 20px;min-height: 20px;object-fit: cover;margin: 0px;display: inline;border-radius: 50%" width="20" height="20"&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;div class="pencraft pc-reset line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;color: unset;font-size: 13px;line-height: 20px;text-decoration: unset;margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;&lt;span style="font-weight:600;"&gt;David Boskovic&lt;/span&gt; &lt;span style="color:#888888;"&gt;@dboskovic&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="8"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;color: unset;font-size: 15px;line-height: 20px;text-decoration: unset;margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;if your agent doesn't write design specs like this your ngmi&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="12"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="width:100%;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;font-size: 13px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;10:27 PM &amp;#183; May 7, 2026&lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt; &amp;#183; &lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;298K Views&lt;/span&gt;&lt;/div&gt;&lt;div class="emailSeparator-mtbezJ" style="border-bottom: 1px solid rgb(0,0,0,.1);width: 100%;height: 0;font-size: 16px;line-height: 26px;"&gt;&lt;/div&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-text-qe4AeH size-13-hZTUKr weight-regular-mUq6Gb reset-IxiVJZ" style="list-style: none;font-size: 13px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;"&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;30 Replies&lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt; &amp;#183; &lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;53 Reposts&lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt; &amp;#183; &lt;/span&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;986 Likes&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class="button-wrapper" data-attrs="{&amp;quot;url&amp;quot;:&amp;quot;https://www.bensbites.com/?utm_source=substack&amp;amp;utm_medium=email&amp;amp;utm_content=share&amp;amp;action=share&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;Share Ben's Bites&amp;quot;,&amp;quot;action&amp;quot;:null,&amp;quot;class&amp;quot;:null}" data-component-name="ButtonCreateButton" style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;text-align: center;cursor: pointer;border-radius: 4px;"&gt;&lt;a class="button primary" href="https://substack.com/redirect/571890ea-f5c0-43dc-9264-3dbcb0370a32?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;box-sizing: border-box;cursor: pointer;border: none;border-radius: 8px;font-size: 14px;line-height: 20px;font-weight: 600;text-align: center;margin: 0;opacity: 1;outline: none;white-space: nowrap;color: #ffffff !important;text-decoration: none !important;background-color: #ea580c;padding: 12px 20px;height: auto;"&gt;&lt;span style="color: #ffffff;text-decoration: none;"&gt;Share Ben's Bites&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;div style="font-size: 16px;line-height: 26px;"&gt;&lt;hr style="margin: 32px 0;padding: 0;height: 1px;background: rgb(0,0,0,.1);border: none;"&gt;&lt;/div&gt;&lt;ul style="margin-top: 0;padding: 0;"&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;span&gt;Find me on &lt;/span&gt;&lt;a href="https://substack.com/redirect/53942810-e75f-47a5-8e13-90ab836c38f3?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;X&lt;/a&gt;&lt;span&gt;, &lt;/span&gt;&lt;a href="https://substack.com/redirect/92f0ec3d-3a5f-42e1-9c9e-c1bbb0a749e6?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Linkedin&lt;/a&gt;&lt;span&gt;, or &lt;/span&gt;&lt;a href="https://substack.com/redirect/f0ed21d6-5249-4e89-9cd0-45334f2e749c?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;YouTube&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;span&gt;Read &lt;/span&gt;&lt;a href="https://substack.com/redirect/a0e2c247-807a-4623-a80b-3fc9c69d6750?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;about me&lt;/a&gt;&lt;span&gt; and Ben&amp;#8217;s Bites&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;span&gt;&amp;#128247; thumbnail by &lt;/span&gt;&lt;a href="https://substack.com/redirect/70c485e0-47bb-40b5-967a-2555adcc3b34?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;@keshavatearth&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style="border-left: 4px solid #ea580c;margin: 20px 0;padding: 0;"&gt;&lt;h6 style="font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;margin-left: 20px;"&gt;&lt;em&gt;* sponsors who make this newsletter possible :)&lt;/em&gt;&lt;/h6&gt;&lt;h6 style="font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;margin-left: 20px;"&gt;&lt;em&gt;Wanna partner with us for the next quarter? &lt;/em&gt;&lt;/h6&gt;&lt;h6 style="font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;margin-left: 20px;"&gt;&lt;em&gt;&lt;span&gt;Email us at &lt;/span&gt;&lt;a href="https://substack.com/redirect/cb24bff4-5e8d-477b-9385-3f4bddb06441?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;shanice@bensbites.com&lt;/a&gt;&lt;span&gt; or &lt;/span&gt;&lt;a href="https://substack.com/redirect/8a0f922e-4cb6-49b2-b8fd-5e12bc60306b?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;k@bensbites.com&lt;/a&gt;&lt;/em&gt;&lt;/h6&gt;&lt;/blockquote&gt;&lt;div class="subscription-widget-wrap" style="font-size: 16px;line-height: 26px;margin-bottom: 0;"&gt;&lt;div class="subscription-widget show-subscribe" style="font-size: 16px;direction: ltr !important;font-weight: 400;text-decoration: none;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';color: #363737;line-height: 1.5;max-width: 560px;margin: 24px auto;align-items: flex-start;display: block;text-align: center;padding: 0px 32px;"&gt;&lt;div class="preamble" style="margin-top: 16px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 18px;max-width: 384px;width: fit-content;line-height: 22px;display: flex;align-items: center;text-align: center;font-weight: 400;margin-left: auto;margin-right: auto;"&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;Ben's Bites is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.&lt;/p&gt;&lt;/div&gt;&lt;div class="subscribe-widget is-signed-up" data-component-name="SubscribeWidget" style="margin: 0 0 1em;direction: ltr;font-size: 16px;line-height: 26px;"&gt;&lt;div class="pencraft pc-reset button-wrapper" style="text-decoration: unset;list-style: none;font-size: 16px;line-height: 26px;text-align: center;cursor: pointer;border-radius: 4px;"&gt;&lt;a class="button subscribe-btn primary" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYmVuc2JpdGVzLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGd3d3LmJlbnNiaXRlcy5jb20lMkZwJTJGbGVhcm4tdGhlLXN5c3RlbSZyPThhOGJheSZ0b2tlbj1leUoxYzJWeVgybGtJam8xTURBNU1UTTBOallzSW1saGRDSTZNVGMzT0RVNU1UWTJNU3dpWlhod0lqb3hOemd4TVRnek5qWXhMQ0pwYzNNaU9pSndkV0l0TkRNM09USTVPU0lzSW5OMVlpSTZJbU5vWldOcmIzVjBJbjAudFJRbnpsM2tGbnMyZDlVQ1pXamlmN2p2WGV6QlpHWEdSSDVsQmF1cFZHRSIsInAiOjE5NzMzMTMzMCwicyI6NDM3OTI5OSwiZiI6dHJ1ZSwidSI6NTAwOTEzNDY2LCJpYXQiOjE3Nzg1OTE2NjEsImV4cCI6MjA5NDE2NzY2MSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.q3DbSjl6eIATvm82yXAIRdppHxde9aC1F2cIHdfmCPw?&amp;utm_medium=email&amp;utm_source=subscribe-widget-preamble&amp;utm_content=197331330" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;box-sizing: border-box;cursor: pointer;border: none;border-radius: 8px;font-size: 14px;line-height: 20px;font-weight: 600;text-align: center;opacity: 1;outline: none;white-space: nowrap;text-decoration: none !important;margin: 0 auto;background-color: #ea580c;color: #ffffff !important;padding: 12px 20px;height: auto;"&gt;&lt;span style="color: #ffffff;text-decoration: none;"&gt;Upgrade to paid&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="container-border" style="margin: 32px 0 0;width: 100%;box-sizing: border-box;border-top: 1px solid #e1e1e1;font-size: 16px;line-height: 26px;"&gt;&lt;/div&gt;&lt;div class="post-cta typography markup" style="--image-offset-margin: -120px;font-family: 'SF Pro Display', -apple-system, system-ui, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';font-weight: 400;text-align: initial;word-break: break-word;margin-bottom: 32px;margin: 32px 0;font-size: 16px;line-height: 26px;"&gt;&lt;p style="color: rgb(54,55,55);margin: 0 auto 20px;text-align: center;width: 90%;line-height: 26px;font-size: 16px;margin-top: 0;"&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" translated="" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;You're currently a free subscriber to &lt;a href="https://substack.com/redirect/c0e35a5f-ef5a-49ac-a5ba-13c657124133?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Ben's Bites&lt;/a&gt;. For the full experience, &lt;a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYmVuc2JpdGVzLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGd3d3LmJlbnNiaXRlcy5jb20lMkZwJTJGbGVhcm4tdGhlLXN5c3RlbSZyPThhOGJheSZ0b2tlbj1leUoxYzJWeVgybGtJam8xTURBNU1UTTBOallzSW1saGRDSTZNVGMzT0RVNU1UWTJNU3dpWlhod0lqb3hOemd4TVRnek5qWXhMQ0pwYzNNaU9pSndkV0l0TkRNM09USTVPU0lzSW5OMVlpSTZJbU5vWldOcmIzVjBJbjAudFJRbnpsM2tGbnMyZDlVQ1pXamlmN2p2WGV6QlpHWEdSSDVsQmF1cFZHRSIsInAiOjE5NzMzMTMzMCwicyI6NDM3OTI5OSwiZiI6dHJ1ZSwidSI6NTAwOTEzNDY2LCJpYXQiOjE3Nzg1OTE2NjEsImV4cCI6MjA5NDE2NzY2MSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.q3DbSjl6eIATvm82yXAIRdppHxde9aC1F2cIHdfmCPw?&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=postcta" style="color: rgb(54,55,55);text-decoration: underline;"&gt;upgrade your subscription.&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class="cta-box" style="color: rgb(54,55,55);margin: 0 auto 20px;width: 90%;line-height: 26px;font-size: 16px;margin-bottom: 0;text-align: center;margin-left: auto;margin-right: auto;"&gt;&lt;a class="button primary" role="button" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYmVuc2JpdGVzLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1wb3N0JnV0bV9jYW1wYWlnbj1lbWFpbC1jaGVja291dCZuZXh0PWh0dHBzJTNBJTJGJTJGd3d3LmJlbnNiaXRlcy5jb20lMkZwJTJGbGVhcm4tdGhlLXN5c3RlbSZyPThhOGJheSZ0b2tlbj1leUoxYzJWeVgybGtJam8xTURBNU1UTTBOallzSW1saGRDSTZNVGMzT0RVNU1UWTJNU3dpWlhod0lqb3hOemd4TVRnek5qWXhMQ0pwYzNNaU9pSndkV0l0TkRNM09USTVPU0lzSW5OMVlpSTZJbU5vWldOcmIzVjBJbjAudFJRbnpsM2tGbnMyZDlVQ1pXamlmN2p2WGV6QlpHWEdSSDVsQmF1cFZHRSIsInAiOjE5NzMzMTMzMCwicyI6NDM3OTI5OSwiZiI6dHJ1ZSwidSI6NTAwOTEzNDY2LCJpYXQiOjE3Nzg1OTE2NjEsImV4cCI6MjA5NDE2NzY2MSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.q3DbSjl6eIATvm82yXAIRdppHxde9aC1F2cIHdfmCPw?&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=postcta" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;box-sizing: border-box;cursor: pointer;border: none;height: 40px;border-radius: 8px;font-size: 14px;line-height: 20px;font-weight: 600;text-align: center;padding: 10px 20px;margin: 0;opacity: 1;outline: none;white-space: nowrap;color: #ffffff !important;text-decoration: none !important;background-color: #ea580c;"&gt;Upgrade to paid&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;table class="email-ufi-2-bottom" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-top: 1px solid rgb(0,0,0,.1);border-bottom: 1px solid rgb(0,0,0,.1);min-width: 100%;"&gt;&lt;tbody&gt;&lt;tr height="16"&gt;&lt;td height="16" style="font-size:0px;line-height:0;"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="margin:0 auto;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-button-outline" href="https://substack.com/app-link/post?publication_id=4379299&amp;post_id=197331330&amp;utm_source=substack&amp;isFreemail=true&amp;submitLike=true&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5NzMzMTMzMCwicmVhY3Rpb24iOiLinaQiLCJpYXQiOjE3Nzg1OTE2NjEsImV4cCI6MTc4MTE4MzY2MSwiaXNzIjoicHViLTQzNzkyOTkiLCJzdWIiOiJyZWFjdGlvbiJ9.g5dYpbTajeZXbXvou4oO22yPfrdeBAO1RIPLf0-4Y10&amp;utm_medium=email&amp;utm_campaign=email-reaction&amp;r=8a8bay" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!PeVs!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""&gt;&lt;span class="email-button-text" style="vertical-align: middle;"&gt;Like&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-button-outline" href="https://substack.com/app-link/post?publication_id=4379299&amp;post_id=197331330&amp;utm_source=substack&amp;utm_medium=email&amp;isFreemail=true&amp;comments=true&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5NzMzMTMzMCwiaWF0IjoxNzc4NTkxNjYxLCJleHAiOjE3ODExODM2NjEsImlzcyI6InB1Yi00Mzc5Mjk5Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.13raGiGBLmg-jIma4G0Qp3b3PKy-sGv-XzRj4voGHls&amp;r=8a8bay&amp;utm_campaign=email-half-magic-comments&amp;action=post-comment&amp;utm_source=substack&amp;utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!x1tS!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""&gt;&lt;span class="email-button-text" style="vertical-align: middle;"&gt;Comment&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-button-outline" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvYmVuc2JpdGVzL3AvbGVhcm4tdGhlLXN5c3RlbT91dG1fc291cmNlPXN1YnN0YWNrJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWVtYWlsLXJlc3RhY2stY29tbWVudCZhY3Rpb249cmVzdGFjay1jb21tZW50JnI9OGE4YmF5JnRva2VuPWV5SjFjMlZ5WDJsa0lqbzFNREE1TVRNME5qWXNJbkJ2YzNSZmFXUWlPakU1TnpNek1UTXpNQ3dpYVdGMElqb3hOemM0TlRreE5qWXhMQ0psZUhBaU9qRTNPREV4T0RNMk5qRXNJbWx6Y3lJNkluQjFZaTAwTXpjNU1qazVJaXdpYzNWaUlqb2ljRzl6ZEMxeVpXRmpkR2x2YmlKOS4xM3JhR2lHQkxtZy1qSW1hNEcwUXAzYjNQS3ktc0d2LVh6Umo0dm9HSGxzIiwicCI6MTk3MzMxMzMwLCJzIjo0Mzc5Mjk5LCJmIjp0cnVlLCJ1Ijo1MDA5MTM0NjYsImlhdCI6MTc3ODU5MTY2MSwiZXhwIjoyMDk0MTY3NjYxLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.q8RN14OtpT81JQ8weLP-ketefiLj80DBIuQVkDtCeiQ?&amp;utm_source=substack&amp;utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!ubXF!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2Fnotes__NoteRestackIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2%26strokeLinecap%3Dround%26strokeLinejoin%3Dround" width="18" height="18" alt="" style="margin-right: 8px;min-width: 18px;min-height: 18px;max-width: 550px;border: none !important;vertical-align: middle;"&gt;&lt;span class="email-button-text" style="vertical-align: middle;"&gt;Restack&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td align="right"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="16"&gt;&lt;td height="16" style="font-size:0px;line-height:0;"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;div class="footer footer-ZM59BM" style="color: rgb(119,119,119);text-align: center;font-size: 16px;line-height: 26px;padding: 24px0;"&gt;&lt;div style="font-size: 16px;line-height: 26px;padding-bottom: 24px"&gt;&lt;p class="pencraft pc-reset color-secondary-ls1g8s size-12-mmZ61m reset-IxiVJZ small meta-B2bqa5" style="list-style: none;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';padding-bottom: 0;font-size: 12px;line-height: 16px;margin: 0;color: rgb(119,119,119);text-decoration: unset;"&gt;&amp;#169; 2026 &lt;span&gt;Ben's Bites Ltd&lt;/span&gt;&lt;br&gt;548 Market Street PMB 72296, San Francisco, CA 94104 &lt;br&gt;&lt;a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYmVuc2JpdGVzLmNvbS9hY3Rpb24vZGlzYWJsZV9lbWFpbD90b2tlbj1leUoxYzJWeVgybGtJam8xTURBNU1UTTBOallzSW5CdmMzUmZhV1FpT2pFNU56TXpNVE16TUN3aWFXRjBJam94TnpjNE5Ua3hOall4TENKbGVIQWlPakU0TVRBeE1qYzJOakVzSW1semN5STZJbkIxWWkwME16YzVNams1SWl3aWMzVmlJam9pWkdsellXSnNaVjlsYldGcGJDSjkuTmMwUy0yelp6cUtmdFZFNzZSeUFjLVNTRkZWdjlsNzdaSVpfYjBzbDdpWSIsInAiOjE5NzMzMTMzMCwicyI6NDM3OTI5OSwiZiI6dHJ1ZSwidSI6NTAwOTEzNDY2LCJpYXQiOjE3Nzg1OTE2NjEsImV4cCI6MjA5NDE2NzY2MSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.pc58dTZT6v0HIwU3uU_6LaE2Lang2UDt_0SZEzx0loY?" style="text-decoration: underline;color: rgb(119,119,119);"&gt;&lt;span style="color: rgb(119,119,119);text-decoration: underline;"&gt;Unsubscribe&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;p class="footerSection-EHR0jG small powered-by-substack" style="padding: 0 24px;font-size: 12px;line-height: 20px;margin: 0;color: rgb(119,119,119);font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';padding-bottom: 0;margin-top: 0;"&gt;&lt;a href="https://substack.com/redirect/5cb2ab05-6256-40c9-b860-a2169050613d?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(119,119,119);text-decoration: none;display: inline-block;margin: 0 4px;"&gt;&lt;img src="https://substackcdn.com/image/fetch/$s_!IzGP!,w_262,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%402x.png" srcset="https://substackcdn.com/image/fetch/$s_!DIki!,w_131,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button.png, https://substackcdn.com/image/fetch/$s_!IzGP!,w_262,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%402x.png 2x, https://substackcdn.com/image/fetch/$s_!QWua!,w_393,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%403x.png 3x" width="131" alt="Get the app" height="40" style="max-width: 550px;border: none !important;vertical-align: middle;"&gt;&lt;/a&gt;&lt;a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1rb2I2MjI5MTQwNEAxNjMuY29tJnI9OGE4YmF5IiwicCI6MTk3MzMxMzMwLCJzIjo0Mzc5Mjk5LCJmIjp0cnVlLCJ1Ijo1MDA5MTM0NjYsImlhdCI6MTc3ODU5MTY2MSwiZXhwIjoyMDk0MTY3NjYxLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.tb00mJaZUcz0Waqd-8iBVqJpybE0U9MO12AbOHL1TVs?" style="color: rgb(119,119,119);text-decoration: none;display: inline-block;margin: 0 4px;"&gt;&lt;img src="https://substackcdn.com/image/fetch/$s_!LkrL!,w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png" srcset="https://substackcdn.com/image/fetch/$s_!wgfj!,w_135,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button.png, https://substackcdn.com/image/fetch/$s_!LkrL!,w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png 2x, https://substackcdn.com/image/fetch/$s_!KjtY!,w_405,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%403x.png 3x" width="135" alt="Start writing" height="40" style="max-width: 550px;border: none !important;vertical-align: middle;"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;img src="https://eotrx.substackcdn.com/o/987173b4676964ff/p.gif?token=eyJtIjoiPDIwMjYwNTEyMTMwNzUxLjMuMGRjN2EyZjUyNzk4NDExNUBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6NTAwOTEzNDY2LCJyIjoia29iNjIyOTE0MDRAMTYzLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjoxOTczMzEzMzAsInQiOiJuZXdzbGV0dGVyIiwiYSI6ImV2ZXJ5b25lIiwicyI6NDM3OTI5OSwiYyI6InBvc3QiLCJmIjp0cnVlLCJwb3NpdGlvbiI6ImJvdHRvbSIsImlhdCI6MTc3ODU5MTY2MiwiZXhwIjoxNzgxMTgzNjYyLCJpc3MiOiJwdWItMCIsInN1YiI6ImVvIn0.BaVowfRTow0W9VixrfiIwxncaLRkxY3lzqq-4eeJcCU" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/&gt;&lt;img width="1" height="1" alt="" src="https://email.mg-d1.substack.com/o/eJw8kEmq5DAQBU_ztWujTE3WQmcxGtLVomyp0FCNb9_UwN_GgyB40Q-61Xa5R-2DJSds4GvUjBwYsyoL2ihGp8_HdqNCzQ9Kmx-_q0awhv11aY3aI6ZV7UJq8hBRabRpNWFPQhDLDjlqrgBBcKNgEQtP0XjcFRq7SgD1I_l5-5Ng6TP04eN9ifVkuW97o3eCG20Se5VufqZMJZKjJ7Wrli_OyYE1QoAQ_EPG9SBX6F8_aAxq7DHDFut5zpLHtVHx4aD0Fc9w5OhHruUlksJYtJY1d69BI1qQXP5IDlq8w_oMqZ4-Fxeo9JAHdTY-P85O7aVQnFsQUmv2dPg_AAD__-wOdS0"&gt;&lt;/body&gt;&lt;/html&gt;</content:encoded></item><item><title>Ben's Builds #3 - an email app</title><link>https://rss.longlone.de5.net/own/aZEO13FmoqtHnU2CXKZvoF1xxobEeaXd.xml#item-42</link><guid isPermaLink="false">own-newsletter:item:42</guid><pubDate>Sat, 09 May 2026 09:25:10 GMT</pubDate><author>ben's bites &lt;bensbites@substack.com&gt;</author><description>Ben's Builds #3 - an email appThey have some challenges 😅͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏...</description><content:encoded>&lt;html lang="en" dir="ltr" style="scrollbar-width: thin;scrollbar-color: rgb(219,219,219)rgb(255,255,255);"&gt;&lt;head&gt;&lt;meta charset="utf-8"&gt;&lt;title&gt;Ben's Builds #3 - an email app&lt;/title&gt;&lt;style&gt;
 @media (max-width: 1024px) {
   .typography .pullquote-align-left,
   .typography.editor .pullquote-align-left,
