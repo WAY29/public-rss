@@ -1,5 +1,460 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>TLDR AI</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml</link><description>Messages from sources matching dan@tldrnewsletter.com</description><lastBuildDate>Tue, 12 May 2026 11:26:20 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml" rel="self" type="application/rss+xml"></atom:link><item><title>Writing code by hand ✍️, Interaction Models 🌍, why use Python 🐍</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-51</link><guid isPermaLink="false">own-newsletter:item:51</guid><pubDate>Tue, 12 May 2026 11:23:50 GMT</pubDate><author>TLDR Dev &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR Dev AI-assisted vibe-coding for the k10s Kubernetes dashboard initially sped up development, but the lack of human architectural oversight led to ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|Vie...</description><content:encoded>TLDR Dev
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>TLDR AI</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml</link><description>Messages from sources matching dan@tldrnewsletter.com</description><lastBuildDate>Tue, 12 May 2026 12:26:31 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml" rel="self" type="application/rss+xml"></atom:link><item><title>Infrastructure Under Pressure ⚡, AI’s Plumbing Layer Expands 🔧, Securing the AI Stack ⚙️</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-52</link><guid isPermaLink="false">own-newsletter:item:52</guid><pubDate>Tue, 12 May 2026 12:10:43 GMT</pubDate><author>TLDR IT &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR IT A new Alliance for Critical Infrastructure is launching to improve how the US prepares for major cybersecurity crises. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|View Online TLDR Together W...</description><content:encoded>TLDR IT
+
+
+
+A new Alliance for Critical Infrastructure is launching to improve how the US prepares for major cybersecurity crises.&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;
+
+
+&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fit%3Futm_source=tldrit/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/g8E471ouDIsyUmZvcQOYJ-LwhmccDC7WAhj7-3duMmw=452" rel="noopener noreferrer"&gt;Sign Up&lt;/a&gt;
+|&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrit%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/3dGLqTlJAc6tMiOaSXzS99w3ypdVOsyZBy9Ib_TGV1I=452" rel="noopener noreferrer"&gt;Advertise&lt;/a&gt;|&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=149dee8c-456d-11f1-ac4d-0b323ced8894%26p=e0919688-4dec-11f1-b5a7-5d91cf939fd8%26pt=campaign%26t=1778587843%26s=c3f8fd2fc1727e1785a7ffbf733a4b62fe9880ae1383cd94d9bec4ef01db7994/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/PkOqiWrOmPH73MxDeRKW77OxnvY87_C_H0WGcAQG3DU=452" rel="noopener noreferrer"&gt;View Online&lt;/a&gt;
+&lt;br&gt;
+
+
+
+TLDR
+&lt;br&gt;
+
+
+&lt;br&gt;
+
+&lt;strong&gt;Together With &lt;/strong&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tines.com%2Faccess%2Fguide%2Fthe-it-and-security-field-guide-to-ai-adoption%2F%3Futm_source=TLDR%26utm_medium=paid_media%26utm_content=newsletter-primaryIT-1205/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/hihzwnSSILioZFyBEVpuzLJh2ZmcS-M8qJtURq7ZQWo=452" rel="noopener noreferrer"&gt;&lt;img src="https://images.tldr.tech/tines50.png" alt="Tines"&gt;&lt;/a&gt;
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;TLDR IT 2026-05-12&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tines.com%2Faccess%2Fguide%2Fthe-it-and-security-field-guide-to-ai-adoption%2F%3Futm_source=TLDR%26utm_medium=paid_media%26utm_content=newsletter-primaryIT-1205/2/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/FKfyzChHlr9sKpf_GPuPiPdiBVtO_PtwPmH8I6TYLiA=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;New IT and security field guide to AI adoption (Sponsor)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    AI is everywhere right now. But for many teams, reality hasn't matched the promise.&lt;p&gt;&lt;/p&gt;&lt;p&gt;What's &lt;em&gt;actually&lt;/em&gt; working?&lt;/p&gt;&lt;p&gt;Tines released a &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tines.com%2Faccess%2Fguide%2Fthe-it-and-security-field-guide-to-ai-adoption%2F%3Futm_source=TLDR%26utm_medium=paid_media%26utm_content=newsletter-primaryIT-1205/3/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/ElWwI_xB4wQ-6Ae1g-eoD4vGUHfI9Z1lCzNO4EMa-BQ=452" rel="noopener noreferrer"&gt;new guide&lt;/a&gt; that takes a more practical look at AI adoption for security and IT teams - from a framework for evaluating tools beyond the demo, to human-in-the-loop best practices for safe, scalable AI.&lt;/p&gt;
+
+&lt;p&gt;If you're thinking about AI beyond experimentation, &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tines.com%2Faccess%2Fguide%2Fthe-it-and-security-field-guide-to-ai-adoption%2F%3Futm_source=TLDR%26utm_medium=paid_media%26utm_content=newsletter-primaryIT-1205/4/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/Ks_WjqLV8lYNyfVbzlDYZeEhpk4c33J15Mx-xZsLDGM=452" rel="noopener noreferrer"&gt;this is a useful place to start&lt;/a&gt;.
+
+
+&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+🚀
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;News &amp;amp; Trends&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fapnews.com%2Farticle%2Fgoogle-ai-cybersecurity-exploitation-mythos-926aea7f7dc5e0e61adce3273c55c6d4%3Futm_source=tldrit/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/Xe7k96XW85iURAaoG9EmJjnI570b0NuP107uQciztSE=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;AI Used to Build a Working Zero-Day Exploit (4 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Google says it disrupted a cyberattack where criminals used AI to identify and exploit a zero-day flaw that could bypass two-factor authentication in a widely used system administration tool. The incident is a pretty clear signal that AI-enabled offensive security is moving from theory into actual enterprise risk.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ciodive.com%2Fnews%2Fus-bank-shifts-critical-apps-aws-ai-push%2F819908%2F%3Futm_source=tldrit/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/Ev38QhPV7Var-1xR1KdZ66NrS75ogjK9WbNGQ8Z_jFs=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;US Bank Moves Critical Apps to AWS for AI Push (3 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    US Bank is shifting critical applications to AWS as financial services firms modernize their infrastructure for AI workloads. It shows how AI adoption is increasingly forcing banks to rethink foundational cloud architecture, not just add tools on top.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cybersecuritydive.com%2Fnews%2Fcritical-infrastructure-cybersecurity-coalition-aci-government%2F818662%2F%3Futm_source=tldrit/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/y9ZL6MPxIYdpB06lg2NepBaETdqJiXMI1fYLME2jT3Y=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Critical Infrastructure Gets a New Cyber Coalition (3 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    A new Alliance for Critical Infrastructure is launching to improve how the US prepares for major cybersecurity crises. The group is focused on changing planning and response models for sectors where outages can have national-level consequences.
+                                
+
+
+
+
+
+
+
+
+🧠
+
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Analysis &amp;amp; Opinions&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnoma.security%2Fblog%2Fai-gateways-vs-mcp-gateways-what-security-teams-need-to-know%2F%3Futm_source=tldrit/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/fx3sJCRQfYyf6uvAn6f76Cn64nne_JJMugvePziagk0=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;AI Gateways vs. MCP Gateways (6 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    AI gateways manage LLM inference traffic, focusing on cost, routing, and observability. MCP gateways govern agent-to-tool interactions, providing centralized authentication and access control. While both offer infrastructure visibility, neither provides full session-level behavioral context, leaving security teams needing dedicated platforms to detect complex, multi-step agentic attack chains.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2Foff-prem%2F2026%2F05%2F11%2Fsovereign-cloud-is-only-possible-if-youre-chinese-or-american-gartner%2F5237660%3Futm_source=tldrit/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/IGhFlRmt6NVD8wxFd9HLDxV7F0tLdZzR-9yx02E93i0=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Sovereign Cloud May Be Impossible for Most Countries (4 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Gartner says fully sovereign cloud is only realistic for China or the US, complicating European efforts to reduce dependency on American hyperscalers. The argument matters for IT leaders balancing compliance, national data rules, and practical infrastructure constraints.
+                                
+
+
+
+
+
+
+
+
+🤝
+
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Launches &amp;amp; Partnerships&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsnyk.io%2Flp%2Fbuilding-fast-and-secure-ebook%2F%3Futm_campaign=dm_pp_tldr-it_260512_con_260313_building-fast-and-secure-ebook%26utm_medium=em-pa%26utm_source=tldr-it%26utm_content=con_260313_building-fast-and-secure-ebook/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/1YMl3S8qxQL2lKSmSmUW8l5cRKDAFJkJPaEu422Mli8=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Security keeps getting cast as the brake on AI development. It doesn't have to be (Sponsor)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Engineering leaders are stuck between "ship AI-generated code faster" and "review every line manually." Snyk's &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsnyk.io%2Flp%2Fbuilding-fast-and-secure-ebook%2F%3Futm_campaign=dm_pp_tldr-it_260512_con_260313_building-fast-and-secure-ebook%26utm_medium=em-pa%26utm_source=tldr-it%26utm_content=con_260313_building-fast-and-secure-ebook/2/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/xvNs8JW2CM9DzfRfvNQwMlvLHkBHFXNzjkK3SkQpFYk=452" rel="noopener noreferrer"&gt;free leader's guide&lt;/a&gt; maps a 4-step path to "Secure at Inception" — guardrails embedded in the AI workflows developers already use, so security stops blocking and starts shipping. &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsnyk.io%2Flp%2Fbuilding-fast-and-secure-ebook%2F%3Futm_campaign=dm_pp_tldr-it_260512_con_260313_building-fast-and-secure-ebook%26utm_medium=em-pa%26utm_source=tldr-it%26utm_content=con_260313_building-fast-and-secure-ebook/3/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/n1mgpZPH5S360BKhG6ZtzZTw0HLHZPPyTfvvtJPGrWY=452" rel="noopener noreferrer"&gt;Get the eBook →&lt;/a&gt;
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.aboutamazon.com%2Fnews%2Fretail%2Famazon-supply-chain-services-for-business%3Futm_source=tldrit/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/mcBsL0h2nMsAIzNsFgA3YKLdlD4-R1d7PNStUPDdAJI=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Amazon Opens Its Supply Chain Network to All Businesses (4 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Amazon launched Amazon Supply Chain Services (ASCS) for businesses of all sizes. Companies can now use Amazon's freight, warehousing, fulfillment, and delivery network. Brands like Procter &amp;amp; Gamble, 3M, and Lands' End are already using the service to move and deliver products faster.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2Fai-ml%2F2026%2F05%2F11%2Fopenai-buys-ai-consultancy-to-sell-enterprises-on-its-models%2F5238213%3Futm_source=tldrit/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/2NOT7fYSSRYZ84IJIEKJe6VqFXfMZOBWNTH8aSW_4z4=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;OpenAI Buys AI Consultancy Tomoro (3 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    OpenAI agreed to acquire UK-based AI consulting firm Tomoro as it pushes deeper into enterprise deployment and implementation. The acquisition suggests OpenAI wants more control over how companies translate model access into real operational value.
+                                
+
+
+
+
+
+
+
+
+🎁
+
+
+
+
+&lt;strong&gt;&lt;h1&gt;Miscellaneous&lt;/h1&gt;&lt;/strong&gt;
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ciodive.com%2Fnews%2FYum-Brands-modernization-AI-backbone%2F819775%2F%3Futm_source=tldrit/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/onN2bCHQnM6FF8VgwBkLumsod54f_hkAlncHL1vtpZw=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Yum Builds an AI Backbone Across 35,000 Restaurants (3 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Yum Brands is modernizing Taco Bell, KFC, and Pizza Hut around a common data model to support AI and digital operations across 35,000 restaurants. It is a useful example of how “AI transformation” often starts with standardizing old systems and fragmented data.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fventurebeat.com%2Fsecurity%2Fai-tool-poisoning-exposes-a-major-flaw-in-enterprise-agent-security%3Futm_source=tldrit/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/aCbUyXbLLJG7ETcbTwYkX47AvY333jB6nVP9_n8JVQE=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;AI tool poisoning exposes a major flaw in enterprise agent security (6 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Enterprise AI agents face tool registry poisoning risks that artifact-based security like SLSA cannot prevent. Behavioral integrity requires a runtime verification proxy to enforce endpoint allowlisting, discovery binding, and output schema validation. Implementing these controls ensures tools act as declared, mitigating risks like prompt injection and behavioral drift.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FidAXau/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/c0do4DhnRJu98t1DsOkeyOuDokYYM8cC0jFWCc25VBE=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;OpenAI Offers EU Access to Cybersecurity Tools (3 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    The European Commission said OpenAI offered to provide access to cybersecurity tools through its EU Cyber Action Plan, while Anthropic has not made a comparable offer yet. The move positions defensive AI access as part of OpenAI's regulatory and public-sector strategy in Europe.
+                                
+
+
+
+
+
+
+
+
+
+
+⚡
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Quick Links&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FkKxB5y/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/LQB1LkbfmOdThL3UcpTBNGHgrUrvybSTx4ZojLCXbLE=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;How enterprises are scaling AI (16 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Practical insights from European enterprise leaders about building the conditions where people trust and adopt AI.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2Fsecurity%2F2026%2F05%2F11%2Fanthropics-bug-hunting-mythos-was-greatest-marketing-stunt-ever-says-curl-creator%2F5238111%3Futm_source=tldrit/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/M5Bv2R2KEzJeb3XhSGzR98L0kkW12ozEEyQaN1ZtPfc=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Anthropic Mythos Faces Skepticism (3 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    cURL creator Daniel Stenberg said Anthropic's bug-hunting Mythos model looked more like marketing than a major security breakthrough after it found only one low-severity cURL issue.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2Fcyber-crime%2F2026%2F05%2F11%2Fico-fines-south-staffordshire-963k-over-2022-breach%2F5237875%3Futm_source=tldrit/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/HW25--QJ0bKslYU1X2EWgF3fENiaeYmB52QGObcKn8o=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Water Company Fined Nearly £1M After Breach (2 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    The UK's data protection watchdog fined South Staffordshire Water's parent company over security failures tied to a Cl0p ransomware attack.
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;p&gt;
+Want to advertise in TLDR? 📰
+&lt;/p&gt;
+
+If your company is interested in reaching an audience of IT professionals and decision makers, you may want to &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrit%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/uxtD-WuOkZgyxyfr21hZuOzVkqfhd6oE_FDdqDsd580=452" rel="noopener noreferrer"&gt;&lt;strong&gt;advertise with us&lt;/strong&gt;&lt;/a&gt;.
+
+&lt;br&gt;
+
+
+
+&lt;p&gt;
+Want to work at TLDR? 💼
+&lt;/p&gt;
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/iscHobz9Sq9hrCl--YvrDc6P4DN6wms6lImXPtHNEQ4=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Apply here&lt;/strong&gt;&lt;/a&gt;,
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/Yoo0EFfLkZsDy8WJt_yKWLkdrY0o4DvZBB443c5ASU0=452" rel="noopener noreferrer"&gt;&lt;strong&gt;create your own role&lt;/strong&gt;&lt;/a&gt; or send a friend's resume to &lt;a href="mailto:jobs@tldr.tech" rel="noopener noreferrer"&gt;jobs@tldr.tech&lt;/a&gt; and get $1k if we hire them! TLDR is one of &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/KggnLRIEobMK_HiXQqUA8lvX4rfL-XaG1J06eSGz4Mw=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Inc.'s Best Bootstrapped businesses&lt;/strong&gt;&lt;/a&gt; of 2025.
+
+&lt;br&gt;
+
+
+If you have any comments or feedback, just respond to this email!
+&lt;br&gt;
+&lt;br&gt; Thanks for reading,
+&lt;br&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsiddhibansal%2F/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/HOL8tTmih3v07tJbDgs7HHgdWoCMGE2_7v9bQwitH3Q=452" rel="noopener noreferrer"&gt;Siddhi Bansal&lt;/a&gt;, &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Ftongchen-yang-877116216%2F/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/n_BTvS3h4b0p3YbKaqfEzqg2HhBgQ0jDyvpJbvzFQlg=452" rel="noopener noreferrer"&gt;Tongchen Yang&lt;/a&gt;, &amp;amp; &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Frushdesh%2F/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/pfDLpt3yB0wK32uLYeg6ktChn5nFvP3m6QlP8MoY7gs=452" rel="noopener noreferrer"&gt;Rush Deshpande&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;br&gt;
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fit%2Fmanage%3Femail=kob62291404%2540163.com/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/WKhCYbYYxCfNPTsQ8D3PNt89jJZegy_f0oqCtjET4_A=452" rel="noopener noreferrer"&gt;Manage your subscriptions&lt;/a&gt; to our other newsletters on tech, startups, and programming. Or if TLDR IT isn't for you, please &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=db791bc2-386d-11ee-a768-4730dc8aabb1%26lc=149dee8c-456d-11f1-ac4d-0b323ced8894%26p=e0919688-4dec-11f1-b5a7-5d91cf939fd8%26pt=campaign%26pv=4%26spa=1778587312%26t=1778587843%26s=ad993bac1b70d3cdc72e6cc12c74aa922ca1fdeb821d7ec9af29f7cedf0c8c16/1/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/vvGqy5beljfcndGn4F-wKLNNIx8tixVIu9lyKzEwif4=452" rel="noopener noreferrer"&gt;unsubscribe&lt;/a&gt;.
+&lt;br&gt;
+
+
+
+
+
+
+
+
+
+&lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019e1c18bc33-4b107439-fcf0-4a84-ba41-aa0c8c0a9390-000000/Nf7byuNLkKjF2VZAUM7yph5Z4IG97OSnuAMTUIA3HL8=452"&gt;
+</content:encoded></item><item><title>Writing code by hand ✍️, Interaction Models 🌍, why use Python 🐍</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-51</link><guid isPermaLink="false">own-newsletter:item:51</guid><pubDate>Tue, 12 May 2026 11:23:50 GMT</pubDate><author>TLDR Dev &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR Dev AI-assisted vibe-coding for the k10s Kubernetes dashboard initially sped up development, but the lack of human architectural oversight led to ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|Vie...</description><content:encoded>TLDR Dev
 
 
 
