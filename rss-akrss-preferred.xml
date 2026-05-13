@@ -5,8 +5,37 @@
     <link>http://rss.longlone.de5.net</link>
     <description>Codex-curated preferred RSS items</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 13 May 2026 02:41:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 08:42:22 GMT</lastBuildDate>
     <atom:link href="http://rss.longlone.de5.net/rss-akrss-preferred.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI datacenters in space do not have a cooling problem</title>
+      <link>https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://www.seangoedecke.com/rss.xml">seangoedecke.com</source>
+      <description>(8.1/10) 文章反驳“太空AI数据中心会因散热失败”的直觉，指出散热并非核心障碍。重点转向成本、发射、供电与维护等更现实的系统约束。</description>
+      <content:encoded>&lt;div&gt;&lt;p&gt;This year Elon Musk has started &lt;a href="https://www.npr.org/2026/04/03/nx-s1-5718416/ai-data-centers-in-space-spacex-elon-musk" rel="noopener noreferrer"&gt;banging the drum&lt;/a&gt; about building AI datacenters in space. As the only person who owns a successful space company and a (moderately) successful AI company, this is a sensible way to boost his profile and net worth. Is it a sensible way to build datacenters?&lt;/p&gt;
+&lt;h3&gt;The cooling problem&lt;/h3&gt;
+&lt;p&gt;The first comment underneath most discussions of this always goes along these lines: “you obviously can’t build AI datacenters in space, because heat dissipation is really hard in space, and AI datacenters generate a lot of heat”.&lt;/p&gt;
+&lt;p&gt;In general I am distrustful of snappy answers like these. It reminds me of the “AI datacenters obviously don’t use a lot of water, because cooling fluid circulates in a closed-loop system” argument: if it were true, there wouldn’t be a debate at all, just one side who understand the obvious point and another side who are stupid.&lt;/p&gt;
+&lt;p&gt;Some arguments are like this! However, more often there’s a complicating factor that makes the snappy answer incorrect. In the water-use case, it’s that the closed-loop system has to itself be cooled by an open-loop evaporative chiller. What about the space datacenter case?&lt;/p&gt;
+&lt;h3&gt;Why cooling is possible in space&lt;/h3&gt;
+&lt;p&gt;First, let’s give the argument a fair shake. Although space is itself very cold, cooling is tricky because everything you’d want to cool is surrounded by vacuum. Heat transfer works in three ways:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Hot (i.e. fast-moving) atoms bump into other atoms, making them move and thus heating them up&lt;/li&gt;
+&lt;li&gt;Hot atoms physically move from one location to another (e.g. in a fluid or gas), staying hot and thus making their new location hotter&lt;/li&gt;
+&lt;li&gt;Hot objects emit photons (electromagnetic radiation), cooling themselves down and heating up other objects those photons collide with&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Vacuum is an excellent insulator because it defeats the first two methods of heat transfer. If there are no (or very few) atoms surrounding an object, those atoms can’t move around or collide. That’s why vacuum is used as an insulator in thermoses, travel mugs, and so on.&lt;/p&gt;
+&lt;p&gt;So how can space datacenters get rid of their heat? By doubling down on the third method of heat transfer. Although it’s much harder to do heat transfer via moving atoms around in space, it’s actually &lt;em&gt;easier&lt;/em&gt; to do heat transfer via emitting radiation. Any good emitter is also a good absorber. A perfectly black object is the most efficient emitter, but it’s also the most efficient way to absorb photons from external sources, which is why black objects get hotter in the sun. In space, the sun’s light is much easier to avoid, because there aren’t objects everywhere for it to bounce off. A shaded radiator can dump quite a lot of heat.&lt;/p&gt;
+&lt;h3&gt;Why cooling is still going to be hard&lt;/h3&gt;
+&lt;p&gt;It would still require putting more radiators in space than we’ve ever done before. There are plenty of writeups out there if you want to read through the numbers. &lt;a href="https://arxiv.org/abs/2604.27197" rel="noopener noreferrer"&gt;This&lt;/a&gt; is a recent one that estimates ~2500 square metres of radiation area would be needed to serve 1MW of datacenter energy (much less than what it’d need in solar panels). A serious AI datacenter is around 100MW, so we’d need 250,000 square metres of radiation area. The largest current radiator in space is probably the ISS, at around a thousand square metres.&lt;/p&gt;
+&lt;p&gt;Is scaling that up by 250x a lot? Yes, but it’s not necessarily &lt;em&gt;ridiculous&lt;/em&gt;. We currently have zero industrial operations happening in space, so there’s been no need to push the boundaries here. In the grand scheme of things, 250,000 square metres is not that big. By my very rough estimates, that’s between 100-500 Starship launches: a couple of years at SpaceX’s current launch cadence, or a few months at their (very optimistic) estimate of future launch cadence.&lt;/p&gt;
+&lt;h3&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;Of course, you don’t just need radiators to put a datacenter in space. You need a similar quantity of solar panels, the GPUs themselves, and all kinds of other supporting equipment. If a GPU dies in an Earth datacenter, you can go in and swap it out; if it dies in space, you just have to leave it dead and keep going with less capacity.&lt;/p&gt;
+&lt;p&gt;It’s still wildly impractical to build AI datacenters in space. But it’s not &lt;em&gt;impossible&lt;/em&gt;, and it’s certainly not impossible because of the cooling, which is a relatively minor component of the total mass that would have to be launched into space.&lt;/p&gt;
+&lt;p&gt;Here's a preview of a related post that shares tags with this one.&lt;/p&gt;&lt;/div&gt;</content:encoded>
+    </item>
     <item>
       <title>Building Software Requires Digestion</title>
       <link>https://blog.jim-nielsen.com/2026/software-requires-digestion/</link>
@@ -1672,33 +1701,6 @@ I hope the Array PR will be accepted soon, and that we can benefit from the new 
       <pubDate>Mon, 27 Apr 2026 13:51:32 GMT</pubDate>
       <source url="https://www.dwarkeshpatel.com/feed">dwarkesh.com</source>
       <description>(8.2/10) 这是一篇高密度随笔，串联智能与权力、科学中的验证难题以及知识发现的并行性。文章不求定论，而是提出一组值得持续追问的前沿问题。</description>
-    </item>
-    <item>
-      <title>Collective Speed Is Not the Summation of Individual Speed</title>
-      <link>https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/</guid>
-      <pubDate>Sun, 26 Apr 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/feed.xml">blog.jim-nielsen.com</source>
-      <description>(8.4/10) 作者借接力赛说明，AI提升个人编码速度并不等于组织整体交付更快。真正的瓶颈常在协作、交接与系统约束，而不是单个工程师的产出。</description>
-      <content:encoded>&lt;div&gt;&lt;div&gt;
- 
-&lt;p&gt;&lt;a href="https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/" rel="noopener noreferrer"&gt;I’ve been thinking about speed&lt;/a&gt; which is why Chris Coyier caught my attention &lt;a href="https://chriscoyier.net/2026/04/25/ai-alignment/" rel="noopener noreferrer"&gt;in his latest piece&lt;/a&gt; discussing how AI might be 10✕ing the speed with which we code, but it’s not making our software 10✕ better:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Faster individuals don’t make a fast company&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;My mind immediately went to the 4✕100 relay at the Olympics.&lt;/p&gt;
-&lt;p&gt;(Not sure which race that is? Watch &lt;a href="https://www.youtube.com/watch?v=bQOw8LF5SM4" rel="noopener noreferrer"&gt;the London 2012 one&lt;/a&gt;.)&lt;/p&gt;
-&lt;p&gt;Imagine you were put in charge of winning the 4✕100 relay.&lt;/p&gt;
-&lt;p&gt;All you gotta do is find the four faster sprinters in your country — right?&lt;/p&gt;
-&lt;p&gt;I’m no track and field expert, but I doubt it’s that simple.&lt;/p&gt;
-&lt;p&gt;In a relay race, the baton is arguably the most critical element. Passing it cleanly is vital because if you fumble it you’re easily behind a few meters or maybe even disqualified.&lt;/p&gt;
-&lt;p&gt;So, one could argue, a sprinter’s ability to pass and receive the baton is more important than speed because all the speed in the world won’t help you overcome a dropped baton.&lt;/p&gt;
-&lt;p&gt;(There are other considerations too, like which leg each runner takes, which sequence works best given individual pairings and rapport, and whether a slower veteran might perform better in the heat of the moment.)&lt;/p&gt;
-&lt;p&gt;Faster runners won’t guarantee a faster team.&lt;/p&gt;
-&lt;p&gt;And faster coders won’t guarantee a faster company.&lt;/p&gt;
-&lt;p&gt;Like a relay race, it might be worth giving some thought to the relationships and interfaces between people.&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;/div&gt;</content:encoded>
     </item>
   </channel>
 </rss>
