@@ -1,5 +1,433 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>TLDR AI</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml</link><description>Messages from sources matching dan@tldrnewsletter.com</description><lastBuildDate>Wed, 13 May 2026 11:27:59 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml" rel="self" type="application/rss+xml"></atom:link><item><title>Senior dev communication 🗣, Canvas hacker ransom 💰, software book club 📚</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-57</link><guid isPermaLink="false">own-newsletter:item:57</guid><pubDate>Wed, 13 May 2026 11:07:23 GMT</pubDate><author>TLDR Dev &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR Dev Senior developers struggle to communicate effectively because their focus on managing system complexity conflicts with the business priority of speed ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Adver...</description><content:encoded>TLDR Dev
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>TLDR AI</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml</link><description>Messages from sources matching dan@tldrnewsletter.com</description><lastBuildDate>Wed, 13 May 2026 12:28:08 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml" rel="self" type="application/rss+xml"></atom:link><item><title>The Agent Mess Gets Real 🤖, Cyber Gets Autonomous ⚔️, Cloud’s New Pitch 🏗️</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-58</link><guid isPermaLink="false">own-newsletter:item:58</guid><pubDate>Wed, 13 May 2026 12:09:54 GMT</pubDate><author>TLDR IT &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR IT Daybreak is a cybersecurity initiative from OpenAI that uses LLMs, Codex agentic capabilities, and partners like Cloudflare ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|View Online TLDR Toget...</description><content:encoded>TLDR IT
+
+
+
+
+
+
+
+
+Daybreak is a cybersecurity initiative from OpenAI that uses LLMs, Codex agentic capabilities, and partners like Cloudflare&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;
+
+
+&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fit%3Futm_source=tldrit/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/RTVjIohiNIvWSZgmSnr5HOHvCrd_e0fX-p0IU0T3wAM=452" rel="noopener noreferrer"&gt;Sign Up&lt;/a&gt;
+|&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrit%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/NpoH9XpSUtCB_6RzVpRgnslsV7UZMOQytuqhqMpNlFs=452" rel="noopener noreferrer"&gt;Advertise&lt;/a&gt;|&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=149dee8c-456d-11f1-ac4d-0b323ced8894%26p=09e99182-4e80-11f1-b666-dd1485682708%26pt=campaign%26t=1778674194%26s=99618b4acb25476ed2f1d7c466f799eb517835d2eff08f32df102fba7da139a4/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/Ed1aRRQiZ0ysz3gtkIuAVnNx3X7SfxM7DpcZmYhiqSI=452" rel="noopener noreferrer"&gt;View Online&lt;/a&gt;
+&lt;br&gt;
+
+
+
+TLDR
+&lt;br&gt;
+
+
+&lt;br&gt;
+
+&lt;strong&gt;Together With &lt;/strong&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.console.com%2Freports%2Fthe-state-of-it-2026/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/UBW0kw1k817VdJgWqSapyAhN_3Bo-N9jMrcfjT3wRXE=452" rel="noopener noreferrer"&gt;&lt;img src="https://images.tldr.tech/console.png" alt="Console"&gt;&lt;/a&gt;
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;TLDR IT 2026-05-13&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.console.com%2Freports%2Fthe-state-of-it-2026/2/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/9HZJMx6HCpDXXa5GJuZfqPgehzQgMgJ97qxE6IQ2hbI=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;The State of IT has fundamentally changed in 2026: read the full report HERE (Sponsor)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    We spent months interviewing IT leaders who are actively building the AI-era playbook at Cloudflare, Cursor, Lyft, GitLab, Nextdoor, Zip, Rubrik, Zscaler and Palo Alto Network, among others. Read the playbook that includes:&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The growth case for AI&lt;/li&gt;&lt;li&gt;Running 90 day pilots, not 12-month RFPs&lt;/li&gt;&lt;li&gt;Why it's IT's time to build&lt;/li&gt;&lt;li&gt;The emergence of the IT engineer&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Teams running this playbook are tracking toward delivering 40% of business initiative needs. Most IT organizations deliver 15% to 20% today.&lt;br&gt;&lt;br&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.console.com%2Freports%2Fthe-state-of-it-2026/3/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/GB_eQSZo81_imoM0PHfX2a8vmhTcUeHqDzICGJLGZHY=452" rel="noopener noreferrer"&gt;Download The State of IT 2026: the first research report on what the highest-performing IT organizations are building, and how.&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+🚀
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;News &amp;amp; Trends&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ciodive.com%2Fnews%2FOpenAI-Daybreak-cyber-threats%2F820036%2F%3Futm_source=tldrit/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/XOScL__43TMNqYRG4tmdHcOLCuV_48pA-CIZWoXJzm8=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;OpenAI Launches Daybreak for Cyber Defense (4 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Daybreak is a cybersecurity initiative from OpenAI that uses LLMs, Codex agentic capabilities, and partners like Cloudflare, Cisco, CrowdStrike, Oracle, and Zscaler to find and help patch vulnerabilities. The product is publicly available for companies to request security-risk assessments, positioning OpenAI directly against Anthropic's Mythos-style cyber models.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2026%2F05%2F12%2Finstructure-strikes-deal-with-hackers-who-breached-it-twice%2F%3Futm_source=tldrit/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/zbntGL6Ait9WeuwtI4UAVWeKSAoYDDIvnVnR6X3Qe98=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Canvas Owner Cuts Deal After Double Breach (3 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Instructure, the company behind Canvas, reached a deal with hackers who breached its systems twice and stole large amounts of student and staff data. The company said the agreement is intended to prevent the stolen information from being published, making the incident a sharp example of how breach response increasingly includes negotiation with attackers, not just remediation.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.techzine.eu%2Fnews%2Fsecurity%2F141212%2Fcheckmarx-jenkins-plugin-compromised-in-new-supply-chain-attack%2F%3Futm_source=tldrit/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/fs2XscnZslUkA-e5v3OrCOS3SnIoTjJn7bwb6L-J0l4=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Checkmarx Jenkins plugin compromised in new supply chain attack (3 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    The Checkmarx Jenkins AST plugin version 2026.5.09 is compromised by TeamPCP, carrying a 9.4 CVSS score (CVE-2026-33634). Attackers targeted cloud credentials and SSH keys. Users must immediately downgrade to version 2.0.13-829.vc72453fa_1c16 and rotate all exposed secrets to mitigate potential unauthorized access to enterprise environments.
+                                
+
+
+
+
+
+
+
+
+🧠
+
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Analysis &amp;amp; Opinions&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tomshardware.com%2Ftech-industry%2Fbig-tech%2Fbig-tech-has-a-tokenmaxxing-habit%3Futm_source=tldrit/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/F_AK--eGIAtrQex0qayjuCC7ZL23Wj5__BwSR1kUYs4=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;AI Usage Metrics Start Getting Gamed (4 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Employees at Amazon, Meta, and Microsoft have reportedly gamed internal AI usage metrics, with some Amazon workers using tools unnecessarily to increase token usage. The story highlights a growing enterprise problem: measuring AI adoption by activity can incentivize performative usage instead of real productivity gains.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.businessinsider.com%2Fgitlab-layoffs-memo-2026-5%3Futm_source=tldrit/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/oHCbg04uBbk7DnBnssXR2zVl8KGBH0EMilFuARs-yBw=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;GitLab Restructures for the Agentic Era (5 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    GitLab announced a restructuring tied to its “agentic era” strategy, including flattening parts of the org, reorganizing R&amp;amp;D into roughly 60 smaller teams, and embedding AI agents into internal reviews, approvals, and handoffs. CEO Bill Staples framed the shift around software increasingly being “built by machines, directed by people,” with humans still owning architecture, judgment, and customer understanding.
+                                
+
+
+
+
+
+
+
+
+🤝
+
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Launches &amp;amp; Partnerships&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.microsoft.com%2Fen-us%2Fmicrosoft-copilot%2Fblog%2Fcopilot-studio%2Fnew-and-improved-agent-governance-intelligent-workflows-and-connected-app-experiences%2F%3Futm_source=tldrit/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/QX_NftyBTknnbE0izxi7dtTVWXuEtR2sr642HXncJgg=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Microsoft Copilot Studio April 2026 updates for agent governance and intelligent workflows (7 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Microsoft Copilot Studio's April 2026 updates introduce Agent 365 for centralized governance, the Analytics Viewer role for performance monitoring, and expanded usage estimators for Dynamics 365. New features include embedded agent workflows, interactive app experiences in Copilot Chat, and the Work IQ API for multi-agent orchestration and reasoning.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2026%2F05%2F12%2Fexaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen%2F%3Futm_source=tldrit/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/mbnerryikHbkQqSEDD8Pf9JxS67SvBmcBDJ7y0XDu5M=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Exaforce Raises $125M for AI Cybersecurity (3 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Exaforce raised a $125M Series B to build AI systems that catch and stop cyberattacks as they happen. The funding reflects the fast-growing market for defensive AI tools, as attackers also use AI to exploit software faster.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblogs.vmware.com%2Fcloud-foundation%2F2026%2F05%2F12%2Fwhats-new-with-vsphere-9-1%2F%3Futm_source=tldrit/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/0x2zgHZ1y777LhNw5w6CwvQKmLFJXKKu9lFmI9WTnPw=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;VMware Pushes Private Cloud as the Home for Enterprise AI (4 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Broadcom launched VMware Cloud Foundation 9.1 with cheaper memory scaling, better storage efficiency, faster Kubernetes scaling, and deeper cyber recovery features aimed at production AI workloads. Infrastructure vendors are aggressively pitching private cloud as a cheaper, more controllable alternative to public cloud for inference and agent workloads.
+                                
+
+
+
+
+
+
+
+
+
+
+🎁
+
+
+
+
+&lt;strong&gt;&lt;h1&gt;Miscellaneous&lt;/h1&gt;&lt;/strong&gt;
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.networkworld.com%2Farticle%2F4169706%2Fversa-takes-aim-at-fragmented-enterprise-security-with-cspm-orchestration-update-and-ai-agent-controls.html%3Futm_source=tldrit/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/HrccabV_YA2xHgiCqnE5XLZOi4N2esKBXA5lVR5qEvY=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Versa takes aim at fragmented enterprise security with CSPM orchestration update and AI agent controls (6 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Versa launched new CSPM capabilities to pull cloud misconfiguration visibility into its broader SASE platform, reducing the need to jump between separate security tools. Its upcoming framework for controlling AI agents before they can autonomously change policies or infrastructure configs is yet another sign that agent governance is quickly becoming a real enterprise security category.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fvercel.com%2Fblog%2Fhow-superset-built-the-ide-for-ai-agents-on-vercel%3Futm_source=tldrit/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/ACnJopqa0D0Go4QZahtM3A-I5RZg5LVQuXJh3t8byPQ=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;How Superset built the IDE for AI agents on Vercel (4 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Superset, an IDE for multi-agent development, leverages Vercel to manage 1,000–1,400 weekly deployments and 600 daily preview environments. By utilizing Vercel's fluid compute and automated infrastructure, the team enables parallel coding agents to operate without serialization delays, maintaining 30-second build times and supporting exponential commit growth.
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+⚡
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Quick Links&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2026%2F05%2F12%2Fgoogle-launches-new-android-security-feature-to-help-uncover-spyware-attacks%2F%3Futm_source=tldrit/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/YNGfhdUpdAiPPlhVaDT-k2bfHr5_oyaIq8OPkKSdMZg=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Google Adds Android Spyware Investigation Logs (2 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Google is rolling out Android “Intrusion Logging,” an opt-in Advanced Protection feature that helps security researchers investigate suspected spyware attacks.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdeveloper.okta.com%2Fblog%2F2026%2F05%2F12%2Flow-code-api-integration%3Futm_source=tldrit/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/aIb4dJvN1n4mryDLHjXI0Ztvxz4oBhCyvs9fxTbUH2U=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Okta adds low-code API integrations for admins (2 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Okta is giving IT teams a faster way to build custom integrations and workflows without relying on engineering-heavy middleware.
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;p&gt;
+Want to advertise in TLDR? 📰
+&lt;/p&gt;
+
+If your company is interested in reaching an audience of IT professionals and decision makers, you may want to &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrit%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/wznzYa4YrbG58ldkId5tUl65S5tFCT4-1yRK9HgeYTw=452" rel="noopener noreferrer"&gt;&lt;strong&gt;advertise with us&lt;/strong&gt;&lt;/a&gt;.
+
+&lt;br&gt;
+
+
+
+&lt;p&gt;
+Want to work at TLDR? 💼
+&lt;/p&gt;
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/TyQ-roCnKpwBac5dsqv1RAEqqJtEmaH5wjMABzyys-c=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Apply here&lt;/strong&gt;&lt;/a&gt;,
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/gDjKK2nssQA-p57LBauMyTs-Sqvvzv2IUjh6agNWoOA=452" rel="noopener noreferrer"&gt;&lt;strong&gt;create your own role&lt;/strong&gt;&lt;/a&gt; or send a friend's resume to &lt;a href="mailto:jobs@tldr.tech" rel="noopener noreferrer"&gt;jobs@tldr.tech&lt;/a&gt; and get $1k if we hire them! TLDR is one of &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/w2WjOtf1f7LPX4wzbw3aO0tvdLIsMFWhgSLngxRbFdg=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Inc.'s Best Bootstrapped businesses&lt;/strong&gt;&lt;/a&gt; of 2025.
+
+&lt;br&gt;
+
+
+If you have any comments or feedback, just respond to this email!
+&lt;br&gt;
+&lt;br&gt; Thanks for reading,
+&lt;br&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsiddhibansal%2F/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/obuKpIglQKhCpOpRLY47w5PaJH8z4tx9Ua7uiISa_e0=452" rel="noopener noreferrer"&gt;Siddhi Bansal&lt;/a&gt;, &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Ftongchen-yang-877116216%2F/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/UtUn-GRnQMRtfBcdg0ZHf9-75Yhs7dUyPu1g7OyrEWE=452" rel="noopener noreferrer"&gt;Tongchen Yang&lt;/a&gt;, &amp;amp; &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Frushdesh%2F/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/haQ7ATJDeZiXFjOI5YcWTpCVb4LHhcet1ZCMD4REe5o=452" rel="noopener noreferrer"&gt;Rush Deshpande&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;br&gt;
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fit%2Fmanage%3Femail=kob62291404%2540163.com/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/yg6gAgJw1T5DBjPK1NmXjsVHRHDyxnfQDn9lgqMDq8g=452" rel="noopener noreferrer"&gt;Manage your subscriptions&lt;/a&gt; to our other newsletters on tech, startups, and programming. Or if TLDR IT isn't for you, please &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=db791bc2-386d-11ee-a768-4730dc8aabb1%26lc=149dee8c-456d-11f1-ac4d-0b323ced8894%26p=09e99182-4e80-11f1-b666-dd1485682708%26pt=campaign%26pv=4%26spa=1778673638%26t=1778674194%26s=2d68a37538cda715bc86928bc5ab1155939399f2a3a60b1db017ca44cb7da8c1/1/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/20Fc5DQbLniRKARRSbMqGLdIan21F13WikW9_sngoPM=452" rel="noopener noreferrer"&gt;unsubscribe&lt;/a&gt;.
+&lt;br&gt;
+
+
+
+
+
+
+
+
+
+&lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019e213e5a11-1acc583c-7c51-4081-aa44-de82147c0746-000000/hcrPNjHGVmhd2Zc_6G8ITv7D5lSgKFtzVBQntsZ9I3U=452"&gt;
+</content:encoded></item><item><title>Senior dev communication 🗣, Canvas hacker ransom 💰, software book club 📚</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-57</link><guid isPermaLink="false">own-newsletter:item:57</guid><pubDate>Wed, 13 May 2026 11:07:23 GMT</pubDate><author>TLDR Dev &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR Dev Senior developers struggle to communicate effectively because their focus on managing system complexity conflicts with the business priority of speed ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Adver...</description><content:encoded>TLDR Dev
 
 
 
