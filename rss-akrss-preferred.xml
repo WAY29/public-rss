@@ -5,8 +5,46 @@
     <link>http://rss.longlone.de5.net</link>
     <description>Codex-curated preferred RSS items</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 16 May 2026 02:50:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 08:50:50 GMT</lastBuildDate>
     <atom:link href="http://rss.longlone.de5.net/rss-akrss-preferred.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeepSeek-V4-Flash means LLM steering is interesting again</title>
+      <link>https://seangoedecke.com/steering-vectors/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/steering-vectors/</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://www.seangoedecke.com/rss.xml">seangoedecke.com</source>
+      <description>(8.1/10) 文章借 DeepSeek-V4-Flash 讨论为何“转向向量”这类 LLM 控制方法重新值得关注。重点在模型可控性变化及其对提示工程、行为调节与实际应用的启发。</description>
+      <content:encoded>&lt;div&gt;&lt;p&gt;Ever since &lt;a href="https://www.anthropic.com/news/golden-gate-claude" rel="noopener noreferrer"&gt;Golden Gate Claude&lt;/a&gt; I’ve been fascinated with “steering”: the idea that you can guide LLM outputs by directly manipulating the activations of the model mid-flight.&lt;/p&gt;
+&lt;h3&gt;DeepSeek V4 Flash&lt;/h3&gt;
+&lt;p&gt;I was inspired to write this post by antirez’s recent project &lt;a href="https://github.com/antirez/ds4/tree/main" rel="noopener noreferrer"&gt;DwarfStar 4&lt;/a&gt;, which is a version of &lt;a href="https://github.com/ggml-org/llama.cpp" rel="noopener noreferrer"&gt;llama.cpp&lt;/a&gt; that’s been stripped down to run only DeepSeek-V4-Flash. What’s so special about this model? It might be what many engineers have been waiting for: a local model good enough to compete with at least the low end of frontier model agentic coding.&lt;/p&gt;
+&lt;p&gt;Since steering requires a local model, it’s now practical for many engineers to try it out for the first time. And indeed, antirez has baked &lt;a href="https://github.com/antirez/ds4/tree/main/dir-steering" rel="noopener noreferrer"&gt;steering&lt;/a&gt; into DwarfStar 4 as a first-class citizen. Right now it’s very rudimentary (basically just the toy “verbosity” example you can replicate via prompting), but the initial release was only &lt;a href="https://github.com/antirez/ds4/commit/d997b56c151184bcff469dd8302ed97f23481024" rel="noopener noreferrer"&gt;eight days ago&lt;/a&gt;. I plan to follow this project closely.&lt;/p&gt;
+&lt;h3&gt;How steering works&lt;/h3&gt;
+&lt;p&gt;The basic idea behind steering is extracting a concept (like “respond tersely”) from the model’s internal brain state, then reaching in during inference and boosting the numerical activations that form that concept.&lt;/p&gt;
+&lt;p&gt;One way you might do this is to feed your model the same set of a hundred prompts twice, once with the normal prompts and once with the words “respond tersely” appended. Then measure the difference in the model’s activations for each prompt pair (by subtracting one activation matrix from the other). That’s your “steering vector”. In theory, you can go and add that to the same activation layer for any prompt and get the same effect (of the model responding tersely).&lt;/p&gt;
+&lt;p&gt;Another, more sophisticated way you might do this is to train a second model to extract “features” from your model’s activations: patterns of behavior that seem to show up together. Then you can try to map those features back to individual concepts, and boost them in the same way. This is more or less what Anthropic is doing with &lt;a href="https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html" rel="noopener noreferrer"&gt;sparse autoencoders&lt;/a&gt;. It’s the same principle as the naive approach, but it lets you capture deeper patterns (at the cost of being much more expensive in time, compute and expertise).&lt;/p&gt;
+&lt;h3&gt;Why steering is interesting&lt;/h3&gt;
+&lt;p&gt;Steering sounds like a cheat code. Instead of painstakingly assembling a training set that tries to push the model towards the “smart” end of the distribution in its training data, why not simply go uncover the “smart” dial in the model’s brain and turn it all the way to the right?&lt;/p&gt;
+&lt;p&gt;It also seems like a more elegant way to adjust the way models talk. Instead of fiddling with the prompt (adding or removing qualifiers like “you MUST”), couldn’t we just have a control panel of sliders like “succinctness/verbosity” or “conscientiousness/speed” and move them around directly?&lt;/p&gt;
+&lt;p&gt;Finally, it’s just &lt;em&gt;cool&lt;/em&gt;. Watching Golden Gate Claude unwillingly &lt;a href="https://www.anthropic.com/news/golden-gate-claude" rel="noopener noreferrer"&gt;drag&lt;/a&gt; every sentence back to the Golden Gate Bridge is as fascinating and unsettling as Oliver Sacks’ neurological &lt;a href="https://en.wikipedia.org/wiki/The_Man_Who_Mistook_His_Wife_for_a_Hat" rel="noopener noreferrer"&gt;anecdotes&lt;/a&gt;. What if your own mind was tweaked in a similar way? Would it still be you?&lt;/p&gt;
+&lt;h3&gt;Why steering hasn’t been used&lt;/h3&gt;
+&lt;p&gt;Why don’t we steer more, then? Why don’t ChatGPT and Claude Code already have a steering panel where you can adjust the model’s brain in real time? One reason is that steering is kind of an unfortunately “middle class” idea in AI research.&lt;/p&gt;
+&lt;p&gt;It’s beneath the big AI labs, who can manipulate their models directly without having to do awkward brain surgery mid-inference. Anthropic is working on this stuff, but largely from an interpretability and safety perspective (as far as I know). When they want a model to behave in a certain way, they don’t mess around with steering, they just train the model.&lt;/p&gt;
+&lt;p&gt;Steering is also out of reach for regular AI users like you and me, who use LLMs via an API and thus don’t have access to the model weights or activations needed to steer the model. Only OpenAI can identify or expose steering vectors for GPT-5.5, for instance. We could do this for open-weights models, but until very recently (more on that later) there haven’t been any open models strong enough to be worth doing this for.&lt;/p&gt;
+&lt;p&gt;On top of that, most basic applications of steering are outcompeted by just prompting the model. It sounds pretty impressive to be able to manipulate the model’s brain directly. But you know what else manipulates the model’s brain directly? Prompt tokens. You can exercise fairly fine-grained control over activations with steering, but you can already exercise &lt;em&gt;extremely&lt;/em&gt; fine-grained control by tweaking the language of your prompt. In other words, there’s not much point going to the trouble to steer a model to be more verbose when you could simply &lt;em&gt;ask&lt;/em&gt;.&lt;/p&gt;
+&lt;h3&gt;Steering the unpromptable&lt;/h3&gt;
+&lt;p&gt;One way for steering to be really useful is if we could identify a concept that can’t be prompted for. What about “intelligence”? You used to be able to prompt for intelligence - this is why 4o-era prompting always began with “you are an expert” - but current-generation models have that baked into their personalities, so prompting for it does nothing. Maybe steering for it would still work?&lt;/p&gt;
+&lt;p&gt;Ultimately this is an empirical question, but I’m skeptical that we’ll be able to find an “intelligence” steering vector. Put another way, the steering vector that makes up a concept as difficult as “intelligence” might be almost coextensive with the entire set of weights of the model, and thus identifying it reduces to the problem of “training a smart model”.&lt;/p&gt;
+&lt;p&gt;A sufficiently sophisticated steering approach ends up just replacing the actual model. If I take GPT-2, and at each layer I swap out the activations with the activations from a much stronger model with the same architecture, I will get a much better result. But at that point you’re not making GPT-2 more intelligent, you’re just talking to the stronger model instead. The intelligence is in the steering, not in the model. For much more on this, see my post &lt;a href="https://seangoedecke.com/philosophy-and-ai-interpretability/" rel="noopener noreferrer"&gt;&lt;em&gt;AI interpretability has the same problems as philosophy of mind&lt;/em&gt;.&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Steering as data compression&lt;/h3&gt;
+&lt;p&gt;Another way for steering to be useful is if we could somehow steer for a concept that requires a ton of tokens to express. Steering would thus save us a big chunk of the model’s context window. Intuitively, we might think of this as a way to shift a concept from the model’s working memory into its implicit memory.&lt;/p&gt;
+&lt;p&gt;For instance, what if we could identify a “knowledge of my particular codebase” concept? When GPT-5.5 speed-reads my codebase, some of that knowledge it gains has to be buried in the activations, right? Maybe we could drag that out into a very large steering vector.&lt;/p&gt;
+&lt;p&gt;I would be surprised if this could work. I think we’ll run into the same problem as with extracting “intelligence”: the “knows my codebase” concept is probably sophisticated enough to require a full fine-tune of the model. But it at least seems possible.&lt;/p&gt;
+&lt;h3&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;I’m fascinated with steering, but I’m not particularly optimistic about it. I think most of the gains can be more efficiently reproduced with prompts, and that the truly ambitious steering goals can be more efficiently reproduced by training or fine-tuning the model.&lt;/p&gt;
+&lt;p&gt;However, the open-source community hasn’t done a lot of work on steering yet, and that might be just starting to change now. If I’m wrong and it does have practical applications, we should find that out in the next six months.&lt;/p&gt;
+&lt;p&gt;It’ll be interesting to see if bespoke per-model tools like DwarfStar 4 end up including a “library” of boostable features. When a popular open-weights model is released, the community always rushes to release a suite of wrappers and quantized versions. Could we also see a rush to extract boostable features from the model?&lt;/p&gt;
+&lt;p&gt;Here's a preview of a related post that shares tags with this one.&lt;/p&gt;&lt;/div&gt;</content:encoded>
+    </item>
     <item>
       <title>Premium: What If...We're In An AI Bubble? (Part 1)</title>
       <link>https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-1/</link>
@@ -2114,42 +2152,6 @@ I hope the Array PR will be accepted soon, and that we can benefit from the new 
 &lt;p&gt;&lt;/p&gt;
 
 &lt;/div&gt;
-
-&lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>The Zig project's rationale for their firm anti-AI contribution policy</title>
-      <link>https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything</guid>
-      <pubDate>Thu, 30 Apr 2026 01:24:23 GMT</pubDate>
-      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
-      <description>(8.4/10) 文章梳理了 Zig 项目为何采取几乎最严格的反 LLM 贡献政策，禁止用模型提交 issue、PR 和评论。核心理由是维护沟通质量、责任归属与社区协作信号，反映开源项目对 AI 介入边界的现实担忧。</description>
-      <content:encoded>&lt;div&gt;&lt;div&gt;
-
-&lt;p&gt;&lt;a href="https://ziglang.org/" rel="noopener noreferrer"&gt;Zig&lt;/a&gt; has one of the most stringent &lt;a href="https://ziglang.org/code-of-conduct/" rel="noopener noreferrer"&gt;anti-LLM policies&lt;/a&gt; of any major open source project:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;No LLMs for issues.&lt;/p&gt;
-&lt;p&gt;No LLMs for pull requests.&lt;/p&gt;
-&lt;p&gt;No LLMs for comments on the bug tracker, including translation. English is encouraged, but not required. You are welcome to post in your native language and rely on others to have their own translation tools of choice to interpret your words.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;The most prominent project written in Zig may be the &lt;a href="https://bun.com/" rel="noopener noreferrer"&gt;Bun&lt;/a&gt; JavaScript runtime, which was &lt;a href="https://bun.com/blog/bun-joins-anthropic" rel="noopener noreferrer"&gt;acquired by Anthropic&lt;/a&gt; in December 2025 and, unsurprisingly, makes heavy use of AI assistance.&lt;/p&gt;
-&lt;p&gt;Bun operates its own fork of Zig, and recently &lt;a href="https://x.com/bunjavascript/status/2048427636414923250" rel="noopener noreferrer"&gt;achieved a 4x performance improvement&lt;/a&gt; on Bun compile after adding "parallel semantic analysis and multiple codegen units to the llvm backend". Here's &lt;a href="https://github.com/oven-sh/zig/compare/upgrade-0.15.2%E2%80%A6upgrade-0.15.2-fast" rel="noopener noreferrer"&gt;that code&lt;/a&gt;. But &lt;a href="https://twitter.com/bunjavascript/status/2048428104893542781" rel="noopener noreferrer"&gt;@bunjavascript says&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;We do not currently plan to upstream this, as Zig has a strict ban on LLM-authored contributions.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;In &lt;a href="https://kristoff.it/blog/contributor-poker-and-ai/" rel="noopener noreferrer"&gt;Contributor Poker and Zig's AI Ban&lt;/a&gt; (&lt;a href="https://lobste.rs/s/ifcyr1/contributor_poker_zig_s_ai_ban" rel="noopener noreferrer"&gt;via Lobste.rs&lt;/a&gt;) Zig Software Foundation VP of Community Loris Cro explains the rationale for this strict ban. It's the best articulation I've seen yet for a blanket ban on LLM-assisted contributions:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;In successful open source projects you eventually reach a point where you start getting more PRs than what you’re capable of processing. Given what I mentioned so far, it would make sense to stop accepting imperfect PRs in order to maximize ROI from your work, but that’s not what we do in the Zig project. Instead,&amp;nbsp;&lt;strong&gt;we try our best to help new contributors to get their work in, even if they need some help getting there&lt;/strong&gt;. We don’t do this just because it’s the “right” thing to do, but also&amp;nbsp;&lt;strong&gt;because it’s the smart thing to do&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Zig values contributors over their contributions. Each contributor represents an investment by the Zig core team - the primary goal of reviewing and accepting PRs isn't to land new code, it's to help grow new contributors who can become trusted and prolific over time.&lt;/p&gt;
-&lt;p&gt;LLM assistance breaks that completely. It doesn't matter if the LLM helps you submit a &lt;em&gt;perfect&lt;/em&gt; PR to Zig - the time the Zig team spends reviewing your work does nothing to help them add new, confident, trustworthy contributors to their overall project.&lt;/p&gt;
-&lt;p&gt;Loris explains the name here:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The reason I call it “contributor poker” is because, just like people say about the actual card game, “you play the person, not the cards”. In contributor poker, you bet on the contributor, not on the contents of their first PR.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;This makes a lot of sense to me. It relates to an idea I've seen circulating elsewhere: if a PR was mostly written by an LLM, why should a project maintainer spend time reviewing and discussing that PR as opposed to firing up their own LLM to solve the same problem?&lt;/p&gt;
-&lt;/div&gt;
-
 
 &lt;/div&gt;</content:encoded>
     </item>
