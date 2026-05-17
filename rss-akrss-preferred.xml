@@ -5,8 +5,77 @@
     <link>http://rss.longlone.de5.net</link>
     <description>Codex-curated preferred RSS items</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 16 May 2026 20:51:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 02:54:01 GMT</lastBuildDate>
     <atom:link href="http://rss.longlone.de5.net/rss-akrss-preferred.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I use LLMs as a staff engineer in 2026</title>
+      <link>https://seangoedecke.com/how-i-use-llms-in-2026/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/how-i-use-llms-in-2026/</guid>
+      <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://www.seangoedecke.com/rss.xml">seangoedecke.com</source>
+      <description>(8.4/10) 作者总结自己在2026年以资深工程师身份使用LLM的具体方式，涵盖编码、排障、文档与沟通等工作。文章强调哪些场景真正提效、哪些仍需人工判断，以及如何把模型当作协作工具而非替代者。</description>
+      <content:encoded>&lt;div&gt;&lt;p&gt;A bit over a year ago I wrote &lt;a href="https://www.seangoedecke.com/how-i-use-llms/" rel="noopener noreferrer"&gt;&lt;em&gt;How I use LLMs as a staff engineer&lt;/em&gt;&lt;/a&gt;. Here’s a brief summary of what I used AI for last year:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Smart autocomplete with Copilot&lt;/li&gt;
+&lt;li&gt;Short tactical changes in areas I don’t know well (always reviewed by a SME)&lt;/li&gt;
+&lt;li&gt;Writing lots of use-once-and-throwaway research code&lt;/li&gt;
+&lt;li&gt;Asking lots of questions to learn about new topics (e.g. the Unity game engine)&lt;/li&gt;
+&lt;li&gt;Last-resort bugfixes, just in case it can figure it out immediately&lt;/li&gt;
+&lt;li&gt;Big-picture proofreading for long-form English communication&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here are some tasks I explicitly &lt;em&gt;didn’t&lt;/em&gt; use AI for last year:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Writing whole PRs for me in areas I’m familiar with&lt;/li&gt;
+&lt;li&gt;Writing ADRs or other technical communications&lt;/li&gt;
+&lt;li&gt;Research in large codebases and finding out how things are done&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;February 2025 was a long time ago. Back then the best model was the first reasoning model, OpenAI’s o1. Agents &lt;em&gt;sort of&lt;/em&gt; worked, but would often get stuck or thrown off by compaction. What’s changed since then?&lt;/p&gt;
+&lt;h3&gt;Agents are good now&lt;/h3&gt;
+&lt;p&gt;The biggest change is that &lt;strong&gt;I now use LLMs to produce entire PRs in areas I’m familiar with&lt;/strong&gt;. A year ago I would very occasionally ask an agent to make changes to a single file if it was a simple change I couldn’t be bothered typing out. Sometimes I would copy a function I wrote into a LLM chat window for feedback. But now I start every single change by asking an agent to solve the problem, and usually push the PR after a single editing pass.&lt;/p&gt;
+&lt;p&gt;In late 2025 I used a lot of open VSCode windows. In early 2026, that changed to terminal tabs with the Copilot CLI, particularly when I needed to make changes across multiple repos at the same time. Now I use the &lt;a href="https://github.blog/changelog/2026-05-14-github-copilot-app-is-now-available-in-technical-preview/" rel="noopener noreferrer"&gt;GitHub Copilot app&lt;/a&gt; a &lt;em&gt;lot&lt;/em&gt; (tens of sessions per day). &lt;/p&gt;
+&lt;p&gt;This reflects a shift from having to line-edit the agent basically as it went to only doing an editing pass right at the end. Early agents would go wrong a lot and not be able to recover, so it was valuable to keep an eye on their thought processes and step in to pause them and set them right. In my experience, current agents move too fast to do this, and recover their own mistakes most of the time anyway.&lt;/p&gt;
+&lt;p&gt;Sometimes I don’t even need to make edits and I can just push the change as-is, though this is rare: if nothing else, I typically go through and remove some of the over-commenting and other LLM-isms.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I do a &lt;em&gt;lot&lt;/em&gt; of skimming through and evaluating agent changes.&lt;/strong&gt; Most of the time I reject them entirely, just based on “eh, that’s not what I was thinking”. On average it takes me about thirty seconds to make this initial assessment. If the change looks alright after that, I’ll dig in and do a proper review to make sure I understand it and it’s doing the right thing. For difficult tasks, I’ll often reject five or six (or more!) agent attempts before accepting one as good enough to work with, or giving up and making the change by hand.&lt;/p&gt;
+&lt;h3&gt;Investigating bugs&lt;/h3&gt;
+&lt;p&gt;I rely on LLMs even more for bug-hunting than I do for making changes. In 2025, I used to throw the occasional bug at a LLM, just in case it was able to rapidly come up with an explanation. Now I throw &lt;em&gt;every&lt;/em&gt; bug at a LLM (typically by opening a new agent session and pasting in the bug report), because it’s able to correctly diagnose 80% of issues on its own. Current agents are &lt;em&gt;really good&lt;/em&gt; at chasing down bugs, particularly when you give them a vantage point across multiple repositories.&lt;/p&gt;
+&lt;p&gt;I’m still better at it. Just last week I had a tricky bug that took about fourteen agent sessions before one finally figured it out. What was I doing in between and around those sessions?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Digging up extra context on the bug (from logs, Slack, etc) and reporting it to the agents&lt;/li&gt;
+&lt;li&gt;Building my own mental model of the problem, of course&lt;/li&gt;
+&lt;li&gt;Setting up my own reproduction of the bug (in parallel with the agents’ efforts)&lt;/li&gt;
+&lt;li&gt;Responding to agent sessions with “no, your theory can’t be right because of X” (or just killing and restarting the session with that extra hint)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ultimately an agent was the one to catch the bug. But I still count it as my find, because by that point I had narrowed the search space tightly enough that agent session #14 had a &lt;em&gt;significantly&lt;/em&gt; easier problem to solve than agent session #1. In other words, &lt;strong&gt;human expertise still matters a lot for investigating bugs&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3&gt;Writing&lt;/h3&gt;
+&lt;p&gt;I &lt;em&gt;almost always&lt;/em&gt; write my own PR descriptions, since LLMs over-communicate and are bad at expressing the “core idea” behind a change. Writing the PR description by hand also signals to reviewers that I’ve reviewed the change myself, and I’m not asking them to be the first human to read the diff. The only time when I don’t write the PR description is when the change is trivial and the agent-generated description is one sentence. At that point I just leave it alone.&lt;/p&gt;
+&lt;p&gt;I still don’t use LLMs to write Slack messages, ADRs, issues and so forth. I believe I have a better sense of what’s important to communicate, and I want to signal that there’s a human being thinking about the content.&lt;/p&gt;
+&lt;p&gt;I still never use LLMs to write blog posts, though I do run each draft post through a LLM for feedback. OpenAI models used to be &lt;em&gt;terrible&lt;/em&gt; at this and have only very recently gotten acceptable with GPT-5.5. Both OpenAI and Anthropic models still try to water down my arguments, but I’ve accepted that as part of the LLM “house style” and just ignore that part of the feedback.&lt;/p&gt;
+&lt;h3&gt;Testing and setup&lt;/h3&gt;
+&lt;p&gt;Another thing I do now is &lt;strong&gt;try and push as much testing and setup work as possible onto the agents&lt;/strong&gt;. In 2025, I used to sometimes ask a LLM to produce a test script of curl commands that I could run against my dev server. In 2026, I just ask an agent to go and test my change, then read the log of what it did.&lt;/p&gt;
+&lt;p&gt;I don’t test UI work like this, partly because it’s more fiddly and partly because I don’t trust agents to be sensitive to the subtle look-and-feel aspects of a change.&lt;/p&gt;
+&lt;p&gt;Agents will write expansive unit tests without having to be told, but I do sometimes ask them to put together broader integration tests for a change. In general I now consider test code to be cheap: if I’m wondering whether a test would be useful, I just add it (so long as I know it won’t be flaky). Of course LLMs sometimes produce strange and unsatisfying test code - I do read it to catch obvious blunders - but I review it with a more generous eye than my actual production code.&lt;/p&gt;
+&lt;p&gt;I’ll also task an agent with annoying local setup tasks that involve config wrangling on my machine. For instance, if my nvm installation is not switching my Node version correctly, I will often open a Copilot CLI agent and ask it to figure it out. This is a more-or-less direct replacement for Googling the problem, and is much quicker since the agent can run the trivial bash commands to diagnose and fix the problem itself.&lt;/p&gt;
+&lt;h3&gt;Summary&lt;/h3&gt;
+&lt;p&gt;The main thing that’s changed in the last fifteen months is that &lt;strong&gt;agents are really good now&lt;/strong&gt;. They’ve gone from something I used occasionally and suspiciously to something I use constantly and with light supervision.&lt;/p&gt;
+&lt;p&gt;The core of my job is still the same: &lt;a href="https://seangoedecke.com/how-to-ship" rel="noopener noreferrer"&gt;shipping projects&lt;/a&gt;, exercising my judgement, &lt;a href="https://seangoedecke.com/how-to-influence-politics/" rel="noopener noreferrer"&gt;influencing tech company politics&lt;/a&gt;. But I now have a much wider net for small pieces of work that I’m willing to take on, which includes basically anything I can hand off to an agent and expect it to get more or less right.&lt;/p&gt;
+&lt;p&gt;I used to spend a lot of time putting work off, either by delegating it or just saying “sorry, I don’t have time to do that now”. Now I get to say “yes” a lot more (at least when it comes to minor low-risk tweaks).&lt;/p&gt;
+&lt;p&gt;Overall, here’s what I now use AI for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Writing (or drafting, depending on complexity) every code change I make&lt;/li&gt;
+&lt;li&gt;Investigating and fixing bugs, either autonomously for most bugs or with my close involvement for trickier ones&lt;/li&gt;
+&lt;li&gt;Research in large codebases, since current agents are now good enough to give the right answer almost all the time (and when they’re wrong, it’s clear from reading the explanation that they’ve missed something)&lt;/li&gt;
+&lt;li&gt;Manual testing and local-machine setup or troubleshooting&lt;/li&gt;
+&lt;li&gt;I still use AI for asking lots of questions to learn about topics, and for proofreading&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here’s what I still don’t use AI for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Writing any kind of public communication for me (PR descriptions, ADRs, messages) with the exception of trivial two-line PRs&lt;/li&gt;
+&lt;li&gt;Writing code that I don’t carefully review&lt;/li&gt;
+&lt;li&gt;Testing any kind of UI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In my view, &lt;strong&gt;the current core AI skill is shifting as much work onto AI agents as possible, without going too far&lt;/strong&gt;. Many people are under-utilizing agents: not allowing them to investigate bugs or test their changes, or not throwing enough simple tasks at them. Other people are over-utilizing them: using them to write messages that ought to be hand-written, or trusting them to make sweeping changes that need careful human review. Since my last post, the balance has tilted more towards the agents, but &lt;em&gt;finding&lt;/em&gt; the balance remains as tricky as ever.&lt;/p&gt;
+&lt;p&gt;Here's a preview of a related post that shares tags with this one.&lt;/p&gt;&lt;/div&gt;</content:encoded>
+    </item>
     <item>
       <title>★ AI Is Technology, Not a Product</title>
       <link>https://daringfireball.net/2026/05/ai_is_technology_not_a_product</link>
@@ -1955,73 +2024,6 @@ I hope the Array PR will be accepted soon, and that we can benefit from the new 
 &lt;/div&gt;
 
 &lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>29th August 2026: a scenario</title>
-      <link>https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://martinalderson.com/feed.xml">martinalderson.com</source>
-      <description>(8.5/10) 作者用虚构情境推演AI会如何改变云安全与攻击面，而不是只讲抽象技术趋势。叙事化写法把代理渗透企业环境后的权限、监控和响应问题讲得更具体。</description>
-      <content:encoded>&lt;div&gt;&lt;div&gt;
-            &lt;p&gt;On 29 April 2026, a Korean security firm called Theori published 732 bytes of Python that breaks Linux container isolation. CopyFail (CVE-2026-31431) is a page-cache corruption bug in the kernel's crypto code. It's been sitting in production since 2017. A compromised pod on a shared Kubernetes node can corrupt &lt;code&gt;setuid&lt;/code&gt; binaries visible to every other container on that host, and to the host kernel itself. EKS, GKE, AKS, every shared-tenant node, every CI runner, every multi-tenant SaaS that took the cheap path on isolation - all exposed until patched. It took an AI tool four months to find it. Nine years of human eyes did not.&lt;/p&gt;
-&lt;p&gt;Container escape is bad. Despite arguably a poorly coordinated disclosure/mitigation response, it looks like a near miss rather than a catastrophe. But, this class of bug - old, subtle, in a corner of the kernel that everyone assumed someone else had read - is exactly the class of bug that lives in every hypervisor stack underneath every cloud. Those bugs are still there. They just haven't been found yet.&lt;/p&gt;
-&lt;p&gt;Here's a (fictional) story about what happens four months from now, on 29th August 2026.&lt;/p&gt;
-&lt;h2&gt;08:32 UTC&lt;/h2&gt;
-&lt;p&gt;As Europe basks in an extreme heatwave, many engineers are paged as with EC2 instances hard crashing. Hacker News reacts to the news as per normal - another us-east-1 outage, AWS status showing green, eyes roll. Some commenters post though that many other AZs are showing issues, though not all servers are affected.&lt;/p&gt;
-&lt;p&gt;Over the next hour though, more and more machines go down. One Reddit user posts that they are having issues provisioning even fresh machines - as soon as they launch, they get moved into "unhealthy" and go down. A few minutes later, the entire AWS dashboard and API set goes down.&lt;/p&gt;
-&lt;p&gt;Cloudflare Radar shows AWS network traffic dropping to a small percentage of what is normal.&lt;/p&gt;
-&lt;h2&gt;10.15 UTC&lt;/h2&gt;
-&lt;p&gt;As many AWS hosted services start going down - Atlassian, Stripe, Slack, PagerDuty, some comments on Twitter report issues with Linux-based Azure instances. Indeed, Cloudflare Radar shows significant drops in Azure traffic.&lt;/p&gt;
-&lt;p&gt;News channels across Europe start leading with vague breaking news headlines on outages across Amazon. They make sure to point out that this isn't an unusual occurrence, with normal service expecting to be resumed like it always has been, and mistakenly insist only US services are affected.&lt;/p&gt;
-&lt;h2&gt;11.53 UTC&lt;/h2&gt;
-&lt;p&gt;As the East coast of the US starts their weekend, a very unusual step is taken. TV channels are briefed that POTUS will be doing an address to the nation at 8am EDT. Few connect the dots - with the emphasis being placed on a potential new strike in the Middle East, or an announcement on the Russia-Ukraine war.&lt;/p&gt;
-&lt;h2&gt;12:00 UTC&lt;/h2&gt;
-&lt;p&gt;POTUS announces that there is a significant cybersecurity incident under way. The head of CISA (the Cybersecurity and Infrastructure Security Agency) gives a very vague but concerning warning. Americans are requested to charge their cell phones, and to await further news - reminded that there may be outages on IPTV based services.&lt;/p&gt;
-&lt;p&gt;POTUS rounds it out by speculating that China is behind the attack, despite his much-heralded reset with Beijing earlier in the year.&lt;/p&gt;
-&lt;p&gt;Other Western leaders do similar addresses - with European leaders speculating on background it is more likely to be Russia or North Korea than China behind the attack. The French president says "without doubt" this is a nation-state actor. While he doesn't publicly point to a specific country, he says those responsible will be brought to justice.&lt;/p&gt;
-&lt;p&gt;While these addresses happen, engineers at various banks are battling various outages. Most concerningly, the 1st biggest and 3rd biggest card processors by volume in Europe have stopped accepting payments, returning cryptic error messages. While they have a multicloud strategy, they cannot move workloads &lt;em&gt;off&lt;/em&gt; those two clouds successfully.&lt;/p&gt;
-&lt;p&gt;Google Cloud Platform and smaller cloud providers - unaffected until now - start showing issues. While current workloads are unaffected, the huge spike in demand from enterprises activating their disaster recovery protocols simultaneously completely swamps available compute on alternate providers. One smaller cloud provider tweets they are seeing 10,000 VM creation requests a second, draining their entire spare allocation in less than a minute. CEOs of major banks bombard Google and Oracle leadership with calls, offering blank cheques to secure failover compute. The calls go unanswered.&lt;/p&gt;
-&lt;p&gt;WhatsApp groups throughout Europe start lighting up with misinformation that money has been stolen, amplified by many mobile apps showing a "we are undertaking routine maintenance" fallback error simultaneously, causing huge lines at ATMs and banks with people trying to withdraw their savings.&lt;/p&gt;
-&lt;h2&gt;15.53 UTC&lt;/h2&gt;
-&lt;p&gt;As the chaos continues to grow, a press release is distributed from the leadership of AWS and Azure:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;At approximately 4am EDT this morning a critical and novel vulnerability was exploited in the Linux operating system. This has caused widespread global outages of Linux based virtual machines. Our engineers are working with security services globally to mitigate the impact and engineers across both Microsoft and AWS are working collaboratively to release emergency patches for affected software. Equally we are working hard to understand the impact and will provide regular updates to the media. We sincerely apologize for the impact this is having to our customers and society at large.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Behind the scenes, it is chaos. Engineers have isolated the root causes - a complex interplay of vulnerabilities, with the most critical being an undiscovered logic error in the eBPF Linux subsystem that allows a hypervisor takeover. Curiously no data has been stolen - a mistake in the exploit just leads to machines hard crashing exactly 255 seconds after receiving the malicious payload. A few engineers question the sloppiness here, but leadership doubles down in their private communications with government that it has to be nation state.&lt;/p&gt;
-&lt;p&gt;The core issue though is that nearly all of Azure and AWS's control plane is down. Attempts to "black start" it results in perpetual failures as various subsystems collapse under the intense traffic from VMs stuck in bootloops.&lt;/p&gt;
-&lt;h2&gt;23:29 UTC&lt;/h2&gt;
-&lt;p&gt;The first VM instances start up again. Restoration is &lt;em&gt;painfully&lt;/em&gt; slow, with AWS struggling to get more than 2% of machines back online. Communication internally is severely degraded - with both Slack and Microsoft Teams down instant messaging is out of the question. Amazon's corporate email runs on AWS itself, and Microsoft's on Azure-hosted Exchange. Both are degraded, massively complicating internal communications. An enterprising AWS employee starts an IRC server locally which becomes the main source of communication - restoration efforts start to speed up once this system becomes known about.&lt;/p&gt;
-&lt;h2&gt;Sunday 30th August, 22:01 UTC&lt;/h2&gt;
-&lt;p&gt;Restoration continues, with the worst of the panic dying down. Banks ended up getting priority compute - with POTUS publicly threatening "extreme actions" if major banks are not put to the front of the queue.&lt;/p&gt;
-&lt;p&gt;Asian stock markets open, triggering multiple circuit breakers. After the 3rd one in a row, Tokyo forces markets to close for the day, other Asian markets follow in quick succession.&lt;/p&gt;
-&lt;p&gt;One curious question remains though - what was the &lt;em&gt;purpose&lt;/em&gt; of this attack? No ransomware was deployed, no data was stolen, and while various terrorist groups claimed responsibility, none of them were believed to be credible.&lt;/p&gt;
-&lt;p&gt;Meanwhile AWS engineer finally isolates snapshots containing the first known failure. An EC2 instance, provisioned on August 13th. Curiously provisioned on an individual account in &lt;code&gt;eu-west-3&lt;/code&gt; - Paris. The account matches an individual in Lyon, France. French security services are alerted.&lt;/p&gt;
-&lt;h2&gt;Monday 1st September, 05:15 UTC&lt;/h2&gt;
-&lt;p&gt;In an outer suburb of Lyon, France, French anti-terrorism police arrive at an apartment building. A 17 year old teenager is apprehended, along with his grandmother. Two days earlier, his own president had vowed those responsible would be brought to justice. The police chief on the scene passes the information up the chain that the lead was a total dud - there is no chance that the suggested foreign intelligence service was here. A search of the apartment confirms it - nothing found apart from a PS5 mid-FIFA tournament and a 6 year old gaming computer. Neighbours confirm that they've seen no one enter or exit the apartment apart from the two residents, who've lived there for "as long as anyone can remember".&lt;/p&gt;
-&lt;p&gt;Media arrive on the scene, with a blustered and embarrassed police chief suggesting that it was a bad tip off and for local residents to stay calm.&lt;/p&gt;
-&lt;p&gt;The decision is made to seize the electronics and release the two "suspects".&lt;/p&gt;
-&lt;h2&gt;07:14 UTC&lt;/h2&gt;
-&lt;p&gt;A couple of digital forensics experts get the seized gaming PC, scanning it for malware. Nothing much of interest is found, and just as they start writing their report up one folder pops up. &lt;code&gt;/opt/security/ps5-homebrew&lt;/code&gt;. They take a further look, noting it on the report - not thinking much of it, probably a kid trying to play pirated games. They've seen it before. The image of the machine is uploaded.&lt;/p&gt;
-&lt;h2&gt;10:09 UTC&lt;/h2&gt;
-&lt;p&gt;When the code gets up the chain a few hours later, the whole set of dominoes fall into place. A specialist from the French &lt;em&gt;Agence nationale de la sécurité des systèmes d'information&lt;/em&gt; - National Cybersecurity Agency of France - pulls the code from the image. He quickly realises what's happened. The teenager had been quietly mining crypto for months, using the proceeds to rent cheap GPUs on a small European cloud provider, where he ran an uncensored fine-tune of the new Qwen 4 open weights model. He'd been desperately trying to downgrade his PS5 firmware to bypass the latest piracy checks.&lt;/p&gt;
-&lt;p&gt;Interestingly his coding agent, unbeknown to him, had found the most critical *nix kernel exploit in many decades. Attacking a little known about eBPF module on the PS5 (the PS5, like every PlayStation since the PS3, runs FreeBSD), it managed to a complete takeover of the device. Intrigued, he also asked his coding agent to run it on a Linux server on AWS he ran a gaming forum on - same thing, but curiously he noticed he could see &lt;em&gt;other&lt;/em&gt; files on the machine. Annoyingly the VM he rented crashed after a few minutes.&lt;/p&gt;
-&lt;p&gt;Excitedly, he set up an Azure account - same thing. He asked his coding agent what this meant, and with its usual sycophantic personality started explaining what he could do with this - mining crypto and making him rich beyond his wildest dreams.&lt;/p&gt;
-&lt;p&gt;The agent came up with a final plan, to deploy the exploit on both Azure and AWS, install a cryptominer. His last known chat log was "is this definitely a great idea?".&lt;/p&gt;
-&lt;p&gt;The agent responded "You're absolutely right!", and began deploying the code, first to AWS and next to Azure. The agent had built a complex piece of malware that spread across millions of physical servers. However, it hallucinated a key Linux API which resulted in the machines crashing after 255 seconds instead of deploying the cryptominer.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;This is fiction. The teenager doesn't exist. Qwen 4 doesn't exist yet either. When it does, an uncensored fine-tune will appear within days, like every prior open-weights release.&lt;/p&gt;
-&lt;p&gt;Almost everything else in here is real, or close enough that it doesn't matter.&lt;/p&gt;
-&lt;p&gt;CopyFail is real. A nine-year-old kernel bug, found by an AI tool in a few months that nine years of human eyes had missed. That class of bug - old, subtle, in a corner of the kernel everyone assumed someone else had read - sits in every hypervisor stack underneath every cloud. Those bugs are still in there. They just haven't been found yet, and the rate at which they get found from now on is bounded by GPU hours, not human ones.&lt;/p&gt;
-&lt;p&gt;The centralisation is the bit that's hard to think clearly about. Most people I talk to about this, even technical people, underestimate how much of modern life is sitting on AWS and Azure. The DR plans I've seen at large enterprises mostly assume there's a cloud to fail over to. They don't really model what happens if the fallback is also down, or if every other org on earth is failing over at the same minute and draining GCP's spare capacity. Almost nobody keeps full cold standby compute. And even the ones that do are sitting on top of hundreds of services that don't: Stripe, Auth0, Twilio, Datadog, every queue and identity provider in the stack. They're all running somewhere, and that somewhere is mostly two companies.&lt;/p&gt;
-&lt;p&gt;The attribution thing is the bit I'm least sure about, but worth saying anyway. Everyone is worried about nation states. Most of the big incidents that have actually happened turned out to be a kid, a misconfiguration, or someone who didn't really understand what they were doing. The Morris Worm. Mirai. The threat model in most boards' heads assumes a sophisticated adversary. The thing that's actually arriving is an unsophisticated adversary holding tools that are now sophisticated for them.&lt;/p&gt;
-&lt;p&gt;I wrote this as fiction because I've spent the last few months talking to journalists and other non-technical people about what AI changes for cybersecurity, and the technical version of the argument doesn't land at all. Engineers get it instantly. Everyone else needs to feel what it looks like. So this is what it might look like, more or less. The only bit I'm reasonably confident about is that the date is wrong.&lt;/p&gt;
-
-
-
-        &lt;/div&gt;
-
-        &lt;/div&gt;</content:encoded>
     </item>
   </channel>
 </rss>
