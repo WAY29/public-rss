@@ -1,5 +1,611 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>TLDR AI</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml</link><description>Messages from sources matching dan@tldrnewsletter.com</description><lastBuildDate>Mon, 18 May 2026 10:34:27 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml" rel="self" type="application/rss+xml"></atom:link><item><title>Amazon's new playbook 📖, Starship v3 stakes 🚀, career side doors 💼</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-74</link><guid isPermaLink="false">own-newsletter:item:74</guid><pubDate>Mon, 18 May 2026 10:33:21 GMT</pubDate><author>TLDR &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR Andy Jassy took the role of Amazon's CEO five years ago. He recently placed a series of expensive bets on AI that are audacious ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|View Online TLDR Toge...</description><content:encoded>&lt;!DOCTYPE html&gt;&lt;html lang="en"&gt;&lt;head&gt;&lt;meta http-equiv="Content-Type" content="text/html charset=UTF-8"&gt;&lt;meta charset="UTF-8"&gt;&lt;meta name="viewport" content="width=device-width"&gt;&lt;meta name="x-apple-disable-message-reformatting"&gt;&lt;title&gt;TLDR&lt;/title&gt;&lt;meta name="color-scheme" content="light dark"&gt;&lt;meta name="supported-color-schemes" content="light dark"&gt;&lt;style type="text/css"&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>TLDR AI</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml</link><description>Messages from sources matching dan@tldrnewsletter.com</description><lastBuildDate>Mon, 18 May 2026 11:34:36 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml" rel="self" type="application/rss+xml"></atom:link><item><title>AI vs processes 🗳, faster code search 🔍, AI as a ticking time bomb 💣</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-75</link><guid isPermaLink="false">own-newsletter:item:75</guid><pubDate>Mon, 18 May 2026 11:08:20 GMT</pubDate><author>TLDR Dev &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR Dev Organizations often have unrealistic expectations that AI will automatically resolve bottlenecks and speed up complex business processes ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|View Onl...</description><content:encoded>&lt;!DOCTYPE html&gt;&lt;html lang="en"&gt;&lt;head&gt;&lt;meta http-equiv="Content-Type" content="text/html charset=UTF-8"&gt;&lt;meta charset="UTF-8"&gt;&lt;meta name="viewport" content="width=device-width"&gt;&lt;meta name="x-apple-disable-message-reformatting"&gt;&lt;title&gt;TLDR Dev&lt;/title&gt;&lt;meta name="color-scheme" content="light dark"&gt;&lt;meta name="supported-color-schemes" content="light dark"&gt;&lt;style type="text/css"&gt;
+			:root {
+				color-scheme: light dark; supported-color-schemes: light dark;
+			}
+			
+			*,
+			*:after,
+			*:before {
+				-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
+			}
+			
+			* {
+				-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
+			}
+			
+			html,
+			body,
+			.document {
+				width: 100% !important; height: 100% !important; margin: 0; padding: 0;
+			}
+			
+			body {
+				-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility;
+			}
+			
+			div[style*="margin: 16px 0"] {
+				margin: 0 !important;
+			}
+			
+			table,
+			td {
+				mso-table-lspace: 0pt; mso-table-rspace: 0pt;
+			}
+			
+			table {
+				border-spacing: 0; border-collapse: collapse; table-layout: fixed; margin: 0 auto;
+			}
+			
+			img {
+				-ms-interpolation-mode: bicubic; max-width: 100%; border: 0;
+			}
+			
+			*[x-apple-data-detectors] {
+				color: inherit !important; text-decoration: none !important;
+			}
+			
+			.x-gmail-data-detectors,
+			.x-gmail-data-detectors *,
+			.aBn {
+				border-bottom: 0 !important; cursor: default !important;
+			}
+			
+			.btn {
+				-webkit-transition: all 200ms ease; transition: all 200ms ease;
+			}
+			
+			.btn:hover {
+				background-color: #f67575; border-color: #f67575;
+			}
+			
+			* {
+				font-family: Arial, Helvetica, sans-serif; font-size: 18px;
+			}
+			
+			@media screen and (max-width: 600px) {
+				.container {
+					width: 100%; margin: auto;
+				}
+				.stack {
+					display: block!important; width: 100%!important; max-width: 100%!important;
+				}
+				.btn {
+					display: block; width: 100%; text-align: center;
+				}
+			}
+			
+			body,
+			p,
+			td,
+			tr,
+			.body,
+			table,
+			h1,
+			h2,
+			h3,
+			h4,
+			h5,
+			h6,
+			div,
+			span {
+				background-color: #FEFEFE !important; color: #010101 !important;
+			}
+			
+			@media (prefers-color-scheme: dark) {
+				body,
+				p,
+				td,
+				tr,
+				.body,
+				table,
+				h1,
+				h2,
+				h3,
+				h4,
+				h5,
+				h6,
+				div,
+				span {
+					background-color: #27292D !important; color: #FEFEFE !important;
+				}
+			}
+			
+			a {
+				color: inherit !important; text-decoration: underline !important;
+			}
+
+		&lt;/style&gt;&lt;!--[if mso | ie]&gt;
+		&lt;style type="text/css"&gt;
+			a {
+				background-color: #FEFEFE !important; color: #010101 !important;
+			}
+			@media (prefers-color-scheme: dark) {
+				a {
+					background-color: #27292D !important; color: #FEFEFE !important;
+				}
+			}
+	 &lt;/style&gt;
+			&lt;![endif]--&gt;&lt;/head&gt;&lt;body class=""&gt;
+
+
+
+&lt;div style="display: none; max-height: 0px; overflow: hidden;"&gt;Organizations often have unrealistic expectations that AI will automatically resolve bottlenecks and speed up complex business processes&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&lt;/div&gt;
+&lt;div style="display: none; max-height: 0px; overflow: hidden;"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;table align="center" class="document"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td valign="top"&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="container" width="600"&gt;&lt;tbody&gt;&lt;tr class="inner-body"&gt;&lt;td&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr class="header"&gt;&lt;td bgcolor="" class="container"&gt;
+
+&lt;table width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container"&gt;
+
+
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" style="margin-top: 0px;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding: 0px;"&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div style="text-align: center;"&gt;
+&lt;span style="margin-right: 0px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fdev%3Futm_source=tldrdev/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/BKmU9ynQ3XYpll4C0MY9-51OkMy4NLaiKrXOl4_6LyU=452" rel="noopener noreferrer" target="_blank"&gt;&lt;span&gt;Sign Up&lt;/span&gt;&lt;/a&gt;
+|&lt;span style="margin-right: 2px; margin-left: 2px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/TX-jhIW2Kyo2Dxuck2Wg9sIjyFgSYXm7O2HMW4xc8Xo=452" rel="noopener noreferrer" target="_blank"&gt;&lt;span&gt;Advertise&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;|&lt;span style="margin-left: 2px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=149d365e-456d-11f1-8ba2-498e51b65b4e%26p=6b377eea-528b-11f1-99c6-4b0074526718%26pt=campaign%26t=1779102500%26s=fbc16807750441adb4112c28faccb21640e951a8ef1599feb1185bec52d766d8/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/hYxNpQtxk-L7BezqEn8Ea8_mJbZeY7KoCXyQagxS9PE=452"&gt;&lt;span&gt;View Online&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;/span&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="text-align: center;"&gt;&lt;span data-darkreader-inline-color="" style="--darkreader-inline-color:#3db3ff; color: rgb(51, 175, 255) !important; font-size: 30px;"&gt;T&lt;/span&gt;&lt;span style="font-size: 30px;"&gt;&lt;span data-darkreader-inline-color="" style="color: rgb(232, 192, 96) !important; --darkreader-inline-color:#e8c163; font-size:30px;"&gt;L&lt;/span&gt;&lt;span data-darkreader-inline-color="" style="color: rgb(101, 195, 173) !important; --darkreader-inline-color:#6ec7b2; font-size:30px;"&gt;D&lt;/span&gt;&lt;/span&gt;&lt;span data-darkreader-inline-color="" style="--darkreader-inline-color:#dd6e6e; color: rgb(220, 107, 107) !important; font-size: 30px;"&gt;R&lt;/span&gt;
+&lt;br&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;br&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr id="together-with"&gt;&lt;td align="center" height="20" style="vertical-align:middle !important;" valign="middle" width="100%"&gt;&lt;strong style="vertical-align:middle !important; height: 100%;"&gt;Together With &lt;/strong&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2F3b21aaf8-dea5-4127-be71-602d30e5001e/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/m4m82WKjp5xGburIaZldJyAPTKxRgJj3-1FZ0sagBzQ=452"&gt;&lt;img src="https://images.tldr.tech/tldr50.png" valign="middle" style="vertical-align: middle !important; height: 100%;" alt="TLDR"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+
+&lt;table style="table-layout: fixed; width:100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;"&gt;
+&lt;div style="text-align: center;"&gt;
+
+&lt;h1&gt;&lt;strong&gt;&amp;nbsp;TLDR Dev &lt;span id="date"&gt;2026-05-18&lt;/span&gt;&lt;/strong&gt;&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table style="table-layout: fixed; width:100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr id="sponsy-copy"&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2F3b21aaf8-dea5-4127-be71-602d30e5001e/2/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/HvKUDxsgiq2A26NrxPJgPsozHyQacSY0dD5uDjdK0CE=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;TLDR is hiring a Senior Software Engineer, Applied AI ($250k-$350k, Fully Remote)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    TLDR's Applied AI team is tasked with making every process at TLDR legible to code, runnable by anyone, and composable into larger workflows. Join a small, fast moving team using the latest AI tools with an unlimited token budget. &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2F3b21aaf8-dea5-4127-be71-602d30e5001e/3/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/C3PcM6tkay-Tz2IjQJrN73fWmH1sz_U8CFBwk3WDm_U=452" rel="noopener noreferrer" target="_blank"&gt;&lt;span&gt;Learn more&lt;/span&gt;&lt;/a&gt;.
+&lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr bgcolor=""&gt;&lt;td class="container"&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding: 0px;"&gt;
+
+
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🧑‍💻&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;
+
+&lt;h1&gt;&lt;strong&gt;Articles &amp;amp; Tutorials&lt;/strong&gt;&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjvns.ca%2Fblog%2F2026%2F05%2F15%2Fmoving-away-from-tailwind--and-learning-to-structure-my-css-%2F%3Futm_source=tldrdev/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/xAKmqDmAQ99ob2lshZQ6y8lKhZwCB4bPryve0pLv6Tg=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Moving away from Tailwind, and learning to structure my CSS (11 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    A transition away from Tailwind CSS means adopting a workflow centered on semantic HTML and native CSS, and organizing code into isolated component files while still using Tailwind-inspired concepts like color palettes. Modern CSS features such as nesting and grid layouts are great for clean, responsive code organization.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fredis.io%2Fblog%2Fcontext-pruning-llm-tokens%2F%3Futm_source=tldrdev/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/oRxomN_2lsV3Mz213Sqgmceq_j8lpdJSeZhDrhRArkY=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Context Pruning: Cut LLM Tokens Without Losing Quality (9 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Context pruning is a technique that removes low-value elements from an LLM's input, such as tokens or passages, to reduce costs and improve LLM output, often resulting in up to 20x compression and faster latency. It works by mitigating issues like "lost in the middle" effects common in long context windows, but must be applied carefully as it can negatively impact structured data or multi-turn dialogue.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🧠&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;
+
+&lt;h1&gt;&lt;strong&gt;Opinions &amp;amp; Advice&lt;/strong&gt;&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+
+&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffrederickvanbrabant.com%2Fblog%2F2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster%2F%3Futm_source=tldrdev/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/OaA28WSJQWD3ZrluBk0oGB59uMQw7tDOkhINp1UtABk=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;I don't think AI will make your processes go faster (5 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Organizations often have unrealistic expectations that AI will automatically resolve bottlenecks and speed up complex business processes. Delays in areas like software development typically arise from vague feature requests and incomplete documentation rather than a lack of technical execution speed. This means AI can't really help in these cases.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fkabir.au%2Fblog%2Fthe-ctf-scene-is-dead%3Futm_source=tldrdev/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/2S84fNC-hyi85lttT5Z2Rh7gSnFVmYAhFswSkV1leXM=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;The CTF scene is dead (11 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Frontier AI models have disrupted the open Capture The Flag (CTF) format by automating the reasoning and technical tasks that once defined human skill. These competitions have evolved into a test of computational orchestration and financial investment, making traditional scoreboards an inaccurate measure of individual security expertise.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🚀&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;
+
+&lt;h1&gt;&lt;strong&gt;Launches &amp;amp; Tools&lt;/strong&gt;&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fallstacks.ai%2Fai-transformation-of-software-product-management%3Futm_medium=Sponsorship%26utm_source=newsletter%26utm_campaign=tldr-may-18/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/HCPlSlh41aWyHNHnhMlYAbFjygrrMWz0QwdIePtbQMA=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Your Product Management Practices Are Killing AI ROI (Sponsor)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Engineering accelerated, but product management didn't. It's 10-100x cheaper to fix the requirements than bad code in review or production. In this Allstacks (Sponsor) whitepaper, Jim Grundner maps the AI-driven PM lifecycle, how product teams can move faster, and how to practically create context-aware requirements for AI agents.&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fallstacks.ai%2Fai-transformation-of-software-product-management%3Futm_medium=Sponsorship%26utm_source=newsletter%26utm_campaign=tldr-may-18/2/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/EbIc82CDxxp-FZy5XkhiTv40QDZ_7cj6sfJFwGUVsRk=452" rel="noopener noreferrer nofollow" target="_blank"&gt;&lt;span&gt;Read Jim's guidance.&lt;/span&gt;&lt;/a&gt;
+
+
+&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FMinishLab%2Fsemble%3Futm_source=tldrdev/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/CuYtOPRF0QJ003SUmv1n9RFl2AL9OAdV4j6Int7Xzu8=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Semble (GitHub Repo)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Semble is a high-performance code search library designed to help AI agents find specific code snippets via natural language, improving efficiency by using approximately 98% fewer tokens while maintaining quality. Running entirely on a CPU with no need for external hardware, this system provides near-instant indexing and sub-millisecond responses and can be integrated through an MCP server, CLI, or Python API.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fgi-dellav%2Fzerostack%3Futm_source=tldrdev/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/7uH0UdSwLL4lO77qUHiSh04GU4GP59IPnap3dfGTJwQ=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Zerostack (GitHub Repo)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Zerostack is a lightweight and performant Rust-based coding agent that supports multiple AI providers and has a permission system, session management, and specialized tool integrations like Git worktrees and ACP.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🎁&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;&lt;strong&gt;&lt;h1&gt;Miscellaneous&lt;/h1&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.thestateofbrand.com%2Fnews%2Fai-subscription-time-bomb%3Futm_source=tldrdev/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/S_tunh2tTgklIDjuX6L5JzQYQILQmGnxexJl5-q4dpA=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Every AI Subscription Is a Ticking Time Bomb for Enterprise (11 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Major AI providers are currently subsidizing enterprise subscriptions at a loss to encourage widespread adoption and weave their technology into core business workflows. The emergence of resource-heavy agentic AI has made this financial gap worse, as the actual cost of compute often dwarfs the flat monthly fees companies are currently paying. As these labs move toward public offerings, the pressure to achieve profitability will inevitably trigger a transition to expensive, usage-based pricing models.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstackoverflow.blog%2F2026%2F05%2F13%2Frethinking-engineering-for-the-agentic-area%2F%3Futm_source=tldrdev/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/hMvYIGAa5FJu6zT3GI3ToY7dxkAUHxhczCaeG9xiiRQ=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;How Braze's CTO is rethinking engineering for the agentic area (15 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Braze shifted to AI-first engineering in a few months, with 60%+ of committed code now AI-generated. Adoption was driven by model quality (Claude Code, Opus 4.5) and a greenfield MCP server. Now the problem they're dealing with is inference cost, as engineers are spending tens or hundreds of dollars a day on using AI.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;⚡&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;
+
+&lt;h1&gt;&lt;strong&gt;Quick Links&lt;/strong&gt;&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.moduscreate.com%2Fdownloads%2Fexecutive-insights-report%3Futm_campaign=39225702-2026%2520Brand%2520Research%26utm_source=tldrproduct%26utm_medium=newsletter%26utm_content=may12/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/fFwaZHgD512ePANzOEzC8SmMfX8bwWrJKMW8ekCNXj4=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;AI delivery is creating new bottlenecks (Sponsor)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    &lt;strong&gt;Teams are moving faster with AI, but governance, technical complexity, and rising ROI expectations are making measurable delivery harder. &lt;/strong&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.moduscreate.com%2Fdownloads%2Fexecutive-insights-report%3Futm_campaign=39225702-2026%2520Brand%2520Research%26utm_source=tldrproduct%26utm_medium=newsletter%26utm_content=may12/2/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/BTCPWMZHLhi5zZJ0oS8tl-fZbPjyS4-emwN07PjVAtE=452" rel="noopener noreferrer nofollow" target="_blank"&gt;&lt;span&gt;&lt;strong&gt;Learn what high-performing teams do differently&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjustsitandgrin.im%2Fposts%2Fnative-all-the-way-until-you-need-text%2F%3Futm_source=tldrdev/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/aH7D2OY3c5cdjlL43nXfRJSKND5k2FaDhPGmcADcKE0=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Native all the way, until you need text (4 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Native Apple development frameworks like SwiftUI and AppKit are often not enough for building complex, text-heavy chat interfaces, leading devs to favor web-based platforms like Electron for their better rich text rendering and out-of-the-box performance.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdaringfireball.net%2F2026%2F05%2Fai_is_technology_not_a_product%3Futm_source=tldrdev/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/xO3OL5bGupMwpV-WYRoasTCYuSQUzAlkd8J8AejImVs=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;AI Is Technology, Not a Product (6 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    AI is an essential underlying technology that will eventually pervade all Apple devices rather than manifest as a standalone "killer product" that replaces the iPhone ecosystem.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.williamangel.net%2Fblog%2F2026%2F05%2F17%2Foffline-llm-energy-use.html%3Futm_source=tldrdev/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/HAHHt1xKKrismI0Qa-esRG-64UpiM6Me_y_5QpF6ooI=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Apple Silicon costs more than OpenRouter (4 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Running LLMs locally on Apple Silicon hardware is much more expensive and slower than using cloud services like OpenRouter due to high hardware depreciation costs compared to the price per million tokens.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fallthingssmitty.com%2F2026%2F04%2F20%2Fwhy-i-dont-chain-everything-in-javascript-anymore%2F%3Futm_source=tldrdev/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/aF0hjyiryNDDaGqcMUNq849ScYJXnYZpxYstE2NQEM0=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Why I don't chain everything in JavaScript anymore (5 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Transitioning from complex JavaScript method chains to explicit, step-by-step logic improves code readability, simplifies debugging, and avoids the performance costs of unnecessary data processing.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;"&gt;
+
+&lt;p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;"&gt;
+Love TLDR? Tell your friends and get rewards!
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="container" style="padding: 0px 10px 15px;"&gt;
+&lt;div class="text-block"&gt;
+Share your referral link below with friends to get free TLDR swag!
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td align="left" style="padding: 10px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F1e1623f3%2F3/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/OLqbrY6sqv5bYT6ytqbP1gj6J-BcRrRS5lncQR5kCUg=452" style="color: #464ba4; text-decoration: underline;"&gt;https://refer.tldr.tech/1e1623f3/3&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td align="left" style="padding:5px 10px;"&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_25c61f0023f9%2F3/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/Wzuppg7xdxxc4VEgZxLyQ4LgGlgcEXVofG3X8v5tAWs=452" style="font-size: 16px; line-height: 1.6;  padding: 10px 0; display: inline-block;  text-decoration: underline;"&gt;&lt;span style="mso-text-raise:13pt; text-decoration: underline;"&gt;Track your referrals here.&lt;/span&gt;&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+
+
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;"&gt;
+
+&lt;p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;"&gt;
+Want to advertise in TLDR? 📰
+&lt;/p&gt;
+&lt;div class="text-block" style="margin-top: 10px;"&gt;
+If your company is interested in reaching an audience of web developers and engineering decision makers, you may want to &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/44YEqZCJpnJfsZuHp6mGU5n67yObVrgNwZ97BzY7D34=452"&gt;&lt;strong&gt;&lt;span&gt;advertise with us&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;.
+&lt;/div&gt;
+&lt;br&gt;
+
+&lt;!-- New "Want to work at TLDR?" section --&gt;
+
+&lt;p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;"&gt;
+Want to work at TLDR? 💼
+&lt;/p&gt;
+&lt;div class="text-block" style="margin-top: 10px;"&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/HUiF7nJ1vhMa9G31k50NPRfqMf3TyTYFGwaxe_I7qmg=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;Apply here&lt;/strong&gt;&lt;/a&gt;,
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/wuHTpytzvuHs7Zl9BVTkq2ghDapEVSBtLgIlXBGQ2n8=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;create your own role&lt;/strong&gt;&lt;/a&gt; or send a friend's resume to &lt;a href="mailto:jobs@tldr.tech" style="color: #0000EE; text-decoration: underline;"&gt;jobs@tldr.tech&lt;/a&gt; and get $1k if we hire them! TLDR is one of &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/or0e-kHaIDxXGnKbWm7k-wmS40WL9Qv5nuIxuWbhqgo=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;Inc.'s Best Bootstrapped businesses&lt;/strong&gt;&lt;/a&gt; of 2025.
+&lt;/div&gt;
+&lt;br&gt;
+
+&lt;div class="text-block"&gt;
+If you have any comments or feedback, just respond to this email!
+&lt;br&gt;
+&lt;br&gt; Thanks for reading,
+&lt;br&gt;
+&lt;span&gt;Priyam Mohanty&lt;/span&gt;, &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/drPerbRJ7HlqPtpaJ7gIjME5pZOikwa_u3DIoHfiT7s=452"&gt;&lt;span&gt;Jenny Xu&lt;/span&gt;&lt;/a&gt; &amp;amp; &lt;span&gt;Ceora Ford&lt;/span&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block" id="testing-id"&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fdev%2Fmanage%3Femail=kob62291404%2540163.com/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/mgThEC051iP8rLxLQlCpZ4KcnXq0mX-QebAPNzbYN-8=452"&gt;Manage your subscriptions&lt;/a&gt; to our other newsletters on tech, startups, and programming. Or if TLDR Dev isn't for you, please &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=149d365e-456d-11f1-8ba2-498e51b65b4e%26p=6b377eea-528b-11f1-99c6-4b0074526718%26pt=campaign%26pv=4%26spa=1779102053%26t=1779102500%26s=02dacf96e87eb3e5493076b5270ad9aebfb291a233309ada4957319c33d9c26b/1/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/Pe48_mqqJOVPpKq9N5qpTbzz_e3sSx4axZQeN0ORnlg=452"&gt;unsubscribe&lt;/a&gt;.
+&lt;br&gt;
+
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+
+
+&lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019e3ac5c710-96f32256-17d0-461a-886a-ec2617f27f91-000000/vHiYzXYW_3mZg7bQTIsyeKEpCajQi4zhqDp7g-9qBGI=452" style="display: none; width: 1px; height: 1px;"&gt;
+&lt;/body&gt;&lt;/html&gt;</content:encoded></item><item><title>Amazon's new playbook 📖, Starship v3 stakes 🚀, career side doors 💼</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-74</link><guid isPermaLink="false">own-newsletter:item:74</guid><pubDate>Mon, 18 May 2026 10:33:21 GMT</pubDate><author>TLDR &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR Andy Jassy took the role of Amazon's CEO five years ago. He recently placed a series of expensive bets on AI that are audacious ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|View Online TLDR Toge...</description><content:encoded>&lt;!DOCTYPE html&gt;&lt;html lang="en"&gt;&lt;head&gt;&lt;meta http-equiv="Content-Type" content="text/html charset=UTF-8"&gt;&lt;meta charset="UTF-8"&gt;&lt;meta name="viewport" content="width=device-width"&gt;&lt;meta name="x-apple-disable-message-reformatting"&gt;&lt;title&gt;TLDR&lt;/title&gt;&lt;meta name="color-scheme" content="light dark"&gt;&lt;meta name="supported-color-schemes" content="light dark"&gt;&lt;style type="text/css"&gt;
 			:root {
 				color-scheme: light dark; supported-color-schemes: light dark;
 			}
@@ -32392,541 +32998,4 @@ If you have any comments or feedback, just respond to this email!
 
 
 &lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019df7b0fd83-5d59ff0e-0304-47c2-bf12-97ef67e90d12-000000/5bdsXiYEd1yioepCW1CrtgwUWrcNaUsOAGaPgKPRwLc=452" style="display: none; width: 1px; height: 1px;"&gt;
-&lt;/body&gt;&lt;/html&gt;</content:encoded></item><item><title>The age of the Super app 💪🦸‍♂️, product line marketing 📣, agent-native PM 🤖</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-18</link><guid isPermaLink="false">own-newsletter:item:18</guid><pubDate>Tue, 05 May 2026 10:06:34 GMT</pubDate><author>TLDR Product &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR Product Decomposed marketing leaves no owner of the full product story. Product line marketing fixes this by unifying the narrative across products. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|...</description><content:encoded>&lt;!DOCTYPE html&gt;&lt;html lang="en"&gt;&lt;head&gt;&lt;meta http-equiv="Content-Type" content="text/html charset=UTF-8"&gt;&lt;meta charset="UTF-8"&gt;&lt;meta name="viewport" content="width=device-width"&gt;&lt;meta name="x-apple-disable-message-reformatting"&gt;&lt;title&gt;TLDR Product&lt;/title&gt;&lt;meta name="color-scheme" content="light dark"&gt;&lt;meta name="supported-color-schemes" content="light dark"&gt;&lt;style type="text/css"&gt;
-			:root {
-				color-scheme: light dark; supported-color-schemes: light dark;
-			}
-			
-			*,
-			*:after,
-			*:before {
-				-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
-			}
-			
-			* {
-				-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
-			}
-			
-			html,
-			body,
-			.document {
-				width: 100% !important; height: 100% !important; margin: 0; padding: 0;
-			}
-			
-			body {
-				-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility;
-			}
-			
-			div[style*="margin: 16px 0"] {
-				margin: 0 !important;
-			}
-			
-			table,
-			td {
-				mso-table-lspace: 0pt; mso-table-rspace: 0pt;
-			}
-			
-			table {
-				border-spacing: 0; border-collapse: collapse; table-layout: fixed; margin: 0 auto;
-			}
-			
-			img {
-				-ms-interpolation-mode: bicubic; max-width: 100%; border: 0;
-			}
-			
-			*[x-apple-data-detectors] {
-				color: inherit !important; text-decoration: none !important;
-			}
-			
-			.x-gmail-data-detectors,
-			.x-gmail-data-detectors *,
-			.aBn {
-				border-bottom: 0 !important; cursor: default !important;
-			}
-			
-			.btn {
-				-webkit-transition: all 200ms ease; transition: all 200ms ease;
-			}
-			
-			.btn:hover {
-				background-color: #f67575; border-color: #f67575;
-			}
-			
-			* {
-				font-family: Arial, Helvetica, sans-serif; font-size: 18px;
-			}
-			
-			@media screen and (max-width: 600px) {
-				.container {
-					width: 100%; margin: auto;
-				}
-				.stack {
-					display: block!important; width: 100%!important; max-width: 100%!important;
-				}
-				.btn {
-					display: block; width: 100%; text-align: center;
-				}
-			}
-			
-			body,
-			p,
-			td,
-			tr,
-			.body,
-			table,
-			h1,
-			h2,
-			h3,
-			h4,
-			h5,
-			h6,
-			div,
-			span {
-				background-color: #FEFEFE !important; color: #010101 !important;
-			}
-			
-			@media (prefers-color-scheme: dark) {
-				body,
-				p,
-				td,
-				tr,
-				.body,
-				table,
-				h1,
-				h2,
-				h3,
-				h4,
-				h5,
-				h6,
-				div,
-				span {
-					background-color: #27292D !important; color: #FEFEFE !important;
-				}
-			}
-			
-			a {
-				color: inherit !important; text-decoration: underline !important;
-			}
-
-		&lt;/style&gt;&lt;!--[if mso | ie]&gt;
-		&lt;style type="text/css"&gt;
-			a {
-				background-color: #FEFEFE !important; color: #010101 !important;
-			}
-			@media (prefers-color-scheme: dark) {
-				a {
-					background-color: #27292D !important; color: #FEFEFE !important;
-				}
-			}
-	 &lt;/style&gt;
-			&lt;![endif]--&gt;&lt;/head&gt;&lt;body class=""&gt;
-
-
-
-&lt;div style="display: none; max-height: 0px; overflow: hidden;"&gt;Decomposed marketing leaves no owner of the full product story. Product line marketing fixes this by unifying the narrative across products.&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&lt;/div&gt;
-
-&lt;div style="display: none; max-height: 0px; overflow: hidden;"&gt;
-&lt;br&gt;
-&lt;/div&gt;
-
-&lt;table align="center" class="document"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td valign="top"&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="container" width="600"&gt;&lt;tbody&gt;&lt;tr class="inner-body"&gt;&lt;td&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr class="header"&gt;&lt;td bgcolor="" class="container"&gt;
-
-&lt;table width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container"&gt;
-
-
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" style="margin-top: 0px;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding: 0px;"&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div style="text-align: center;"&gt;
-&lt;span style="margin-right: 0px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fproduct%3Futm_source=tldrproduct/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/lE8oQJ-DeUfjeYmyiVkdoJfXtFUomzxGCOxf9bYzGvo=452" rel="noopener noreferrer" target="_blank"&gt;&lt;span&gt;Sign Up&lt;/span&gt;&lt;/a&gt;
-|&lt;span style="margin-right: 2px; margin-left: 2px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrproduct%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/_Al5hgoO6hCJfxfiPBN-qqzbT-Dl6j3hH3n8c7Vfaes=452" rel="noopener noreferrer" target="_blank"&gt;&lt;span&gt;Advertise&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;|&lt;span style="margin-left: 2px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=149f99e4-456d-11f1-8408-47608eee5fa8%26p=9094aa30-4865-11f1-897b-5588affb85b5%26pt=campaign%26t=1777975594%26s=b873051ce052420e4d02ef913ccaf2d42fb2dfa8e37e74f22ab64ee09446c828/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/mG_tKoLpBDAGvcnP3KhAPB1I9iPHgkXiyagnqwvZuwg=452"&gt;&lt;span&gt;View Online&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
-&lt;br&gt;
-&lt;/span&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="text-align: center;"&gt;&lt;span data-darkreader-inline-color="" style="--darkreader-inline-color:#3db3ff; color: rgb(51, 175, 255) !important; font-size: 30px;"&gt;T&lt;/span&gt;&lt;span style="font-size: 30px;"&gt;&lt;span data-darkreader-inline-color="" style="color: rgb(232, 192, 96) !important; --darkreader-inline-color:#e8c163; font-size:30px;"&gt;L&lt;/span&gt;&lt;span data-darkreader-inline-color="" style="color: rgb(101, 195, 173) !important; --darkreader-inline-color:#6ec7b2; font-size:30px;"&gt;D&lt;/span&gt;&lt;/span&gt;&lt;span data-darkreader-inline-color="" style="--darkreader-inline-color:#dd6e6e; color: rgb(220, 107, 107) !important; font-size: 30px;"&gt;R&lt;/span&gt;
-&lt;br&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;br&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr id="together-with"&gt;&lt;td align="center" height="20" style="vertical-align:middle !important;" valign="middle" width="100%"&gt;&lt;strong style="vertical-align:middle !important; height: 100%;"&gt;Together With &lt;/strong&gt;
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.useparagon.com%2Findustry%2Fgenerative-ai%3Futm_source=tldr_product%26utm_medium=newsletter%26utm_campaign=05.2026/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/u8sg2XNN8yZ9c5lcBHVTFCFjAlj-x8QyDhQyuVol3TA=452"&gt;&lt;img src="https://images.tldr.tech/paragon50.png" valign="middle" style="vertical-align: middle !important; height: 100%;" alt="Paragon"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-
-&lt;table style="table-layout: fixed; width:100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;"&gt;
-&lt;div style="text-align: center;"&gt;
-
-&lt;h1&gt;&lt;strong&gt;TLDR Product Management &lt;span id="date"&gt;2026-05-05&lt;/span&gt;&lt;/strong&gt;&lt;/h1&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table style="table-layout: fixed; width:100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr id="sponsy-copy"&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.useparagon.com%2Findustry%2Fgenerative-ai%3Futm_source=tldr_product%26utm_medium=newsletter%26utm_campaign=05.2026/2/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/REEZjY2UaYZcYBE_F2DqN2ZkpYfULt2TFc9xgedBqOs=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;Why Building Native Integrations With AI Is Still the Wrong Call (Sponsor)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    AI can vibe-code an integration MVP in an afternoon. What it can't do is maintain hundreds of connectors at scale, handle API changes across tenants, or give you the observability to know something broke before your customer does.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Paragon gives product teams production-ready integration infrastructure out of the box: hundreds of pre-built connectors, a white-label Connect Portal, full event logging, and a dedicated maintenance team.&lt;/p&gt;&lt;p&gt;Product teams at Postman, Zendesk and Jasper use Paragon to ship their enterprise-ready integration infrastructure.&lt;/p&gt;&lt;p&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.useparagon.com%2Findustry%2Fgenerative-ai%3Futm_source=tldr_product%26utm_medium=newsletter%26utm_campaign=05.2026/3/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/h5jD9Nwc1w4aqB-BoexE4o0r4n-3NX7alMnnNceLgqw=452" rel="noopener noreferrer nofollow" target="_blank"&gt;&lt;span&gt;Start your free trial →&lt;/span&gt;&lt;/a&gt;
-
-
-&lt;/p&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/td&gt;&lt;/tr&gt;
-&lt;tr bgcolor=""&gt;&lt;td class="container"&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding: 0px;"&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;📱&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;
-
-&lt;h1&gt;&lt;strong&gt;News &amp;amp; Trends&lt;/strong&gt;&lt;/h1&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.antmurphy.me%2Fnewsletter%2Fremove-dont-add%3Futm_source=tldrproduct/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/2xUNEQxzb_uOCFuCcXukpRxZq9XiMLoslZhPA1JMeqk=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;Remove. Don't Add (5 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Most features go unused and add complexity. Great product strategy is about focus, removing what does not work, and choosing what not to build.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fspyglass.org%2Fsuper-app%2F%3Futm_source=tldrproduct/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/e0-mQJK-Xlxj6IPUSdiDBhBAnTQiFBA3b7tM3IzTPXQ=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;The Age of the “Super App” - Again and Again and Again (7 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    “Super apps” keep failing due to complexity and poor UX. AI may help, but Western markets still resist the model.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🚀&lt;/span&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;
-
-&lt;h1&gt;&lt;strong&gt;Opinions &amp;amp; Tutorials&lt;/strong&gt;&lt;/h1&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-
-&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.kellblog.com%2Fthe-re-emergence-of-product-line-marketing%2F%3Futm_source=tldrproduct/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/V1bmdmsAd2QncJsb6dwat2DtMtZ5057YUR8YzmThDdA=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;The Re-emergence of Product Line Marketing (6 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Decomposed marketing leaves no owner of the full product story. Product line marketing fixes this by unifying the narrative across products.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.saastr.com%2Fwhy-does-no-one-in-ai-have-support%2F%3Futm_source=tldrproduct/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/eH8vcLK5RzLZexaApQh-LIoxCn3gGbuiYUdKyHFreU8=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;Why Does No One in AI Have Support? (7 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    AI apps are failing at support, driving hidden churn. Winners will pair AI with real human support and fast response loops.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🧑‍💻&lt;/span&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;
-
-&lt;h1&gt;&lt;strong&gt;Resources &amp;amp; Tools&lt;/strong&gt;&lt;/h1&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frunthebusiness.substack.com%2Fp%2Femotional-churn%3Futm_source=tldrproduct/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/Vx7-p8OgdkCf0mvKbpifLVVlVNZOEMhw0QgvPYH92Mo=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;Emotional Churn (5 minute podcast)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Emotional churn is hidden disengagement behind good metrics. Fix it by improving onboarding, reducing friction, and re-engaging users.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fevery.to%2Fguides%2Fai-product-management-guide%3Futm_source=tldrproduct/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/uYMsCw-fCjiBcp8q2If9paMNSXuxpflsgWuMP5bNBqk=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;A Guide to Agent-native Product Management (11 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    AI is automating execution in product management. The advantage now comes from strategy, metrics, and faster learning loops.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🎁&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;&lt;strong&gt;&lt;h1&gt;Miscellaneous&lt;/h1&gt;&lt;/strong&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.forrester.com%2Fblogs%2Fatlassian-and-servicenow-the-dominant-ai-enabled-it-management-platforms-lean-into-context-graphs%2F%3Futm_source=tldrproduct/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/N9LpPyeBGzbYSRaSdt9-Pt97SqdF9HdC4FRQGWqpoQs=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;Atlassian And ServiceNow: The Dominant AI-Enabled IT Management Platforms Lean Into Context Graphs (6 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    AI value is shifting to context-rich platforms like ServiceNow and Atlassian. The winners will own the data graph, not just the model.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjeffgothelf.com%2Fblog%2Fthree-habits-that-beat-ai-tool-fluency%2F%3Futm_source=tldrproduct/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/tx8o1XthmOl2tW-3wz4jAmdEFVXr626wnvG5iCrqrFk=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;Three Habits That Beat AI Tool Fluency (6 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    AI enables endless iteration, but clarity drives progress. Winning teams define success, set stop criteria, and test with users.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;⚡&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;
-
-&lt;h1&gt;&lt;strong&gt;Quick Links&lt;/strong&gt;&lt;/h1&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fenterprise-ai-services-company%3Futm_source=tldrproduct/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/7LDx9RgbhpbwrwkOiv4xq9ZoJPxu7Vjqybvs362_Ims=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;Building a new enterprise AI services company with Blackstone, Hellman &amp;amp; Friedman, and Goldman Sachs (2 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Anthropic is building an AI services firm with major partners to deploy Claude in mid-sized companies.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthreadreaderapp.com%2Fthread%2F2051344780328858040.html%3Futm_source=tldrproduct/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/zyAdYWCijwfehO1uLspFsyjkqCbQRnChsovcxtQnxpg=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;The Hidden Work Behind the AI Agent Boom (1 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Enterprise AI agents are coming fast.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-
-
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;"&gt;
-
-
-
-
-&lt;p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;"&gt;
-Love TLDR? Tell your friends and get rewards!
-&lt;/p&gt;
-&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td class="container" style="padding: 0px 10px 15px;"&gt;
-&lt;div class="text-block"&gt;
-Share your referral link below with friends to get free TLDR swag!
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td align="left" style="padding: 10px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F7f1d0cef%2F9/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/bwrvl_LeOxFR37emIWqTem53Rk3ubglYqNS_0DJV7r0=452" style="color: #464ba4; text-decoration: underline;"&gt;https://refer.tldr.tech/7f1d0cef/9&lt;/a&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td align="left" style="padding:5px 10px;"&gt;
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_95f747497977%2F9/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/OoEist3lkMkcAG4vI7-HTnLsg2s875qbLX2o2s3XGYs=452" style="font-size: 16px; line-height: 1.6;  padding: 10px 0; display: inline-block;  text-decoration: underline;"&gt;&lt;span style="mso-text-raise:13pt; text-decoration: underline;"&gt;Track your referrals here.&lt;/span&gt;&lt;/a&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-
-
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;"&gt;
-
-&lt;p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;"&gt;
-Want to advertise in TLDR? 📰
-&lt;/p&gt;
-&lt;div class="text-block" style="margin-top: 10px;"&gt;
-If your company is interested in reaching an audience of product management professionals and decision makers, you may want to &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrproduct%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/V5OAd2qyqoW5_vUpItWJ5mBeSQ6oOb8sYAz2EmswpXY=452"&gt;&lt;strong&gt;&lt;span&gt;advertise with us&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;.
-&lt;/div&gt;
-&lt;br&gt;
-
-&lt;!-- New "Want to work at TLDR?" section --&gt;
-
-&lt;p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;"&gt;
-Want to work at TLDR? 💼
-&lt;/p&gt;
-&lt;div class="text-block" style="margin-top: 10px;"&gt;
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/NN-sxPW5Bc0cammggrvgS8grnG2lhwOjcWOdi88iSeE=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;Apply here&lt;/strong&gt;&lt;/a&gt;,
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/_vrN_HtM0XRXnZmQpHPhuqt_Kw9O61muKam7Yskx7TY=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;create your own role&lt;/strong&gt;&lt;/a&gt; or send a friend's resume to &lt;a href="mailto:jobs@tldr.tech" style="color: #0000EE; text-decoration: underline;"&gt;jobs@tldr.tech&lt;/a&gt; and get $1k if we hire them! TLDR is one of &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/4WFQoWD13So4IF2y5xFSj0CU-3LZ-JjCSk9Ez_o_djY=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;Inc.'s Best Bootstrapped businesses&lt;/strong&gt;&lt;/a&gt; of 2025.
-&lt;/div&gt;
-&lt;br&gt;
-
-&lt;div class="text-block"&gt;
-If you have any comments or feedback, just respond to this email!
-&lt;br&gt;
-&lt;br&gt; Thanks for reading,
-&lt;br&gt;
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fellenle%2F/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/QWA-jbLN0ycjLp0XDuDOGOYAJXcfZfi1DiO49O9ASSk=452"&gt;&lt;span&gt;Ellen Le&lt;/span&gt;&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;/div&gt;
-&lt;br&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block" id="testing-id"&gt;
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fproduct%2Fmanage%3Femail=kob62291404%2540163.com/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/juB3OLc-x4t_4yauRIkhytasBBfk2jl3Q34yRnda0uY=452"&gt;Manage your subscriptions&lt;/a&gt; to our other newsletters on tech, startups, and programming. Or if TLDR Product Management isn't for you, please &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=c8e26b12-3e94-11ed-9a32-0241b9615763%26lc=149f99e4-456d-11f1-8408-47608eee5fa8%26p=9094aa30-4865-11f1-897b-5588affb85b5%26pt=campaign%26pv=4%26spa=1777975262%26t=1777975594%26s=4b91ae77824d0dc32ea8b940ca6d35e7539d772c4f04521a3eb191e66df1845f/1/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/fgzjQNlc-Kc_9cV1MJaN8xaduLfJO2J-hy_Cr1gDndo=452"&gt;unsubscribe&lt;/a&gt;.
-&lt;br&gt;
-
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-
-&lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019df79a8dc5-120e9d1c-5ac1-4bae-ad5f-c7e22935dc49-000000/_3n_SZd4R5Zq-Ov7GJo0a-1li2eOmzqGcoNURFT3YHk=452" style="display: none; width: 1px; height: 1px;"&gt;
 &lt;/body&gt;&lt;/html&gt;</content:encoded></item></channel></rss>
