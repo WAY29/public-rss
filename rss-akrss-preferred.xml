@@ -5,8 +5,55 @@
     <link>http://rss.longlone.de5.net</link>
     <description>Codex-curated preferred RSS items</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 19 May 2026 02:59:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 08:59:50 GMT</lastBuildDate>
     <atom:link href="http://rss.longlone.de5.net/rss-akrss-preferred.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alternatives for the EDIT tool of LLM agents</title>
+      <link>http://antirez.com/news/166</link>
+      <guid isPermaLink="true">http://antirez.com/news/166</guid>
+      <pubDate>Tue, 19 May 2026 07:26:03 GMT</pubDate>
+      <source url="http://antirez.com/rss">antirez.com</source>
+      <description>(8.4/10) 作者讨论LLM代理常见EDIT工具的低效之处，尤其在本地推理和token稀缺场景下成本过高。文章比较替代方案，并提出用CRC32等折中思路改进代码编辑交互。</description>
+      <content:encoded>&lt;div&gt;&lt;span&gt;&lt;span&gt;&lt;a href="http://antirez.com/user/antirez" rel="noopener noreferrer"&gt;antirez&lt;/a&gt;&lt;/span&gt; 1 hour ago. 1519 views.  &lt;/span&gt;&lt;pre&gt;EDIT: of course this was already done in the past! I had little doubts but people just confirmed me about it on Twitter :) But, keep reading: the CRC32 compromise at the end is an interesting tradeoff, and this is a good discussion to have in general.
+
+Right now I'm working to an agent for my DS4 project. Local inference is token-poor, it's a battlefield where optimizations count. I was quite surprised by the fact the EDIT tool everybody is using right now forces the LLM to emit the old version of the text verbatim. This CAS (check and set) mode of operation, where I say EDIT old="foo" new="bar", is needed because there are often colliding edits (the user is editing as well, or checked out a different branch, and so forth) and because the LLM can just hallucinate that a given line had a given content.
+
+This means, basically, that just using line numbers is very fragile: to say, change line 22 with new="foobar" is not good. Yet I don't want my local LLM to throw away tokens rewriting the old text each time, also because certain times the old text has a lot of special chars and spaces that the model may get wrong; in this case the tool would fail, forcing the LLM to do the same edit again. So I (re)designed a tag-based EDIT tool that is still CAS style, but more tokens efficient.
+
+The READ and SEARCH tools return something like that:
+
+  10:Q8fA int count = 10;
+  11:rA3_ if (count &amp;gt; limit) {
+  12:Kq9z     count = limit;
+  13:PX0b }
+
+So there are line numbers and tags. The tag is 4 chars, on average 2.5 LLM tokens, representing a checksum of the line. Now the LLM can edit like this:
+
+  {
+    "tool": "edit",
+    "path": "/tmp/example.c",
+    "line": 10,
+    "tag": "Q8fA",
+    "new": "int count = 11;"
+  }
+
+Or, multi line, like this:
+
+  {
+    "tool": "edit",
+    "path": "/tmp/example.c",
+    "lines": "11:rA3_\n12:Kq9z\n13:PX0b",
+    "new": "if (count &amp;gt; limit)\n    return limit;"
+  }
+
+The saving is significant especially when the agent is deleting big amounts of text, but also in the general case. However, there is some overhead due to the fact we have line numbers and tags. There are potential tradeoffs, maybe the tag should be 8 chars and include the line number in the hash, there is to check exactly collisions possibilities and tokenization to see how much this is a win, but I like the line:tag format as later the LLM is often able to exploit the line information in many ways, like to get ranges in successive tool calls. Maybe there are other ways to exploit the tag, too, like: is this line still dj4_?
+
+The interesting thing is that DeepSeek v4 Flash is able to use this tool in a very effective way, so apparently it is natural for it. And while I did't measure the exact savings I saw in the field that edits are much faster and even more reliable.
+
+The alternative to this is to return just the whole file CRC32 each time (basically the tag becomes a file tag, even for partial reads). So that we can only work with line numbers + CRC, the edit would just specify 11,12,13,14. Less tokens, of course. This forces, however, to recompute the CRC32 of the file each time, but for reasonably sized files this is cheap enough. But this approach has limits: we fail the edit even if *unrelated* changes happened, so there is a strong tradeoff at play. To be fair to the whole file method, there is to say that it allows to specify ranges as 10:23, which is a huge win.
+
+I have the feeling I can decide which is better only with enough practical evidence, by using ds4-agent over multiple sessions with the two systems. For now maybe a command line to switch the edit mode is the first right step to do.&lt;/pre&gt;&lt;/div&gt;</content:encoded>
+    </item>
     <item>
       <title>The last six months in LLMs in five minutes</title>
       <link>https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything</link>
@@ -2223,31 +2270,6 @@ itself&lt;/a&gt;.&lt;/p&gt;
         &lt;/div&gt;
 
         &lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Our AI started a cafe in Stockholm</title>
-      <link>https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything</guid>
-      <pubDate>Tue, 05 May 2026 22:14:21 GMT</pubDate>
-      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
-      <description>(8.6/10) 这篇文章介绍Andon Labs让AI经营斯德哥尔摩咖啡馆的实验，并记录了大量荒诞失误。价值不在噱头，而在真实暴露代理在库存、常识和执行链条上的脆弱性。</description>
-      <content:encoded>&lt;div&gt;&lt;div&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href="https://andonlabs.com/blog/ai-cafe-stockholm" rel="noopener noreferrer"&gt;Our AI started a cafe in Stockholm&lt;/a&gt;&lt;/strong&gt; (&lt;a href="https://news.ycombinator.com/item?id=48028289" title="Hacker News" rel="noopener noreferrer"&gt;via&lt;/a&gt;) Andon Labs previously &lt;a href="https://andonlabs.com/blog/andon-market-launch" rel="noopener noreferrer"&gt;started an AI-run retail store&lt;/a&gt; in San Francisco. Now they're running a similar experiment in Stockholm, Sweden, only this time it's a cafe.&lt;/p&gt;
-&lt;p&gt;These experiments are interesting, and often throw out amusing anecdotes:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;During the first week of inventory, Mona ordered 120 eggs even though the café has no stove. When the staff told her they couldn’t cook them, she suggested using the high-speed oven, until they pointed out the eggs would likely explode. She also tried to solve the problem of fresh tomatoes being spoiled too fast by ordering 22.5 kg of canned tomatoes for the fresh sandwiches. The baristas eventually started a “Hall of Shame”, a shelf visible to customers with all the weird things Mona ordered, including 6,000 napkins, 3,000 nitrile gloves, 9L coconut milk, and industrial-sized trash bags.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Where they lose their shine is when these AI managers start wasting the time of human beings who have &lt;em&gt;not&lt;/em&gt; opted into the experiment:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;She also successfully applied for an outdoor seating permit through the Police e-service, which didn’t require BankID. Her first submission included a sketch she had generated herself, despite having never seen the street outside the café. Unsurprisingly, the Police sent it back for revision. [...]&lt;/p&gt;
-&lt;p&gt;When she makes a mistake, she often sends multiple emails to suppliers with the subject “EMERGENCY” to cancel or change the order.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;I don't think it's ethical to run experiments like this that affect real-world systems and steal time from people.&lt;/p&gt;
-&lt;p&gt;I'm reminded of the incident last year where the AI Village experiment &lt;a href="https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/" rel="noopener noreferrer"&gt;infuriated Rob Pike&lt;/a&gt; by sending him unsolicited gratitude emails as an "act of kindness". That was just an unwanted email - asking suppliers to correct mistakes that were made without a human-in-the-loop or wasting police time with slop diagrams feels a whole lot worse to me.&lt;/p&gt;
-&lt;p&gt;I think experiments like this need to keep their own human operators in-the-loop for outbound actions that affect other people.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content:encoded>
     </item>
   </channel>
 </rss>
