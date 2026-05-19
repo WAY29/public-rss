@@ -5,8 +5,199 @@
     <link>http://rss.longlone.de5.net</link>
     <description>Codex-curated preferred RSS items</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 18 May 2026 20:58:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 02:59:08 GMT</lastBuildDate>
     <atom:link href="http://rss.longlone.de5.net/rss-akrss-preferred.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The last six months in LLMs in five minutes</title>
+      <link>https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything</guid>
+      <pubDate>Tue, 19 May 2026 01:09:44 GMT</pubDate>
+      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
+      <description>(8.1/10) 作者用五分钟讲稿和注释幻灯片梳理近半年LLM进展。核心观点是2025年11月出现拐点，尤其改变了编程与模型能力演进。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+
+
+&lt;div&gt;
+&lt;h2&gt;The last six months in LLMs in five minutes&lt;/h2&gt;
+&lt;p&gt;19th May 2026&lt;/p&gt;
+
+
+
+&lt;p&gt;I put together these annotated slides from my five minute lightning talk at PyCon US 2026, using the &lt;a href="https://tools.simonwillison.net/annotated-presentations" rel="noopener noreferrer"&gt;latest iteration&lt;/a&gt; of my &lt;a href="https://simonwillison.net/2023/Aug/6/annotated-presentations/" rel="noopener noreferrer"&gt;annotated presentation tool&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.001.jpeg" alt="The last six months in LLMs in five minutes  Simon Willison - simonwillison.net  PyCon US 2026 Lightning Talk "&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.001.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;I presented this lightning talk at PyCon US 2026, attempting to summarize the last six months of developments in LLMs in five minutes.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.002.jpeg" alt="The November inflection point "&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.002.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;Six months is a pretty convenient time period to cover, because it captures what I’ve been calling the &lt;a href="https://simonwillison.net/tags/november-2025-inflection/" rel="noopener noreferrer"&gt;November 2025 inflection point&lt;/a&gt;. November was a critical month in LLMs, especially for coding.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.003.jpeg" alt="The “best” model changed hands 5 times between Anthropic, OpenAl and Google "&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.003.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;For one thing, the supposedly “best” model (depending mostly on vibes) changed hands five times between the three big providers.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.004.jpeg" alt="Generate an SVG of a pelican riding a bicycle "&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.004.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;As always, I’m using my &lt;a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/" rel="noopener noreferrer"&gt;Generate an SVG of a pelican riding a bicycle&lt;/a&gt; test to help illustrate the differences between the models.&lt;/p&gt;
+&lt;p&gt;Why this test? Because pelicans are hard to draw, bicycles are hard to draw, pelicans &lt;em&gt;can’t ride bicycles&lt;/em&gt;... and there’s zero chance any AI lab would train a model for such a ridiculous task.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.005.jpeg" alt="Five pelicans, one for each of the following models. Varying qualities!"&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.005.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;At the start of November the widely acknowledged “best” model was Claude Sonnet 4.5, released on &lt;a href="https://simonwillison.net/2025/Sep/29/claude-sonnet-4-5/" rel="noopener noreferrer"&gt;29th September&lt;/a&gt;. It drew me this pelican.&lt;/p&gt;
+&lt;p&gt;In November it was overtaken by &lt;a href="https://simonwillison.net/2025/Nov/13/gpt-51/" rel="noopener noreferrer"&gt;GPT-5.1&lt;/a&gt;, then &lt;a href="https://simonwillison.net/2025/Nov/18/gemini-3/" rel="noopener noreferrer"&gt;Gemini 3&lt;/a&gt;, then &lt;a href="https://simonwillison.net/2025/Nov/19/gpt-51-codex-max/" rel="noopener noreferrer"&gt;GPT-5.1 Codex Max&lt;/a&gt;, and then Anthropic took the crown back again with &lt;a href="https://simonwillison.net/2025/Nov/24/claude-opus/" rel="noopener noreferrer"&gt;Claude Opus 4.5&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I think Gemini 3 drew the best pelican out of this lot, but pelicans aren’t everything. Most practitioners will agree that Opus 4.5 held the crown for the next couple of months.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.006.jpeg" alt="The coding agents got good "&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.006.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;It took a little while for this to become clear, but the real news from November was that the coding agents got &lt;em&gt;good&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;OpenAI and Anthropic had spent most of 2025 running &lt;a href="https://simonwillison.net/2025/Dec/19/andrej-karpathy/" rel="noopener noreferrer"&gt;Reinforcement Learning from Verifiable Rewards&lt;/a&gt; to increase the quality of code written by their models, especially when paired up with their Codex and Claude Code agent harnesses.&lt;/p&gt;
+&lt;p&gt;In November the results of this work became apparent. Coding agents went from often-work to mostly-work, crossing a quality barrier where you could use them as a daily-driver to get real work done, without needing to spend most of your time fixing their stupid mistakes.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.007.jpeg" alt="Screenshot of &amp;quot;Initial commit&amp;quot; on GitHub to steipete/Warelay, commit f6dd362, steipete authored on Nov 24, 2025  It's a copy of the MIT license"&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.007.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;Also in November, this happened—the first commit to an obscure (back then) repo called “Warelay” by some guy called Pete.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.008.jpeg" alt="December/January (A little bit of LLM psychosis) "&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.008.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;Over the holiday period, from December to January, a whole lot of us took advantage of the break to have a poke at these new models and coding agents and see what they could do.&lt;/p&gt;
+&lt;p&gt;They could do a lot! Some of us got a little bit over-excited. I had my own short-lived bout of a form of LLM psychosis as I started spinning up wildly ambitious projects to see how far I could push them.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.010.jpeg" alt="JavaScript running in Python running in Pyodide running in WebAssembly running in JavaScript"&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.010.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;That playground demo shows JavaScript code run using my micro-javascript library, in Python, running inside Pyodide, running in WebAssembly, running in JavaScript, running in a browser!&lt;/p&gt;
+&lt;p&gt;It’s pretty cool! But did anyone out there &lt;em&gt;need&lt;/em&gt; a buggy, slow, insecure half-baked implementation of JavaScript in Python?&lt;/p&gt;
+&lt;p&gt;They did not. I have quite a few other projects from that holiday period that I have since quietly retired!&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.011.jpeg" alt="February 2026 "&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.011.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;On to February. Remember that Warelay project that had its first commit at the end of November?&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.012.jpeg" alt="Warelay → CLAWDIS → CLAWDBOT → Clawdbot → Moltbot →🦞 OpenClaw"&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.012.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;In December and January it had gone through &lt;a href="https://simonwillison.net/2026/May/16/openclaw-names/" rel="noopener noreferrer"&gt;quite a few name changes&lt;/a&gt;... and by February it was taking the world by storm under its final name, OpenClaw.&lt;/p&gt;
+&lt;p&gt;The amount of attention it got is pretty astonishing for a project that was less than three months old.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.013.jpeg" alt="Generic term: Claw "&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.013.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;OpenClaw is a “personal AI assistant”, and we actually got a generic term for these, based on NanoClaw and ZeroClaw and suchlike... they’re called &lt;strong&gt;Claws&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.014.jpeg" alt="An aquarium for your Claw "&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.014.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;Mac Minis started to sell out around Silicon Valley, because people were buying them to run their Claws.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.dbreunig.com/" rel="noopener noreferrer"&gt;Drew Breunig&lt;/a&gt; joked to me that this is because they’re the new digital pets, and a Mac Mini is the perfect aquarium for your Claw.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.015.jpeg" alt="Alfred Molina's Doc Ock in Spider-Man 2, tearing apart a New York subway train with his four claws."&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.015.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;My favourite metaphor for Claws is Alfred Molina’s Doc Ock in the 2004 movie Spider-Man 2. His claws were powered by AI, and were perfectly safe provided nothing damaged his inhibitor chip... after which they turned evil and took over.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.016.jpeg" alt="Gemini 3.1 Pro  A really good illustration of a pelican riding a bicycle. "&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.016.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;Also in February: Gemini 3.1 Pro came out, and drew me a &lt;em&gt;really good pelican riding a bicycle&lt;/em&gt;. Look at this! It’s even got a fish in its basket.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.017.jpeg" alt="Gemini 3 Pro pelican contrasted with Gemini 3.1 Pro, as animated SVGs"&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.017.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;And then Google’s Jeff Dean &lt;a href="https://simonwillison.net/2026/Feb/19/gemini-31-pro/#jeff-dean" rel="noopener noreferrer"&gt;tweeted this video&lt;/a&gt; of an animated pelican riding a bicycle, plus a frog on a penny-farthing and a giraffe driving a tiny car and an ostrich on roller skates and a turtle kickflipping a skateboard and a dachshund driving a stretch limousine.&lt;/p&gt;
+&lt;p&gt;So maybe the AI labs have been paying attention after all!&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.018.jpeg" alt="April 2026 "&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.018.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;A lot of stuff happened just in the past month.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.019.jpeg" alt="Gemma 4 26B-A4B (17.99GB)  A pretty decent pelican riding a bicycle, though the bike is a bit mis-shapen."&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.019.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;Google released the &lt;a href="https://simonwillison.net/2026/Apr/2/gemma-4/" rel="noopener noreferrer"&gt;Gemma 4&lt;/a&gt; series of models, which are the most capable open weight models I’ve seen from a US company.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.020.jpeg" alt="GLM-5.1 MIT, 754B parameter, 1.51TB! "&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.020.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;Also last month, Chinese AI lab GLM came out with &lt;a href="https://simonwillison.net/2026/Apr/7/glm-51/" rel="noopener noreferrer"&gt;GLM-5.1&lt;/a&gt;—an open weight 1.5TB monster! This is a very effective model... if you can afford the hardware to run it.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.021.jpeg" alt=""&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.021.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;GLM-5.1 drew me this very competent pelican on a bicycle.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.022.jpeg" alt="The bike is wonky, the pelican is floating."&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.022.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;... though when it &lt;a href="https://gisthost.github.io/?73bb6808b18c2482f66e5f082c75f36e" rel="noopener noreferrer"&gt;tried to animate it&lt;/a&gt; the bicycle bounced off into the top and the bicycle got warped.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.023.jpeg" alt="Screenshot of Bluesky  Charles ‪@charles.capps.me‬ I think you should pester it with another animal using another method of locomotion.   Something tells me it was trained for this. I can't quite put my finger on it. /s  NORTH VIRGINIA OPOSSUM ON AN E-SCOOTER!!"&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.023.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;Charles on Bluesky suggested I try it with a North Virginia Opossum on an E-scooter&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.024.jpeg" alt="NORTH VIRGINIA OPOSSUM CRUISING THE COMMONWEALTH SINCE DUSK  And a really cool illustration of a possum."&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.024.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;And it did this! I’ve tried this on other models and they don’t even come close. “Cruising the commonwealth since dusk” is perfect. It’s &lt;a href="https://static.simonwillison.net/static/2026/glm-possum-escooter.html" rel="noopener noreferrer"&gt;animated too&lt;/a&gt;.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.026.jpeg" alt="Claude Sonnet 4.5 pelican for comparison."&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.026.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;Here’s that Claude Sonnet 4.5 pelican from September for comparison. &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;img src="https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.027.jpeg" alt="The themes of the past 6 months: Coding agents got really good Local models wildly outperform expectations "&gt;
+  &lt;div&gt;&lt;a href="https://simonwillison.net/2026/May/19/5-minute-llms/#5-minutes-llms.027.jpeg" rel="noopener noreferrer"&gt;#&lt;/a&gt;
+  &lt;p&gt;So those were the two main themes of the past six months. The coding agents got really good... and the laptop-available models, while a lot weaker than the frontier, have started wildly outperforming expectations.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;</content:encoded>
+    </item>
     <item>
       <title>‘AI, “Humanity”, and Dr. Manhattan Syndrome’</title>
       <link>https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome</link>
@@ -15,6 +206,169 @@
       <source url="https://daringfireball.net/feeds/main">daringfireball.net</source>
       <description>(8.5/10) 文章借核电行业的公众沟通失败，类比AI行业正在透支社会信任。核心观点是若缺乏人类尺度的解释与关系建设，AI一旦出事将没有信任缓冲。</description>
       <content:encoded>&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;figure&gt;&lt;a href="https://substackcdn.com/image/fetch/$s_!8ENP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fce5d83-3632-4689-a439-e3da185da683_1280x685.jpeg" rel="noopener noreferrer"&gt;&lt;/a&gt;&lt;figcaption&gt;&lt;span&gt;“If I’m to have a symbol, it shall be one I &lt;/span&gt;&lt;em&gt;respect&lt;/em&gt;&lt;span&gt;.”&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;Back in January, it came to light via FEC reporting that OpenAI’s president and co-founder Greg Brockman and his wife had made a monumental $25 million donation to MAGA Inc. last September—one of the largest individual political donations of 2025.&lt;/p&gt;&lt;p&gt;&lt;span&gt;When &lt;/span&gt;&lt;a href="https://www.wired.com/story/openai-president-greg-brockman-political-donations-trump-humanity/" rel="noopener noreferrer"&gt;interviewed by WIRED&lt;/a&gt;&lt;span&gt; about his newfound political largesse, Brockman explained the check in rather grand terms. “This mission, in my mind, is bigger than companies, bigger than corporate structures,” he said. “We are embarking on a journey to develop this technology that’s going to be the most impactful thing humanity has ever created.”&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The word that sticks out to me here is “humanity”. He writes a $25 million check with his wife to a partisan political operation, one with very specific policy positions affecting very specific people, and explains it in the language of &lt;/span&gt;&lt;em&gt;humanity&lt;/em&gt;&lt;span&gt;. The kind that lives in essays and mission statements, not the kind that has healthcare anxieties or gets deported or loses jobs or disagrees with you about politics. Capital-H, abstract, floating-above-the-fray Humanity.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Brockman is not an outlier. If you’ve worked in or around big tech for any length of time, you’ve met the type, probably several dozen of them. They’re &lt;/span&gt;&lt;a href="https://ia.samaltman.com/" rel="noopener noreferrer"&gt;everywhere&lt;/a&gt;&lt;span&gt; &lt;/span&gt;&lt;a href="https://darioamodei.com/essay/machines-of-loving-grace" rel="noopener noreferrer"&gt;in&lt;/a&gt;&lt;span&gt; &lt;/span&gt;&lt;a href="https://the-coming-wave.com/" rel="noopener noreferrer"&gt;AI&lt;/a&gt;&lt;span&gt;. They care enormously about Humanity. They’d do anything for Humanity. They just can’t be bothered with actual people.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;And if these executives and companies don’t see and address the disconnect in their public messaging, they’re doomed to keep losing the battle for hearts and minds the industry desperately needs them to win.&lt;/p&gt;&lt;p&gt;When I contemplate a mascot for this type of executive, the image that comes to mind is blue, nude, and levitating: Dr. Manhattan.&lt;/p&gt;&lt;p&gt;&lt;span&gt;For those who haven’t read writer Alan Moore and illustrator Dave Gibbons’ “&lt;/span&gt;&lt;a href="https://bookshop.org/p/books/watchmen-2019-edition-alan-moore/d6070514ef8a64d5?ean=9781779501127&amp;amp;next=t" rel="noopener noreferrer"&gt;Watchmen&lt;/a&gt;&lt;span&gt;”, here’s the quick version: Jon Osterman is a nuclear physicist who gets disintegrated in a lab accident and reconstitutes himself as a being of godlike power. He can see across time. He can manipulate matter at the atomic level. He is, for all practical purposes, omniscient and omnipotent. And over the arc of the story, he gradually loses the ability to give a shit about people.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;This isn’t a flaw in his character. Moore wrote it as the &lt;/span&gt;&lt;em&gt;inevitable consequence&lt;/em&gt;&lt;span&gt; of operating at that altitude. Manhattan can perceive the entire arc of human civilization. He understands the quantum mechanics underlying all of existence. He genuinely does care about humanity’s survival in some detached cosmic sense. But he can’t maintain a relationship with the woman he loves or comfort someone who’s grieving. Individual suffering becomes statistically insignificant when you’re tracking the movements of atoms and the trajectory of species.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The crucial part—the part that makes “Watchmen” more than a comic book—is that Manhattan doesn’t experience this as a loss, but as &lt;/span&gt;&lt;em&gt;clarity&lt;/em&gt;&lt;span&gt;. He thinks he’s seeing more clearly than everyone else. The people around him can tell that something essential has been lost, but he can’t see it himself because the view from orbit is so intoxicating.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Replace “nuclear physicist” with “AI executive,” and you have a disturbingly accurate portrait of a particular mode of tech leadership that has exploded across the industry over the past few years. (Minus the nudity, thankfully.)&lt;/p&gt;&lt;p&gt;I don’t think these guys are truly indifferent. I’ve met and worked with many Dr. Manhattan types over two decades in this industry—an industry I'm personally and professionally invested in, as someone who builds with these tools daily and whose consulting business is substantially tied to AI. They are, in the majority of cases, formidably intelligent, voraciously curious, and capable of accomplishing amazing feats. The problem doesn’t lie in any of these things, but in the comfort the worldview they inhabit provides.&lt;/p&gt;&lt;p&gt;Humanity, the concept, is an extraordinarily comfortable thing to care about. It’s theoretical. It’s malleable. You can model it and optimize for it. You can write essays about it on a blank white page at the top of your company’s domain hierarchy, and nobody can pin you down on specifics.&lt;/p&gt;&lt;p&gt;&lt;span&gt;People, on the other hand, are a nightmare. They’re real and present, messy, inconsistent, and contradictory. They get angry at you, sue you, organize against you, show up outside your office with signs. They have the temerity to worry about &lt;/span&gt;&lt;em&gt;their&lt;/em&gt;&lt;span&gt; job rather than the species-level trajectory of labor markets. They want to know why their kid is using your chatbot to cheat on homework instead of appreciating that you’re building the most important technology in human history.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Humanity holds still for your grand plans. People do not.&lt;/p&gt;&lt;p&gt;&lt;span&gt;There’s a second force at work beyond comfort, one I’ve &lt;/span&gt;&lt;a href="https://personfamiliar.substack.com/p/main-character-syndrome-is-killing" rel="noopener noreferrer"&gt;written about before&lt;/a&gt;&lt;span&gt;: centering Humanity in your rhetoric casts you as the hero of civilization’s story. When Brockman says the mission is “bigger than companies, bigger than corporate structures,” he’s writing himself into a narrative where the $25 million to MAGA Inc. isn’t a political act with winners and losers, but a &lt;/span&gt;&lt;em&gt;strategic move in the grand project&lt;/em&gt;&lt;span&gt;. The partisan specifics dissolve into the universal mission. And if you can’t see that? Well, you’re just not thinking at the right altitude.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;This is the rhetorical equivalent of a judo throw. By elevating the conversation to the civilizational plane, any critique of the specific decision looks petty and small by comparison. You’re worried about &lt;/span&gt;&lt;em&gt;Medicare funding&lt;/em&gt;&lt;span&gt;? I’m worried about &lt;/span&gt;&lt;em&gt;the survival of Humanity&lt;/em&gt;&lt;span&gt;. Who sounds more serious?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Here’s where it gets really instructive for the AI industry, and where Moore’s choice to root Dr. Manhattan in nuclear physics turns out to be more than a narrative device. The American nuclear industry already ran this exact communications exercise and failed catastrophically.&lt;/p&gt;&lt;p&gt;&lt;span&gt;It started with a campaign draped in the language of progress. Eisenhower’s &lt;/span&gt;&lt;a href="https://time.com/6343937/atoms-for-peace/" rel="noopener noreferrer"&gt;“Atoms for Peace”&lt;/a&gt;&lt;span&gt; initiative, launched in 1953, was internally conceived as “psychological warfare”—a PR effort to manage public fear of nuclear weapons by redirecting attention toward the peaceful atom. They partnered with Walt Disney and sent traveling exhibits around the country. AEC Chairman Lewis Strauss promised that nuclear energy would give future generations electrical power “too cheap to meter.” All Humanity-scale rhetoric: the betterment of the species, the march of progress, the inevitable arc of science lifting all boats.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;When the public began raising concerns about safety and costs, the industry commissioned research to understand why people weren’t getting on board. What came back was what social scientists now call the &lt;/span&gt;&lt;a href="https://thebulletin.org/premium/2025-12/why-and-how-the-debate-about-nuclear-energy-needs-to-be-reframed-for-the-future/" rel="noopener noreferrer"&gt;“deficit model”&lt;/a&gt;&lt;span&gt;—the idea that public opposition was rooted in a deficit of &lt;/span&gt;&lt;em&gt;knowledge&lt;/em&gt;&lt;span&gt;, not a surplus of legitimate concern. The prescription was always more education, more persuasion, more explaining. Never more listening. The &lt;/span&gt;&lt;a href="https://www.nationalacademies.org/read/26630/chapter/10" rel="noopener noreferrer"&gt;National Academies later observed&lt;/a&gt;&lt;span&gt; that “trust is especially undermined if experts dismiss public concerns, or when these concerns are perceived to be dismissed.”&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Let me be clear about causation, because the AI parallel only works if we’re honest about it. The communications failures didn’t kill nuclear power. The disasters did. But two decades of talking &lt;/span&gt;&lt;em&gt;over&lt;/em&gt;&lt;span&gt; the public meant the industry had built precisely zero reservoir of human-scale trust to draw on when the real crises hit. Nuclear pioneer Alvin Weinberg &lt;/span&gt;&lt;a href="https://www.nationalacademies.org/read/26630/chapter/10" rel="noopener noreferrer"&gt;admitted in 1976&lt;/a&gt;&lt;span&gt; (three years &lt;/span&gt;&lt;em&gt;before&lt;/em&gt;&lt;span&gt; Three Mile Island) that “the public perception and acceptance of nuclear energy appears to be the question that we missed rather badly.” After TMI and Chernobyl confirmed the public’s worst suspicions, over a hundred planned U.S. reactors were cancelled.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Moore wrote “Watchmen” in 1986 and 1987, steeped in exactly this nuclear anxiety. Manhattan is the nuclear establishment made flesh: brilliant, powerful, operating with genuinely good intentions at the civilizational level, and absolutely useless to the individual humans whose lives were shaped by the technology he embodied.&lt;/p&gt;&lt;p&gt;Which brings us back to our Dr. Manhattan Syndrome-afflicted AI execs and what might be the most revealing detail in the WIRED piece: Brockman’s proximate motivation for ramping up political spending is that public opinion has turned against AI.&lt;/p&gt;&lt;p&gt;&lt;span&gt;He’s very right about the problem. Pew Research Center data from mid-2025 shows that &lt;/span&gt;&lt;a href="https://www.pewresearch.org/science/2025/09/17/how-americans-view-ai-and-its-impact-on-people-and-society/" rel="noopener noreferrer"&gt;50% of Americans&lt;/a&gt;&lt;span&gt; now say they’re more concerned than excited about AI, up from 37% in 2021. Fifty-seven percent rate AI’s societal risks as high, while only 25% say the same about its benefits. Fifty-nine percent lack confidence that U.S. companies will develop and use AI responsibly. Those numbers are terrifying for anyone who builds or advocates for AI products.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;But think about what the people behind those numbers are actually worried about. They’re not anxious about AI in the abstract, &lt;/span&gt;&lt;em&gt;per se&lt;/em&gt;&lt;span&gt;, but its implications. They’re anxious about their job, their kid’s homework, their creative work getting scraped without permission, their privacy. Human-scale concerns that are specific, personal, and grounded in the daily texture of individual lives.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;And Brockman’s response to this very specific, very human anxiety is to... float further up into the philosophical stratosphere while writing a mega-checks to a partisan PAC and explaining it in the language of civilizational mission. It’s like a doctor hearing a patient who says, “My knee hurts,” who then delivers a lecture on the elegance of the musculoskeletal system. The patient doesn’t need you to appreciate the beauty of human biology. They need you to look at their damn knee.&lt;/p&gt;&lt;p&gt;&lt;span&gt;The Pew data on AI skepticism, importantly, cuts across party lines. This isn’t a red or blue problem. By picking a partisan side and then wrapping it in Humanity language, Brockman has managed to simultaneously politicize a non-partisan anxiety &lt;/span&gt;&lt;em&gt;and&lt;/em&gt;&lt;span&gt; fail to address the underlying concern. He’s told half the country he’s against them politically, and told the other half he cares about them only as an abstraction. Nobody gets to feel like an actual human in this interaction.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;This is the Dr. Manhattan Syndrome trap in action. The more godlike your perspective, the more you lose touch with the people your technology actually affects, and the less capable you become of addressing their concerns in terms they recognize as genuine.&lt;/p&gt;&lt;p&gt;There is another way to talk about transformative technology. Steve Jobs demonstrated it for twenty-five years.&lt;/p&gt;&lt;p&gt;&lt;span&gt;Jobs rarely talked about ‘Humanity’ as an abstraction or a project to be managed. He almost never spoke about the ‘trajectory of the species’ in his product launches. Instead, he talked about &lt;/span&gt;&lt;em&gt;you&lt;/em&gt;&lt;span&gt;. Your pocket. Your music. Your photos. What &lt;/span&gt;&lt;em&gt;you&lt;/em&gt;&lt;span&gt; create with this thing. The entire Apple communications architecture was built around the second person singular.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;When Jobs introduced the iPod, he didn’t say, “This device represents a paradigm shift in humanity’s relationship with media.” He said, “A thousand songs in your pocket.” When he launched the iPhone, he didn’t claim it would transform the trajectory of civilization. He showed you what &lt;/span&gt;&lt;em&gt;you&lt;/em&gt;&lt;span&gt; could do with it.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Even “Think Different”—the closest Apple ever got to a grand civilizational statement—was populated with specific people. Einstein. Gandhi. Lennon. Earhart. Actual humans with names and faces and stories, not a blank white page with portentous text.&lt;/p&gt;&lt;p&gt;Jobs was arguably more of a genuine visionary than any of these AI leaders. The man reinvented multiple industries. He had more right to talk in civilizational terms than Brockman does. But when he did, he framed it as a contribution to the species, not a control mechanism over it. He understood that to impact humanity, you have to build tools for individual humans. It was a strategic and philosophical choice rooted in the understanding that people don’t connect with abstractions.&lt;/p&gt;&lt;p&gt;Jobs stayed at ground level because that’s where the customers live. Dr. Manhattan floated away because the view from orbit was more beautiful. One of them built the most valuable company on earth. The other left the planet entirely.&lt;/p&gt;&lt;p&gt;This shouldn’t be read as an argument against having any kind of civilizational vision. You may need one, depending on your mission. The engineers grinding through hard problems on brutal timelines aren’t signing up for “a better chatbot.” The all-hands, the investor pitch, the recruiting dinner: these are exactly the right rooms for Manhattan altitude. Jobs had his own reality distortion field, too. He just kept it largely inside the building.&lt;/p&gt;&lt;p&gt;The error isn’t thinking at a civilizational scale. It’s delivering the recruiting pitch at the press conference. Different rooms. Different audiences. Different concerns.&lt;/p&gt;&lt;p&gt;I know that comms practitioners at OpenAI, Anthropic, Google, and other major players in the AI industry read this newsletter. Some of you are friends, some are acquaintances. This part is for you.&lt;/p&gt;&lt;p&gt;The nuclear establishment had decades of calcified one-way communication before Three Mile Island blew the lid off. They had built an entire institutional culture around talking over the public’s head. By the time the crisis hit, the patterns were so deeply embedded that recovery was essentially impossible. That industry still suffers from it today, despite having one of the best safety records in the energy industry.&lt;/p&gt;&lt;p&gt;AI is, for all intents and purposes, four years old as a public-facing technology. ChatGPT launched in November 2022. The trust deficit right now is a trend line, not a fixed reality. The Pew numbers are moving in the wrong direction, but they haven’t calcified yet. There is still time to change the trajectory. But there has to be will, too.&lt;/p&gt;&lt;p&gt;And I don’t think the leaders of these companies are incapable of introspection and change, either. Dr. Manhattan Syndrome isn’t a permanent condition. It’s a habit of altitude, reinforced by an ecosystem—investors, conference organizers, friendly podcasters, peers—that rewards civilizational rhetoric and never demands specificity.&lt;/p&gt;&lt;p&gt;&lt;span&gt;What breaking it looks like isn’t complicated, though it is uncomfortable. It means talking about people, not Humanity. It means naming trade-offs rather than papering them over with mission statements. It means your CEO sitting across from a skeptical reporter and engaging with specific concerns about job displacement, creative rights, privacy—&lt;/span&gt;&lt;em&gt;on those terms&lt;/em&gt;&lt;span&gt;, not by retreating to the cosmos. It means making your customer the protagonist of your story instead of casting your company as the hero of civilization.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Some of you comms people already know all this and have been making these arguments internally, only to be overruled by leadership teams drunk on the view from orbit. I’ve been that person. I know how it feels. Maybe this gives you a piece of evidence to bring into the next room where the decisions get made.&lt;/p&gt;&lt;p&gt;&lt;span&gt;But here’s the real pitch: it &lt;/span&gt;&lt;em&gt;works&lt;/em&gt;&lt;span&gt;. Trust is built at the human level, one person and one concern at a time, not at the level of civilizational altitude. The companies that figure this out in the next few years will own the next era of technology. The ones that keep floating above it all will eventually discover, as Manhattan did, that they’ve drifted so far from the people they claim to serve that they’ve become irrelevant to them.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Here’s the final irony of the Dr. Manhattan metaphor, and the one most worth sitting with. The actual hero of “Watchmen” isn’t Manhattan, the guy with the godlike power, the civilizational perspective, and the ability to see across time. It’s the messy, compromised, ground-level humans making ugly choices in real time with imperfect information, conflicting loyalties, and the full weight of consequences on their shoulders.&lt;/p&gt;&lt;p&gt;Manhattan has the power. But he’s the least useful person in the room when it actually matters. He can reshape matter, but he can’t reshape public trust. He’s not the villain. He’s just irrelevant. And for someone who claims to care about Humanity, that might be the worst thing you can be.&lt;/p&gt;&lt;p&gt;You don’t have to be him. Put some pants on and come back down to earth. There are actual people down here who could use your help.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Human Bottlenecks</title>
+      <link>https://borretti.me/article/human-bottlenecks</link>
+      <guid isPermaLink="true">https://borretti.me/article/human-bottlenecks</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://borretti.me/feed.xml">borretti.me</source>
+      <description>(8.6/10) 文章论证AI未必会显著增强人的能力，因为真正稀缺的是人类注意力、协调与决策瓶颈。它把讨论从模型性能转向组织与制度约束，提供了更冷静的采用视角。</description>
+      <content:encoded>&lt;div&gt;&lt;p&gt;AI models are very capable and get more capable each year. So naturally people
+feel they’re underusing them. There’s a tweet that goes like: your laptop has a
+100M USD startup in it, you just have to figure the right sequence of words to
+get it out. And beyond money, people imagine AI could boost them in every area
+of life. Thus all these perennial ideas: of an AI executive assistant, an AI
+tutor, an AI that curates your “digital garden”, an AI that (sigh) writes
+flashcards for you.&lt;/p&gt;
+
+&lt;p&gt;The general template is: if only I could wire up the right prompts and the right
+tools in the right harness, I could have an agent that would boost my
+productivity 10x, or fix my problems with therapy, or make me more social, or
+more knowledgeable. This was, curiously, the ambition of a lot of early
+computing pioneers: &lt;a href="https://www.dougengelbart.org/pubs/augment-3906.html" rel="noopener noreferrer"&gt;&lt;em&gt;Augmenting Human Intellect&lt;/em&gt;&lt;/a&gt;, &lt;a href="https://en.wikipedia.org/wiki/Man%E2%80%93Computer_Symbiosis" rel="noopener noreferrer"&gt;&lt;em&gt;Man-Computer
+Symbiosis&lt;/em&gt;&lt;/a&gt;. &lt;a href="https://en.wikipedia.org/wiki/Douglas_Engelbart" rel="noopener noreferrer"&gt;Engelbart&lt;/a&gt;’s lab was called the &lt;a href="https://en.wikipedia.org/wiki/Augmentation_Research_Center" rel="noopener noreferrer"&gt;Augmentation Research
+Center&lt;/a&gt;! And more recently, people used to complain about how everyone has
+the Library of Alexandria in their pocket, and yet, we are not all genius
+polymaths.&lt;/p&gt;
+
+&lt;p&gt;And these ideas are perennial because they never seem to happen. It’s like the
+&lt;a href="https://en.wikipedia.org/wiki/Productivity_paradox" rel="noopener noreferrer"&gt;Solow paradox&lt;/a&gt; on an individual level. Why? I think there are two
+reasons: first, most people lack what &lt;a href="https://andymatuschak.org/" rel="noopener noreferrer"&gt;Andy Matuschak&lt;/a&gt; calls a “&lt;a href="https://notes.andymatuschak.org/People_who_write_extensively_about_note-writing_rarely_have_a_serious_context_of_use" rel="noopener noreferrer"&gt;serious
+context of use&lt;/a&gt;” (AI doesn’t move the needle because there’s no needle to
+move); second, most people are bottlenecked by internal factors where AI (or
+anything external, for that matter) can’t move the needle.&lt;/p&gt;
+
+&lt;h1&gt;The Serious Context of Use&lt;/h1&gt;
+
+&lt;p&gt;I have heard so many people, online and in real life, tell me some variation of:
+“I want to [use|build] an app that uses AI to write flashcards”. How many of
+those people do you think have ever written a flashcard? How many of them use
+&lt;a href="https://apps.ankiweb.net/" rel="noopener noreferrer"&gt;Anki&lt;/a&gt; every day? Have ever used Anki? The people who want an AI that
+writes flashcards for them &lt;em&gt;don’t use flashcards&lt;/em&gt;. They have no reason
+to. Dually, the people who use flashcards &lt;a href="https://borretti.me/article/the-applicability-of-spaced-repetition" rel="noopener noreferrer"&gt;would benefit little from AI&lt;/a&gt;
+writing their flashcards.&lt;/p&gt;
+
+&lt;p&gt;Analogously with “AI tutors”. If you had the ghost of John von Neumann in your
+laptop, what would you have him teach you? Let’s be honest. You’d go through
+chapter one of some math topic you’re vaguely curious about and then forget
+about it. And that would probably be the rational move! Most people are not
+autodidacts because most people have no material reason to learn a specific
+topic (i.e. their job does not require it) and the problem with learning for the
+sake of learning is opportunity cost: there is no &lt;em&gt;a priori&lt;/em&gt; reason to learn one
+thing over another, so better to do nothing and wait for something to appear
+which actually grabs your interest. Again, this is likely rational! Could you
+imagine if you found everything interesting? You’d spend years living in a
+basement curating a wiki of late Soviet military hardware or something. So, even
+if you had John von Neumann in your pocket, it probably wouldn’t move the
+needle.&lt;/p&gt;
+
+&lt;p&gt;Would an “AI executive assistant” &lt;em&gt;actually&lt;/em&gt; boost your productivity? What would
+it do, other than tell you to do the things you already know you have to do?
+With these ideas that are so attractive in the abstract, the way you deflate
+them is you interrogate the concrete, fine-grained details. Take a day at work,
+and ask: what &lt;em&gt;exact&lt;/em&gt; actions could an AI looking over my shoulder have taken,
+that would have made a difference?&lt;/p&gt;
+
+&lt;p&gt;Finally there’s the tools-for-thought/notetaking people. God save us. It’s
+always the same thing. Your folder with notes—pardon me, your “&lt;a href="https://fortelabs.com/blog/basboverview/" rel="noopener noreferrer"&gt;second
+brain&lt;/a&gt;”—plus an AI agent that writes, edits, synthesizes information,
+answers queries. You could build this in an afternoon, and it won’t move the
+needle in your life, for the same reason that building the second brain in the
+first place didn’t make a difference.&lt;/p&gt;
+
+&lt;p&gt;See, most of us, unless we are students, we really don’t have cause to take
+notes on anything. If you’re a student, you take notes from the textbook. I keep
+a journal, which is occasionally useful. At some jobs I’ve kept a work journal,
+this has also been useful. If I stopped, probably, not much would change.&lt;/p&gt;
+
+&lt;p&gt;The notetaking people—and I say this with all the love in the world—are
+never, like, a researcher at the cutting edge of their field, building this vast
+cathedral of knowledge, note-by-note, so they can derive new insights. Never a
+historian who has to read tens of millions of words across thousands of sources
+to synthesize the life of some historical person. It’s never someone doing
+something hard. It’s always some blogger. Their “digital garden” is about how to
+keep a digital garden. It’s very solipsistic: there’s no output, no
+deliverables. The deliverable is you take a screenshot of your &lt;a href="https://obsidian.md/" rel="noopener noreferrer"&gt;Obsidian&lt;/a&gt;
+graph and tweet about it to show off how much it looks like an incomprehensible
+ball of twine.&lt;/p&gt;
+
+&lt;p&gt;So, what difference is the AI going to make? “It’s going to write my
+notes”. About what? “It’s going to read articles for me and summarize them and
+add them to the digital garden”. For what purpose? “It’s going to find
+connections between my ideas!” What ideas? It’s going to pull an unfinished list
+of bulletpoints for an eventual draft of an essay on some inane thing, plus a
+bunch of PDFs you haven’t read, and combine them together and make, what?
+Another project you’re not going to do? The AI is going to do that?&lt;/p&gt;
+
+&lt;p&gt;Again, I say this with all the love in the world. I used to be a
+tools-for-thought guy. I hoard PDFs. But we have to be honest with
+ourselves. Sometimes, tools don’t move the needle because there’s no needle to
+move. Because the “needle” is not a concrete, realizable material need but a
+vague, aspirational idea about who we are as people.&lt;/p&gt;
+
+&lt;h1&gt;Internal Limiting Factors&lt;/h1&gt;
+
+&lt;p&gt;So, the idea of using computers to augment human capabilities is basically: you
+take the human, and you build a scaffold around them, but the human stays the
+same. The scaffold can be classical software, or AI, but the human remains a
+black box. And the hope is: I just prompt my swarm of AI agents and become 100x
+more effective, like Manfred in &lt;a href="https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html" rel="noopener noreferrer"&gt;&lt;em&gt;Accelerando&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Why wouldn’t this work? I think most people are bottlenecked by internal factors
+that are difficult to change. Mental energy, motivation, executive function, not
+to mention more fundamental traits like intelligence and conscientiousness. So,
+external scaffolding, either with classical software or AI, might help somewhat,
+but it won’t be transformative.&lt;/p&gt;
+
+&lt;p&gt;Consider executive function. &lt;a href="https://borretti.me/article/notes-on-managing-adhd" rel="noopener noreferrer"&gt;My own experience of managing ADHD&lt;/a&gt; is the
+external scaffolding helps (todo lists, calendars, timers, a million little ways
+to trick myself into working) gets me from zero to “kind of functional”. But it
+saturates there. Stimulants fix the original, internal bottleneck, which is my
+neurochemistry. And then I can accomplish my goals (c.f. &lt;a href="https://en.wikipedia.org/wiki/Liebig%27s_law_of_the_minimum" rel="noopener noreferrer"&gt;Liebig’s law of the
+minimum&lt;/a&gt;). All the pomodoros in the world are as nothing to a little
+molecule diffusing through my brain tissue, binding to &lt;a href="https://en.wikipedia.org/wiki/Norepinephrine_transporter" rel="noopener noreferrer"&gt;NET&lt;/a&gt; and
+&lt;a href="https://en.wikipedia.org/wiki/Dopamine_transporter" rel="noopener noreferrer"&gt;DAT&lt;/a&gt;. And what scaffolding is useful is just classical software:
+&lt;a href="https://www.todoist.com/" rel="noopener noreferrer"&gt;Todoist&lt;/a&gt; and calendars. Is an agent going to match the effectiveness
+of methylphenidate in ADHD? I doubt it.&lt;/p&gt;
+
+&lt;p&gt;Consider intelligence. Can AI augment human intelligence? What does that look
+like? Consider how AI agents only became useful when the models crossed a
+particular capability threshold, i.e., you can’t put GPT-2 into a harness and
+get GPT-5 outcomes out of it. Can you put a human in an AI scaffold and give
+them +30 effective IQ? I doubt it, unless the AI is doing all the thinking, at
+which point, what use is the human? The limiting factor in the human-AI
+&lt;a href="https://en.wikipedia.org/wiki/Advanced_chess" rel="noopener noreferrer"&gt;centaur&lt;/a&gt; is the human! So intelligence is fixed until we get very
+advanced biotechnology.&lt;/p&gt;
+
+&lt;p&gt;Knowledge is another limiting factor. I find that even very educated people tend
+to underrate the importance of knowledge. A lot of people have this attitude
+that you can just Google everything just-in-time as it comes up. Like Babbage, I
+can’t &lt;a href="https://en.wikiquote.org/wiki/Charles_Babbage#Passages_from_the_Life_of_a_Philosopher_(1864)" rel="noopener noreferrer"&gt;rightly apprehend the confusion of ideas&lt;/a&gt; that would lead someone
+to think this. Maybe it’s downstream of the lack of a serious context of
+use. Everything you do, every action and idle thought, draws on this vast
+(implicit, unseen) trove of knowledge. Claude Shannon invented digital computing
+because he remembered this then-obscure branch of mathematical logic called
+Boolean algebra and saw that it could be realized in hardware. A trillion-dollar
+industry, conjured out of some old tomes.&lt;/p&gt;
+
+&lt;p&gt;The reason knowledge is still a bottleneck, in the AI era, is not: “if you don’t
+have the knowledge, you can’t write the prompt”. Rather: if you don’t have the
+knowledge, you don’t understand the question, or why it matters, or how to judge
+the answers, and you won’t ever think to ask. You’re in a &lt;em&gt;completely&lt;/em&gt; different
+continent from “writing the prompt”. And because long-term memory is private and
+internal, AI can’t boost it. It can, maybe, with judicious use, help in the
+acquisition of new knowledge.&lt;/p&gt;
+
+&lt;p&gt;So: executive function, intelligence, and knowledge are huge bottlenecks to what
+you can do, and because they are internal to the brain, AI can’t touch them
+until we have far more advanced biotechnology. Corollary: contrary to the
+popular view of &lt;a href="https://www.youtube.com/watch?v=2HMPRXstSvQ" rel="noopener noreferrer"&gt;human capital is becoming worthless&lt;/a&gt;, the returns to
+education are now &lt;em&gt;higher&lt;/em&gt;, because intelligent, educated people with working
+reward circuitry stand to gain more from AI.&lt;/p&gt;
+
+
+  &lt;/div&gt;</content:encoded>
     </item>
     <item>
       <title>The just-say-no engineer was a ZIRP phenomenon</title>
@@ -1892,81 +2246,6 @@ itself&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I'm reminded of the incident last year where the AI Village experiment &lt;a href="https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/" rel="noopener noreferrer"&gt;infuriated Rob Pike&lt;/a&gt; by sending him unsolicited gratitude emails as an "act of kindness". That was just an unwanted email - asking suppliers to correct mistakes that were made without a human-in-the-loop or wasting police time with slop diagrams feels a whole lot worse to me.&lt;/p&gt;
 &lt;p&gt;I think experiments like this need to keep their own human operators in-the-loop for outbound actions that affect other people.&lt;/p&gt;
 &lt;/div&gt;
-
-&lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Breaking: Autonomous Agents are a Shitshow</title>
-      <link>https://garymarcus.substack.com/p/breaking-autonomous-agents-are-a</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/breaking-autonomous-agents-are-a</guid>
-      <pubDate>Tue, 05 May 2026 17:54:27 GMT</pubDate>
-      <source url="https://garymarcus.substack.com/feed">garymarcus.substack.com</source>
-      <description>(8.1/10) 文章集中批评自主代理当前能力与宣传严重脱节，强调其可靠性与可控性问题。核心观点是，系统性失败并非偶发Bug，而是现阶段范式本身的不成熟。</description>
-    </item>
-    <item>
-      <title>★ Y Combinator’s Stake in OpenAI</title>
-      <link>https://daringfireball.net/2026/05/y_combinators_stake_in_openai</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/05/y_combinators_stake_in_openai</guid>
-      <pubDate>Mon, 04 May 2026 22:47:01 GMT</pubDate>
-      <source url="https://daringfireball.net/feeds/main">daringfireball.net</source>
-      <description>(8.0/10) 文章指出YC及相关人物在评价OpenAI与Altman时，背后存在巨大利益关系却常未充分披露。它关注的不是八卦，而是AI舆论场中的权力、资本与可信度问题。</description>
-      <content:encoded>&lt;div&gt;&lt;div&gt;
-&lt;h1&gt;Y Combinator’s Stake in OpenAI&lt;/h1&gt;
-&lt;h6&gt;Monday, 4 May 2026&lt;/h6&gt;
-
-&lt;p&gt;Speaking of companies with &lt;a href="https://daringfireball.net/linked/2026/05/04/google-owns-a-big-chunk-of-anthropic" rel="noopener noreferrer"&gt;valuable minority stakes in AI companies&lt;/a&gt;, there’s one thing that stuck in my craw about the blockbuster &lt;a href="https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted" rel="noopener noreferrer"&gt;Ronan Farrow / Andrew Marantz investigative piece on Sam Altman and OpenAI&lt;/a&gt; last month for The New Yorker. It didn’t come up during &lt;a href="https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry" rel="noopener noreferrer"&gt;Nilay Patel’s excellent interview with Farrow on Decoder&lt;/a&gt;, either.&lt;/p&gt;
-
-&lt;p&gt;Sam Altman was the president of Y Combinator for several years, and left to become the full-time CEO of OpenAI. The New Yorker quotes Y Combinator co-founder Paul Graham multiple times, in the context of Altman’s trustworthiness. (Some of those quotes are firsthand, others secondhand.) Graham’s role in the story — particularly his public remarks &lt;em&gt;after&lt;/em&gt; publication — comprised an entire section in &lt;a href="https://daringfireball.net/2026/04/when_he_is_alive_and_not_after_he_is_dead" rel="noopener noreferrer"&gt;my own take on the New Yorker piece&lt;/a&gt;, wherein I concluded:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;I would characterize Graham’s tweets re: Altman this week as
-emphasizing only that Altman was not fired or otherwise forced
-from YC, and could have stayed as CEO at YC if he’d found another
-CEO for OpenAI. But for all of Graham’s elucidating engagement on
-Twitter/X this week regarding this story, he’s dancing around the
-core question of the Farrow/Marantz investigation, the one right
-there in The New Yorker’s headline: Can Sam Altman be trusted?
-“&lt;em&gt;We didn’t ‘remove’ Sam Altman&lt;/em&gt;” and “&lt;em&gt;We didn’t want him to
-leave&lt;/em&gt;” are not the same things as saying, say, “&lt;em&gt;I think Sam
-Altman is honest and trustworthy&lt;/em&gt;” or “&lt;em&gt;Sam Altman is a man of
-integrity&lt;/em&gt;”. If Paul Graham were to say such things, clearly and
-unambiguously, those remarks would carry tremendous weight. But — rather conspicuously to my eyes — he’s not saying such things.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The thing that stuck in my craw is this: &lt;em&gt;Does Y Combinator own a stake in OpenAI? And if they do, given OpenAI’s sky-high valuation, isn’t that stake worth billions of dollars?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;OpenAI was seeded by an offshoot of Y Combinator &lt;a href="https://web.archive.org/web/20160611042811/https://ycr.org/" rel="noopener noreferrer"&gt;called YC Research&lt;/a&gt; in 2016 — when Altman was running YC. In December 2023, the well-known AI expert (and AI-hype skeptic) &lt;a href="https://garymarcus.substack.com/p/not-consistently-candid" rel="noopener noreferrer"&gt;Gary Marcus wrote the following&lt;/a&gt;, in a piece on Altman’s trustworthiness in the wake of the OpenAI board saga that saw Altman fired, re-hired, and the board purged in the course of a tumultuous week:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;After poking around, I found out that “I have no equity in OpenAI”
-was only half the truth; while Altman to my knowledge holds no
-&lt;em&gt;direct&lt;/em&gt; equity in OpenAI, he does have an &lt;em&gt;indirect&lt;/em&gt; stake in
-OpenAI, and that fact should have been disclosed.&lt;/p&gt;
-
-&lt;p&gt;In particular, he owns a stake of Y Combinator, and Y Combinator
-owns a stake in OpenAI. It may well be worth tens of millions of
-dollars; even for Altman, that’s not trivial. Since he was
-President of Y Combinator, and CEO of OpenAI; he surely was
-aware of this.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;So it’s well known that Y Combinator owns &lt;em&gt;some&lt;/em&gt; stake in OpenAI. But how big is that stake? This seems like devilishly difficult information to obtain. I asked around and a little birdie who knows several OpenAI investors came back with an answer: Y Combinator owns about 0.6 percent of OpenAI. At OpenAI’s current &lt;a href="https://openai.com/index/accelerating-the-next-phase-ai/" rel="noopener noreferrer"&gt;$852 billion valuation&lt;/a&gt;, that’s worth over $5 billion.&lt;/p&gt;
-
-&lt;p&gt;Graham &lt;a href="https://www.youtube.com/watch?v=6u4JVz7iQTY" rel="noopener noreferrer"&gt;and his wife Jessica Livingston&lt;/a&gt; are two of Y Combinator’s four founding partners. The fact that Paul Graham personally has billions of dollars at stake with OpenAI doesn’t mean that his public opinion on Sam Altman’s trustworthiness and leadership is invalid. But it certainly seems like the sort of thing that ought to be disclosed when quoting Graham as an Altman character reference. A billion dollars here, a billion there — that adds up to the sort of money that &lt;em&gt;might&lt;/em&gt; skew a fellow’s opinion.&lt;/p&gt;
-
-
-
- 
-&lt;/div&gt; 
-
-
-
-
-
-
-
-
-
 
 &lt;/div&gt;</content:encoded>
     </item>
