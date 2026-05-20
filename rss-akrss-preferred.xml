@@ -5,8 +5,37 @@
     <link>http://rss.longlone.de5.net</link>
     <description>Codex-curated preferred RSS items</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 20 May 2026 15:37:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 21:38:02 GMT</lastBuildDate>
     <atom:link href="http://rss.longlone.de5.net/rss-akrss-preferred.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google I/O, Gemini Spark, Antigravity</title>
+      <link>https://simonwillison.net/2026/May/20/google-io/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/20/google-io/#atom-everything</guid>
+      <pubDate>Wed, 20 May 2026 15:32:17 GMT</pubDate>
+      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
+      <description>(8.2/10) 作者回顾 Google I/O，但刻意只讨论自己能亲手试用或已正式可用的内容。文章强调应警惕“即将推出”的演示，并点出真正值得关注的少数发布。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+
+&lt;p&gt;It's hard to find much to write about Google I/O this year because I have a policy of not writing about anything that I can't try out myself, and a lot of the big announcements are "coming soon".&lt;/p&gt;
+&lt;p&gt;I actually prefer to write about things that are in general availability, because I've had instances in the past where the previews didn't match what was released to the general public later on.&lt;/p&gt;
+&lt;p&gt;Aside from &lt;a href="https://simonwillison.net/2026/May/19/gemini-35-flash/" rel="noopener noreferrer"&gt;Gemini 3.5 Flash&lt;/a&gt; the most interesting announcement looks to be Google's upcoming OpenClaw competitor &lt;a href="https://gemini.google/overview/agent/spark/" rel="noopener noreferrer"&gt;Gemini Spark&lt;/a&gt;, described as "your personal AI agent" which can "connect natively with your favorite Google apps like Gmail, Calendar, Drive, Docs, Sheets, Slides, YouTube, and Google Maps". The FAQ for that also includes this confusing detail:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;What Gemini model does Gemini Spark run on?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gemini Spark runs on Gemini 3.5 Flash and Antigravity.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The &lt;a href="https://antigravity.google/" rel="noopener noreferrer"&gt;antigravity.google&lt;/a&gt; website currently lists Antigravity as a desktop app, a CLI agent tool (written in Go), the &lt;a href="https://github.com/google-antigravity/antigravity-sdk-python" rel="noopener noreferrer"&gt;Antigravity SDK&lt;/a&gt; (an open source Python wrapper around a bundled closed source Go binary), and the original Antigravity IDE (a VS Code fork).&lt;/p&gt;
+&lt;p&gt;I guess Gemini Spark, the user-facing hosted agent product, might be running on that Go binary, but I'm not sure why that's worth mentioning in the FAQ!&lt;/p&gt;
+&lt;p&gt;Naturally I went looking for notes on how Gemini Spark intends to handle the risk of prompt injection. The best information I could find on that was in the &lt;a href="https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud" rel="noopener noreferrer"&gt;Everything Google Cloud customers need to know coming out of Google I/O&lt;/a&gt; post aimed at enterprise customers, which includes:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Spark operates in a fully managed, secure runtime on Google Cloud, meaning you get enterprise-grade security without ever having to manage the underlying infrastructure. Every task executes in a fresh, strictly isolated, ephemeral VM to help ensure data never overlaps between sessions. To protect your enterprise, all traffic routes through our secure Agent Gateway that enforces Data Loss Prevention (DLP) policies, while user credentials remain fully encrypted and are never exposed directly to the agent.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Given how many people are going to be piping &lt;em&gt;very&lt;/em&gt; sensitive data through Gemini Spark in the near future I hope they've made this bullet-proof, or this could be a top candidate for the agent security &lt;a href="https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#1-year-a-challenger-disaster-for-coding-agent-security" rel="noopener noreferrer"&gt;challenger disaster&lt;/a&gt; that we still haven't seen.&lt;/p&gt;
+&lt;p&gt;Also of note: in &lt;a href="https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/" rel="noopener noreferrer"&gt;Transitioning Gemini CLI to Antigravity CLI&lt;/a&gt; Google announce that the &lt;a href="https://github.com/google-gemini/gemini-cli" rel="noopener noreferrer"&gt;open source Gemini CLI&lt;/a&gt; tool (Apache 2.0 licensed TypeScript) will stop working with their AI subscription plans on June 18th, replaced by the new closed source &lt;a href="https://github.com/google-antigravity/antigravity-cli" rel="noopener noreferrer"&gt;Antigravity CLI&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;</content:encoded>
+    </item>
     <item>
       <title>Could generative AI could turn out to be the tech industry’s Vietnam? And could public backlash lead AI to a better place?</title>
       <link>https://garymarcus.substack.com/p/could-generative-ai-could-turn-out</link>
@@ -14,6 +43,28 @@
       <pubDate>Wed, 20 May 2026 15:29:27 GMT</pubDate>
       <source url="https://garymarcus.substack.com/feed">garymarcus.substack.com</source>
       <description>(8.1/10) 文章把生成式AI热潮类比为科技业的“越南战争”，认为行业正因过度承诺与忽视风险而陷入泥潭。作者进一步讨论公众反弹与监管压力，是否反而能把AI拉回更稳健、更负责的发展路径。</description>
+    </item>
+    <item>
+      <title>What will better AI mean?</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html</guid>
+      <pubDate>Wed, 20 May 2026 07:00:00 GMT</pubDate>
+      <source url="https://geohot.github.io/blog/feed.xml">geohot.github.io</source>
+      <description>(8.8/10) 作者借一篇训练论文讨论前沿模型能力提升的来源，认为并不存在实验室独有的神秘技巧。其核心观点是可验证任务主要靠修复 bug 与扩大规模推进，并延伸到对竞争壁垒与监管的判断。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+    &lt;p&gt;I thought about posting &lt;a href="https://arxiv.org/pdf/2602.15763" rel="noopener noreferrer"&gt;this paper&lt;/a&gt; but rebranding it as the Claude Mythos technical report. As far as I can tell, there’s no secret tricks the US frontier labs have, and that basically describes how Mythos was trained. What’s in that paper just works, and for verifiable domains, it’s only a matter of fixing bugs and scaling up. That’s why Anthropic is so desperate for regulatory capture, AI has no moat.&lt;/p&gt;
+
+&lt;p&gt;AI (and any form of search) has this property where you spend exponentially more money to get linear returns. So for a bit we’ll live in an era where AI can in theory solve very hard problems, but it’s very expensive to do so.&lt;/p&gt;
+
+&lt;p&gt;The Internet has been fully mined, and it yielded 20T good tokens. For a Chinchilla optimal model, that’s only 1T weights (1e26 training run if dense). 500 GB gets you all of human knowledge in a simple to query archive. For comparison, Wikipedia is 24 GB with mediocre compression.&lt;/p&gt;
+
+&lt;p&gt;Technology proceeds in terms of S-curves, and AI has gone through a few of them already. I know I’m quite late to this, but I’m feeling optimistic that scaling will mostly stop yielding results. GPT 5.5 is to a point where it’s really hard for me to stump it with any problem. What does “superhuman intelligence” even mean at that point if humans can’t detect it if it’s superhuman?&lt;/p&gt;
+
+&lt;p&gt;There will be some domains where it’s still detectable. Any form of optimization where the humans can marvel at how low it got the number qualifies. And there will be creepy Medusa systems that directly optimize for engagement, be careful not to look at them directly. But what does it mean for a song to be superhuman? Contrary to the beliefs of the rationality cult, most things aren’t optimization problems. The whole hard problem is determining what to optimize for.&lt;/p&gt;
+
+&lt;p&gt;The era of scaling yields clearly better AI is over, now we enter an era of efficiency and taste. Let’s get the tools to hit the end of this S-curve distributed to as many people as possible. Taste is an arena where tons of people can play.&lt;/p&gt;
+
+  &lt;/div&gt;&lt;/div&gt;</content:encoded>
     </item>
     <item>
       <title>Prompts are technical debt too</title>
@@ -2206,66 +2257,6 @@ itself&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Notes on the xAI/Anthropic data center deal</title>
-      <link>https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything</guid>
-      <pubDate>Thu, 07 May 2026 17:09:28 GMT</pubDate>
-      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
-      <description>(8.2/10) 文章解读Anthropic与SpaceX/xAI共享Colossus数据中心容量的交易及其意义。重点不在发布会消息，而在算力联盟背后的基础设施、环境代价与行业权力格局。</description>
-      <content:encoded>&lt;div&gt;&lt;div&gt;
-&lt;h2&gt;Notes on the xAI/Anthropic data center deal&lt;/h2&gt;
-&lt;p&gt;7th May 2026&lt;/p&gt;
-
-
-
-&lt;p&gt;There weren’t a lot of big new announcements from Anthropic at yesterday’s Code w/ Claude event, but the biggest by far was the deal they’ve struck with SpaceX/xAI to use “all of the capacity of their Colossus data center”.&lt;/p&gt;
-&lt;p&gt;As I mentioned in my &lt;a href="https://simonwillison.net/2026/May/6/code-w-claude-2026/" rel="noopener noreferrer"&gt;live blog of the keynote&lt;/a&gt;, that’s the one with the &lt;a href="https://www.politico.com/news/2025/05/06/elon-musk-xai-memphis-gas-turbines-air-pollution-permits-00317582" rel="noopener noreferrer"&gt;particularly bad environmental record&lt;/a&gt;. The gas turbines installed to power the facility initially ran without Clean Air Act permits or pollution control devices, which they got away with by classifying them as “temporary”. Credible reports link it to increases in hospital admissions relating to low air quality.&lt;/p&gt;
-&lt;p&gt;Andy Masley, one of the most prolific voices pushing back against misleading rhetoric about data centers (see &lt;a href="https://blog.andymasley.com/p/the-ai-water-issue-is-fake" rel="noopener noreferrer"&gt;The AI water issue is fake&lt;/a&gt; and &lt;a href="https://blog.andymasley.com/p/data-center-land-use-issues-are-fake" rel="noopener noreferrer"&gt;Data center land issues are fake&lt;/a&gt;), had &lt;a href="https://x.com/andymasley/status/2052070252930826384" rel="noopener noreferrer"&gt;this to say&lt;/a&gt; about Colossus:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I would simply not run my computing out of this specific data center&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;I get that Anthropic are severely compute-constrained, but in a world where the very existence of “AI data centers” is a red-hot political issue (see recent &lt;a href="https://kutv.com/news/local/amid-boos-box-elder-county-commission-unanimously-approves-plan-for-massive-data-center" rel="noopener noreferrer"&gt;news out of Utah&lt;/a&gt; for a fresh example), signing up with this particular data center is a really bad look.&lt;/p&gt;
-&lt;p&gt;There was a lot of initial chatter about how this meant xAI were clearly giving up on their own Grok models, since all of their capacity would be sold to Anthropic instead. That was a misconception—Anthropic are getting Colossus 1, but xAI are keeping their larger Colossus 2 data center for their own work.&lt;/p&gt;
-&lt;p&gt;As an interesting side note, the night before the Anthropic announcement, xAI sent out a deprecation notice for Grok 4.1 Fast and several other models providing just two weeks’ notice before shutdown, reported here &lt;a href="https://twitter.com/xlr8harder/status/2051901091906834439" rel="noopener noreferrer"&gt;by @xlr8harder&lt;/a&gt; from SpeechMap:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;img src="https://static.simonwillison.net/static/2026/grok-fast-shutdown.png" alt="Effective May 15, 2026 at 12:00pm PT, the following models will be retired from the xAI API: grok-4-1-fast-reasoning, grok-4-1-fast-non-reasoning, grok-4-fast-reasoning, grok-4-fast-non-reasoning, grok-4-0709, grok-code-fast-1, grok-3, grok-imagine-image-pro. After May 15, 2026, requests to these models will no longer work."&gt;&lt;/p&gt;
-&lt;p&gt;This is terrible @xai. I just spent time and money to migrate to grok 4.1 fast, and you’re disabling it with less than two weeks notice, after releasing it in November, with no migration path to a fast/cheap alternative.&lt;/p&gt;
-&lt;p&gt;I will never depend on one of your products again.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Here’s &lt;a href="https://speechmap.substack.com/p/speechmap-update-xai-loses-top-spot" rel="noopener noreferrer"&gt;SpeechMap’s detailed explanation&lt;/a&gt; of how they selected Grok 4.1 Fast for their project in March.&lt;/p&gt;
-&lt;p&gt;Were xAI serving those models out of Colossus 1?&lt;/p&gt;
-&lt;p&gt;xAI owner Elon Musk (who previously delighted in calling Anthropic &lt;a href="https://twitter.com/search?q=from%3Aelonmusk+misanthropic&amp;amp;src=typed_query&amp;amp;f=live" rel="noopener noreferrer"&gt;“Misanthropic”&lt;/a&gt;) &lt;a href="https://twitter.com/elonmusk/status/2052069691372478511" rel="noopener noreferrer"&gt;tweeted&lt;/a&gt; the following:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;By way of background for those who care, I spent a lot of time last week with senior members of the Anthropic team to understand what they do to ensure Claude is good for humanity and was impressed. [...]&lt;/p&gt;
-&lt;p&gt;After that, I was ok leasing Colossus 1 to Anthropic, as SpaceXAI had already moved training to Colossus 2.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;And then &lt;a href="https://twitter.com/elonmusk/status/2052076315306864756" rel="noopener noreferrer"&gt;shortly afterwards&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Just as SpaceX launches hundreds of satellites for competitors with fair terms and pricing, we will provide compute to AI companies that are taking the right steps to ensure it is good for humanity.&lt;/p&gt;
-&lt;p&gt;We reserve the right to reclaim the compute if their AI engages in actions that harm humanity.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Presumably the criteria for “harm humanity” are decided by Elon himself. Sounds like a new form of supply chain risk for Anthropic to me!&lt;/p&gt;
-
-
-&lt;/div&gt;
-
-&lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>The war between fast and legitimate is here</title>
-      <link>https://www.joanwestenberg.com/the-war-between-fast-and-legitimate-is-here/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/the-war-between-fast-and-legitimate-is-here/</guid>
-      <pubDate>Thu, 07 May 2026 01:18:04 GMT</pubDate>
-      <source url="https://joanwestenberg.com/rss">joanwestenberg.com</source>
-      <description>(8.5/10) 文章以欧盟《AI法案》为切口，讨论监管制定速度远落后于前沿模型迭代与部署节奏。核心观点是“合法性”与“速度”已正面冲突，治理框架必须适应持续变化的技术现实。</description>
-      <content:encoded>&lt;div&gt;
-    &lt;p&gt;The European Union spent four years drafting the AI Act, with OpenAI shipping GPT-4 to a hundred million users in two months. By the time Brussels finalised its definitions of "high-risk" systems, the systems in question had moved twice and grown various new appendages. The regulators were neither stupid, nor incompetent; they were doing what regulators are supposed to do. They consulted, they ran impact assessments, they debated wording, they translated everything into twenty-four languages, they voted in committee, and voted again, and harmonised national positions, and produced something defensible.&lt;/p&gt;&lt;p&gt;&lt;em&gt;The process took the time it took.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This is the whole problem, and - to my mind - one of the central tensions of the decade. The institutions best able to move at the speed of the real world are the institutions we trust the least; while the institutions we trust the most are too slow, and too cumbersome to matter.&lt;/p&gt;&lt;p&gt;I'm not here to mount a defence of the idiotic spate of DOGE inspired initiatives; I want to argue instead for a degree of dispassionate realism about where we are, and where we're either doomed or blessed to go next. &lt;/p&gt;&lt;p&gt;Legitimacy is a slow technology, built of procedure, of precedent, of deliberation, and the gradual accumulation of trust across cycles of failure and correction, across generations, across years. You can't accelerate it without breaking it, because the whole point of due process is that it slows you down - it must slow you down. The whole point of peer review is that someone qualified gets to object and point out the things that should not be broken. The whole point of constitutional limits is that the people in charge can't just do whatever the hell they want, whenever the hell they feel like it.&lt;/p&gt;&lt;p&gt;When you strip those constraints out, you get speed - I'll grant. &lt;/p&gt;&lt;p&gt;It's the inevitable outcome of authority concentrating, accountability loosening,  feedback loops collapsing.&lt;/p&gt;&lt;p&gt;The story of the twentieth century was, in part, the story of the slowest institutions racing to catch up to the fast. Markets ran ahead, regulators followed; inventors invented, courts adjudicated; technology disrupted, and culture absorbed - one way or another. The catching-up was painful and often violent, but it happened on a timescale that human institutions could survive.&lt;/p&gt;&lt;p&gt;I doubt this is still true // possible.&lt;/p&gt;&lt;p&gt;We're too far apart and drifting. &lt;/p&gt;&lt;p&gt;Facebook reached a billion users before any major democracy had a coherent policy position on what it was. By the time the policy machinery wound itself up, Facebook had already restructured politics in dozens of countries, undermined several elections, and pivoted into something else entirely. Whatever the regulators eventually produced was a response to a previous version of the company, but the current version had moved on.&lt;/p&gt;&lt;p&gt;The FDA's approval process is designed to be slow because the cost of a fast-tracked failure is, not to be ghoulish, literal bodies in a literal morgue. But the gene-editing tools available to a competent graduate student in 2026 would have required a fortified national laboratory in 1996. The technologically possible has outstripped the institutionally permissible - to the point that whole industries are migrating to jurisdictions with looser rules. The regulatory tortoise is still doing its job, but it's not the only animal in the race - not anymore.&lt;/p&gt;&lt;p&gt;We build legitimate institutions around legitimate problems - but the world changes. The institution remains optimised for the old problem, and gradually becomes ceremonial. Like the British monarchy. Or the United Nations. Or the academic peer review system.&lt;/p&gt;&lt;p&gt;The fast institutions I'm describing are rarely more competent. They're frequently, catastrophically worse. Theranos was fast. FTX was fast. WeWork outran its own ability to function. The history of speed without legitimacy is a history of fraud and human wreckage and a great many self-justifying memoirs published with the gift and grift of hindsight. Every time someone tells you that move-fast-and-break-things is a good strategy, you should ask what got broken and whose problem it's going to be to fix it.&lt;/p&gt;&lt;p&gt;But the answer to "fast institutions sometimes blow up" can't be that the slow ones are therefore vindicated; slow institutions blow up too. They just blow up in slow motion. The 2008 financial crisis was a slow blow-up. The opioid epidemic was a slow blow-up. The housing crisis in every major Anglophone city is a slow blow-up that's been unfolding for two decades while the relevant planning bodies follow procedure with admirable rigour. A failing institution can fail for a generation before anyone is willing to admit that the failure is structural rather than a rough patch. I've known marriages in that vein. I've known states in that vein. I've known companies, etc. &lt;/p&gt;&lt;p&gt;The new compact will involve some level of negotiated settlement between the two species. And I don't have a clear picture for what that settlement looks like - yet. My optimism leads me to believe (or at least, hope) that fast institutions adopt enough procedural integrity to earn the trust they lack, and slow institutions adopt enough adaptive capacity to remain relevant.&lt;/p&gt;&lt;p&gt;The pessimist in me (of whom I remain rather less fond) is convinced that the divergence only accelerates from here, and there's a betting chance we end up with a two-tier civilisation. The fast tier governs through algorithms, contracts, and platform policy; the slow tier governs through statute, precedent + parliamentary procedure. The two tiers nominally coexist but operate in different timeframes and address different populations. The fast tier handles anyone who is rich, technical, mobile, or willing to live within the rules of private platforms. The slow tier handles everyone else, in the residual physical world of borders, courts, parliaments, and the postal system. This is, broadly, what is already happening.&lt;/p&gt;&lt;p&gt;I'm wary of declensionist takes that romanticise the slow tier as "the last fortress of human dignity." There is, after all, nothing inherently dignified about waiting twelve years for a permission slip, or in the way the British NHS treats its waiting lists, or the American immigration "system" its most vulnerable applicants.&lt;/p&gt;&lt;p&gt;Procedure can and frequently does ossify into the basest of inhumane cruelty. Slow institutions aren't virtuous because they're slow; they're virtuous if and when their slowness produces the legitimacy it was designed to produce. &lt;/p&gt;&lt;p&gt;When slowness becomes a substitute for legitimacy, you have a Soviet-era clusterfuck.&lt;/p&gt;&lt;p&gt;But can legitimacy can be rebuilt at speed?&lt;/p&gt;&lt;p&gt;Can you construct an institution that is both accountable and reasonably fast?&lt;/p&gt;&lt;p&gt;Actual legitimacy seems to require a patience of movements and monuments that competitive markets and accelerating tech does not //&amp;nbsp;will not allow. You can't do the equivalent of British common law in five years. You can't do peer review at the speed of preprint. You can't do constitutional design at the speed of a Slack thread.&lt;/p&gt;&lt;p&gt;What you can dov - possibly - is accept the trade-off honestly. Build fast institutions for things where speed is the binding constraint and slow institutions for things where trust is the binding constraint, and stop pretending that the same body can do both. The current confusion comes from expecting our slow institutions to keep up with the news cycle, and from expecting our fast institutions to behave with the gravitas of a constitutional court.&lt;/p&gt;&lt;p&gt;Neither of those expectations is ever going to be satisfied.&lt;/p&gt;&lt;p&gt;In the late medieval period, the Catholic Church was still the central legitimacy-conferring institution - but it had already stopped being operationally dominant. New money, new printing, new science, new political forms grew up alongside the old hierarchy and (eventually) displaced it. The displacement took two centuries and several wars, and it was far from orderly, but it happened all the same. The thing that came out the other side, the modern nation-state with a codified law and a standing armies and a civil service and a bureaucracy , eventually achieved some synthesis of speed + legitimacy that none of the contesting parties had managed alone.&lt;/p&gt;&lt;p&gt;We are probably at the starting point of an analogous process.&lt;/p&gt;&lt;p&gt;There are 2 things about that period worth flagging:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;The first is that the new institutions didn't announce themselves as such. The Medici were a bank before they were a political force; and the Dutch East India Company was a trading concern before it was effectively a state. The legitimacy came afterwards, retrofitted to whatever the speed had already built.&lt;/li&gt;&lt;li&gt;The second is that the Church didn't vanish. It kept performing its older functions for a population that wanted older things from it, while the operational running of European civilisation passed to bodies that didn't yet have the moral authority but were already doing the governing.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;How much of the actual coordination of modern life is now happening inside corporate platforms and private networks that have no constitutional standing whatsoever?&lt;/p&gt;&lt;p&gt;The practical advice is to know which game you're in. If you're running a startup, you're in the speed game, and pretending you're running a regulatory agency is a category error. If you're running a regulatory agency, you're in the legitimacy game, and it's something of a vapid conceit to pretend to be running a startup. Most of the dysfunction in contemporary institutions comes from this same category confusion. The legislators who tweet like influencers vs the CEOs who issue manifestos like political leaders. The universities who try to brand themselves like consumer products vs the journalists who behave like activists and then complain that no one trusts them anymore. Each of these is an institution trying to play a game for which it was neither designed nor built, and losing the legitimacy of its native game without acquiring the speed of its aspiration.&lt;/p&gt;&lt;p&gt;Pick a side and commit. Find a functional substitute for the legitimacy you lack, and find it before the next scandal makes your shortcomings impossible to ignore; or find a way to remain relevant despite your pace, and stop confusing the pomp of authority with its substance.&lt;/p&gt;&lt;p&gt;The hybrids will struggle. The pretenders - the institutions that perform speed without being fast or perform legitimacy without being legitimate - will be eaten first.&lt;/p&gt;&lt;p&gt;I'm not certain anyone "wins" this in any way the word "win" is usually applied. But in a war between institutions, the folks on the losing side are usually the last to figure out they're at war in the first place.&lt;/p&gt;
-  
-
-
-  &lt;/div&gt;</content:encoded>
     </item>
   </channel>
 </rss>
