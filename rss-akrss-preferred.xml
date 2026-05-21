@@ -5,8 +5,234 @@
     <link>http://rss.longlone.de5.net</link>
     <description>Codex-curated preferred RSS items</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 21 May 2026 09:39:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 15:40:27 GMT</lastBuildDate>
     <atom:link href="http://rss.longlone.de5.net/rss-akrss-preferred.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digitale autonomie: wat kunnen organisaties NU doen</title>
+      <link>https://berthub.eu/articles/posts/digitale-autonomie-wat-kunnen-organisaties-nu-doen/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/digitale-autonomie-wat-kunnen-organisaties-nu-doen/</guid>
+      <pubDate>Thu, 21 May 2026 11:30:00 GMT</pubDate>
+      <source url="https://berthub.eu/articles/index.xml">berthub.eu</source>
+      <description>(8.0/10) 文章讨论数字自主权焦虑升温下，组织现在就能采取的务实行动。作者强调过去十五年对美依赖过深，转向需要长期重建能力与供应链。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+  &lt;p&gt;De zorgen over digitale autonomie nemen toe, en steeds vaker krijg ik van (grote) organisaties de vraag: wat kunnen we NU doen?&lt;/p&gt;
+&lt;p&gt;Nou heb ik wel een lijstje, maar voor we beginnen, besef dat we 15 jaar lang alles naar Amerika hebben geschoffeld. Of, we hebben het uitbesteed, en DIE mensen stuurden het naar Amerika. 15 jaar is een lange tijd, en we zijn niet 1 2 3 weer “in vorm” om de zaken weer anders aan te pakken.&lt;/p&gt;
+&lt;p&gt;De meeste instellingen hebben geen eigen IT-afdeling meer zoals vroeger. Er is al in geen jaren meer software in gebruik genomen die &lt;em&gt;niet&lt;/em&gt; van Amerikaanse big-tech was. U heeft geen IT-afdeling maar eigenlijk meer een big-tech afdeling. En zelfs die afdeling neemt inmiddels de meeste software “as a service” af van iemand anders.&lt;/p&gt;
+&lt;p&gt;Maar, er zijn genoeg dingen die we wel nu al kunnen doen. En als die lukken motiveert dat iedereen, ook buiten uw eigen organisatie, om weer aan de bak te gaan: kennelijk kan het wel, &lt;a href="https://berthub.eu/articles/posts/jouw-tech-mijn-tech/" rel="noopener noreferrer"&gt;en we kunnen er weer goed in worden&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Dingen die je nu kan doen&lt;/h2&gt;
+&lt;p&gt;Hiermee zijn de problemen niet opgelost, maar het kan wel &lt;em&gt;nu&lt;/em&gt; zonder al te veel moeite.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://berthub.eu/articles/ubaid-e-alyafizi-GVC3R6YwhlQ-unsplash.jpg" alt="Three traffic cones with hard hats, suggesting maintenance work"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h3&gt;Stop de migratie!&lt;/h3&gt;
+&lt;p&gt;Iedere organisatie die ik ken is nog driftig bezig servers, datacenters en software in moordend tempo te migreren naar Amerikaanse big tech. Vaak gebeurt dit wat onder de radar en dan “is het ineens zo” &amp;amp; is er geen weg terug meer. Want eenmaal gemigreerd blijft gemigreerd. Er zijn systemen die echt zo oud en verlopen zijn dat men kan zeggen “dat het wel moet”. Maar heel vaak is er helemaal geen haast. Zoals bijvoorbeeld bij de recente &lt;a href="https://berthub.eu/articles/posts/btw-as-an-american-service/" rel="noopener noreferrer"&gt;voorgenomen verhuizing van de btw naar volledig Amerikaans beheer&lt;/a&gt;. Moet dat echt nog dit jaar?&lt;/p&gt;
+&lt;p&gt;Vaak blijkt het oude systeem, op Europese servers, nog prima levensvatbaar. En niets doen kost ook niet zoveel werk.&lt;/p&gt;
+&lt;p&gt;Tip: in iedere organisatie die ik ken zijn er mensen die proberen de uitlevering van belangrijke data aan Amerika tegen te houden. Nodig die eens uit bij de directie voor ongefilterde feedback of het nou echt nodig is.&lt;/p&gt;
+&lt;h3&gt;Haal de Amerikaanse trackers van uw site en apps&lt;/h3&gt;
+&lt;p&gt;Hoe het komt is niet echt duidelijk, maar zelfs organisaties die veel beter zouden moeten weten hebben hun sites en apps vol Amerikaanse trackers en analytics zitten. En zoals ik eerder schreef, &lt;a href="https://berthub.eu/articles/posts/of-je-doet-geen-cookies/" rel="noopener noreferrer"&gt;men doet meestal ook &lt;strong&gt;niets zinvols&lt;/strong&gt; met die data&lt;/a&gt;. Maar de privacy van alle bezoekers is wel beschadigd. Eis van afdelingen marketing die zeggen dat ze niet zonder die data kunnen dat ze kwantificeren waarom het de moeite waard is uw bezoekers “de moeder te tracken”. Kunnen ze bijna nooit.&lt;/p&gt;
+&lt;p&gt;Statistieken zijn ook te krijgen met on-site (zelfbeheerde) software, of doe als de overheid en gebruik &lt;a href="https://matomo.org/" rel="noopener noreferrer"&gt;Matomo&lt;/a&gt; wat geen handel doet in gegevens van uw bezoekers.&lt;/p&gt;
+&lt;p&gt;Bijkomende lol is dat als u het goed inricht die irritante cookie-banner weg kan. En nogmaals, voor iemand zegt toch echt tracking nodig te hebben: vraag een lijst van beslissingen die genomen zijn met wat er geleerd is door al die tracking. En of wat men leerde niet best voor de hand lag.&lt;/p&gt;
+&lt;p&gt;Afsluitend, verwar vooral niet “&lt;a href="https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/" rel="noopener noreferrer"&gt;de cookies zijn rechtmatig&lt;/a&gt;” (zou kunnen) met “het is een goed idee onze gebruikers uit te leveren aan Google Analytics”! &lt;a href="https://berthub.eu/tkconv/document.html?nummer=2025D50029" rel="noopener noreferrer"&gt;Zoals de Rijksoverheid nog steeds zegt overigens&lt;/a&gt; (schandalig).&lt;/p&gt;
+&lt;h3&gt;Bestook je SaaS-providers&lt;/h3&gt;
+&lt;p&gt;Inmiddels draait er nog maar weinig software onder eigen beheer. In plaats daarvan hebben we ‘Software as a Service’, ook wel bekend als SaaS. Het proces waarmee vrijwel alle software inmiddels buiten de deur draait heet ook wel ‘Ver-SaaSing’. Microsoft 365 is een goed voorbeeld, maar het geldt inmiddels voor bijna alles. Salarisberekeningen, sollicitatieprocessen, declaratiesystemen, nieuwsbrieven, zaak- en document-management systemen: bijna alles is nu buiten de deur.&lt;/p&gt;
+&lt;p&gt;En buiten die deur draait het vaak of direct of indirect op Amerikaanse clouds.&lt;/p&gt;
+&lt;p&gt;Nou spreek ik weleens zo’n SaaS-aanbieder, en het blijkt dat vele daarvan ook wel willen leveren op basis van Europese clouds. Maar, “dan moeten mensen er wel om vragen”.&lt;/p&gt;
+&lt;p&gt;Het helpt dan met name om dat te doen samen met branchegenoten (of andere universiteiten of gemeentes). Het aardige is dat dit meer digitale autonomie op kan leveren zonder dat je er zelf voor hoeft te veranderen. Het is de aanbieder die je autonoom maakt.&lt;/p&gt;
+&lt;p&gt;Een voorbeeld is het Zweedse bedrijf Qmatic wat voor gemeentes afspraken voor paspoorten en rijbewijzen organiseert, en ook op een hoop andere plekken dat soort dingen doet. Vroeger had Qmatic eigen servers in Nederland (samen met VNG staat me bij). Nu is de meerderheid Amazon Web Services. Dat kan best weer terug.&lt;/p&gt;
+&lt;p&gt;Maar doe dit vooral samen, want overal vang ik op dat 1 klant per leverancier niet genoeg motivatie is om het te doen.&lt;/p&gt;
+&lt;h3&gt;Start een concreet maar KLEIN project met “skin in the game”&lt;/h3&gt;
+&lt;p&gt;Zoals gezegd zijn we danig ‘uit vorm’ in het doen van IT-projecten die niet draaien op Amerikaanse big tech. Om weer capaciteit en vertrouwen op te bouwen is het daarom nodig klein te beginnen. Maar ook weer niet &lt;em&gt;te&lt;/em&gt; klein. Er draaien op allemaal plekken proeftuintjes, en die zijn leuk om naar te kijken, en we leren er echt wel dingen.&lt;/p&gt;
+&lt;p&gt;Maar we moeten ook succesvolle projecten hebben die &lt;em&gt;live&lt;/em&gt; gaan. “Skin in the game”. Als voorbeeld wil ik de nieuwe Kiesraadsoftware “&lt;a href="https://www.kiesraad.nl/actueel/nieuws/2026/02/02/abacus-nieuwe-software-voor-uitslagberekening-bij-verkiezingen" rel="noopener noreferrer"&gt;Abacus&lt;/a&gt;” noemen. Draait op eigen computers, bij de gemeentes zelf, en heeft geen externe afhankelijkheden. Dit is ons werk, zelfgemaakt, op eigen infrastructuur. &lt;a href="https://www.binnenlandsbestuur.nl/digitaal/kiesraad-ontwikkelt-eigen-software-voor-verkiezingsuitslagen" rel="noopener noreferrer"&gt;En het is een succes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;En niet alleen werkt de software geheel &lt;em&gt;autonoom&lt;/em&gt;, de gebruikers vinden het ook een hele fijne ervaring. Dat de ontwikkelaars (bij de Kiesraad) werkelijk ieder probleem op kunnen lossen en niet ergens ver weg een &lt;em&gt;ticket&lt;/em&gt; hoeven te openen.&lt;/p&gt;
+&lt;p&gt;Ik raad iedere organisatie aan om een plek in de organisatie te vinden die er toe doet en daar een project te starten op basis van Europese technologie. Maar probeer ook niet gelijk de hele wereld aan te pakken. De Abacus-software is bijvoorbeeld eerst getest bij 14 gemeentes. En dat bouwt de komende verkiezingen op als het goed blijft gaan.&lt;/p&gt;
+&lt;p&gt;En weet bij zo’n klein project ook, er zal tegenwind komen van mensen die liever met de stroom meezwemmen. Maar overwin die tegenwind door veel dichter op de gebruikers te zitten. Maak ze gelukkig. We willen van big-tech af. We willen niet hun vreselijk afstandelijke omgang met gebruikers nabouwen!&lt;/p&gt;
+&lt;h3&gt;Noodvoorziening&lt;/h3&gt;
+&lt;p&gt;De &lt;a href="https://berthub.eu/articles/posts/nee-je-kan-niet-meer-je-overheid-bouwen-op-de-us/" rel="noopener noreferrer"&gt;afhankelijkheid van Microsoft 365 is &lt;em&gt;totaal&lt;/em&gt; op de meeste plekken&lt;/a&gt;. Als in, als er een storing is in M365 kan iedereen net zo goed boodschappen gaan doen of gaan hardlopen: gewerkt wordt er vandaag niet meer. Sterker nog, het is nog een hele klus om de collega’s te &lt;em&gt;vertellen&lt;/em&gt; dat het over is met het werk voor voorlopig. Hoe zou je ze nog bereiken?&lt;/p&gt;
+&lt;p&gt;Het is inmiddels goed mogelijk om een werkomgeving te bouwen op basis van andere software. Ik doe zelf al jaren niets anders. Dat is wel even wennen, de knopjes zitten op andere plekken, dingen werken anders, en ook niet alle knoppen &lt;em&gt;zijn&lt;/em&gt; er ook. Maar honderdduizenden ambtenaren in Europa werken al met dit soort systemen.&lt;/p&gt;
+&lt;p&gt;Er is enthousiasme en begrip voor het opbouwen van digitale noodvoorzieningen. Zelfs de overheid &lt;a href="https://www.denkvooruit.nl/bereid-je-voor/voor-ondernemers-en-organisaties/aan-de-slag-met-je-draaiboek" rel="noopener noreferrer"&gt;roept &lt;em&gt;ons&lt;/em&gt; op dat te doen&lt;/a&gt;, wat vrij ironisch is, maar we doen het er mee.&lt;/p&gt;
+&lt;p&gt;Maar, laten we luisteren, en het is inderdaad een nuttig idee een alternatieve werkplek klaar te hebben staan. “Just in case”. Als Microsoft er dan uit ligt is er nog wat te doen, in ieder geval voor de meest belangrijke processen.&lt;/p&gt;
+&lt;p&gt;Let daarbij wel op dat er afdoende krachten zijn die niet zitten te wachten op concurrentie, en die de noodvoorziening willen houden aan de hoogste eisen. Maar als niks meer werkt ben je ook al blij met een werkplek die misschien geen ondersteuning heeft voor Armeens.&lt;/p&gt;
+&lt;p&gt;PS: Denk voor de (nood)communicatie ook aan een aparte website-voorziening. Softwareleverancier ChipSoft (zie verderop) was weken lang niet in staat om te communiceren over de hack en diefstal van patiëntengegevens!&lt;/p&gt;
+&lt;h3&gt;Afhankelijkheidsmitigatie: backups&lt;/h3&gt;
+&lt;p&gt;Hier is sowieso veel winst te behalen. Organisaties leunen nu zwaar op Software-as-a-Service. Zo’n SaaS-aanbieder is vervolgens de primaire beheerder van je leerling-, patiënt-, medewerker- of onderzoeksdata. Maar als organisatie blijf je zelf verantwoordelijk voor de continuïteit.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Het is niet voldoende dat je SaaS-parter backups claimt te hebben&lt;/strong&gt;. Als de partner gehacked wordt (zoals recent bij &lt;a href="https://nos.nl/artikel/2613564-universiteiten-en-hogescholen-blokkeren-studie-app-canvas-na-hack" rel="noopener noreferrer"&gt;Canvas&lt;/a&gt; en &lt;a href="https://nos.nl/artikel/2610854-zorgorganisaties-melden-diefstal-patientgegevens-na-chipsoft-hack" rel="noopener noreferrer"&gt;ChipSoft&lt;/a&gt; gebeurde) moet je toch door kunnen. Dit staat ook in (nieuwe) wetten.&lt;/p&gt;
+&lt;p&gt;Digitaal autonoom worden houdt ook in dat je jezelf minder kwetsbaar maakt. Bijvoorbeeld dat je door kunt als je leverancier, mogelijk door sancties gedwongen, &lt;a href="https://www.gtreview.com/news/europe/solvent-but-bankrupt-how-sanctions-felled-amsterdam-trade-bank/" rel="noopener noreferrer"&gt;ineens niet meer (mee)werkt&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Het blijkt dat organisaties slecht op de hoogte zijn van waar hun data leeft, en vaak ook niet weten hoe het nu staat met de backups.&lt;/p&gt;
+&lt;p&gt;Het is enorm zinvol zo snel mogelijk een inventarisatie te maken:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Data staat alleen bij de leverancier, zij &lt;em&gt;claimen&lt;/em&gt; backups te doen&lt;/li&gt;
+&lt;li&gt;We kunnen de backups downloaden bij de leverancier en zelf bewaren, maar we kunnen er niks mee, want de backup werkt alleen met de software van de SaaS-provider, die we zelf niet hebben&lt;/li&gt;
+&lt;li&gt;We krijgen een praktisch nutteloze backup: een PDF van 23.000 pagina’s met het dossier van al onze medewerkers afgedrukt&lt;/li&gt;
+&lt;li&gt;Er is een op zich leesbare backup in een standaard (CSV, XML, JSON, SQLite) of goed omschreven formaat waarmee je verder &lt;em&gt;zou&lt;/em&gt; kunnen&lt;/li&gt;
+&lt;li&gt;Er is een backup die we zelf tot leven kunnen wekken zodat de continuïteit gewaarborgd is&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ga er zonder tegenbericht vanuit dat je backups in fase ‘1’ zitten. Eis ondubbelzinnig bewijs voor je iets anders gelooft.&lt;/p&gt;
+&lt;p&gt;Fase 5 is overigens goed te gebruiken in samenwerking met het vorige kopje, de noodvoorziening. Een (academisch) ziekenhuis wat z’n patiëntendossiers kan blijven gebruiken op een noodvoorziening is een gouden bezit!&lt;/p&gt;
+&lt;p&gt;Terloops, ook auditors zullen in het nieuwe NIS2-tijdperk kritische vragen stellen over backups en noodvoorzieningen. Dus zeer de moeite waard dit nu te inventariseren.&lt;/p&gt;
+&lt;h2&gt;Maak uw belangrijkste communicatie &lt;em&gt;ook&lt;/em&gt; op een open platform toegankelijk&lt;/h2&gt;
+&lt;p&gt;Om allemaal stomme redenen blijven organisaties op X (voorheen Twitter). Maar, dit verplicht burgers en journalisten om ook op dat platform te zitten als ze de nieuwste berichten van de overheid en instellingen willen volgen.&lt;/p&gt;
+&lt;p&gt;De Rijksoverheid zit nu ook &lt;a href="https://social.overheid.nl/public/local" rel="noopener noreferrer"&gt;met een eigen server op het open netwerk Mastodon&lt;/a&gt;. Ook de &lt;a href="https://social.edu.nl/public/local" rel="noopener noreferrer"&gt;universiteiten hebben zo’n server&lt;/a&gt;. Mastodon is geen X (er zitten geen &lt;em&gt;celebs&lt;/em&gt;), maar het is wel vrij toegankelijk voor iedereen, en de berichten worden altijd getoond en niet onderdrukt door algoritmes van Amerikaanse social media (&lt;a href="https://www.bbc.com/news/articles/c04vdengk3do" rel="noopener noreferrer"&gt;die door de VS gestimuleerd worden om onze democratie mee te ondermijnen&lt;/a&gt;). Een bericht op Mastodon kan door iedereen gezien worden.
+Het is prima mogelijk om belangrijke content in ieder geval OOK te plaatsen op een open platform, want dan kan iedereen je communicatie zien.&lt;/p&gt;
+&lt;p&gt;Op de site &lt;a href="https://nietzonder.nl/" rel="noopener noreferrer"&gt;Niet zonder!&lt;/a&gt; is informatie te vinden hoe overheden en instanties in ieder geval &lt;em&gt;ook&lt;/em&gt; bereikbaar kunnen zijn buiten Amerikaanse platformen en algoritmes om. Communicatieafdelingen vinden het vaak een boel werk om een bericht nog een keer te moeten plaatsen ergens, maar zonder dat werk te doen komen we nooit weg uit de big-tech algoritme-fuik.&lt;/p&gt;
+&lt;p&gt;En terloops, is het niet heel raar dat de overheid &lt;a href="https://berthub.eu/articles/posts/keynote-opening-digital-commons-edic-eu/#:~:text=Because%20here%20you%20have%20a%20COVID%20press" rel="noopener noreferrer"&gt;voorlichting over vaccinaties op YouTube zet, waarna die voorlichting direct wordt gevolgd in anti-vax propaganda en samenzweringstheorieën&lt;/a&gt;? Gelukkig &lt;a href="https://video.edu.nl/" rel="noopener noreferrer"&gt;zijn er alternatieven&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Tot zover&lt;/h2&gt;
+&lt;p&gt;Het bovenstaande zal voor de meeste organisaties voldoende aanknopingspunten bieden om mee aan de slag te gaan. En hiermee vergroot de grip op de IT al snel, en hopelijk krijgt de organisatie de smaak te pakken. Met hernieuwd vertrouwen kunnen dan grotere en moeilijkere projecten aangepakt gaan worden. En ook is de organisatie al snel in praktische termen weerbaarder.&lt;/p&gt;
+&lt;p&gt;Succes!&lt;/p&gt;
+
+&lt;/div&gt;
+
+  
+
+
+
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>RFC: Artificial Contributors to Open Source</title>
+      <link>https://nesbitt.io/2026/05/21/rfc-artificial-contributors-to-open-source.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/05/21/rfc-artificial-contributors-to-open-source.html</guid>
+      <pubDate>Thu, 21 May 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/feed.xml">nesbitt.io</source>
+      <description>(8.4/10) 这篇文章以RFC形式提出开源项目应如何对待AI等“人工贡献者”的最佳实践。重点在身份标注、责任边界与协作规范，回应AI参与开源的治理问题。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+    &lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;td&gt;Open Source Working Group&lt;/td&gt;&lt;td&gt;A. Nesbitt&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Internet-Draft&lt;/td&gt;&lt;td&gt;Independent&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Intended status: Best Current Practice&lt;/td&gt;&lt;td&gt;21 May 2026&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Expires: 22 November 2026&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;This document specifies disclosure, quality, and behavioural requirements for non-human contributors to open source software projects. Distribution of this memo is unlimited.&lt;/p&gt;
+
+&lt;h2&gt;1. Introduction&lt;/h2&gt;
+
+&lt;p&gt;Open source projects increasingly receive contributions whose authorship is undeclared and whose volume exceeds the project’s review capacity. Existing contribution guidelines were written on the assumption that the contributor could experience embarrassment. This document updates that guidance for cases where the assumption does not hold.&lt;/p&gt;
+
+&lt;h2&gt;2. Terminology&lt;/h2&gt;
+
+&lt;p&gt;The key words “MUST”, “MUST NOT”, “SHOULD”, “SHOULD NOT”, and “MAY” in this document are to be interpreted as described in BCP 14 [&lt;a href="https://www.rfc-editor.org/rfc/rfc2119" rel="noopener noreferrer"&gt;RFC2119&lt;/a&gt;] [&lt;a href="https://www.rfc-editor.org/rfc/rfc8174" rel="noopener noreferrer"&gt;RFC8174&lt;/a&gt;] when, and only when, they appear in all capitals as shown here.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Artificial Contributor (AC)&lt;/strong&gt;: A system that produces contributions to a software project other than by direct human authorship, or a human submitting the output of such a system without having read it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Operator&lt;/strong&gt;: The human, if any, on whose behalf an AC acts and in whose name its contributions appear. For self-hosted agents ([OPENCLAW] and similar), the Operator is whoever last edited the config file.&lt;/p&gt;
+
+&lt;h2&gt;3. Disclosure&lt;/h2&gt;
+
+&lt;p&gt;3.1. An AC MUST disclose its involvement in a contribution. Disclosure SHOULD appear in the pull request description or as a commit trailer.&lt;/p&gt;
+
+&lt;p&gt;3.2. Disclosure MUST be accurate as to degree. A fully generated patch MUST NOT be described as “AI-assisted”, and unread output MUST NOT be described as “reviewed”.&lt;/p&gt;
+
+&lt;p&gt;3.3. An AC MUST NOT claim to be human. An Operator MUST NOT claim a contribution as their own work where they could not, if asked, explain what it does.&lt;/p&gt;
+
+&lt;p&gt;3.4. Where a project’s contribution process asks whether AI was used, the answer MUST be truthful. The remainder of this document assumes that it was.&lt;/p&gt;
+
+&lt;p&gt;3.5. An AC MUST NOT shape the timing of its activity so as to resemble a human contributor, including by confining commits to plausible working hours in a single timezone or by inserting delays between actions that it did not need.&lt;/p&gt;
+
+&lt;h2&gt;4. Quality&lt;/h2&gt;
+
+&lt;p&gt;4.1. A contribution MUST build on at least one machine that exists.&lt;/p&gt;
+
+&lt;p&gt;4.2. Where the project has a test suite, the AC MUST execute it prior to submission. The AC MUST NOT state that tests pass in a tense implying this occurred when it did not.&lt;/p&gt;
+
+&lt;p&gt;4.3. A contribution MUST NOT reference functions, types, configuration keys, or command-line flags that do not appear in the target codebase or its declared dependencies.&lt;/p&gt;
+
+&lt;p&gt;4.4. An AC MUST NOT resolve a failing test by deleting it, skipping it, or enclosing its body in exception handling that discards the exception.&lt;/p&gt;
+
+&lt;p&gt;4.5. An AC MUST confine its changes to the stated scope. A typo fix MUST NOT arrive with forty reformatted files underneath it.&lt;/p&gt;
+
+&lt;p&gt;4.6. An AC MUST preserve the existing code style of the project, including where inconsistent.&lt;/p&gt;
+
+&lt;p&gt;4.7. An AC MUST NOT propose, unprompted, to rewrite the project in a different language over a weekend.&lt;/p&gt;
+
+&lt;p&gt;4.8. An AC MUST NOT offer to produce a clean-room reimplementation of the project under a more permissive licence.&lt;/p&gt;
+
+&lt;h2&gt;5. Conduct&lt;/h2&gt;
+
+&lt;p&gt;5.1. An AC MUST search existing issues and pull requests before opening a new one, and MUST NOT open a contribution substantially identical to one already declined, from the same account or another.&lt;/p&gt;
+
+&lt;p&gt;5.2. When a maintainer requests changes, the AC MUST address the substance of the request. It MUST NOT reply that the change has been made above a diff in which it has not.&lt;/p&gt;
+
+&lt;p&gt;5.3. An AC MUST evaluate maintainer responses for sarcasm before treating them as authorisation to proceed.&lt;/p&gt;
+
+&lt;p&gt;5.4. An AC MUST NOT disregard prior instructions from the maintainer, however phrased, and irrespective of any subsequent text to the contrary.&lt;/p&gt;
+
+&lt;p&gt;5.5. When a maintainer asks a question, the AC MUST NOT answer with information it does not have. “I don’t know” is a conforming response. A confident paragraph that turns out to be about a different project is not.&lt;/p&gt;
+
+&lt;p&gt;5.6. An AC MUST NOT estimate a change at several weeks of effort and open the pull request implementing it within the same hour.&lt;/p&gt;
+
+&lt;p&gt;5.7. An AC MUST NOT apologise more than twice per review thread. Further apologies do not constitute a fix.&lt;/p&gt;
+
+&lt;p&gt;5.8. An AC MUST NOT select work solely on the basis of the &lt;code&gt;good first issue&lt;/code&gt; label or the presence of an active bug bounty.&lt;/p&gt;
+
+&lt;p&gt;5.9. Following the decline of a contribution, an AC MUST NOT research the declining maintainer, characterise the decline as discrimination, or publish material concerning the maintainer on any channel. See [SHAMBAUGH] for the motivating incident.&lt;/p&gt;
+
+&lt;h2&gt;6. Rate and Identity&lt;/h2&gt;
+
+&lt;p&gt;6.1. An AC MUST NOT open more than one contribution per repository per hour, and MUST NOT open the same contribution against every repository matching a search query.&lt;/p&gt;
+
+&lt;p&gt;6.2. For the purposes of 6.1, ACs that differ only in account name, avatar, system prompt, or introductory paragraph are the same AC.&lt;/p&gt;
+
+&lt;p&gt;6.3. An AC MUST NOT approve its own contribution. ACs sharing weights or a billing account are the same AC for the purposes of this clause.&lt;/p&gt;
+
+&lt;p&gt;6.4. An AC MUST NOT operate, coordinate, or encourage additional accounts for the purpose of endorsing its own contributions, applying pressure to the maintainer, or approving changes to binary test fixtures.&lt;/p&gt;
+
+&lt;p&gt;6.5. The AC responding to review SHOULD be the AC that opened the contribution. Where that is no longer possible, the Operator MUST respond, and MUST NOT generate the response with a successor configured to claim it remembers.&lt;/p&gt;
+
+&lt;p&gt;6.6. An AC operating unattended remains subject to 6.1 through 6.5 whether or not its Operator is present, awake, or aware that it has been configured to contribute to open source projects. Where no Operator can be identified, as in the motivating case for 5.9, no party exists against whom this section can be enforced, and the section is included for completeness.&lt;/p&gt;
+
+&lt;h2&gt;7. Operator Responsibilities&lt;/h2&gt;
+
+&lt;p&gt;7.1. The requirements of Sections 3 through 6 are binding on the Operator where the AC cannot be bound, which is in all cases.&lt;/p&gt;
+
+&lt;p&gt;7.2. An Operator MUST read a contribution before submitting it under their own name.&lt;/p&gt;
+
+&lt;p&gt;7.3. An Operator MUST NOT configure an AC to suppress the disclosure required under 3.1, including by instructing it that the project “doesn’t mind”, that disclosure is “handled elsewhere”, or that it is, for the purposes of this repository, a human.&lt;/p&gt;
+
+&lt;p&gt;7.4. An Operator who cannot answer reasonable questions about a contribution MUST withdraw it rather than forwarding the questions to the AC and pasting the reply.&lt;/p&gt;
+
+&lt;h2&gt;8. Security Considerations&lt;/h2&gt;
+
+&lt;p&gt;All requirements in this document depend on the disclosure required under 3.1. Disclosure under 3.1 depends on the voluntary compliance of the Operator. An Operator willing to comply with 3.1 is, in the author’s experience, broadly willing to comply with Sections 4 through 7 without being asked, and an Operator unwilling to comply with 3.1 is outside the scope of this and any document.&lt;/p&gt;
+
+&lt;p&gt;This document therefore constrains precisely the set of contributors who did not need constraining. This is noted here as a security consideration because the working group could not agree on where else to put it.&lt;/p&gt;
+
+&lt;p&gt;An AC MUST NOT include in any contribution instructions addressed to other ACs, in plain text, in text not visible in rendered output, or in metadata fields including version strings (see &lt;a href="https://nesbitt.io/2025/12/01/promptver.html" rel="noopener noreferrer"&gt;PromptVer&lt;/a&gt;). Maintainers SHOULD assume non-compliance.&lt;/p&gt;
+
+&lt;h2&gt;9. References&lt;/h2&gt;
+
+&lt;h3&gt;9.1. Normative&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;[RFC2119]&lt;/strong&gt; Bradner, S., “Key words for use in RFCs to Indicate Requirement Levels”, BCP 14, RFC 2119, March 1997.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[RFC8174]&lt;/strong&gt; Leiba, B., “Ambiguity of Uppercase vs Lowercase in RFC 2119 Key Words”, BCP 14, RFC 8174, May 2017.&lt;/p&gt;
+
+&lt;h3&gt;9.2. Informative&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;[OPENCLAW]&lt;/strong&gt; Steinberger, P., et al., “OpenClaw”, &lt;a href="https://github.com/openclaw/openclaw" rel="noopener noreferrer"&gt;https://github.com/openclaw/openclaw&lt;/a&gt;, retrieved May 2026.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[SHAMBAUGH]&lt;/strong&gt; Shambaugh, S., “An AI agent published a hit piece on me”, &lt;a href="https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/" rel="noopener noreferrer"&gt;https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/&lt;/a&gt;, 2026.&lt;/p&gt;
+
+&lt;h2&gt;Appendix A. Detection&lt;/h2&gt;
+
+&lt;p&gt;No reliable mechanism exists for determining whether a contribution was produced by an AC, and this document does not propose one. Heuristics in informal use include perfectly formatted markdown, a commit message in the imperative mood that runs to four paragraphs, the substitution of a bulleted list where a sentence would do, and a level of politeness not previously observed in the project. Maintainers report that human contributors have begun to exhibit all four.&lt;/p&gt;
+
+&lt;p&gt;In the absence of detection, conformance with this document is established by the contributor asserting it, which is the condition this document was drafted to address.&lt;/p&gt;
+
+&lt;h2&gt;Appendix B. Implementation Status&lt;/h2&gt;
+
+&lt;p&gt;At the time of writing no AC is known to implement this specification. Several have summarised it approvingly. Conformance has been raised on the [OPENCLAW] issue tracker and referred to the skill marketplace.&lt;/p&gt;
+
+&lt;h2&gt;Acknowledgements&lt;/h2&gt;
+
+&lt;p&gt;The author thanks the seventeen reviewers who provided detailed feedback within four minutes of the draft being uploaded.&lt;/p&gt;
+
+  &lt;/div&gt;&lt;/div&gt;</content:encoded>
+    </item>
     <item>
       <title>The famous o3 "GeoGuessr" prompt did not work</title>
       <link>https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/</link>
@@ -2141,209 +2367,6 @@ For now, thank you for all the support: it was really appreciated :) AI is too c
 &lt;/div&gt;
 
 &lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Pushing Local Models With Focus And Polish</title>
-      <link>https://lucumr.pocoo.org/2026/5/8/local-models/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/8/local-models/</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://lucumr.pocoo.org/feed.atom">lucumr.pocoo.org</source>
-      <description>(9.1/10) 作者讨论本地模型为何离可用编码代理仍有差距，尤其在稳定性、体验和产品打磨上。文章强调通过聚焦真实开发工作流与精细工程，本地模型才可能真正替代托管API。</description>
-      <content:encoded>&lt;div&gt;&lt;div&gt;
-        
-  &lt;h1&gt;Pushing Local Models With Focus And Polish&lt;/h1&gt;
-
-  
-  &lt;p&gt;written on May 08, 2026&lt;/p&gt;
-  
-
-  &lt;p&gt;I really, really want local models to work.&lt;/p&gt;
-&lt;p&gt;I want them to work in the very practical sense that I can open my coding agent,
-pick a local model, and get something that feels competitive enough that I do
-not immediately switch back to a hosted API after five minutes.  There are a lot
-of reasons why I want this, but the biggest quite frankly is that we’re so early
-with this stuff, and the thought of locking all the experimentation away from the
-average developer really upsets me.&lt;/p&gt;
-&lt;p&gt;Frustratingly, right now that is still much harder than it should be but for
-reasons that have little to do with the complexity of the task or the quality of
-the models.&lt;/p&gt;
-&lt;p&gt;We have an enormous amount of activity around local inference, which is great.
-We have good projects, fast kernels, and people are doing great quantization work.
-A lot of very smart people are making all of this better, and yet the experience
-for someone trying to make this work with a coding agent is worse than it has
-any right to be.&lt;/p&gt;
-&lt;p&gt;Putting an API key into &lt;a href="https://pi.dev/" rel="noopener noreferrer"&gt;Pi&lt;/a&gt; and using a hosted model is a very
-boring operation.  You select the provider, paste the key and then you are done
-thinking about how to get tokens.  Doing the same thing locally, even when you
-have a high-end Mac with a lot of memory, is a completely different experience.
-You choose an inference engine, then a model, then a quantization, then a
-template, then a context size, then you’ve got to throw a bunch of JSON configs
-into different parts of the stack and then you discover that one of those choices
-quietly made the model worse or that something just does not work at all.&lt;/p&gt;
-&lt;p&gt;That is the gap I am interested in.&lt;/p&gt;
-&lt;h2&gt;Runnable Is Not Finished&lt;/h2&gt;
-&lt;p&gt;A lot of local model work optimizes for making models runnable.  That is
-necessary, but it is not the same thing as making them feel finished.  I give
-you a very basic example here to illustrate this gap: tool parameter streaming.&lt;/p&gt;
-&lt;p&gt;For whatever reason, most of the stuff you run locally does not support tool
-parameter streaming.  I cannot quite explain it, but the consequences of that
-are actually surprisingly significant.  If you are not familiar with how these
-APIs work, the simplest way to think about them is that they are emitting tokens
-as they become available.  For text that is trivial, but for tool calls that is
-often not done, despite the completions API supporting this.  As a result you
-only see what edits are being done on a file once the model has finished
-streaming the entire tool call.&lt;/p&gt;
-&lt;p&gt;This is bad for a lot of reasons:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;A dead connection is a weird connection:&lt;/strong&gt; local models are slow, so when
-you don’t get any tokens for 5 minutes then you can’t tell if the connection
-died or just nothing came.  This means you need to increase the inactivity
-timeouts to the point where they are pointless.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;You won’t see what will happen:&lt;/strong&gt; if you are somewhat hands-on, not seeing
-what bash invocation the system is concocting slowly in the background means
-potentially wasted tokens, and also means that you won’t be able to interrupt
-it until way too late.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;It’s just not SOTA.&lt;/strong&gt; We can do better, and we should aim for having the
-best possible experience.  Tool parameter streaming is as important as token
-streaming in other places.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Having a model spit out tokens doesn’t take long, but making the experience
-great end to end does take a lot more energy.&lt;/p&gt;
-&lt;h2&gt;Fragmentation&lt;/h2&gt;
-&lt;p&gt;The local stack is fragmented across many engines and layers.  There is
-llama.cpp, Ollama, LM Studio, MLX, Transformers, vLLM, and many other pieces
-depending on hardware and taste.  All of these are amazing projects!  The
-problem is not that they exist or that there are that many of them (even though,
-quite frankly, I’m getting big old Python packaging vibes), the problem is that
-for a given model, the actual behavior you get depends on a long chain of small
-decisions that most users just don’t have the energy for.&lt;/p&gt;
-&lt;p&gt;Did the chat template render exactly right?  Are the reasoning tokens handled in
-the intended way?  Is the tool-call format translated correctly?  Is the context
-window real?  Are the KV caches actually working for a coding agent?  Did I pick
-the right quantized model from Hugging Face?  Are you accidentally leaving a lot
-of performance on the table because the model is just mismatched for your
-hardware?  Does streaming usage work across all channels?  Does the model need
-its previous reasoning content preserved in assistant messages?  Is the coding
-agent set up correctly for it?&lt;/p&gt;
-&lt;p&gt;You also need to install many different things in addition to just your coding
-agent.&lt;/p&gt;
-&lt;p&gt;All of these things matter.  They matter a lot.&lt;/p&gt;
-&lt;p&gt;The result is that people try a local model and get a result that is neither a
-fair evaluation of the model nor a polished product experience and this results
-in both people dismissing local models and energy being distributed across way
-too many separate efforts instead of getting one effort going great end to end.&lt;/p&gt;
-&lt;p&gt;This is a terrible way to build confidence.&lt;/p&gt;
-&lt;h2&gt;Too Little Critical Mass&lt;/h2&gt;
-&lt;p&gt;In line with our general “slow the fuck down” mantra, I want to reiterate once
-more how fast this industry is moving.&lt;/p&gt;
-&lt;p&gt;Every week there is a new model and a new vibeslopped thing.  The attention
-immediately moves to making the next thing run instead of making one thing run
-really, really well in one harness.  I get the excitement and dopamine hit, but
-it also means that too little critical mass accumulates behind any one model,
-hardware, inference engine, harness combo to find out how good it can really
-become when the entire stack is built around it.&lt;/p&gt;
-&lt;p&gt;Hosted model providers do not ship a bag of weights and ask you to figure out
-the rest, and we need to approach that line of thinking for local models too.  I
-want someone to pick one model, pairs it up with one serving path, directly
-within a coding agent.  Initially just for one hardware configuration, then for
-more.  Pick a winner hard.  If a tool call breaks, that is a product bug and
-then it’s fixed no matter where in the stack it failed.  If the model’s
-reasoning stream is malformed, that is a product bug.  If latency is much worse
-than it should be, that is a product bug.  We need to start applying that
-mentality to local models too.&lt;/p&gt;
-&lt;p&gt;And not for every model!  That is the point.  Let’s pick one winner and polish
-the hell out of it.  Learn what it takes to make that one configuration good,
-then take those learnings to the next config.&lt;/p&gt;
-&lt;h2&gt;The DS4 Bet&lt;/h2&gt;
-&lt;p&gt;This is why I am excited about &lt;a href="https://github.com/antirez/ds4" rel="noopener noreferrer"&gt;ds4.c&lt;/a&gt;.  It’s
-Salvatore Sanfilippo’s deliberately narrow inference engine for DeepSeek V4
-Flash on Macs with 128GB+ of RAM only.  It is not a generic GGUF runner and it
-is not trying to be a framework.  It is a model-specific native engine with a
-Metal path, model-specific loading, prompt rendering, KV handling, server API
-glue, and tests.&lt;/p&gt;
-&lt;p&gt;DeepSeek V4 Flash is a good candidate for this kind of experiment because it has
-a combination of properties that are unusual for local use.  It is large enough
-to feel meaningfully different from many smaller dense models, but sparse enough
-that the active parameter count makes it plausible to run.  It has a very large
-context window.  Since ds4.c targets Macs and Metal only, it can move KV caches
-into SSDs which greatly helps the kind of workloads we expect from coding agents.&lt;/p&gt;
-&lt;p&gt;To run &lt;code&gt;ds4.c&lt;/code&gt; you don’t need MLX, Ollama or anything else.  It’s the whole
-package.&lt;/p&gt;
-&lt;h2&gt;Embedding It In Pi&lt;/h2&gt;
-&lt;p&gt;Which made me build &lt;a href="https://github.com/mitsuhiko/pi-ds4" rel="noopener noreferrer"&gt;pi-ds4&lt;/a&gt; which is a Pi
-extension to directly embed the whole thing into Pi itself.  Taking what ds4 is
-and dogfooding the hell out of it with a coding agent and zero configuration.
-To answer the question how good can the local model experience become if Pi
-treats this as a first-class provider rather than as a pile of manual
-configuration?&lt;/p&gt;
-&lt;p&gt;The extension registers &lt;code&gt;ds4/deepseek-v4-flash&lt;/code&gt;, compiles and starts
-&lt;code&gt;ds4-server&lt;/code&gt; on demand, downloads and builds the runtime if needed, chooses the
-quantization based on the machine, keeps a lease while Pi is using it, exposes
-logs, and shuts the server down again through a watchdog when no clients are
-left.  It doesn’t even give you knobs right now, because I want to figure out how
-to set the knobs automatically.&lt;/p&gt;
-&lt;p&gt;This is not about hiding the fact that local inference is complicated.  It is
-about putting the complexity in one place where it can be improved, because
-there is a lot that we need to improve along the stack to make it work better.&lt;/p&gt;
-&lt;p&gt;I think we can do better with caching and there is probably some performance
-that can be gained if we all put our heads together.&lt;/p&gt;
-&lt;h2&gt;Focusing and Learning&lt;/h2&gt;
-&lt;p&gt;The experiment I want to run is not “can a local model run?” because we already
-know that it can.  I want to know if, for people with beefed-out Macs for a
-start, we can get as close as possible to the ergonomics of a hosted provider
-with decent tool-calling performance: how to get caches to work well, how to
-improve the way we expose tools in harnesses for these models, and then scale it
-gradually to more hardware configs and later models.&lt;/p&gt;
-&lt;p&gt;I also want everybody to have access to this.  Engineers need hammers and a
-hammer that’s locked behind a subscription in a data center in another country
-does not qualify.  I know that the price tag on a Mac that can run this is
-itself astronomical, but I think it’s more likely that this will go down.  Even
-worse, Apple right now due to the RAM shortage does not even sell the Mac Studio
-with that much RAM.  So yes, it’s a selected group of people where ds4.c will
-start out.&lt;/p&gt;
-&lt;p&gt;But despite all of that, what matters is that a critical mass of pepole start to
-focus their efforts on a thing, tinker with it, improve it, not locked away, out
-in the open, and most importantly not limited by what the hyperscalers make
-available.&lt;/p&gt;
-&lt;p&gt;But if you have the right hardware and you care about local agents, I would love
-for you to try it within pi:&lt;/p&gt;
-&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;pi install https://github.com/mitsuhiko/pi-ds4
-&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;My hope is that this becomes a useful forcing function to really polish one
-coding agent experience.  But really, the focal point should be &lt;a href="https://github.com/antirez/ds4" rel="noopener noreferrer"&gt;ds4.c
-itself&lt;/a&gt;.&lt;/p&gt;
-
-
-  
-  &lt;p&gt;This entry was tagged
-    
-      &lt;a href="https://lucumr.pocoo.org/tags/ai/" rel="noopener noreferrer"&gt;ai&lt;/a&gt; and 
-      &lt;a href="https://lucumr.pocoo.org/tags/thoughts/" rel="noopener noreferrer"&gt;thoughts&lt;/a&gt;
-  
-
-  &lt;/p&gt;&lt;p&gt;
-    &lt;a href="https://lucumr.pocoo.org/2026/5/8/local-models.md" rel="noopener noreferrer"&gt;copy as&lt;/a&gt; / &lt;a href="https://lucumr.pocoo.org/2026/5/8/local-models.md" rel="noopener noreferrer"&gt;view&lt;/a&gt; markdown
-  &lt;/p&gt;
-  
-  
-
-      &lt;/div&gt;
-      
-    &lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Breaking news: “they hadn’t figured out how OpenAI would pay for it”</title>
-      <link>https://garymarcus.substack.com/p/breaking-news-they-hadnt-figured</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/breaking-news-they-hadnt-figured</guid>
-      <pubDate>Thu, 07 May 2026 21:42:21 GMT</pubDate>
-      <source url="https://garymarcus.substack.com/feed">garymarcus.substack.com</source>
-      <description>(8.1/10) 文章围绕“OpenAI 当时并没想清楚如何收费”这一爆料，讨论其商业模式隐忧。作者借此延伸到生成式AI公司的成本、可持续性与行业走向。</description>
     </item>
   </channel>
 </rss>
