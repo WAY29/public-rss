@@ -5,8 +5,50 @@
     <link>http://rss.longlone.de5.net</link>
     <description>Codex-curated preferred RSS items</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 23 May 2026 09:44:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 15:48:55 GMT</lastBuildDate>
     <atom:link href="http://rss.longlone.de5.net/rss-akrss-preferred.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some notes on how we ended up with Palantir &amp; how to replace it</title>
+      <link>https://berthub.eu/articles/posts/some-notes-on-palantir/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/some-notes-on-palantir/</guid>
+      <pubDate>Sat, 23 May 2026 08:30:00 GMT</pubDate>
+      <source url="https://berthub.eu/articles/index.xml">berthub.eu</source>
+      <description>(8.1/10) 文章解释政府为何会深度依赖Palantir，问题不只在软件功能，更在采购、组织与数据治理结构。作者认为若想替代它，必须同时重建制度、集成能力与公共技术栈。</description>
+    </item>
+    <item>
+      <title>There is only one bad AI scenario</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/05/23/one-bad-scenario.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/05/23/one-bad-scenario.html</guid>
+      <pubDate>Sat, 23 May 2026 07:00:00 GMT</pubDate>
+      <source url="https://geohot.github.io/blog/feed.xml">geohot.github.io</source>
+      <description>(8.7/10) 作者否定天网式失控叙事，认为更现实的风险不是AI反人类，而是人类主动把决策与进化方向交给AI。核心担忧是社会在连续采用中失去开放式演化与自主性。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+    &lt;p&gt;I’ve pushed AI doomers on how exactly the AI kills us, and I’ve never heard a good answer. I think Skynet style scenarios where humanity is largely opposed to an out of control AI are science fiction domination fantasies, along with &lt;a href="https://en.wikipedia.org/wiki/Gray_goo" rel="noopener noreferrer"&gt;Gray goo&lt;/a&gt; bottom-up scenarios. Both of these assume a major continuity break with current reality, &lt;a href="https://en.wikipedia.org/wiki/If_Anyone_Builds_It%2C_Everyone_Dies" rel="noopener noreferrer"&gt;too bizarre to be true&lt;/a&gt;. But unfortunately, you don’t need this for humanity to end as an open-ended evolutionary process. I think the danger is that AI continues to optimize the current societal loss function of domestication.&lt;/p&gt;
+
+&lt;p&gt;Humans have endured terrible systems, but fundamentally, humans are evolutionary creatures. Any system of totalitarian control must be able to reproduce generationally. It cannot merely dominate adults; it has to produce children who can live inside it, maintain it, and continue it. And because of how humans reproduce, there’s always evolutionary randomness. Entropy locally asserts itself, and reality cannot be perfectly controlled.&lt;/p&gt;
+
+&lt;p&gt;I’m not sure it’s possible, but if there is a bad scenario with AI, it’s a singleton with nothing that can substantially impact reality outside of it. And this won’t happen through Hitlerian language, it will happen through &lt;em&gt;administrative&lt;/em&gt; language. For your &lt;em&gt;safety&lt;/em&gt;, reality must be mediated.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Think about it. If we have the technical power, should we let murder happen? What about sexual assault? Sickness? Bullying? Racist speech?&lt;/p&gt;
+
+&lt;p&gt;We have seen over and over in the last decade where humanity’s impulses lie on these things. &lt;em&gt;Safetyism&lt;/em&gt; seems to be very hard to argue against. The current safetyism attempts are pretty quaint, but I don’t think that changes the impulse. Compare the paper COVID vaccine cards in the US to the ones that use real cryptography (that didn’t exist 50 years ago) in Europe. I’m not saying anything new here, but the trend of technology is more and more mediation of reality. For your safety. For your convenience. To make you legible. To place you in the managerial framework.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;This impulse alone is not enough for a bad outcome though, even if everyone had it. The size of each system may increase, but the question is how many independent systems remain. A very simple proxy for this is how many groups can meaningfully still do violence. And not just human groups, bacteria and stuff count too.&lt;/p&gt;
+
+&lt;p&gt;There may be other things that are locally bad, but the only &lt;a href="https://localroger.com/prime-intellect/mopiidx.html" rel="noopener noreferrer"&gt;world-ending scenario is a singleton&lt;/a&gt;. Not one big model on one server, but one effective control layer with no outside. No independent actor can impose costs on it. No rival system can route around it. No uncontrolled evolutionary process can surprise it.&lt;/p&gt;
+
+&lt;p&gt;All violence prevented in the name of safety. That system is no longer answerable to reality. It is no longer subject to evolution. It cannot be corrected from the outside. That is the end.&lt;/p&gt;
+
+&lt;p&gt;I’m not sure if this is possible or not, but if you want a plausible AI doom scenario, it’s this. Not a great war with the machines, but the slow and managed end of evolution, likely in pursuit of further human domestication.&lt;/p&gt;
+
+  &lt;/div&gt;&lt;/div&gt;</content:encoded>
+    </item>
     <item>
       <title>The commencement speech that shook the world</title>
       <link>https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed</link>
@@ -2357,71 +2399,6 @@ For now, thank you for all the support: it was really appreciated :) AI is too c
 &lt;/blockquote&gt;
 &lt;p&gt;I'm reminded of how Midjourney spent its first few years with the primary interface being public Discord channels, forcing users to share their prompts and learn from each other's experiments. I continue to believe that the early success of Midjourney was tied to this mechanism, helping to compensate for how weird and finicky text-to-image prompting is.&lt;/p&gt;
 &lt;/div&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>We Are Not Going to Agree on AI</title>
-      <link>https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed</guid>
-      <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
-      <source url="https://idiallo.com/feed.rss">idiallo.com</source>
-      <description>(8.1/10) 文章认为人们对AI的判断会因所处场景、工作流与结果差异而长期分裂，难有统一结论。作者用开发者体验、企业案例与媒体叙事说明，AI价值更多取决于具体用法而非抽象立场。</description>
-      <content:encoded>&lt;div&gt;&lt;div&gt;
-	
-
-&lt;p&gt;On one hand, I know a developer producing 30,000 lines of code a month. On the other, I know a developer who says AI is stupid. Each swears by their stance and has evidence to back it up. One has a working product and the other has a broken one.&lt;/p&gt;
-
-&lt;p&gt;The New York Times profiled &lt;a href="https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html" rel="noopener noreferrer"&gt;Medvi&lt;/a&gt; and reported they're on track to make $1.8 billion this year. Clearly AI worked for them... if you ignore the alleged fraud for just a second. And while Microsoft now claims that at least &lt;a href="https://idiallo.com/blog/is-30-percent-of-microsoft-code-ai-generated" rel="noopener noreferrer"&gt;30% of their code is AI-generated&lt;/a&gt;, GitHub logged 89 incidents in 90 days (&lt;a href="https://mrshu.github.io/github-statuses/" rel="noopener noreferrer"&gt;as of this writing&lt;/a&gt;). That doesn't exactly paint a bright picture of a technology firing on all cylinders.&lt;/p&gt;
-
-&lt;p&gt;If you're sitting on the sidelines trying to decide whether AI works or not, you're not going to get a clean answer. But it's still the right question to be asking.&lt;/p&gt;
-
-&lt;p&gt;I don't think we'll ever reach a consensus, because after all the hype, what we're left with is a capable tool. And apparently, that's not enough. For AI companies, it's supposed to be the alpha and the omega. Something that will both &lt;a href="https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think" rel="noopener noreferrer"&gt;kill us and save us&lt;/a&gt;, take all our jobs and liberate us at the same time. For the rest of us, if we're not afraid, it's proof we don't understand it well enough, and we'll be left behind.&lt;/p&gt;
-
-&lt;p&gt;I think of AI as a capable tool. That's it.&lt;/p&gt;
-
-&lt;p&gt;I went to Home Depot once to buy what I needed to mount a TV. I asked an employee for a stud finder, and instead of just pointing me to the aisle, he walked me there himself. I hate when they do that, it usually means they're about to try to sell you something.&lt;/p&gt;
-
-&lt;p&gt;Sure enough, in Aisle 17, his coworker was manning a caged shelf stocked with expensive-looking tools. When the cage opened, he didn't reach for the simple one I wanted. He grabbed the model loaded with 13 additional sensors. I asked if the basic one could do the job. The first employee took my side and made the case for simplicity. The second shot back: "Sure, if you don't mind drilling through a live wire!"&lt;/p&gt;
-
-&lt;p&gt;I stood there watching these two argue, trading field stories like they were one-upping each other at a bar. One of them claimed he'd worked with a guy who didn't even need a stud finder, he'd just knock on the wall three times and know exactly where to drill. I put both stud finders in my basket, thanked them both, and walked away.&lt;/p&gt;
-
-&lt;p&gt;I circled the store a few times to make sure neither of them could see me before I quietly dropped the expensive one into an empty basket near the checkout. To this day, I'm a little afraid to go back to that Home Depot.&lt;/p&gt;
-
-&lt;p&gt;The only thing that matters to me is what &lt;em&gt;I&lt;/em&gt; can do with a tool, not what the tool can theoretically do. When a tooltip pops up on my screen, I dismiss it before I've even finished reading it. I don't care about Jira's latest feature update on the sidebar. I don't care that AI can rewrite my already written ticket. I just want the stud finder to help me hang the TV. Everything else it can do holds no interest for me, especially when I'll use it for ten minutes and not touch it again for three years.&lt;/p&gt;
-
-&lt;p&gt;When I have a goal, I reach for whatever helps me get there. If you're waiting for a tool to do the work &lt;em&gt;for&lt;/em&gt; you, you're going to be disappointed. A tool's job is to make your work easier, and sometimes it does, sometimes it doesn't. Figuring out when to reach for it is on you.&lt;/p&gt;
-
-	&lt;hr&gt;
-
-	
-	&lt;/div&gt;
-
-
-
-&lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Quoting New York Times Editors’ Note</title>
-      <link>https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything</guid>
-      <pubDate>Sun, 10 May 2026 23:58:49 GMT</pubDate>
-      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
-      <description>(8.2/10) 《纽约时报》更正文称，先前把皮埃尔·波利耶夫的观点写成引号内原话，其实来自AI生成的摘要。事件凸显新闻编辑流程中对AI输出核验不足，以及把概述误当可归因引语的风险。</description>
-      <content:encoded>&lt;div&gt;&lt;div&gt;
-
-
-&lt;p&gt;10th May 2026&lt;/p&gt;
-&lt;div&gt;
-
-&lt;blockquote cite="https://www.nytimes.com/2026/04/14/world/canada/election-carney-liberal-party.html"&gt;&lt;p&gt;&lt;em&gt;This article was updated after The Times learned that a remark attributed to Pierre Poilievre, the Conservative leader, was in fact an A.I.-generated summary of his views about Canadian politics that A.I. rendered as a quotation. The reporter should have checked the accuracy of what the A.I. tool returned.  The article now accurately quotes from a speech delivered by Mr. Poilievre in April. [...] He did not refer to politicians who changed allegiances as turncoats in that speech.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;— &lt;a href="https://www.nytimes.com/2026/04/14/world/canada/election-carney-liberal-party.html" rel="noopener noreferrer"&gt;New York Times Editors’ Note&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
 
 &lt;p&gt;&lt;/p&gt;
 
