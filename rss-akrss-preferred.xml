@@ -5,8 +5,281 @@
     <link>http://rss.longlone.de5.net</link>
     <description>Codex-curated preferred RSS items</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 24 May 2026 16:01:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 22:02:11 GMT</lastBuildDate>
     <atom:link href="http://rss.longlone.de5.net/rss-akrss-preferred.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quoting Armin Ronacher</title>
+      <link>https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything</guid>
+      <pubDate>Sun, 24 May 2026 18:46:53 GMT</pubDate>
+      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
+      <description>(8.4/10) 文章转引 Armin Ronacher 对 AI 生成 issue 的批评，指出这类报告常脱离用户真实观察。其核心问题是自信但失真的根因分析、伪复现步骤和误导性建议正在污染开源协作。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+
+
+&lt;p&gt;24th May 2026&lt;/p&gt;
+&lt;div&gt;
+
+&lt;blockquote cite="https://lucumr.pocoo.org/2026/5/24/pi-oss/"&gt;&lt;p&gt;The most frustrating failure mode right now is that people submit issues that are not in their own voice. They contain an observed problem somewhere, but it has been thrown into a clanker and the clanker reworded it and made a huge mess of it. Typically, it was prompted so badly that the conclusions produced are more often than not inaccurate but always full of confidence. The result is complete guesswork on root causes, fake-minimal repros, suggested implementation strategies, analogies to adjacent but often the wrong code, and long lists of error classes that might or might not matter. [...]&lt;/p&gt;
+&lt;p&gt;So at least personally, I increasingly want issue reports to be condensed to what the human actually observed:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I ran this command.&lt;/li&gt;
+&lt;li&gt;I expected this to happen.&lt;/li&gt;
+&lt;li&gt;This happened instead.&lt;/li&gt;
+&lt;li&gt;Here is the exact error or log.&lt;/li&gt;
+&lt;/ol&gt;&lt;/blockquote&gt;
+&lt;p&gt;— &lt;a href="https://lucumr.pocoo.org/2026/5/24/pi-oss/" rel="noopener noreferrer"&gt;Armin Ronacher&lt;/a&gt;, &lt;span&gt;on slop issues filed against &lt;a href="https://pi.dev/" rel="noopener noreferrer"&gt;Pi&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>The Eternal Sloptember</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html</guid>
+      <pubDate>Sun, 24 May 2026 07:00:00 GMT</pubDate>
+      <source url="https://geohot.github.io/blog/feed.xml">geohot.github.io</source>
+      <description>(8.8/10) 作者强烈质疑把 AI 代理引入软件开发，认为它们本质上不会编程。危险在于输出越来越像样，却以更难察觉的方式持续制造错误和成本。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+    &lt;p&gt;I’m calling it now, the adoption of AI agents into software development will be one of the most costly mistakes in the field’s history. Agents cannot program, and it’s taking longer and longer to realize that they can’t. They are a highly sophisticated statistical model designed to mimic the distribution of programming. The output is broken, but in a way that’s getting harder and harder to detect. Which is exactly what you’d expect from an increasingly accurate statistical model.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;At first, I rejected this. I bought into the Twitter explanation of status anxiety. I define some of my self worth by my programming abilities, so wouldn’t it make sense to get defensive around that loss? Deny the models can code for as long as I could to preserve my ego?&lt;/p&gt;
+
+&lt;p&gt;I mean, it’s very clear they can solve math problems I couldn’t hope to solve if I devoted my life to it. So why can’t they program? Maybe I’m just not good enough of a programmer to recognize their genius.&lt;/p&gt;
+
+&lt;p&gt;I really tried for the last 6 months. I &lt;a href="https://github.com/tinygrad/tinygrad/blob/master/test/mockgpu/amd/emu.py" rel="noopener noreferrer"&gt;wrote some parts of tinygrad&lt;/a&gt; with agents. I &lt;a href="https://github.com/tinygrad/asm2464pd-firmware" rel="noopener noreferrer"&gt;reversed a USB &amp;lt;-&amp;gt; PCIe&lt;/a&gt; chip with agents. But each time I suspected I could have done it better and faster manually. The agent frontloads all the progress, then gives you a slot machine lever to pull to hope it gets the polish done. It never quite gets there.&lt;/p&gt;
+
+&lt;p&gt;And in before, “you are using it wrong.” I have tried all the different models, different harnesses, different prompts. It’s not this. The people who say this would probably say the same thing about slot machines, you see, you have to bet 5 lines after you get a cherry no wonder you aren’t winning!&lt;/p&gt;
+
+&lt;p&gt;I’m not saying that AI isn’t useful, it clearly is. It’s definitely a better Google for most searches. And whenever you need a quick prototype and don’t care about polish, it is absurdly fast. But is it a software engineer? Not close to the bar at any company I have worked at. The key aspect is knowing when to use it and when not to.&lt;/p&gt;
+
+&lt;p&gt;I thought more about the self worth preservation thing. &lt;a href="https://github.com/google/afl" rel="noopener noreferrer"&gt;AFL&lt;/a&gt; found more bugs than LLMs and nobody felt that way about it. Chess and Go are more popular than ever. I cannot fucking wait until I have armies of robot &lt;em&gt;associates&lt;/em&gt; I can trust to clean up my code! I don’t fear loss of status, I almost think this is some kind of psyop to sell agents. Fear of loss is one of the only ways to make big companies move. Though I think in that fear they are making a big mistake.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Agents will end up hurting large organizations more than high performing individuals or small orgs. I’ve watched how my friends and coworkers have adopted these tools over the last 6 months. A trait you find in all high performing people is the ability to error correct, and they have mostly been good at seeing when slop is slop. It takes a bit to explore/exploit and tune the outer loops around when to use them, when to trust them, how to use them, etc…but I haven’t seen anyone of them move to a model where they don’t carefully read and understand each line, except in some confined domains.&lt;/p&gt;
+
+&lt;p&gt;Contrast this with a large organization. Much slower feedback loops, much less alignment. The bottom performers won’t have that self check. They are the ones producing 10x output with the agents. What do you think is happening to the average output of that organization? What is happening to the average output of the world?&lt;/p&gt;
+
+&lt;p&gt;Agents will end up producing more code, more apps, and more features than ever before. It is a golden era for buckets and buckets of slop, and a dark age for gems of quality.&lt;/p&gt;
+
+&lt;p&gt;I hear that Apple is pushing AI on all their engineers. When people think in the abstract, they think AI will do all this stuff, but let’s focus on a concrete example. Do you think macOS will get better or worse in the next 2 years?&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;When people see an artifact, they make assumptions about the process that was used to create it. Without even thinking about it, they assume the creator had a basically human state of mind. This assumption is no longer true. Things can be broken in ways that weren’t previously possible, and old proxies of underlying quality like syntax and grammar are useless. AI produced artifacts are not produced by the same process as human ones, and this difference, while extremely subtle in statistics, makes itself obvious when you try to interact with and build on the artifact in human ways.&lt;/p&gt;
+
+&lt;p&gt;Without fully endorsing all their ideas, I’m now in the LeCun/Marcus camp on LLMs. I don’t think models like this will ever be able to program, I think the process matters. I think that deep learning is still the solution, but real programming agents will need world models, not some RLVR shit that comments out the failing test and tells you all the tests are now passing.&lt;/p&gt;
+
+&lt;p&gt;The real story of this era will be who manages to avoid harming themselves in their AI psychosis.&lt;/p&gt;
+
+  &lt;/div&gt;&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Building Pi With Pi</title>
+      <link>https://lucumr.pocoo.org/2026/5/24/pi-oss/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/24/pi-oss/</guid>
+      <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://lucumr.pocoo.org/feed.atom">lucumr.pocoo.org</source>
+      <description>(9.0/10) 作者结合在开源项目中用 Pi 构建 Pi 的经历，反思代理流量进入 issue tracker 后带来的新混乱。文章聚焦低质量“slop”工单、维护成本上升，以及真实使用中学到的操作层经验。</description>
+      <content:encoded>&lt;div&gt;&lt;div&gt;
+        
+  &lt;h1&gt;Building Pi With Pi&lt;/h1&gt;
+
+  
+  &lt;p&gt;written on May 24, 2026&lt;/p&gt;
+  
+
+  &lt;p&gt;&lt;a href="https://pi.dev/" rel="noopener noreferrer"&gt;Pi&lt;/a&gt; is now part of Earendil, but in the important sense it is
+still &lt;a href="https://mariozechner.at/" rel="noopener noreferrer"&gt;Mario’s&lt;/a&gt; project.  He has been living with its
+issue tracker longer than I have, and he has been exposed to the weirdness of
+the new form of agent traffic in Open Source projects for longer too.  This post
+is mostly a reflection of my own experience after spending more time in the
+tracker, using Pi to work on Pi, and watching what I have learned about it so
+far.&lt;/p&gt;
+&lt;h2&gt;Slop Issues&lt;/h2&gt;
+&lt;p&gt;Unsurprisingly, we are using Pi to build Pi.  That sounds like a cute dogfooding
+thing but it really helps understand what we do.  An interesting effect of
+building with agents is that it changes the role of the issue tracker a tiny
+bit.  The issue descriptions are not just messages from a user to a maintainer
+because we also use them as inputs for prompts in Pi sessions.  It is something
+I might hand to my clanker and say: “understand this, reproduce it, inspect
+the code, and propose a fix.”&lt;/p&gt;
+&lt;p&gt;That means the shape of the issue matters in a new way.  A bad issue was always
+annoying, but at least a lot of issues were vague.  Now we are also dealing with
+a class of issues that are 5% human and 95% clanker-generated and largely
+inaccurate shit.  A bad issue that contains a plausible but wrong diagnosis
+creates extra work.&lt;/p&gt;
+&lt;p&gt;The most frustrating failure mode right now is that people submit issues that
+are not in their own voice.  They contain an observed problem somewhere, but it
+has been thrown into a clanker and the clanker reworded it and made a huge mess
+of it.  Typically, it was prompted so badly that the conclusions produced are
+more often than not inaccurate but always full of confidence.  The result is
+complete guesswork on root causes, fake-minimal repros, suggested implementation
+strategies, analogies to adjacent but often the wrong code, and long lists of
+error classes that might or might not matter.&lt;/p&gt;
+&lt;p&gt;That is worse than no diagnosis.&lt;/p&gt;
+&lt;p&gt;I don’t want to point to specific issues because I really do not want to bad
+mouth anyone, but it is frustrating.  It is also frustrating because when I give
+that issue to Pi, Pi sees the wrong diagnosis too.  It does not treat the issue
+body as a rumor.  It treats it as evidence.  It will happily go down the path
+that the issue already prepared for it, because the prose is confident and the
+code references look plausible.  We use a custom slash command called &lt;code&gt;/is&lt;/code&gt;,
+which specifically has this instruction in it:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Do not trust analysis written in the issue. Independently verify behavior and
+derive your own analysis from the code and execution path.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Unfortunately, it does not fully work, because when humans first throw their
+issue through the clanker wringer, their clanker expands scope almost
+immediately.  What was once a very narrow and fact based bug observation, turns
+into a much expanded surface area full of hypotheses.  So at least personally, I
+increasingly want issue reports to be condensed to what the human actually
+observed:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I ran this command.&lt;/li&gt;
+&lt;li&gt;I expected this to happen.&lt;/li&gt;
+&lt;li&gt;This happened instead.&lt;/li&gt;
+&lt;li&gt;Here is the exact error or log.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;That is enough.  If you used an LLM to understand the problem, great, maybe
+leave it as a follow-up comment.  But the issue and the issue text should be
+something you own.  If you do not know the root cause, say that.  I too can
+operate a clanker, and I would rather do this myself than use your slop.  If
+your repro is a guess, say that.  If the only hard fact is one stack trace, give
+me the stack trace and stop there.&lt;/p&gt;
+&lt;h2&gt;Slop Begets Slop&lt;/h2&gt;
+&lt;p&gt;That we’re seeing issues full of slop is just a result of the present day
+quality of these machines.  Sadly, their failures in creating good issues
+extend to a lot of code that is generated.  Not all of it, but a lot of code.
+Over and over I keep running into them over-engineering the hell out of issues
+and implementations.&lt;/p&gt;
+&lt;p&gt;If you tell them that “this malformed session log crashes the reader,” the
+clanker
+will often add a tolerant reader.  Then it will add a fallback, then maybe a
+migration, then more debug output, then a test for all of this.  None of this is
+necessarily wrong in isolation, but it can be the wrong move for the system.&lt;/p&gt;
+&lt;p&gt;At Pi’s core is a rather well-designed session log with invariants that must be
+upheld.  The clanker’s present-day behavior is to just assume that no such
+invariants exist, and instead to make the system work with all kinds of
+malformedness, blowing up the complexity in the process.&lt;/p&gt;
+&lt;p&gt;Almost always, the correct fix is not to handle the bad state, but to make the
+bad state impossible.  This matters a lot for persisted data such as Pi session
+logs.  They are opened, branched, compacted, exported, shared, and analyzed.
+The goal here is to never write bad session data.  Yet if you just let the
+clanker roam freely, it will attempt to handle every case of bad data in the
+session log with a more permissive reader.&lt;/p&gt;
+&lt;p&gt;I have complained about this plenty, but working on Pi’s code base continues to
+reinforce the point.  This is one of the ways LLM authored code grows so much
+needless complexity.  All these models see a local failure and try to locally
+defend against it.  As maintainers we have to keep pulling the conversation back
+to the global invariant, which is harder than it should be, and it’s laborious.&lt;/p&gt;
+&lt;h2&gt;Volume Is The Problem&lt;/h2&gt;
+&lt;p&gt;Then there is the issue of volume.  The tracker is receiving a lot of issues and
+PRs, and a significant fraction of them are clearly LLM-assisted.  Some are
+good, none are excellent, and most are just bad.  The total throughput is a
+maintenance problem by itself.&lt;/p&gt;
+&lt;p&gt;As you might know, Pi’s issue tracker is automated to close all issues and pull
+requests from new contributors, and there is a manual process by which we might
+reopen some of them or approve individuals.  So auto-close -&amp;gt; reopen -&amp;gt; close
+again is an interesting statistic for us to look at.&lt;/p&gt;
+&lt;p&gt;I pulled the public GitHub tracker data while writing this over the last 90
+days.  Excluding Earendil members, that leaves 3,145 external issues and pull
+requests.  Of those, 2,504 were auto-closed because they were from non-approved
+individuals.  17% were reopened.  For pull requests the number is worse: less
+than 10% were merged.&lt;/p&gt;
+&lt;img src="https://lucumr.pocoo.org/static/pi-issue-tracker-volume.png" alt="Weekly external volume and acceptance rate of Pi issues and pull requests from February 24 to May 24, 2026, excluding Earendil members, with reopened pull requests shown when they were later merged."&gt;
+&lt;p&gt;Many of the issues and PRs are complete slop and in some cases the humans did
+not even realize that they created them.  Sources of low-quality spam include
+OpenClaw instances, as well as some skills that people put into their context
+that seemingly encourage issue creation.&lt;/p&gt;
+&lt;p&gt;GitHub clearly is not built to deal with this new form of Open Source, but I’m
+increasingly feeling the need to put the blame less on GitHub than on all the
+people involved who make that experience painful.  If your clanker shits on
+someone else’s issue tracker then it’s not the fault of GitHub, it’s yours alone.&lt;/p&gt;
+&lt;h2&gt;Careful Parallelism&lt;/h2&gt;
+&lt;p&gt;Pi might be built with Pi, but we’re quite far off today from where Bun and
+OpenClaw already are: fully detached, automated software engineering.  Maybe we
+will reach that point, I don’t know.  Today it does not seem like we know how to
+pull off a dark factory and we also don’t yet have the desire.  That said, there
+is quite a bit of parallelism going on, and it is mostly for reproducing issues.&lt;/p&gt;
+&lt;p&gt;The small setup we use for this is three tiny pieces in Pi’s own committed
+&lt;a href="https://github.com/earendil-works/pi/tree/main/.pi" rel="noopener noreferrer"&gt;&lt;code&gt;.pi&lt;/code&gt;&lt;/a&gt; folder.  &lt;code&gt;/is&lt;/code&gt; (for
+analyze &lt;strong&gt;is&lt;/strong&gt;sue) is a prompt for analyzing GitHub issues: it labels and assigns
+the issue, reads the full thread and links, then explicitly tells the agent not
+to trust the analysis in the issue and to derive its own diagnosis from the
+code.  Then an extension adds a &lt;code&gt;prompt-url-widget&lt;/code&gt; which watches the prompt
+before the agent starts, recognizes the GitHub issue or PR URL that &lt;code&gt;/is&lt;/code&gt; (or
+the PR equivalent) put into the prompt, fetches the title and author with &lt;code&gt;gh&lt;/code&gt;,
+renders that in a little UI widget, and renames the session.  It also rebuilds
+that state on session start or session switch, so if we reopen an older
+investigation the window still tells the developer which issue it belongs to.&lt;/p&gt;
+&lt;p&gt;In practice this means it’s possible to have several Pi windows open, each
+running &lt;code&gt;/is&lt;/code&gt; against a different issue, and the UI keeps the investigations
+visually distinct while the agents do their independent reproduction and code
+reading.  Once the investigations are done, one can work through them
+sequentially.  To finish off everything, &lt;code&gt;/wr&lt;/code&gt; (&lt;strong&gt;wr&lt;/strong&gt;ap it up) is the matching
+wrap-up prompt: it infers the GitHub context from the session, updates the
+changelog, drafts or posts the final issue comment with a disclaimer, commits
+only the files changed in that session, adds the appropriate &lt;code&gt;closes #...&lt;/code&gt; when
+there is exactly one issue, and pushes from &lt;code&gt;main&lt;/code&gt;.&lt;/p&gt;
+&lt;img src="https://lucumr.pocoo.org/static/pi-issue-session-widget.png" alt="Pi terminal session showing an agent analysis with a GitHub issue widget displaying the issue title, author, and URL."&gt;
+&lt;h2&gt;Open Source Is About Hard Problems Worth Fixing&lt;/h2&gt;
+&lt;p&gt;You will have noticed this already but Open Source in a post-AI world is under a
+strange new pressure.  We are getting more code, more projects, and more issues.
+Projects appear with no real users, or a temporary audience of one, and even
+projects with thousands of stars can have a shelf life of weeks.&lt;/p&gt;
+&lt;p&gt;For us, Pi’s harness layer is worth maintaining carefully because it solves hard
+coordination problems and creates a platform we and others can build on.  We
+also know that coordination and cooperation lifts us all up.  Many times the
+right answer is not to work around a problem locally, but to make the upstream
+behavior correct.  Mario has been very good at refusing to make Pi paper over
+every misconfigured gateway, and we’re trying to preserve that discipline.  When
+a gateway behaves correctly, everybody benefits.&lt;/p&gt;
+&lt;p&gt;Sadly that type of thinking is quickly disappearing because these machines make
+local workarounds cheap, so code accumulates local defenses against every
+misbehavior.  Instead of humans talking to humans about where a fix belongs, one
+human and one machine work around the problem in isolation.&lt;/p&gt;
+&lt;p&gt;Keep in mind that AI has not increased the number of people who need software,
+or the number of maintainers who can review it.  It has mostly increased the
+amount of code and the number of projects competing for attention.  Some of that
+is healthy, but a lot of it fragments effort that should be shared.&lt;/p&gt;
+&lt;p&gt;We need stronger foundations, not weaker ones.  Open Source needs more
+collaboration, not more isolated work with a machine.  Human communication is
+hard, and it is tempting to avoid it when you can sit alone with your clanker.
+But isolation is not where Open Source derives its value.  The value is in the
+community and the structure that lets projects outlive their original creators.&lt;/p&gt;
+
+
+
+  
+  &lt;p&gt;This entry was tagged
+    
+      &lt;a href="https://lucumr.pocoo.org/tags/ai/" rel="noopener noreferrer"&gt;ai&lt;/a&gt;, 
+      &lt;a href="https://lucumr.pocoo.org/tags/open-source/" rel="noopener noreferrer"&gt;open-source&lt;/a&gt; and 
+      &lt;a href="https://lucumr.pocoo.org/tags/pi/" rel="noopener noreferrer"&gt;pi&lt;/a&gt;
+  
+
+  &lt;/p&gt;&lt;p&gt;
+    &lt;a href="https://lucumr.pocoo.org/2026/5/24/pi-oss.md" rel="noopener noreferrer"&gt;copy as&lt;/a&gt; / &lt;a href="https://lucumr.pocoo.org/2026/5/24/pi-oss.md" rel="noopener noreferrer"&gt;view&lt;/a&gt; markdown
+  &lt;/p&gt;
+  
+  
+
+      &lt;/div&gt;
+      
+    &lt;/div&gt;</content:encoded>
+    </item>
     <item>
       <title>Some notes on how we ended up with Palantir &amp; how to replace it</title>
       <link>https://berthub.eu/articles/posts/some-notes-on-palantir/</link>
@@ -2319,85 +2592,6 @@ For now, thank you for all the support: it was really appreciated :) AI is too c
 &lt;p&gt;That very much encapsulates my own optimistic, &lt;a href="https://simonwillison.net/tags/jevons-paradox/" rel="noopener noreferrer"&gt;Jevons-paradox&lt;/a&gt;-inspired hope for how this will all work out.&lt;/p&gt;
 &lt;p&gt;Their opinion on this does need to be taken with a big grain of salt though. GitLab's stock price was ~$52 a year ago and is ~$26 today, and it's plausible that the drop corresponds to uncertainty about GitLab's continued growth as agentic engineering eats its way through their core market.&lt;/p&gt;
 &lt;p&gt;If your entire business depends on software engineering growing as a field and producing larger volumes of more lucrative seats, you have a strong incentive to believe that agents will have that effect!&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Quoting James Shore</title>
-      <link>https://simonwillison.net/2026/May/11/james-shore/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/11/james-shore/#atom-everything</guid>
-      <pubDate>Mon, 11 May 2026 19:48:32 GMT</pubDate>
-      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
-      <description>(8.8/10) James Shore认为，AI编码代理若只提升写码速度却不降低维护成本，长期会把团队拖入技术债陷阱。核心论点是产出增速必须被等比例的维护效率提升抵消，否则短期收益会变成永久负担。</description>
-      <content:encoded>&lt;div&gt;&lt;div&gt;
-
-
-&lt;p&gt;11th May 2026&lt;/p&gt;
-&lt;div&gt;
-
-&lt;blockquote cite="https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"&gt;&lt;p&gt;Your AI coding agent, the one you use to write code, needs to reduce your maintenance costs. Not by a little bit, either. You write code twice as quick now? Better hope you’ve halved your maintenance costs. Three times as productive? One third the maintenance costs. Otherwise, you’re screwed. You’re trading a temporary speed boost for permanent indenture. [...]&lt;/p&gt;
-&lt;p&gt;The math only works if the LLM &lt;em&gt;decreases&lt;/em&gt; your maintenance costs, and by exactly the inverse of the rate it adds code. If you double your output and your cost of maintaining that output, two times two means you’ve quadrupled your maintenance costs. If you double your output and hold your maintenance costs steady, two times one means you’ve &lt;em&gt;still&lt;/em&gt; doubled your maintenance costs.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;— &lt;a href="https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs" rel="noopener noreferrer"&gt;James Shore&lt;/a&gt;, &lt;span&gt;You Need AI That Reduces Maintenance Costs&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Your AI Use Is Breaking My Brain</title>
-      <link>https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything</guid>
-      <pubDate>Mon, 11 May 2026 19:21:27 GMT</pubDate>
-      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
-      <description>(8.2/10) 文章批评AI生成内容正淹没互联网，连过滤它都变成一种持续的认知负担。作者用“僵尸互联网”描述这种状态：不是机器人互聊，而是人类表达也被AI语言风格反向塑形。</description>
-      <content:encoded>&lt;div&gt;&lt;div&gt;
-
-
-&lt;p&gt;11th May 2026 - Link Blog&lt;/p&gt;
-
-&lt;div&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.404media.co/your-ai-use-is-breaking-my-brain/" rel="noopener noreferrer"&gt;Your AI Use Is Breaking My Brain&lt;/a&gt;&lt;/strong&gt; (&lt;a href="https://bsky.app/profile/jasonkoebler.bsky.social/post/3mllgvidacs2n" title="@jasonkoebler.bsky.social" rel="noopener noreferrer"&gt;via&lt;/a&gt;) Excellent, angry piece by Jason Koebler on how AI writing online is becoming impossible to avoid, filtering it is mentally exhausting and it's even starting to distort regular human writing styles.&lt;/p&gt;
-&lt;p&gt;I particularly liked his use of the term "Zombie Internet" to define a different, more insidious alternative to the "Dead Internet" (which is just bots talking to each other):&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I called it the Zombie Internet because the truth is that large parts of the internet are not just bots talking to bots or bots talking to people. It’s people talking to bots, people talking to people, people creating “AI agents” and then instructing them to interact with people. It’s people using AI talking to people who are not using AI, and it’s people using AI talking to other people who are using AI. It’s influencer hustlebros who are teaching each other how to make AI influencers and have spun up automated YouTube channels and blogs and social media accounts that are spamming the internet for the sole purpose of making money. It is whatever the fuck “Moltbook” is and whatever the fuck X and LinkedIn have become. It’s AI summaries of real books being sold as the book itself and inspirational Reddit posts and comment threads in which people give heartfelt advice to some account that’s actually being run by a marketing firm. [...]&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Learning on the Shop floor</title>
-      <link>https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything</guid>
-      <pubDate>Mon, 11 May 2026 15:46:36 GMT</pubDate>
-      <source url="https://simonwillison.net/atom/everything/">simonwillison.net</source>
-      <description>(9.2/10) Tobias Lütke介绍了Shopify内部编码代理River的工作方式：它只在公开Slack频道协作，拒绝私聊。这个设计让对话可搜索、可围观、可复用，展示了代理工具在团队内扩散知识的独特UX。</description>
-      <content:encoded>&lt;div&gt;&lt;div&gt;
-
-
-&lt;p&gt;11th May 2026 - Link Blog&lt;/p&gt;
-
-&lt;div&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href="https://twitter.com/tobi/status/2053121182044451016" rel="noopener noreferrer"&gt;Learning on the Shop floor&lt;/a&gt;&lt;/strong&gt;. Tobias Lütke describes Shopify's internal coding agent tool, River, which operates entirely in public on their Slack:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;River does not respond to direct messages. She politely declines and suggests to create a public channel for you and her to start working in. I myself work with river in &lt;code&gt;#tobi_river&lt;/code&gt; channel and many followed this pattern.  Every conversation is therefore searchable.  Anyone at Shopify  can jump in. In my own channel, there are over 100 people who, react to threads, add color and add context, pick up the torch, help with the reviews, remind me how rusty I am, and importantly, learn from watching. [...]&lt;/p&gt;
-&lt;p&gt;As so often with German, there is a word for the kind of environment: &lt;em&gt;Lehrwerkstatt&lt;/em&gt;. Literally: &lt;strong&gt;A teaching workshop&lt;/strong&gt;. The whole shop floor is the classroom. You learn by being near the work. Being a constant learner is one of the core values of the firm.&lt;/p&gt;
-&lt;p&gt;Shopify wants to be a Lehrwerkstatt at scale and River has now gotten us closer to this ideal than ever. It’s &lt;em&gt;osmosis learning&lt;/em&gt;, because it does not require a curriculum, a training plan, or a manager. It just requires everyone's work to be visible to the maximum extent possible. Everyone learns from each other.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;I'm reminded of how Midjourney spent its first few years with the primary interface being public Discord channels, forcing users to share their prompts and learn from each other's experiments. I continue to believe that the early success of Midjourney was tied to this mechanism, helping to compensate for how weird and finicky text-to-image prompting is.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;/p&gt;
