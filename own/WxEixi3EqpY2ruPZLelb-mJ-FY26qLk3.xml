@@ -1,5 +1,445 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>TLDR AI</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml</link><description>Messages from sources matching dan@tldrnewsletter.com</description><lastBuildDate>Thu, 04 Jun 2026 12:34:48 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml" rel="self" type="application/rss+xml"></atom:link><item><title>AI agents at work 🤖, Europe’s cloud pushback ☁️, Netflix’s service map 🕸️</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-152</link><guid isPermaLink="false">own-newsletter:item:152</guid><pubDate>Thu, 04 Jun 2026 12:09:04 GMT</pubDate><author>TLDR IT &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR IT Cisco used Cisco Live 2026 to outline its AgenticOps platform and enterprise AI infrastructure strategy for agentic AI and frontier models ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|View On...</description><content:encoded>TLDR IT
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>TLDR AI</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml</link><description>Messages from sources matching dan@tldrnewsletter.com</description><lastBuildDate>Thu, 04 Jun 2026 13:35:18 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml" rel="self" type="application/rss+xml"></atom:link><item><title>Oracle WebLogic Exploited 💥, HTTP/2 Bomb Discovered 💣, CoreUtils in MS Windows 🐧</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-154</link><guid isPermaLink="false">own-newsletter:item:154</guid><pubDate>Thu, 04 Jun 2026 13:07:48 GMT</pubDate><author>TLDR InfoSec &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR InfoSec CISA added CVE-2024-21182, a CVSS 7.3 Oracle WebLogic Server flaw that lets an unauthenticated attacker access critical data ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|View Online TLDR...</description><content:encoded>TLDR InfoSec
+
+
+
+CISA added CVE-2024-21182, a CVSS 7.3 Oracle WebLogic Server flaw that lets an unauthenticated attacker access critical data&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;
+
+&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Finfosec%3Futm_source=tldrinfosec/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/JnqkYvYjjnpZxjHoV8A_LWysMCFm_AHQFEsbAHCgB8U=452" rel="noopener noreferrer"&gt;Sign Up&lt;/a&gt;
+|&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrinfosec%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/VrbNCDOVo36oBJDEMS3PLaBuT9m21qBwDdwm-dlrjfY=452" rel="noopener noreferrer"&gt;Advertise&lt;/a&gt;|&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=14a14690-456d-11f1-9623-47608eee5fa8%26p=42475f7a-5ffe-11f1-9ae8-e12a95831ada%26pt=campaign%26t=1780578468%26s=ad3e6f6a141b7600ad93ca473c108c8741e448c43bb471c2dfbe6b98687b557a/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/wteiRKkDj4PzFGnzVpS84oihfHrHZe3kMFThC9sJpyk=452" rel="noopener noreferrer"&gt;View Online&lt;/a&gt;
+&lt;br&gt;
+
+
+
+TLDR
+&lt;br&gt;
+
+
+&lt;br&gt;
+
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;TLDR Information Security 2026-06-04&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+🔓
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Attacks &amp;amp; Vulnerabilities&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.csoonline.com%2Farticle%2F4180218%2Ftwo-year-old-oracle-weblogic-server-vulnerability-is-being-exploited.html%3Futm_source=tldrinfosec/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/-DNMH8KCXbvuA4RT9sN5cVkuulyjN721P9C8-ZS3UQ8=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Two-year old Oracle WebLogic Server vulnerability is being exploited (4 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    CISA added CVE-2024-21182, a CVSS 7.3 Oracle WebLogic Server flaw that lets an unauthenticated attacker access critical data, to its Known Exploited Vulnerabilities catalog on Monday, confirming active exploitation and giving federal admins until Thursday to patch affected versions 12.2.1.4.0 and 14.1.1.0.0. The bug was fixed in Oracle's July 2024 Critical Patch Update, and researchers note that its late KEV addition fits a pattern in which more than 40 percent of catalog entries are listed two or more years after release, often catching organizations that patch slowly. Given an average 60-day patch window against attackers who weaponize exploits within hours or days, admins should treat this as a now-priority fix and not wait, as the moderate CVSS score understates real-world risk.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.calif.io%2Fp%2Fcodex-discovered-a-hidden-http2-bomb%3Futm_source=tldrinfosec/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/piAwSaD6VIZh83YYt1iQogk2gz3QFiFWg8d20Y1fZK4=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Codex Discovered a Hidden HTTP/2 Bomb (4 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Calif disclosed HTTP/2 Bomb, a remote denial-of-service attack against nginx, Apache httpd, Microsoft IIS, Envoy, and Cloudflare Pingora in their default HTTP/2 configurations, discovered by OpenAI's Codex, chaining two decade-old techniques: an HPACK indexed-reference bomb where each 1-byte reference forces 70 to 4,000 bytes of server allocation, and a zero-byte flow-control window stall that pins that memory in place, letting a single client hold roughly 32GB on Apache httpd or Envoy in about 20 seconds (assigned CVE-2026-49975 for Apache). The deeper lesson is editorial as much as technical, since RFC 7541 framed HPACK memory risk purely as an amplification ratio while ignoring that HTTP/2 lets a client pin allocations cheaply, so five independent implementations read the same guidance and shipped the same bug class. Defenders should upgrade nginx to 1.29.8+ for the max_headers directive, apply Apache's mod_http2 v2.0.41 fix, disable HTTP/2 where no patch exists for IIS, Envoy, and Pingora, and cap per-worker memory so a bombed process is OOM-killed before dragging the host into swap.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FsFULfR/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/inqA5cWLk4WGsF9eaRpVI8B0QhBUYMdJ4elIyiJAI8M=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Data of 600K Gaza Households Exposed in WFP Cyber Attack (3 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    The World Food Program announced that it is investigating a data breach involving 600,000 households in Gaza. The data was exposed via a breach of its self-registration application (SRA) that was used for Palestinians in Gaza. An anonymous whistleblower flagged that the organization waited two weeks to notify impacted individuals via Telegram.
+                                
+
+
+
+
+
+
+
+
+🧠
+
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Strategies &amp;amp; Tactics&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Funit42.paloaltonetworks.com%2Fflutterbridge-new-fluttershell-backdoor%2F%3Futm_source=tldrinfosec/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/kalEHQZwwr7pZa7G_YnLH9eJvkJHIxrsbhMfWOpfohw=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Operation FlutterBridge: macOS Malvertising Campaign Spreads New FlutterShell Backdoor (14 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Unit 42 tracked Operation FlutterBridge, a financially motivated campaign that distributes the FlutterShell macOS backdoor via hundreds of Google-verified ads by shell companies (AdsParkPro LTD, Advantage Web Marketing LLC, and SOFT WE ART LIMITED). It uses notarized payloads such as PodcastsLounge, PDF-Brain, and PDF-Ninja, which have zero VirusTotal detections. FlutterShell stores logic off-binary in a WebView via a JavaScript-to-native bridge (flutterInvoke), fetching commands from /getConfig and /getUpdateThanksConfig for runtime behavior changes, fingerprints hosts via IOPlatformUUID, rewrites Chrome Secure Preferences to hijack search through sinterfumesco[.]com, abuses Sparkle for silent updates, and in later variants routes documents through /summarize-text, exfiltrating content under the guise of AI summarization. Defenders should hunt the C2 domains atsheisdomestic[.]org, etoftheappyrince[.]org, and healightejustb[.]org, plus the SHA256 hashes, flag killall "Google Chrome" relaunches with --hide-crash-restore-bubble and --disable-session-crashed-bubble, and treat valid Apple notarization as no guarantee of safety despite passing review.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.utoronto.ca%2Fnews%2Fu-t-researchers-demonstrate-ai-worm-could-target-any-online-device%3Futm_source=tldrinfosec/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/akdsFhM9t-TxGo54zcHtmjqP15bTzqaG4I2XAtPGToc=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;University of Toronto Researchers Demonstrate AI Worm Could Target Any Online Device (4 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    While much of the conversation around AI security is currently focused on larger models such as Claude Mythos, researchers from the University of Toronto have demonstrated that an AI worm built using a single-GPU, open-weight model could also compromise a network. While the worm cannot discover unknown vulnerabilities, it can search for disclosed vulnerabilities and adapt to move around a network that is not fully patched. When the worm infects a machine, it also hijacks compute resources to power its reasoning and becomes more capable as it spreads.
+                                
+
+
+
+
+
+
+
+
+🧑‍💻
+
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Launches &amp;amp; Tools&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fdistil-labs%2Fdistil-ai-slop-detector%3Futm_source=tldrinfosec/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/YHQSmABf6Of4V7jX3U_mSVoCHI_0UP3bCCNEOxuL3XM=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;AI Slop Detector (GitHub Repo)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    AI Slop Detector is a Chrome extension that runs a LoRA-tuned, Q4-quantized Gemma 3 270M model (~242 MB) locally via Wllama for fully offline, no-data-leakage classification of text as ai_generated or human_written, though its headline claim of matching a 120B teacher at 100% accuracy rests on a tiny self-built test set and drops to a self-reported ~88 to ~92 percent on real-world emails and Reddit comments, so treat the benchmarks as vendor-marketing rather than independent validation.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fangr%2Fangr%3Futm_source=tldrinfosec/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/V4ncwhSaP9EhI1bL6FJktpVY2TyW9YZ0H5hismJmgvw=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;angr (GitHub Repo)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    angr is a platform-agnostic binary analysis framework that provides a suite of Python 3 libraries for binary analysis.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fjuanfont%2Fheadscale%3Futm_source=tldrinfosec/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/IHE-3m8D_zqm-QHPnySHVMlV9flzWlsTGBJjYHMHCVc=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Headscale (GitHub Repo)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Headscale is an open source, self-hosted implementation of the Tailscale control server.
+                                
+
+
+
+
+
+
+
+
+
+🎁
+
+
+
+
+&lt;strong&gt;&lt;h1&gt;Miscellaneous&lt;/h1&gt;&lt;/strong&gt;
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.csoonline.com%2Farticle%2F4180265%2Fanthropic-grants-project-glasswing-access-to-150-more-companies-with-a-focus-on-critical-infrastructure.html%3Futm_source=tldrinfosec/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/9NgHFrThSrPjAQtMV7BagI5DXnguGYWdXjlUgBGVTaU=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Anthropic grants Project Glasswing access to 150 more companies, with a focus on critical infrastructure (4 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Anthropic expanded its Project Glasswing AI vulnerability-hunting initiative to 150 additional companies, concentrating on critical infrastructure across power, water, healthcare, communications, and hardware, where it estimates a successful codebase attack could affect more than 100 million people per partner. Analysts welcomed the wider net for bug discovery but warned that the real constraint sits downstream, since vendors and SOCs already struggle to validate, prioritize, and patch known issues, so a 10x or 100x jump in findings risks turning cybersecurity from a visibility problem into an execution one. Researchers also flagged trust gaps around the undefined "security requirements" that gate new participants and around confidence scoring for AI-generated patches, while one analyst cautioned that broadening access beyond a small, vetted group heightens leak exposure for a model that has already had two reported leaks.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdecrypt.co%2F369781%2Fmicrosoft-scout-openclaw-enterprise-ai-agent%3Futm_source=tldrinfosec/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/LU-1fVYdQykY-h8EoFc9BWR6ru1Xe-nUOfvc4DLXKfk=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Microsoft Turns OpenClaw Into an Enterprise AI Agent With Scout (4 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    At its Build 2026 conference, Microsoft announced the release of Scout, which it dubs its first “Autopilot” agent. Scout is built on top of OpenClaw and will be part of Microsoft 365, bringing OpenClaw to a mainstream and enterprise audience. Microsoft is available in private preview and requires an Intune policy configuration, an opt-in attestation, and a GitHub Copilot license.
+                                
+
+
+
+
+
+
+
+
+⚡
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Quick Links&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FFGhjsH/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/kTJemB_LS0VF0ZHzysRco0ZGMBWJZuR6XIbFKYOmGjc=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Microsoft's Coreutils project brings Linux commands to Windows (3 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Microsoft announced Coreutils for Windows at Build 2026, a WinGet-installable package built on the Rust-based uutils project that ships Linux utilities like cat, cp, find, grep, ls, and rm as a single coreutils.exe binary fronted by NTFS hardlinks, while omitting POSIX-dependent commands such as chmod, chown, kill, and whoami.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthenextweb.com%2Fnews%2Fgithub-dev-vscode-oauth-token-theft%3Futm_source=tldrinfosec/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/Yx70uU7VmvpaK5eXGIUCyMoK_WiRmN7J9yP8N6bL4IA=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;GitHub.dev flaw lets attackers steal OAuth tokens in one click (8 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Researcher Ammar Askar demonstrated that a malicious GitHub.dev link with a booby-trapped Jupyter notebook can silently exfiltrate OAuth tokens, bypass trust prompts, enumerate private repositories, and exploit the absence of CSRF tokens.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FUKXCNf/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/AZHyVEIQIQfhfSYnX9bbV1oJyGmHXX52fyQLo0T1drE=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Microsoft Tries to Calm Legal Threat Fears After Zero-Day Disclosure Backlash (4 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    After researcher Nightmare Eclipse dumped PoCs for several unpatched Microsoft flaws (RedSun CVE-2026-41091, UnDefend CVE-2026-45498, BlueHammer CVE-2026-33825, YellowKey CVE-2026-45585, plus GreenPlasma and MiniPlasma) following a soured disclosure dispute, Microsoft's May 27 reference to its Digital Crimes Unit sparked backlash read as a legal threat, prompting a June 1 clarification that it will not pursue action against legitimate security research.
+                                
+
+
+
+
+
+
+
+
+
+
+&lt;p&gt;
+Love TLDR? Tell your friends and get rewards!
+&lt;/p&gt;
+
+
+
+Share your referral link below with friends to get free TLDR swag!
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F48f299f3%2F8/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/XsILSwd6dIbe285CMQAV79WvWwVV7tYUGCOycCn5-pQ=452" rel="noopener noreferrer"&gt;https://refer.tldr.tech/48f299f3/8&lt;/a&gt;
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_969617670871%2F8/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/TpdlIbTimXYFvyFZeWuqxmOwRXEr5q9JXcjitvEG5pU=452" rel="noopener noreferrer"&gt;Track your referrals here.&lt;/a&gt;
+
+
+
+
+
+
+
+&lt;p&gt;
+Want to advertise in TLDR? 📰
+&lt;/p&gt;
+
+If your company is interested in reaching an audience of cybersecurity professionals and decision makers, you may want to &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrinfosec%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/_CRI6NXIkSdNZyLekKrOCleKwKW_qQW18sUG7M_L5QU=452" rel="noopener noreferrer"&gt;&lt;strong&gt;advertise with us&lt;/strong&gt;&lt;/a&gt;.
+
+&lt;br&gt;
+
+
+
+&lt;p&gt;
+Want to work at TLDR? 💼
+&lt;/p&gt;
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/NghsUQmOih2spXF6_wpViXTIKIudCVONUT0JUmZZhPU=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Apply here&lt;/strong&gt;&lt;/a&gt;,
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/V8s6dhXEQy27OBtVxQjNWdxZW3CFItrdQftgdROBZ_c=452" rel="noopener noreferrer"&gt;&lt;strong&gt;create your own role&lt;/strong&gt;&lt;/a&gt; or send a friend's resume to &lt;a href="mailto:jobs@tldr.tech" rel="noopener noreferrer"&gt;jobs@tldr.tech&lt;/a&gt; and get $1k if we hire them! TLDR is one of &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/auC7tVt41or8K_3UCb5tVNqAExg9Cy4eoY6uxqw6sGE=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Inc.'s Best Bootstrapped businesses&lt;/strong&gt;&lt;/a&gt; of 2025.
+
+&lt;br&gt;
+
+
+If you have any comments or feedback, just respond to this email!
+&lt;br&gt;
+&lt;br&gt; Thanks for reading,
+&lt;br&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fprasannagautam%2F/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/N0ScrSCjL_RNIwECJ2d_MbfzntTlYjr4avZkVPoqfvE=452" rel="noopener noreferrer"&gt;Prasanna Gautam&lt;/a&gt;, &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fericfernandezdelcampo%2F/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/1knJ5dFQ1ev2d0RUQQ7KybjTsEpoCN2oX_9GOoqolmc=452" rel="noopener noreferrer"&gt;Eric Fernandez&lt;/a&gt; &amp;amp; &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsammy-tbeile%2F/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/2y7ihUOTwbFjmTZw-8A6yZRuq-cOigboFjpeGJAmHj0=452" rel="noopener noreferrer"&gt;Sammy Tbeile&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;br&gt;
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Finfosec%2Fmanage%3Femail=kob62291404%2540163.com/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/XunodKHTNAvRejnJ3E1U_WBezK7Q6Kp3SEo3zNUQXuE=452" rel="noopener noreferrer"&gt;Manage your subscriptions&lt;/a&gt; to our other newsletters on tech, startups, and programming. Or if TLDR Information Security isn't for you, please &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=8d9cea11-3e94-11ed-9a32-0241b9615763%26lc=14a14690-456d-11f1-9623-47608eee5fa8%26p=42475f7a-5ffe-11f1-9ae8-e12a95831ada%26pt=campaign%26pv=4%26spa=1780578072%26t=1780578468%26s=c5dc7d19a68edeb1d45bb3dd0fba94af1eeed0c2f36426ebedfc7254a2c1f58a/1/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/P_Kqo_SUz3MG2GnGsEl9bAH6p3KM9I815fqHg63cj0A=452" rel="noopener noreferrer"&gt;unsubscribe&lt;/a&gt;.
+&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019e92bf428b-202d3c76-13c2-4f5b-a424-cca499165c28-000000/AbKp963SyuGiCIa4i9ccKWVoUqYwfx1QBJTO_cAAS6I=452"&gt;
+</content:encoded></item><item><title>AI agents at work 🤖, Europe’s cloud pushback ☁️, Netflix’s service map 🕸️</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-152</link><guid isPermaLink="false">own-newsletter:item:152</guid><pubDate>Thu, 04 Jun 2026 12:09:04 GMT</pubDate><author>TLDR IT &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR IT Cisco used Cisco Live 2026 to outline its AgenticOps platform and enterprise AI infrastructure strategy for agentic AI and frontier models ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|View On...</description><content:encoded>TLDR IT
 
 
 
@@ -26223,511 +26663,4 @@ Priyam Mohanty, &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2F
 
 
 &lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019e4f752dc0-8296c29e-6adc-4699-9778-9b4436d38c0b-000000/plVVHZ6S0h577uqr6klY1R-9XsjWKoUmKG7SNGLlPn8=452"&gt;
-</content:encoded></item><item><title>Google's AI ads 🔍, Elon's SpaceX control 💰, Chrome DevTools for Agents 🤖</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-98</link><guid isPermaLink="false">own-newsletter:item:98</guid><pubDate>Fri, 22 May 2026 10:29:05 GMT</pubDate><author>TLDR &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR Google has started testing several new ad formats in both standard search and in AI Mode. AI-generated ads for brands and products ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|View Online TLDR T...</description><content:encoded>TLDR
-
-
-
-Google has started testing several new ad formats in both standard search and in AI Mode. AI-generated ads for brands and products&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;
-
-
-&lt;br&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/fB8ghaoZDx4Lk0bq7qyl8ZDmhZ1zNR7HxbK4zJ6aml8=452" rel="noopener noreferrer"&gt;Sign Up&lt;/a&gt;
-|&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/N5e5KSqJlnJ8vMObfnJGoi4NuYul_AjKqFZYp1vWzSs=452" rel="noopener noreferrer"&gt;Advertise&lt;/a&gt;|&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=501f755e-43a4-11f1-af95-9b5186b93ebe%26p=078d88fe-55be-11f1-a181-25a703a04251%26pt=campaign%26t=1779445745%26s=f8087e9d632b7197fa629ef4e078b565f188ce6f11f0bfd53046f57063d54802/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/yh8TQZCSoBo-WEHqXLBDvCtxivuRtcCQnjewIPU6Olg=452" rel="noopener noreferrer"&gt;View Online&lt;/a&gt;
-&lt;br&gt;
-
-
-
-TLDR
-&lt;br&gt;
-
-
-&lt;br&gt;
-
-&lt;strong&gt;Together With &lt;/strong&gt;
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbuildkite.com%2Fpricing%2F%3Fbk_pid=20260522-TLD-PRI-primary-trial%26utm_source=tldr%26utm_medium=newsletter%26utm_campaign=tldr-2026-05-22%26utm_content=primary-trial_header_how_software_leaders%26utm_id=20260522-TLD-PRI-primary-trial/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/iyDuS77NKnDUWY_-jtIxf-GBs1SIbmp6stIP-Z31HMY=452" rel="noopener noreferrer"&gt;&lt;img src="https://images.tldr.tech/buildkite2.png" alt="Buildkite"&gt;&lt;/a&gt;
-
-
-
-
-&lt;h1&gt;&lt;strong&gt;TLDR 2026-05-22&lt;/strong&gt;&lt;/h1&gt;
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbuildkite.com%2Fpricing%2F%3Fbk_pid=20260522-TLD-PRI-primary-trial%26utm_source=tldr%26utm_medium=newsletter%26utm_campaign=tldr-2026-05-22%26utm_content=primary-trial_header_how_software_leaders%26utm_id=20260522-TLD-PRI-primary-trial/2/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/Z7ho7a2ltzuSMSqBimgeFRBBhIyXsmOmJnRieKWpW20=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;How do software leaders ship? With CI that turns scale into speed, reliably. (Sponsor)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    Buildkite has run CI for OpenAI, Airbnb, Canva, Uber and Shopify for 7-12 yrs as they grew.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Now we also orchestrate for Cursor, Anthropic, Meta, Mistral, xAI, Discord, Reddit, Ramp, Boston Dynamics, Applied Intuition, ASML, Planetscale, Pierre and Bun...&lt;/p&gt;&lt;p&gt;...and the workloads that build vLLM, Bazel and Backstage.&lt;/p&gt;&lt;p&gt;Quietly powering software used by 1B+ people daily, since 2013.&lt;/p&gt;&lt;p&gt;Parallelize, fan-out and orchestrate at depths a slightly faster runner won't reach as agentic codegen blows up your build queue.&lt;/p&gt;&lt;p&gt;Start with our all-access 30-day trial. &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbuildkite.com%2Fpricing%2F%3Fbk_pid=20260522-TLD-PRI-primary-trial%26utm_source=tldr%26utm_medium=newsletter%26utm_campaign=tldr-2026-05-22%26utm_content=primary-trial_cta_building%26utm_id=20260522-TLD-PRI-primary-trial/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/HWBtTQmLYZa3zlPuY-7YscPNQNz-FiPjvpEIKcKQNOI=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Get building →&lt;/strong&gt;&lt;/a&gt;
-
-
-&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-📱
-
-
-
-
-
-
-&lt;h1&gt;&lt;strong&gt;Big Tech &amp;amp; Startups&lt;/strong&gt;&lt;/h1&gt;
-
-
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FOXtkWD/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/pOFgr84gfRVDu1maWK1pz_Ue8I_nWL0tfg3r6YNMpyg=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Google Pushes AI-Generated Ads Further Into Search Results (6 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    Google has started testing several new ad formats in both standard search and in AI Mode. AI-generated ads for brands and products will now appear below the responses to some prompts in AI Mode. Ads with direct offers for discounted products will be displayed in standard search results. The ads will not appear in Gemini for now. Google will protect the ads against AI hallucinations with strong guardrails.
-                                
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fsst4jo/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/npb3-qbJlEbKhl_HKXa7s69l8su4-276n_k_xoDRjWA=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;SpaceX Postpones Launch of Newly Redesigned Starship (6 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    Starship's launch has been delayed due to a malfunctioning part in the launch tower. SpaceX may try launching again today if the problem is fixed in time. The postponed test mission will deploy 20 Starlink simulators and stress-test tiles designed to protect the craft as it re-enters the Earth's atmosphere. The new investigation of Starship is designed to carry 100 metric tons to low-Earth orbit - the company's workhorse Falcon 9 vehicle can carry roughly 23 metric tons.
-                                
-
-
-
-
-
-
-
-
-
-🚀
-
-
-
-
-
-
-
-&lt;h1&gt;&lt;strong&gt;Science &amp;amp; Futuristic Technology&lt;/strong&gt;&lt;/h1&gt;
-
-
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FoSm3UA/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/NLiQ3BpNdDjprA9rzjCbBDGHVp-V_TvdSZ6PiBxnklI=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Experimental Drug Yields Dramatic Weight Loss (7 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    Retatrutide, an experimental shot by drugmaker Eli Lilly, was so powerful in human trials that participants stopped taking it because they thought they were losing too much weight. The results for some of the heaviest patients were on par with those seen with gastric bypass surgery. There are some side effects at higher doses, such as gastrointestinal side effects so unpleasant that some patients stop taking it. Eli Lilly has not yet applied for regulatory approval.
-                                
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fai%2F2026%2F05%2Fthe-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages%2F%3Futm_source=tldrnewsletter/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/QScIRBct6I7YBRc6ihttDpXUf1enb56wN7hc4843wUs=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;The Internet can't stop watching Figure AI's humanoid robots handling packages (10 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    Figure AI has been livestreaming its humanoid robots placing packages onto a conveyor belt since May 13. The livestream has become a viral sensation. It was originally intended to only run for eight hours, but the company decided to continue the livestream 24/7 after the initial time was up. Viewers have named the robots and Figure plans to roll out related robot merchandise.
-                                
-
-
-
-
-
-
-
-
-
-💻
-
-
-
-
-
-
-&lt;h1&gt;&lt;strong&gt;Programming, Design &amp;amp; Data Science&lt;/strong&gt;&lt;/h1&gt;
-
-
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=secondary05222026/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/M-zHzATfKhCgCTGts5HkdCNeVtART6YJRJa6TCJymfI=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Reach 7 million engaged tech professionals (Sponsor)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    Ads get ignored on social media but not in TLDR! Reach developers, PMs, marketers, founders and other tech leaders where they actually pay attention. &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=secondary05222026/2/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/7NdhgCcfnLGMd24wQ1jK-NcIusscEALSJA3xRa7R9o8=452" rel="noopener noreferrer"&gt;Learn more about sponsorship opportunities.&lt;/a&gt;
-
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdeveloper.chrome.com%2Fblog%2Fextensions-io-2026%3Fhl=en%26utm_source=tldrnewsletter/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/mYDSQGR4N5yN84ww_5zersw7hS7T9l4EmSzs_kwchsw=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;What's new in web extensions: I/O 2026 recap (6 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    AI is making extension development more approachable than ever. Google is expanding developer registration to over 120 additional countries this year. The Chrome team is dedicated to elevating the extension developer experience and has expanded store permissions, modernized platform APIs, and introduced AI-integrated tooling to remove friction from workflows. This post details some of the biggest new features the team has introduced.
-                                
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fantfly.io%2Fblog%2Fagent-formal-verification%3Futm_source=tldrnewsletter/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/Vv0Vc0m_YyF0_4V9BQDICj1x1ebo45vbvgva4bZ55_E=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Cheap code means formal verification is reasonable now (9 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    One way to make sure that agents complete tasks correctly is to make them hill climb on verifiable problems. Comprehensive conformance test suites are valuable because they help guarantee that agents produce what developers actually want them to. TLA+ is a formal spec language for modeling complex systems with many moving parts. Formal languages have proof checkers and other ways of catching many of the types of hallucinations that language models create.
-                                
-
-
-
-
-
-
-
-
-
-
-🎁
-
-
-
-
-&lt;strong&gt;&lt;h1&gt;Miscellaneous&lt;/h1&gt;&lt;/strong&gt;
-
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fik1S5M/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/yxutFKG_VH81S45axthhAsatAiYui8Wu9qIBarXjGS8=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;How SpaceX's IPO Cements Elon Musk's Grip on the Company (3 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    SpaceX has adopted a corporate governance policy that will erode typical shareholder protections and give Elon Musk virtually unchecked executive authority when the company goes public. It is combining supervoting shares, mandatory arbitration, stricter rules on shareholder proposals, and Texas corporate law to give Musk and other insiders broad control. The rules sharply limit investors' ability to challenge management, sue in court, and force votes on governance issues. It will protect SpaceX from the kind of criticism aimed at Tesla, where investors have challenged Musk on issues ranging from his pay package to the acquisition of his solar energy company, SolarCity.
-                                
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthreadreaderapp.com%2Fthread%2F2057522382315929802.html%3Futm_source=tldrnewsletter/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/WfGlyxEgjKsfQInP-Qt3HZR7UE9E6xl6qN-CSmbWARk=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Today ClickUp reduced headcount by 22% (5 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    ClickUp is in the strongest position it's ever been in, but the company decided to cut 22% of its staff to operate at its highest level of productivity. The savings from the change will flow directly back to the staff who stay. The company plans to introduce million-dollar salary bands for staff who create outsized impact using AI. Staff affected by the cuts will receive packages aimed at honoring their contributions and easing the transition.
-                                
-
-
-
-
-
-
-
-
-
-⚡
-
-
-
-
-
-
-&lt;h1&gt;&lt;strong&gt;Quick Links&lt;/strong&gt;&lt;/h1&gt;
-
-
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fzero.xyz%2F%3Futm_source=newsletter%26utm_campaign=tldr_zero/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/87u18oOo_6mmGGyme_XtWx5ZG1zSUDoEiB53kliReB8=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Claim $5 at zero.xyz, the free power tool for AI agents (Sponsor)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    Zero unblocks your agents so they can discover services to accomplish tasks, no APIs keys or config. Works with Claude Code, Codex, Gemini, OpenClaw, Hermes and most other CLI agents.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Make your agents better &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fzero.xyz%2F%3Futm_source=newsletter%26utm_campaign=tldr_zero/2/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/1LYM74Gm_Ac1vb6QIOj9_dsn7xzG2CUGvsEROJRsQ2I=452" rel="noopener noreferrer"&gt;with Zero.&lt;/a&gt;
-
-
-&lt;/p&gt;
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwccftech.com%2Fnvidia-to-become-the-worlds-leading-cpu-supplier-vera-hitting-20-billion-revenue-this-year%2F%3Futm_source=tldrnewsletter/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/6XEGzSU2PF44BHmlIck1dFzMXM02BdKqrcuTGl-BeVI=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;NVIDIA To Become The World's Leading CPU Supplier With Vera Hitting $20 Billion Revenue This Year (7 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    Nvidia's ARM-based Vera CPUs are purpose-built for Agentic AI and Inference domains.
-                                
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fevery.to%2Fp%2Fafter-automation%3Futm_source=tldrnewsletter/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/eRMUHNIz-QVe_VVQEPWPhII_YznYojFJV9y5G_0YitQ=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;After Automation (39 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    AI progress creates more work for humans, not less.
-                                
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.kilo.ai%2Fp%2Fyou-cant-afford-to-lead-agentic-engineering%3Futm_source=tldrnewsletter/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/-o4M_UXkV1rGyndLOYRF2MV14tCmQpaHVdkULlCdeY8=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;You can't afford to lead agentic engineering from the sidelines (12 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    Leaders need first-hand experience with the technology before they can start redesigning their processes.
-                                
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.inferterra.com%2Fthe-new-workspace-a-first-principles-exploration-of-dictation-agents-and-humans%2F%3Futm_source=tldrnewsletter/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/f2wuMCLRgZqXde2YUwR2v_vqbWAPf43xbd_x1EJvMPU=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;It's Time to Walk (6 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    Dictation and agentic AI have given humans back the ability to walk, to rest, and to think while moving.
-                                
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwriting.nikunjk.com%2Fp%2Fthe-coddling-of-the-tech-mind%3Futm_source=tldrnewsletter/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/PlYygLxj8lpI53yTNUk5fR1YWLXhmNgE51ckFvBGv3c=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;The Coddling of the Tech Mind (4 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    You don't learn agency in a place that never asks you to have any.
-                                
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.noahzender.com%2Fideas%3Futm_source=tldrnewsletter/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/ljdVYLLK5ulJe2Nc6o-zxKiRP2HvkkHxHitlaLh1ZBM=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Ideas (Website)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    This page contains a collection of mental models, patterns, and frameworks on thinking clearly, building well, and living with intention.
-                                
-
-
-
-
-
-
-
-
-
-&lt;p&gt;
-Love TLDR? Tell your friends and get rewards!
-&lt;/p&gt;
-
-
-
-Share your referral link below with friends to get free TLDR swag!
-
-
-
-
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F3bf6e1cc%2F/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/sD9qfLcleGJrjQoKmENUc-PTBv9tvZkwdxqlWh4sATE=452" rel="noopener noreferrer"&gt;https://refer.tldr.tech/3bf6e1cc/&lt;/a&gt;
-
-
-
-
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_08562c4bc516%2F1/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/lIBwkNZO99PxycXjsyku_i1s2KLJxWcGV0ibJJbqzB4=452" rel="noopener noreferrer"&gt;Track your referrals here.&lt;/a&gt;
-
-
-
-
-
-
-
-&lt;p&gt;
-Want to advertise in TLDR? 📰
-&lt;/p&gt;
-
-If your company is interested in reaching an audience of tech executives, decision-makers and engineers, you may want to &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/DiysmhbrOQfnm6lkRthoavg2-BT84YIlcswOuadcTQk=452" rel="noopener noreferrer"&gt;&lt;strong&gt;advertise with us&lt;/strong&gt;&lt;/a&gt;.
-
-&lt;br&gt;
-
-
-
-&lt;p&gt;
-Want to work at TLDR? 💼
-&lt;/p&gt;
-
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/QUJvrbZx-7e3hP04w1HlRg03veKoVqs3lzxemdrZTaY=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Apply here&lt;/strong&gt;&lt;/a&gt;,
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/TaseCu3WvfmlMQ4icV0VJkNQqLFB2rhqf2nzfsnMdFs=452" rel="noopener noreferrer"&gt;&lt;strong&gt;create your own role&lt;/strong&gt;&lt;/a&gt; or send a friend's resume to &lt;a href="mailto:jobs@tldr.tech" rel="noopener noreferrer"&gt;jobs@tldr.tech&lt;/a&gt; and get $1k if we hire them! TLDR is one of &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/5m4GZQbawKPpJFNNa0EnYxmRd0ONJo7-2ERxhoExtR8=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Inc.'s Best Bootstrapped businesses&lt;/strong&gt;&lt;/a&gt; of 2025.
-
-&lt;br&gt;
-
-
-If you have any comments or feedback, just respond to this email!
-&lt;br&gt;
-&lt;br&gt; Thanks for reading,
-&lt;br&gt;
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2Ftldrdan/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/ObfYB2-YDL3feTpDqmCCSa8DUSfXcgnPb6phFVv0Azc=452" rel="noopener noreferrer"&gt;Dan Ni&lt;/a&gt; &amp;amp; &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2FSteveFlanders22/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/Kp4oa_QXBFzWVeL0byYmqGVHfUIi8XciKY8ItvxNNHU=452" rel="noopener noreferrer"&gt;Stephen Flanders&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-&lt;br&gt;
-
-
-
-
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Ftech%2Fmanage%3Femail=kob62291404%2540163.com/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/ahyHPeMJd4sk8_iehEaAsNt-x-Qe54Z68-E_aSzjp9A=452" rel="noopener noreferrer"&gt;Manage your subscriptions&lt;/a&gt; to our other newsletters on tech, startups, and programming. Or if TLDR isn't for you, please &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=501f755e-43a4-11f1-af95-9b5186b93ebe%26p=078d88fe-55be-11f1-a181-25a703a04251%26pt=campaign%26pv=4%26spa=1779444027%26t=1779445745%26s=083bda1d047f8d96718cbdc37f36eeeba9bea40ac0db3bc05a740ffd9c8d5844/1/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/bGuOrkZYOq1qsxPsrC0KMpbSZtfjNn5SGN_Bii1zREg=452" rel="noopener noreferrer"&gt;unsubscribe&lt;/a&gt;.
-&lt;br&gt;
-
-
-
-
-
-
-
-
-
-
-&lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019e4f3b4633-08956b3f-b218-4fd2-9cce-a1145f051b6a-000000/ssGwGAwYnps7-YcZawumOkDeQJD8OkzAVmm6sOmYWnM=452"&gt;
 </content:encoded></item></channel></rss>
