@@ -1,5 +1,519 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>TLDR AI</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml</link><description>Messages from sources matching dan@tldrnewsletter.com</description><lastBuildDate>Fri, 05 Jun 2026 10:36:28 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml" rel="self" type="application/rss+xml"></atom:link><item><title>iMessage agents 🤖, Anthropic wants pause 🛑, Open Code Review 👨‍💻</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-158</link><guid isPermaLink="false">own-newsletter:item:158</guid><pubDate>Fri, 05 Jun 2026 10:30:10 GMT</pubDate><author>TLDR &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR Poke is now available on iMessage via the Apple Messages for Business platform. Poke can send emails, set reminders, generate images, and more ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|View O...</description><content:encoded>TLDR
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>TLDR AI</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml</link><description>Messages from sources matching dan@tldrnewsletter.com</description><lastBuildDate>Fri, 05 Jun 2026 11:36:41 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml" rel="self" type="application/rss+xml"></atom:link><item><title>When AI builds itself 👷, AI is not a line item 📝, local LLMs for agentic coding 🤖</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-159</link><guid isPermaLink="false">own-newsletter:item:159</guid><pubDate>Fri, 05 Jun 2026 11:33:17 GMT</pubDate><author>TLDR Dev &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR Dev AI development is transitioning to recursive self-improvement, where autonomous agents accelerate productivity in tasks like coding and research ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|...</description><content:encoded>TLDR Dev
+
+
+
+AI development is transitioning to recursive self-improvement, where autonomous agents accelerate productivity in tasks like coding and research&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;
+
+&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fdev%3Futm_source=tldrdev/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/9s8Drazs_K72nqCW5kJWDgVxwnsykXSEG1jfwN91twc=452" rel="noopener noreferrer"&gt;Sign Up&lt;/a&gt;
+|&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/slRmFhcx6ZJ7DqljmqCXK8rrTHhkj2DiXYoJ6PXxTvE=452" rel="noopener noreferrer"&gt;Advertise&lt;/a&gt;|&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=149d365e-456d-11f1-8ba2-498e51b65b4e%26p=097ac704-6099-11f1-82da-37e079b43061%26pt=campaign%26t=1780659197%26s=abc98a6199a0e254399603c43ea5e5864a0d010e59478226b7235b8ee36c94d9/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/C9ho5pp58xL8GMgPm9BF_87PMpxRITBYay0kXSOAVAA=452" rel="noopener noreferrer"&gt;View Online&lt;/a&gt;
+&lt;br&gt;
+
+
+
+TLDR
+&lt;br&gt;
+
+
+&lt;br&gt;
+
+&lt;strong&gt;Together With &lt;/strong&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FInsForge%2FInsForge%3Futm_source=TLDR%26utm_medium=newsletter%26utm_campaign=2026-06-05_Primary_InsForge%26utm_content=header_insforge_open_source/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/RVaOtZi5OZzpmnUHT0AGUHnzguBPVoF3_86AfLTXKL0=452" rel="noopener noreferrer"&gt;&lt;img src="https://images.tldr.tech/insforge.png" alt="InsForge"&gt;&lt;/a&gt;
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;&amp;nbsp;TLDR Dev 2026-06-05&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FInsForge%2FInsForge%3Futm_source=TLDR%26utm_medium=newsletter%26utm_campaign=2026-06-05_Primary_InsForge%26utm_content=header_insforge_open_source/2/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/aVpJ1j3ERWuW-LPhQbyooOPLFYLCnCjMgY4-ZQ23_1g=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;InsForge is the open-source backend infrastructure coding agents run themselves (Sponsor)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Coding agents stop at code generation. The backend is the part they can't run themselves. &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FInsForge%2FInsForge%3Futm_source=TLDR%26utm_medium=newsletter%26utm_campaign=2026-06-05_Primary_InsForge%26utm_content=body_insforge/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/Bs_owQSfVZwpW-YwjqKpRBBoWFDiDUCosSwl6L9HPh8=452" rel="noopener noreferrer"&gt;InsForge&lt;/a&gt; gives them backend infrastructure to run, in the cloud or self-hosted.
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Here's what your coding agent can do with InsForge:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;gt; Database:&lt;/strong&gt; create tables, run queries, and manage data.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;gt; Auth:&lt;/strong&gt; add sign-in, sessions, and access control.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;gt; Storage:&lt;/strong&gt; S3-compatible file storage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;gt; Custom Compute:&lt;/strong&gt; deploy and run services like a backend server, Redis, or Nginx.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;gt; Model gateway:&lt;/strong&gt; call any LLM through one unified endpoint.&lt;/p&gt;
+
+&lt;p&gt;Over 32K backend projects already run on InsForge, with 10K+ stars on GitHub.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FInsForge%2FInsForge%3Futm_source=TLDR%26utm_medium=newsletter%26utm_campaign=2026-06-05_Primary_InsForge%26utm_content=cta_out_repo/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/Eaul6GTuYmHEIcxs7zqbW6b4-DrKHJivUYBDVUJ1XfA=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Check out the repo →&lt;/strong&gt;&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+🧑‍💻
+
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Articles &amp;amp; Tutorials&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fexpo.dev%2Fblog%2Ftalking-to-jsi-in-swift%3Futm_source=tldrdev/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/5evZMcAI3Ks9i2iL6um2_Iq6dx0vOgFSUWYCB9IpWTY=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Talking to JSI in Swift: what changed in SDK 56 (15 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Expo SDK 56 has an architectural rewrite for native modules on Apple platforms by allowing Swift to communicate directly with JSI. This change removes the previous Objective-C++ middleware, resulting in performance gains between 1.6 and 2.3 times faster than older versions. By using Swift 5.9's C++ interoperability and non-copyable types, the new system has strict memory safety while simplifying the internal development stack.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ashbyhq.com%2Fblog%2Fengineering%2Fai-ashby-engineering-and-the-future%3Futm_source=tldrdev/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/0rqOYCL1wQyRDI85nbM9WBN84BtXMYiM3JcQeqoWF04=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;AI, Ashby Engineering, and the Future (17 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    At Ashby, over half of new production code is now AI-generated, yet software quality and stability remain consistently high. Engineers are required to have full accountability for their output by alternating between using AI as a collaborative sidekick for high-stakes decisions and a delegate for low-impact tasks.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FLo9ArU/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/tkKi7Ipr65eGsPEY7JoSQPuEw_4afgYZlCl0slN-Fgs=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Sitar-agent: Building a reliable dynamic configuration sidecar at scale (13 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Sitar-agent is a lightweight Kubernetes sidecar for reliably delivering dynamic configuration updates to thousands of service instances without redeployments, using Amazon S3 snapshots for fast bootstrapping and a periodic pull model for changes. The separate sidecar container helps with resource isolation and multi-language compatibility.
+                                
+
+
+
+
+
+
+
+
+
+🧠
+
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Opinions &amp;amp; Advice&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffrontierai.substack.com%2Fp%2Fai-is-not-a-line-item%3Futm_source=tldrdev/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/cZhxnuQQzJnzTSSzD6eCEcPRMkTfrMO7XHNc6dyu8HU=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;AI is not a line item (9 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Treating AI expenditures as a single, monolithic budget line item based on token usage is a strategic mistake that discourages innovation. Instead, it's better to manage AI investments based on the specific functional value and experimental potential of individual tools.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.truehenrique.com%2Fen%2F2021%2F10%2F27%2Fsingle-responsibility-the-distorted-principle%2F%3Futm_source=tldrdev/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/dAw7WaIrHDtSSf069W3DyVbXMUALyoFACJDTsTKRWWQ=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Single responsibility, the distorted principle (11 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    The Single Responsibility Principle (SRP) is often misunderstood as requiring modules to perform a single action. It actually recommends grouping cohesive behaviors under one responsibility.
+                                
+
+
+
+
+
+
+
+
+🚀
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Launches &amp;amp; Tools&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdocs.qvac.tether.io%2F%3Futm_source=newsletter%26utm_medium=email%26utm_campaign=TLDRDev%26utm_term=secondaryjune5/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/Czm0sAAMHXqbcmyJrf9Vy_CiJttqiVwKCs85Cw4FXxs=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;QVAC SDK: run local LLMs, now with 5x more context (Sponsor)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Run local LLMs, speech, and image models fully on-device with QVAC, an open-source SDK. One npm install, no cloud, no API keys. The latest update integrated TurboQuant, unlocking up to 5x more context from the same machine, near-lossless. &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Ftetherto%2Fqvac/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/g0n9JeAYHPQ4X8qZn7naduTW8Cczw4QFs3RG98poPuQ=452" rel="noopener noreferrer"&gt;Get it on GitHub &lt;/a&gt;or see the docs at &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdocs.qvac.tether.io%2F%3Futm_source=newsletter%26utm_medium=email%26utm_campaign=TLDRDev%26utm_term=secondaryjune5/2/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/cX7zpPvTdczcQttuA9EjowcQwHqO9SnLLzXF38cLXeY=452" rel="noopener noreferrer"&gt;qvac.tether.io&lt;/a&gt;.
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felixir-lang.org%2Fblog%2F2026%2F06%2F03%2Felixir-v1-20-0-released%2F%3Futm_source=tldrdev/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/ToYbTMhif-l1cEG2csWliw3XNDmS0oEy3LjvmV3llWk=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Elixir v1.20 released: now a gradually typed language (9 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Elixir v1.20 introduces a gradual, set-theoretic type system that performs automated type inference and checking, using a specialized dynamic() type to accurately identify bugs and dead code. The release also improves compilation speed and allows the compiler to detect potential runtime failures via type narrowing in guards and clauses.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fboxes.dev%2F%3Futm_source=tldrdev/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/YleKTPGiUzTOiVw7S1JRZkw4dCPEPI6DlOC95fRG2MY=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Boxes (Website)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Boxes provides a cloud-based workbench that allows developers to run multiple AI coding agents in parallel within isolated, persistent virtual machines that can be monitored and managed from any device.
+                                
+
+
+
+
+
+
+
+
+
+🎁
+
+
+
+
+&lt;strong&gt;&lt;h1&gt;Miscellaneous&lt;/h1&gt;&lt;/strong&gt;
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Finstitute%2Frecursive-self-improvement%3Futm_source=tldrdev/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/efP-w56NGoYLOOjIGhhdcfpA5HIu2FXurIBfrv6Y_s0=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;When AI builds itself (29 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    AI development is transitioning to recursive self-improvement, where autonomous agents accelerate productivity in tasks like coding and research by automating their own refinement. While this offers benefits for discovery and healthcare, it also risks humans losing control.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.cloudflare.com%2Fvoidzero-joins-cloudflare%2F%3Futm_source=tldrdev/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/DHebi1cb50WeK7LA0xyfCd_k0PeZi4y0ESYwx6q3Kk4=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;VoidZero is joining Cloudflare (12 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    VoidZero is joining Cloudflare to speed up the development of foundational web tools like Vite, Vitest, and Oxc. These projects will remain open-source and vendor-agnostic, so developers can continue building portable applications that run on any platform. Cloudflare is also committing a $1 million ecosystem fund to support maintainers and intends to transition its own developer tools to be built directly on top of Vite.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.alexewerlof.com%2Fp%2Flocal-llms-for-agentic-coding%3Futm_source=tldrdev/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/qmgD2ZjB_svjkhZwhMhzQSzYmXPf5Tti0Gb8C8KwYXs=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Using local LLMs for agentic coding (26 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Developers can use local LLMs with tools like LM Studio or Ollama for agentic coding to bypass rising cloud costs and improve privacy. Achieving optimal performance requires carefully configuring suitable models and hardware offloading settings, or using services like OpenRouter as an alternative for free hosted models.
+                                
+
+
+
+
+
+
+
+
+
+
+⚡
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Quick Links&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.geekuni.com%2F2026%2F06%2Fwhy-learn-pandas.html%3Futm_source=tldrdev/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/V8VatWfz_lMA2jbc81Kx5_gsmGXbtsxKJaksRT6LYzY=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Why learn Pandas? (10 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Pandas is a Python library that simplifies data analysis by treating datasets as DataFrames for efficient, loop-free calculations.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftesting.googleblog.com%2F2026%2F06%2Fchoosing-values-for-robust-tests.html%3Futm_source=tldrdev/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/kCfnzGR9uxwNMpMfn28xcXEC3UwCbRyNMnP5CCp57tc=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Choosing Values for Robust Tests (5 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Developing robust software tests requires using non-default, distinct, and varied input values to ensure code logic is correctly executed and to avoid false positives caused by coincidental default values.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmaxleiter.com%2Fblog%2Fweights%3Futm_source=tldrdev/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/jg4V1PaFvSts26HxKYdQapI9KK6Arqn3lFEn7jPame8=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;They're Made Out of Weights (5 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Two observers grapple with the revelation that artificial intelligence functions through nothing but numerical weights and matrix multiplication, eventually deciding to dismiss its human-like behavior as mere pattern matching to avoid the ethical implications of its potential sentience.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2F46elks.com%2Fblog%2F2026%2F05%2F29%2Fan-amazing-time-for-programmers%3Futm_source=tldrdev/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/FZThDktkkOsXNHhQaWRNTNAi0KfdE159-ZWvkDpi0fw=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;It is an amazing time for programmers! (3 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Modern software developers live in a unique era where they can actively engage with and learn from legendary pioneers of computer science who remain accessible and active in the field.
+                                
+
+
+
+
+
+
+
+
+
+&lt;p&gt;
+Love TLDR? Tell your friends and get rewards!
+&lt;/p&gt;
+
+
+
+Share your referral link below with friends to get free TLDR swag!
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F1e1623f3%2F3/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/7qemzuDKyuMgFyRt65UXZkWQaIKlzp4o2NRuCP4WwW4=452" rel="noopener noreferrer"&gt;https://refer.tldr.tech/1e1623f3/3&lt;/a&gt;
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_25c61f0023f9%2F3/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/myqg4_Id95vrmXu9A3n0368YSrplC3arBjxv_y5UU3U=452" rel="noopener noreferrer"&gt;Track your referrals here.&lt;/a&gt;
+
+
+
+
+
+
+
+&lt;p&gt;
+Want to advertise in TLDR? 📰
+&lt;/p&gt;
+
+If your company is interested in reaching an audience of web developers and engineering decision makers, you may want to &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/q01BKnkbCQJ06Fdiqq-vDau8c1V1ipYvpwi2OX0y9LQ=452" rel="noopener noreferrer"&gt;&lt;strong&gt;advertise with us&lt;/strong&gt;&lt;/a&gt;.
+
+&lt;br&gt;
+
+
+
+&lt;p&gt;
+Want to work at TLDR? 💼
+&lt;/p&gt;
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/ho_J-sSDqRVa-B-wEtR6k4Nm3rr6pE3qRk-2MzXto0I=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Apply here&lt;/strong&gt;&lt;/a&gt;,
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/WfM9ECT0U-oM7Z46aw-VEQfJgFGtu-NB0uo6eb1bIKU=452" rel="noopener noreferrer"&gt;&lt;strong&gt;create your own role&lt;/strong&gt;&lt;/a&gt; or send a friend's resume to &lt;a href="mailto:jobs@tldr.tech" rel="noopener noreferrer"&gt;jobs@tldr.tech&lt;/a&gt; and get $1k if we hire them! TLDR is one of &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/Q88xwpxLFbPCne-3K1NhrsVKGyIPo83W2bOC2QDmkaU=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Inc.'s Best Bootstrapped businesses&lt;/strong&gt;&lt;/a&gt; of 2025.
+
+&lt;br&gt;
+
+
+If you have any comments or feedback, just respond to this email!
+&lt;br&gt;
+&lt;br&gt; Thanks for reading,
+&lt;br&gt;
+Priyam Mohanty, &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/5Oz91YK9aqG-J1Cmgj11nnnzQxfFbr77q_VvkFP7BOk=452" rel="noopener noreferrer"&gt;Jenny Xu&lt;/a&gt; &amp;amp; Ceora Ford
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;br&gt;
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fdev%2Fmanage%3Femail=kob62291404%2540163.com/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/Tc7ieT7zdAYEIN99YRK2PYqhyyxFcY4NfVB3deB4tDE=452" rel="noopener noreferrer"&gt;Manage your subscriptions&lt;/a&gt; to our other newsletters on tech, startups, and programming. Or if TLDR Dev isn't for you, please &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=149d365e-456d-11f1-8ba2-498e51b65b4e%26p=097ac704-6099-11f1-82da-37e079b43061%26pt=campaign%26pv=4%26spa=1780657234%26t=1780659197%26s=bd82b5771039c4a1e91c0256484c27c5faf5bee7e34a6e14dc922a0ed31112d5/1/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/RB7naQpAb51cY5yLhI3AALsPa3EH0kyNP3z0HkV_hQw=452" rel="noopener noreferrer"&gt;unsubscribe&lt;/a&gt;.
+&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019e978f15ac-00ac0fdf-0cb7-4052-9d8f-b098d9783181-000000/v9xb-2_VW4bo09xC_xBEjJXYBw33skuNxZ7g7exeHPY=452"&gt;
+</content:encoded></item><item><title>iMessage agents 🤖, Anthropic wants pause 🛑, Open Code Review 👨‍💻</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-158</link><guid isPermaLink="false">own-newsletter:item:158</guid><pubDate>Fri, 05 Jun 2026 10:30:10 GMT</pubDate><author>TLDR &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR Poke is now available on iMessage via the Apple Messages for Business platform. Poke can send emails, set reminders, generate images, and more ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|View O...</description><content:encoded>TLDR
 
 
 
@@ -26154,807 +26668,4 @@ If you have any comments or feedback, just respond to this email!
 
 
 &lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019e5eb22d72-74807cd3-82f5-4c9e-8fec-659b4506a4c5-000000/r1gj8XXKe2924AX2ednUAdglTyDfAv1v-xZ2p4yFylQ=452"&gt;
-</content:encoded></item><item><title>Anthropic Microsoft deal 🤝, Cursor $3B ARR 📈, cloud agent lessons 🤖</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-102</link><guid isPermaLink="false">own-newsletter:item:102</guid><pubDate>Fri, 22 May 2026 13:27:52 GMT</pubDate><author>TLDR AI &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR AI Microsoft plans to supply its Maia AI chips to Anthropic, which currently faces compute challenges despite partnerships with Amazon and Google ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|Vie...</description><content:encoded>
-		
-		
-		
-		
-		TLDR AI
-		
-		
-		
-		
-	
-	
-
-
-		Microsoft plans to supply its Maia AI chips to Anthropic, which currently faces compute challenges despite partnerships with Amazon and Google&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;
-		
-			&lt;br&gt;
-		
-
-		
-			
-				
-					
-
-						
-							
-								
-									
-
-										
-											
-												
-													
-
-														
-															
-																
-																	
-
-																		
-																			
-																				
-																					
-
-																						
-																							
-																								
-																									
-																										
-																											&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fai%3Futm_source=tldrai/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/7_QFmPD_tvR7ZCufk-xEoVvXAlPzZ0PaqvwboSDHnv4=452" rel="noopener noreferrer"&gt;Sign Up&lt;/a&gt;
-																											|&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/PXx3VNh55Z2MDdDktAnkPKpSiBRKf9hKBu2ssFeMWk0=452" rel="noopener noreferrer"&gt;Advertise&lt;/a&gt;|&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=55cb6de6-43a4-11f1-a6e4-ab0545177c2c%26p=d4f880bc-55d9-11f1-9dcc-0321ff82d917%26pt=campaign%26t=1779456472%26s=941b5312840fd8bc7d41834308639232bb84ac23bad62894872a9bb6be4fec05/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/OKznjjpAUA5KPj0i9FGSIimWvFyFBZcxN_XScRgXAQ8=452" rel="noopener noreferrer"&gt;View Online&lt;/a&gt;
-																											&lt;br&gt;
-																											
-																									
-																								
-																							
-																						
-
-																						
-																							
-																								
-																									TLDR
-																										&lt;br&gt;
-																									
-																								
-																							
-																						
-
-																						&lt;br&gt;
-
-																						
-																							
-																								
-																									&lt;strong&gt;Together With &lt;/strong&gt;
-																										&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.catonetworks.com%2Fresources%2Fdefending-against-next-generation-of-agentic-attacks%2F%3Futm_source=tldr-ai%26utm_medium=newsletter%26utm_campaign=ai-security%26utm_content=20260522_header_defending_against_next/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/gAbvRr8vfsOMkaghqNfVfg0Kx1By5LhplD00r-0PazU=452" rel="noopener noreferrer"&gt;&lt;img src="https://images.tldr.tech/cato2.png" alt="Cato Networks"&gt;&lt;/a&gt;
-																								
-																							
-																						
-
-
-																						
-																							
-																								
-																									
-																										
-
-																											&lt;h1&gt;&lt;strong&gt;TLDR AI 2026-05-22&lt;/strong&gt;&lt;/h1&gt;
-																										
-																									
-																								
-																							
-																						
-
-																						
-																							
-																								
-																									
-																										
-																											
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.catonetworks.com%2Fresources%2Fdefending-against-next-generation-of-agentic-attacks%2F%3Futm_source=tldr-ai%26utm_medium=newsletter%26utm_campaign=ai-security%26utm_content=20260522_header_defending_against_next/2/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/d7y5YHL4KpA11zJ7zRiO7hFFjZM6S117dTXHLRD44GM=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Defending Against the Next Generation of Agentic AI Attacks. (Sponsor)&lt;/strong&gt;
-                                    
-																											&lt;/a&gt;
-																											&lt;br&gt;
-																											&lt;br&gt;
-																											
-                                    Can your architecture defend against attacks that are autonomous, adaptive, and faster than anything you've seen before?&lt;p&gt;&lt;/p&gt;&lt;p&gt;Frontier AI models are compressing the attack lifecycle and enabling a new generation of agentic threats. Security teams must prepare for faster, automated, and adaptive attacks.&lt;/p&gt;&lt;p&gt;Join Cato's CEO Shlomo Kramer and VP of Threat Intelligence Etay Maor on June 3 to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Understand how frontier AI changes attacks&lt;/li&gt;&lt;li&gt;See how agentic threats behave&lt;/li&gt;&lt;li&gt;Learn how to shift to adaptive, real-time defense&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.catonetworks.com%2Fresources%2Fdefending-against-next-generation-of-agentic-attacks%2F%3Futm_source=tldr-ai%26utm_medium=newsletter%26utm_campaign=ai-security%26utm_content=20260522_cta_register/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/prveuIzWg0aNyDR-S3mPeOhH_-zCf0xXR_E0ztD5nLc=452" rel="noopener noreferrer"&gt;→ Register now&lt;/a&gt;&lt;/p&gt;
-
-																											&lt;p&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.catonetworks.com%2Fresources%2Fdefending-against-next-generation-of-agentic-attacks%2F%3Futm_source=tldr-ai%26utm_medium=newsletter%26utm_campaign=ai-security%26utm_content=20260522_cta_recording_if_you/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/nl7Kjm2_lS0H6p8E4zQYzltPMIZMxaubJwvg_cav4Gk=452" rel="noopener noreferrer"&gt;→ Get the recording if you can't attend live&lt;/a&gt;
-
-
-																											&lt;/p&gt;
-																											
-																									
-																								
-																							
-																						
-																																											
-																				
-																			
-																		
-																	
-																
-															
-														
-													
-												
-												
-													
-
-														
-															
-																
-																	
-
-																		
-																			
-																				
-																					
-																						
-																							🚀
-																					
-																				
-																			
-																		
-
-																		
-																			
-																				
-																					
-																						
-																							
-
-																								&lt;h1&gt;&lt;strong&gt;Headlines &amp;amp; Launches&lt;/strong&gt;&lt;/h1&gt;
-																							
-																						
-																					
-																				
-																			
-																		
-
-																		
-																			
-																				
-																					
-
-																						
-																							
-																								
-																									
-																										
-																											
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FTgMrfv/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/XjSgFgYd3JJJWxEVbjbZZ3fLXAYWVm3mKMEttCWZE0c=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Cursor Hits $3 Billion Annual Sales Rate Ahead of SpaceX Deal (2 minute read)&lt;/strong&gt;
-                                    
-																											&lt;/a&gt;
-																											&lt;br&gt;
-																											&lt;br&gt;
-																											
-                                    Cursor's annualized revenue hit $3 billion in late April. The company now has more than 3,000 customers paying at least $100,000 each for its software on an annualized basis. The business has become one of the fastest-growing startups of all time. SpaceX has the right to buy Cursor for $60 billion during a 30-day window that starts soon after it begins trading publicly. SpaceX is expected to list its shares on June 12.
-                                
-																											
-																										
-																									
-																								
-																							
-																						
-
-																						
-																							
-																								
-																									
-																										
-																											
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FqttqkT/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/Ekip0HYFpzUmuPJ8pUfYQ8JgxvBCshpKUGoUT4B515g=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Manus Weighs Raising $1 Billion to Unwind Meta Takeover (4 minute read)&lt;/strong&gt;
-                                    
-																											&lt;/a&gt;
-																											&lt;br&gt;
-																											&lt;br&gt;
-																											
-                                    Manus has been told to unwind its acquisition by Meta by China's regulators. Its founders now need to raise funds to buy back the operation. They are now in discussions for funding and may chip in with their own money to finance the transaction. A reversal of a deal this large months after completion is virtually unheard of.
-                                
-																											
-																										
-																									
-																								
-																							
-																						
-
-																						
-																							
-																								
-																									
-																										
-																											
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2026%2F05%2F21%2Fanthropic-microsoft-maia-200-ai-chip.html%3Futm_source=tldrai/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/A2fIzcDOXJgJAj07F-wzsIgAPMqBL4jFUfX183gNNrM=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Anthropic, Microsoft in talks for AI chip deal after $5 billion investment (3 minute read)&lt;/strong&gt;
-                                    
-																											&lt;/a&gt;
-																											&lt;br&gt;
-																											&lt;br&gt;
-																											
-                                    Microsoft plans to supply its Maia AI chips to Anthropic, which currently faces compute challenges despite partnerships with Amazon and Google. Anthropic's increasing AI-assisted programming needs could benefit from Maia's 30% improved performance. A $5 billion investment by Microsoft in November strengthens this potential collaboration.
-                                
-																											
-																										
-																									
-																								
-																							
-																						
-
-																					
-																				
-																			
-																		
-
-
-																		
-																			
-																				
-																					
-																						
-																							🧠
-																						
-																					
-																				
-																			
-																		
-
-																		
-																			
-																				
-																					
-																						
-																							
-
-																								&lt;h1&gt;&lt;strong&gt;Deep Dives &amp;amp; Analysis&lt;/strong&gt;&lt;/h1&gt;
-																							
-																						
-																					
-																				
-																			
-																		
-
-
-																		
-																			
-																				
-																					
-
-																						
-																							
-																								
-																									
-																										
-																											
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcursor.com%2Fblog%2Fcloud-agent-lessons%3Futm_source=tldrai/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/7P1Mc1e7ndnx65l8tBwWMxgM5taj5C0BuEQzo__ZD_I=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Lessons Learned from Building Cloud Agents (12 minute read)&lt;/strong&gt;
-                                    
-																											&lt;/a&gt;
-																											&lt;br&gt;
-																											&lt;br&gt;
-																											
-                                    Cursor described lessons from building cloud agents, emphasizing durable execution, isolated development environments, self-healing infrastructure, and cleaner separation between agent state and conversation state.
-                                
-																											
-																										
-																									
-																								
-																							
-																						
-
-																						
-																							
-																								
-																									
-																										
-																											
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fweightythoughts.com%2Fp%2Fais-plummeting-prices-are-a-software%3Futm_source=tldrai/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/kyxRSXPvm-xCWFSRxIySRX8Ookc-FBmcGTh1_FDQP70=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;AI's Plummeting Prices Are a Software Story, Not a Hardware One (14 minute read)&lt;/strong&gt;
-                                    
-																											&lt;/a&gt;
-																											&lt;br&gt;
-																											&lt;br&gt;
-																											
-                                    Local, open-weight models running on older commodity hardware are becoming more and more competitive with models on the frontier. This has big implications for what frontier labs will be able to charge for their biggest models. Many applications don't need the best models, so it's not worth paying the premium.
-                                
-																											
-																										
-																									
-																								
-																							
-																						
-
-																						
-																							
-																								
-																									
-																										
-																											
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fepochai.substack.com%2Fp%2Ffrontier-labs-dont-use-most-ai-compute%3Futm_source=tldrai/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/nWFVevaUtEe2vmJs_9o276J6Yn9rNiZt2Nt3vTiFDtI=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Frontier labs don't use most AI compute (yet) (26 minute read)&lt;/strong&gt;
-                                    
-																											&lt;/a&gt;
-																											&lt;br&gt;
-																											&lt;br&gt;
-																											
-                                    The current rate of scaling compute isn't sustainable unless AI starts to dramatically accelerate economic growth. There is no guarantee that this rate of AI capex spending can continue after 2026. However, flat compute capex is still growing the compute stock for years. AI chips will still improve, and companies can research and train models even with a fixed amount of compute.
-                                
-																											
-																										
-																									
-																								
-																							
-																						
-
-																					
-																				
-																			
-																		
-
-																		
-																			
-																				
-																					
-																						
-																							🧑‍💻
-																						
-																					
-																				
-																			
-																		
-
-																		
-																			
-																				
-																					
-																						
-																							
-
-																								&lt;h1&gt;&lt;strong&gt;Engineering &amp;amp; Research&lt;/strong&gt;&lt;/h1&gt;
-																							
-																						
-																					
-																				
-																			
-																		
-
-																		
-																			
-																				
-																					
-
-																						
-																							
-																								
-																									
-																										
-																											
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.datadoghq.com%2Fresources%2Fllm-observability-best-practices%2F%3Futm_source=tldrnewsletter%26utm_medium=newsletter%26utm_campaign=dg-coreplatform-ww-llm-best-practices-tldr-ai/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/aOBNS_xdPVakFEZTOjiJsjoHNgh_10n7WdDcrrlsCbU=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Datadog's best practices for LLM observability (Sponsor)&lt;/strong&gt;
-                                    
-																											&lt;/a&gt;
-																											&lt;br&gt;
-																											&lt;br&gt;
-																											
-                                    It's 10 o'clock. Do you know where your LLMs are? In &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.datadoghq.com%2Fresources%2Fllm-observability-best-practices%2F%3Futm_source=tldrnewsletter%26utm_medium=newsletter%26utm_campaign=dg-coreplatform-ww-llm-best-practices-tldr-ai/2/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/gZasZD7PVJVeXLOSRijuqOJhjtrcUVkjiXVxyeIAldw=452" rel="noopener noreferrer"&gt;this Datadog guide&lt;/a&gt;, you'll learn how to monitor LLM workflows end-to-end, detect security risks, and deploy mitigation steps. You don't need to be on high alert if your system is reliable. Read the guide to see how to &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.datadoghq.com%2Fresources%2Fllm-observability-best-practices%2F%3Futm_source=tldrnewsletter%26utm_medium=newsletter%26utm_campaign=dg-coreplatform-ww-llm-best-practices-tldr-ai/3/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/6MVIg7ABABLtm2o7qb6aKlz1tN5yM9rnilRcpN-7pww=452" rel="noopener noreferrer"&gt;build out LLM observability&lt;/a&gt;
-																											
-																											
-																										
-																									
-																								
-																							
-																						
-
-																						
-																							
-																								
-																									
-																										
-																											
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fqwen.ai%2Fblog%3Fid=qwen3.7%26utm_source=tldrai/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/rKjNOBEOkCAbn2v9iu5NMUe9O_A6KsSGc2ghCt4F0TA=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Qwen3.7: The Agent Frontier (15 minute read)&lt;/strong&gt;
-                                    
-																											&lt;/a&gt;
-																											&lt;br&gt;
-																											&lt;br&gt;
-																											
-                                    Alibaba's Qwen team released Qwen3.7-Max as a proprietary agent-foundation model that posts top scores on Terminal-Bench 2.0-Terminus, SWE-Pro, SciCode, MCP-Mark, GPQA Diamond, HMMT Feb 2026, and IMOAnswerBench, with consistent performance across Claude Code, OpenClaw, Qwen Code, and custom harnesses.
-                                
-																											
-																										
-																									
-																								
-																							
-																						
-
-																						
-																							
-																								
-																									
-																										
-																											
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.goodfire.ai%2Fresearch%2Fcan-saes-capture-neural-geometry%3Futm_source=tldrai/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/d0Nv37d-_1RE3ytFBFDkGQ-kvKf6TS_u4t2tyha6Eok=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Can SAEs Capture Neural Geometry? (6 minute read)&lt;/strong&gt;
-                                    
-																											&lt;/a&gt;
-																											&lt;br&gt;
-																											&lt;br&gt;
-																											
-                                    Sparse autoencoders (SAEs) can help explore neural geometry by representing curved manifolds using several distinct methods, including shattering, compact capture, and dilution. The study reveals that each SAE feature only represents part of the whole manifold, necessitating the clustering of features to understand the overall structure. An unsupervised pipeline leveraging these findings could enhance our understanding of neural networks by reconstructing the internal geometric structures on their terms.
-                                
-																											
-																										
-																									
-																								
-																							
-																						
-
-																					
-																				
-																			
-																		
-
-																		
-																			
-																				
-																					
-																						
-																							🎁
-																					
-																				
-																			
-																		
-
-																		
-																			
-																				
-																					
-																						
-																							&lt;strong&gt;&lt;h1&gt;Miscellaneous&lt;/h1&gt;&lt;/strong&gt;
-																						
-																					
-																				
-																			
-																		
-
-																		
-																			
-																				
-																					
-
-																						
-																							
-																								
-																									
-																										
-																											
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FymQq2q/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/kIXEcE8sTC42LSsjFe-QSo0Wh1jOe-S6x6RPSCjXJf8=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;How Google plans to win the AI war (4 minute read)&lt;/strong&gt;
-                                    
-																											&lt;/a&gt;
-																											&lt;br&gt;
-																											&lt;br&gt;
-																											
-                                    Google is aggressively integrating AI into its products to remain competitive while protecting its lucrative core businesses. The company leverages its scale, distribution, and financial resources to deploy AI like Gemini 3.5 Flash and features such as YouTube's "Ask YouTube." Despite challenges, Google aims to maintain market leadership by adapting its offerings swiftly without undermining its existing revenue streams.
-                                
-																											
-																										
-																									
-																								
-																							
-																						
-
-																						
-																							
-																								
-																									
-																										
-																											
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsherwood.news%2Ftech%2Freport-openais-q1-revenue-was-5-7-billion-beating-anthropic%2F%3Futm_source=tldrai/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/Tk-OMvFhbjVoUFt0NtI_-iG6bvYPwm9BOaxCwrjq1Gk=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;OpenAI's Q1 revenue was $5.7 billion, beating Anthropic (2 minute read)&lt;/strong&gt;
-                                    
-																											&lt;/a&gt;
-																											&lt;br&gt;
-																											&lt;br&gt;
-																											
-                                    OpenAI reported $5.7 billion in Q1 revenue, surpassing Anthropic. The high demand for AI inference chips has companies like Amazon, Google, and potentially Microsoft vying to supply custom solutions. Anthropic's rapid adoption by enterprises has exposed compute constraints, leading it to strike deals with multiple providers to secure capacity.
-                                
-																											
-																										
-																									
-																								
-																							
-																						
-
-																					
-																				
-																			
-																		
-
-
-																		
-																			
-																				
-																					
-																						
-																							⚡
-																					
-																				
-																			
-																		
-
-																		
-																			
-																				
-																					
-																						
-																							
-
-																								&lt;h1&gt;&lt;strong&gt;Quick Links&lt;/strong&gt;&lt;/h1&gt;
-																							
-																						
-																					
-																				
-																			
-																		
-
-																		
-																			
-																				
-																					
-
-																						
-																							
-																								
-																									
-																										
-																											
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.algolia.com%2Fresources%2Fasset%2Febook-the-no-code-approach-to-clean-data%3Futm_campaign=tldr_global_b2x_ecomm_ecomm_tof_reach%26utm_medium=display%26utm_source=tldr%26utm_content=tldr_global_b2x_ecomm%26utm_term=ebo_the-no-code-approach-to-clean-data%26utm_camp_parent=b2x_ecomm%26utm_2nd_camp=ecomm_tof%26utm_region=global%26utm_goal=reach%26utm_creative_format=prmrynwsl%26utm_model=cpm%26utm_marketing_tactic=reach/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/4JovBAZyj9TmWiDxSqw5AUSUVI0wMZUlBaOIC_SeKAY=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Clean data shouldn't require code (Sponsor)&lt;/strong&gt;
-                                    
-																											&lt;/a&gt;
-																											&lt;br&gt;
-																											&lt;br&gt;
-																											
-                                    AI is stalling and data is the bottleneck. This Algolia white paper explains how orgs can get clean, searchable data without writing new code. &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.algolia.com%2Fresources%2Fasset%2Febook-the-no-code-approach-to-clean-data%3Futm_campaign=tldr_global_b2x_ecomm_ecomm_tof_reach%26utm_medium=display%26utm_source=tldr%26utm_content=tldr_global_b2x_ecomm%26utm_term=ebo_the-no-code-approach-to-clean-data%26utm_camp_parent=b2x_ecomm%26utm_2nd_camp=ecomm_tof%26utm_region=global%26utm_goal=reach%26utm_creative_format=prmrynwsl%26utm_model=cpm%26utm_marketing_tactic=reach/2/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/OUtGisWCjeIOvsWpSZ4zoJCfDS6cigo6_P9yOzUazOw=452" rel="noopener noreferrer"&gt;Read &lt;em&gt;The No-Code Approach to Clean Data&lt;/em&gt;&lt;/a&gt;
-
-																											&lt;p&gt;&lt;/p&gt;
-
-																											&lt;p&gt;
-
-
-																											&lt;/p&gt;
-																											
-																									
-																								
-																							
-																						
-
-																						
-																							
-																								
-																									
-																										
-																											
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.windowscentral.com%2Fmicrosoft%2Fmicrosoft-cancels-claude-code-licenses-shifting-developers-to-github-copilot-cli-a-move-likely-driven-by-financial-motives%3Futm_source=tldrai/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/-fuI6hLCVYUiGrf0UTr4m9SNpFQk5w0PZy2xUdwEreI=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Microsoft cancels Claude Code licenses, shifting developers to GitHub Copilot CLI — a move likely driven by financial motives (2 minute read)&lt;/strong&gt;
-                                    
-																											&lt;/a&gt;
-																											&lt;br&gt;
-																											&lt;br&gt;
-																											
-                                    Canceling Claude Code licenses could help Microsoft cut its operational costs.
-                                
-																											
-																										
-																									
-																								
-																							
-																						
-
-																						
-																							
-																								
-																									
-																										
-																											
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffinance.yahoo.com%2Fsectors%2Ftechnology%2Farticles%2Fanthropic-consulting-venture-makes-first-120000326.html%3Futm_source=tldrai/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/uKXN5qhi8anxX_1hLywiNSu_rlkmO2TBFfiolFS0xfw=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Anthropic's New Consulting Venture Makes Its First Acquisition (3 minute read)&lt;/strong&gt;
-                                    
-																											&lt;/a&gt;
-																											&lt;br&gt;
-																											&lt;br&gt;
-																											
-                                    The yet-unnamed venture has picked Fractional AI as its operational centerpiece.
-                                
-																											
-																										
-																									
-																								
-																							
-																						
-
-																						
-																							
-																								
-																									
-																										
-																											
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2F2026.stateofai.dev%2Fen-US%3Futm_source=tldrai/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/WmniUv6D0FYOUQo_Puo4PlfIbNeH9vrIyZY-48Z4Dpg=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;State of AI 2026 (8 minute read)&lt;/strong&gt;
-                                    
-																											&lt;/a&gt;
-																											&lt;br&gt;
-																											&lt;br&gt;
-																											
-                                    The 2026 edition of the State of Web Dev AI studies the impact of AI on developer work and the world at large.
-                                
-																											
-																										
-																									
-																								
-																							
-																						
-
-																						
-																							
-																								
-																									
-																										
-																											
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthenextweb.com%2Fnews%2Fgen-z-commencement-boos-ai-redundancy-cohort%3Futm_source=tldrai/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/1xtJ9KxiG6q6Bx6oo0rQbvPoisKustR4tWjAnvvxWsg=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Gen Z is not booing AI. It is booing its own job market (9 minute read)&lt;/strong&gt;
-                                    
-																											&lt;/a&gt;
-																											&lt;br&gt;
-																											&lt;br&gt;
-																											
-                                    The unemployment-rate gap between entry-level workers and experienced workers has widened sharply post-pandemic, specifically in occupations exposed to AI substitution.
-                                
-																											
-																										
-																									
-																								
-																							
-																						
-
-																					
-																				
-																			
-																		
-
-
-																		
-																		
-																			
-																				
-																					
-
-																						&lt;p&gt;
-																							Love TLDR? Tell your friends and get rewards!
-																						&lt;/p&gt;
-																					
-																				
-																				
-																					
-																						
-																							Share your referral link below with friends to get free TLDR swag!
-																						
-																					
-																				
-																				
-																					
-																						
-																							&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2Ffdcd85a2%2F2/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/_CZ3Gjfl-5qvPeIZUdxCM34np8yDdtiPInBrwenSYFc=452" rel="noopener noreferrer"&gt;https://refer.tldr.tech/fdcd85a2/2&lt;/a&gt;
-																						
-																					
-																				
-																				
-																				
-																					
-																						&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_7241837f4944%2F2/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/p9i_tq-Xveq9mnJjOrWW8LOOskcg0JdI1AtNRMQp6Tg=452" rel="noopener noreferrer"&gt;Track your referrals here.&lt;/a&gt;
-																					
-																				
-																			
-																		
-
-																		
-
-
-																		
-																			
-																				
-																					
-
-																						&lt;p&gt;
-																							Want to advertise in TLDR? 📰
-																						&lt;/p&gt;
-																						
-																							If your company is interested in reaching an audience of AI professionals and decision makers, you may want to &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/sujqtknbA1NY7B2SqZq_tYoPpaDH244FFxq1gHxHepY=452" rel="noopener noreferrer"&gt;&lt;strong&gt;advertise with us&lt;/strong&gt;&lt;/a&gt;.
-																						
-																						&lt;br&gt;
-
-																						
-
-																						&lt;p&gt;
-																							Want to work at TLDR? 💼
-																						&lt;/p&gt;
-																						
-																							&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/4Qu0Vk1cyVs9aOBQLHxGt276G83c-dkH8t8fRXz39JU=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Apply here&lt;/strong&gt;&lt;/a&gt;,
-																							&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/aSrLE7TFKo0iHfMmQvve7PbVwLF48-3vzA8TYx_3WLs=452" rel="noopener noreferrer"&gt;&lt;strong&gt;create your own role&lt;/strong&gt;&lt;/a&gt; or send a friend's resume to &lt;a href="mailto:jobs@tldr.tech" rel="noopener noreferrer"&gt;jobs@tldr.tech&lt;/a&gt; and get $1k if we hire them! TLDR is one of &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/K2m3UxpQjk8wQ7A6wbx7uMtGpJlijBVOeApZ8XD0hdg=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Inc.'s Best Bootstrapped businesses&lt;/strong&gt;&lt;/a&gt; of 2025.
-																						
-																						&lt;br&gt;
-
-																						
-																							If you have any comments or feedback, just respond to this email!
-																							&lt;br&gt;
-																							&lt;br&gt; Thanks for reading,
-																							&lt;br&gt;
-																							&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2Fandrewztan/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/eW2SNLYMjWNf60IREFtfKAFaze9Jvl2SXJPIaxngWCg=452" rel="noopener noreferrer"&gt;Andrew Tan&lt;/a&gt;, &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/ECaUObD2Ymxk2Lf5i5k3X_CEKuIQFHW6mRIp0yNIXBg=452" rel="noopener noreferrer"&gt;Ali Aminian&lt;/a&gt;, &amp;amp; &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fjacob-turner-7521a8198%2F/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/CKav_OSOeboT7C7CmjEtIoROy2mi5FxVXeEuVHSzxxc=452" rel="noopener noreferrer"&gt;Jacob Turner&lt;/a&gt;
-																							&lt;br&gt;
-																							&lt;br&gt;
-																						
-																						&lt;br&gt;
-																					
-																				
-																			
-																		
-
-																		
-																			
-																				
-																					
-																						
-																							&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fai%2Fmanage%3Femail=kob62291404%2540163.com/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/T66IQUTh8Z7IUOEJFzKRB93EQtMr30qluz9SBx4s_xk=452" rel="noopener noreferrer"&gt;Manage your subscriptions&lt;/a&gt; to our other newsletters on tech, startups, and programming. Or if TLDR AI isn't for you, please &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=55cb6de6-43a4-11f1-a6e4-ab0545177c2c%26p=d4f880bc-55d9-11f1-9dcc-0321ff82d917%26pt=campaign%26pv=4%26spa=1779455009%26t=1779456472%26s=acca07294948f5840fca4e8cd4217edd58c70915f05dc617c135c28ad867beca/1/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/SZCzx705D8tzaNZv-hDU-I-dVBcVM2vn9Q9yD5-_Ims=452" rel="noopener noreferrer"&gt;unsubscribe&lt;/a&gt;.
-																							&lt;br&gt;
-
-																						
-																					
-																				
-																			
-																		
-																	
-																
-															
-														
-													
-												
-											
-										
-									
-								
-							
-						
-					
-				
-			
-		
-
-
-
-	
-
-&lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019e4fdef679-2fde0594-4316-4c5c-beff-72f1bd34e511-000000/OF5kq3mIunXafujecdSGWsiizo2Q0kjmRHD-XqB1SeI=452"&gt;
 </content:encoded></item></channel></rss>
