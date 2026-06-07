@@ -1,5 +1,792 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Lenny's NewsLetter</title><link>https://rss.longlone.de5.net/own/da3CNU1jcHUCVx2chac6FrA8DstXNxnw.xml</link><description>Messages from sources matching lenny@substack.com</description><lastBuildDate>Fri, 05 Jun 2026 21:37:20 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/da3CNU1jcHUCVx2chac6FrA8DstXNxnw.xml" rel="self" type="application/rss+xml"></atom:link><item><title>Your AI strategy has a trust problem, not a tooling problem</title><link>https://rss.longlone.de5.net/own/da3CNU1jcHUCVx2chac6FrA8DstXNxnw.xml#item-163</link><guid isPermaLink="false">own-newsletter:item:163</guid><pubDate>Fri, 05 Jun 2026 21:14:33 GMT</pubDate><author>Lenny's Newsletter &lt;lenny@substack.com&gt;</author><description>Your AI strategy has a trust problem, not a tooling problemSo maybe try actually trusting your employees a bit?͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏...</description><content:encoded>&lt;html lang="en" dir="ltr" style="scrollbar-width: thin;scrollbar-color: rgb(219,219,219)rgb(255,255,255);"&gt;&lt;head&gt;&lt;meta charset="utf-8"&gt;&lt;title&gt;Your AI strategy has a trust problem, not a tooling problem&lt;/title&gt;&lt;style&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Lenny's NewsLetter</title><link>https://rss.longlone.de5.net/own/da3CNU1jcHUCVx2chac6FrA8DstXNxnw.xml</link><description>Messages from sources matching lenny@substack.com</description><lastBuildDate>Sun, 07 Jun 2026 13:38:25 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/da3CNU1jcHUCVx2chac6FrA8DstXNxnw.xml" rel="self" type="application/rss+xml"></atom:link><item><title>Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell</title><link>https://rss.longlone.de5.net/own/da3CNU1jcHUCVx2chac6FrA8DstXNxnw.xml#item-164</link><guid isPermaLink="false">own-newsletter:item:164</guid><pubDate>Sun, 07 Jun 2026 12:31:30 GMT</pubDate><author>Lenny's Newsletter &lt;lenny@substack.com&gt;</author><description>Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony FadellListen now | The creator of iPod, iPhone, and Nest on opinion vs. data decisions, why marketing matters, the "three generations" rule behind everything he's shipped, and why AI...</description><content:encoded>&lt;html lang="en" dir="ltr" style="scrollbar-width: thin;scrollbar-color: rgb(219,219,219)rgb(255,255,255);"&gt;&lt;head&gt;&lt;meta charset="utf-8"&gt;&lt;title&gt;Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell&lt;/title&gt;&lt;style&gt;
+@media (max-width: 1024px) {
+  .typography .pullquote-align-left,
+  .typography.editor .pullquote-align-left,
+  .typography .pullquote-align-right,
+  .typography.editor .pullquote-align-right,
+  .typography .pullquote-align-wide,
+  .typography.editor .pullquote-align-wide,
+  .typography .pullquote-align-center,
+  .typography.editor .pullquote-align-center {
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .typography .markup table.image-wrapper img,
+  .typography.editor .markup table.image-wrapper img,
+  .typography .markup table.kindle-wrapper img,
+  .typography.editor .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+@media (min-width: 1024px) {
+  .typography:not(:has(#toc)) .captioned-image-container figure:has(&gt; a.image2-offset-left),
+  .typography.editor:not(:has(#toc)) .captioned-image-container figure:has(&gt; a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  .typography:not(:has(#toc)) .captioned-image-container figure:has(&gt; a.image2-offset-right),
+  .typography.editor:not(:has(#toc)) .captioned-image-container figure:has(&gt; a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (min-width: 1300px) {
+  .typography .captioned-image-container figure:has(&gt; a.image2-offset-left),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  .typography .captioned-image-container figure:has(&gt; a.image2-offset-right),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (max-width: 1024px) {
+  .typography,
+  .typography.editor {
+    /* Disable offset on mobile/tablet */
+  }
+  .typography .captioned-image-container figure:has(&gt; a.image2-align-left),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-align-left),
+  .typography .captioned-image-container figure:has(&gt; a.image2-align-right),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-align-right) {
+    float: none;
+    margin: 1em auto;
+    max-width: 100%;
+    width: auto;
+    padding: 0;
+  }
+  .typography .captioned-image-container figure:has(&gt; a.image2-align-left.thefp),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-align-left.thefp),
+  .typography .captioned-image-container figure:has(&gt; a.image2-align-right.thefp),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-align-right.thefp) {
+    margin: 1em auto;
+  }
+  .typography .captioned-image-container figure:has(&gt; a.image2-offset-left),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-offset-left),
+  .typography .captioned-image-container figure:has(&gt; a.image2-offset-right),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-offset-right) {
+    margin: 1em auto;
+  }
+  .typography .captioned-image-container figure:has(&gt; a.image2-align-left) .image2-inset,
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-align-left) .image2-inset,
+  .typography .captioned-image-container figure:has(&gt; a.image2-align-right) .image2-inset,
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-align-right) .image2-inset {
+    display: block;
+    justify-content: initial;
+  }
+}
+@media (max-width: 768px) {
+  .typography .markup div.sponsorship-campaign-embed,
+  .typography.editor .markup div.sponsorship-campaign-embed {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+  .typography .markup div.sponsorship-campaign-embed:first-child,
+  .typography.editor .markup div.sponsorship-campaign-embed:first-child {
+    margin-top: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.youtube-overlay,
+  .typography.editor .markup div.youtube-overlay,
+  .typography .markup div.vimeo-overlay,
+  .typography.editor .markup div.vimeo-overlay {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 370px) {
+  .typography .markup div.tiktok-wrap,
+  .typography.editor .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.embedded-publication-wrap .embedded-publication.show-subscribe,
+  .typography.editor .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 0px 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed,
+  .typography.editor .markup .twitter-embed,
+  .typography .markup .tweet,
+  .typography.editor .markup .tweet {
+    padding: 12px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed .tweet-text,
+  .typography.editor .markup .twitter-embed .tweet-text,
+  .typography .markup .tweet .tweet-text,
+  .typography.editor .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed .tweet-photos-container.two,
+  .typography.editor .markup .twitter-embed .tweet-photos-container.two,
+  .typography .markup .tweet .tweet-photos-container.two,
+  .typography.editor .markup .tweet .tweet-photos-container.two,
+  .typography .markup .twitter-embed .tweet-photos-container.three,
+  .typography.editor .markup .twitter-embed .tweet-photos-container.three,
+  .typography .markup .tweet .tweet-photos-container.three,
+  .typography.editor .markup .tweet .tweet-photos-container.three,
+  .typography .markup .twitter-embed .tweet-photos-container.four,
+  .typography.editor .markup .twitter-embed .tweet-photos-container.four,
+  .typography .markup .tweet .tweet-photos-container.four,
+  .typography.editor .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed a.expanded-link .expanded-link-img,
+  .typography.editor .markup .twitter-embed a.expanded-link .expanded-link-img,
+  .typography .markup .tweet a.expanded-link .expanded-link-img,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed a.expanded-link .expanded-link-description,
+  .typography.editor .markup .twitter-embed a.expanded-link .expanded-link-description,
+  .typography .markup .tweet a.expanded-link .expanded-link-description,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup .apple-podcast-container,
+  .typography.editor .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed img.install-substack-app-embed-img,
+  .typography.editor .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-text,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-link,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-link {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container {
+    height: 38px;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container a.comment {
+    height: 38px;
+    line-height: 38px;
+    padding-right: 10px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .share-button-container .separator {
+    display: block;
+    margin: 0;
+    height: 8px;
+    border-left: none;
+  }
+}
+@media screen and (max-width: 480px) {
+  .share-button-container a.share.first img {
+    padding-left: 0;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container a.mobile {
+    display: none !important;
+  }
+}
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container {
+    padding: 36px;
+    height: 680px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container .footer {
+    position: absolute;
+    bottom: 36px;
+    margin: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .header-anchor-parent {
+    display: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  .post {
+    padding: 16px 0 0 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-header .post-label {
+    margin-top: 8px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-header .meta-author-wrap.alternative-meta .meta-right-column .post-meta {
+    margin-top: 6px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .footer-facepile-container {
+    height: 64px;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-footer.use-separators {
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-footer.next-prev {
+    height: 64px;
+    justify-content: space-between;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-contributor-footer .post-contributor-bio-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-table-row {
+    display: flex;
+    flex-direction: row;
+  }
+  .post-contributor-footer .post-contributor-bio-userhead-cell,
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    flex-grow: 1;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table-row {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell,
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell {
+    margin: 0 0 16px 0;
+  }
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    width: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls {
+    margin: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls .button.primary {
+    width: 100%;
+  }
+  .post-contributor-footer .post-contributor-bio-text {
+    font-size: 14px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .post-silhouette {
+    padding: 32px 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-title {
+    margin-top: 10.44225025px;
+    height: 120px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta {
+    width: 75%;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta.with-byline-image {
+    margin: 20px 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    padding-right: 16px;
+  }
+}
+@media screen and (max-width: 370px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item.guest-author-publication,
+  .post-meta.alternative-meta .post-meta-item.guest-author-publication {
+    display: none;
+  }
+}
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item .post-meta-button {
+    height: 36px !important;
+    /* important to override in-line height style on emails */
+  }
+  .post-meta .post-meta-item .post-meta-button .meta-button-label {
+    display: none;
+  }
+  .post-meta .post-meta-item .post-meta-button &gt; svg {
+    margin-right: 0;
+  }
+}
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item {
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .floating-subscribe-button {
+    bottom: 20px;
+    right: 20px;
+  }
+}
+@media (max-width: 1024px) {
+  body .pullquote-align-left,
+  body .pullquote-align-right,
+  body .pullquote-align-wide,
+  body .pullquote-align-center {
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  body .markup table.image-wrapper img,
+  body .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+@media (min-width: 1024px) {
+  body:not(:has(#toc)) .captioned-image-container figure:has(&gt; a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  body:not(:has(#toc)) .captioned-image-container figure:has(&gt; a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (min-width: 1300px) {
+  body .captioned-image-container figure:has(&gt; a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  body .captioned-image-container figure:has(&gt; a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (max-width: 1024px) {
+  body {
+    /* Disable offset on mobile/tablet */
+  }
+  body .captioned-image-container figure:has(&gt; a.image2-align-left),
+  body .captioned-image-container figure:has(&gt; a.image2-align-right) {
+    float: none;
+    margin: 1em auto;
+    max-width: 100%;
+    width: auto;
+    padding: 0;
+  }
+  body .captioned-image-container figure:has(&gt; a.image2-align-left.thefp),
+  body .captioned-image-container figure:has(&gt; a.image2-align-right.thefp) {
+    margin: 1em auto;
+  }
+  body .captioned-image-container figure:has(&gt; a.image2-offset-left),
+  body .captioned-image-container figure:has(&gt; a.image2-offset-right) {
+    margin: 1em auto;
+  }
+  body .captioned-image-container figure:has(&gt; a.image2-align-left) .image2-inset,
+  body .captioned-image-container figure:has(&gt; a.image2-align-right) .image2-inset {
+    display: block;
+    justify-content: initial;
+  }
+}
+@media (max-width: 768px) {
+  body .markup div.sponsorship-campaign-embed {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+  body .markup div.sponsorship-campaign-embed:first-child {
+    margin-top: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.youtube-overlay,
+  body .markup div.vimeo-overlay {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 370px) {
+  body .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  body .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 0px 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed,
+  body .markup .tweet {
+    padding: 12px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed .tweet-text,
+  body .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed .tweet-photos-container.two,
+  body .markup .tweet .tweet-photos-container.two,
+  body .markup .twitter-embed .tweet-photos-container.three,
+  body .markup .tweet .tweet-photos-container.three,
+  body .markup .twitter-embed .tweet-photos-container.four,
+  body .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed a.expanded-link .expanded-link-img,
+  body .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed a.expanded-link .expanded-link-description,
+  body .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-link {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 500px) {
+  body .header a.logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+  }
+}
+@media screen and (max-width: 420px) {
+  body .subscription-receipt table:first-of-type .subscription-amount .subscription-discount {
+    width: 72px !important;
+  }
+}
+@media screen and (min-width: 481px) {
+  body .share-button-container {
+    height: auto;
+  }
+}
+@media screen and (max-width: 480px) {
+  body .share-button-container .separator {
+    display: block !important;
+    margin: 0 !important;
+    height: 8px !important;
+    border-left: none !important;
+  }
+}
+@media screen and (max-width: 650px) {
+  .digest .item .post-meta-item.audience {
+    display: none;
+  }
+}
+@media screen and (min-width: 500px) {
+  .digest-publication .logo img {
+    width: 42px;
+    height: 42px;
+    border-radius: 8px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .comments-page .container .comment-list .collapsed-reply {
+    margin-left: calc(10 + 32px - 24px);
+  }
+}
+@media screen and (max-width: 650px) {
+  .comment &gt; .comment-list {
+    padding-left: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .finish-magic-login-modal .modal-content .container {
+    padding: 24px 0;
+  }
+}
+@media (max-width: 650px) {
+  .reader2-text-b3 {
+    line-height: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .reader2-text-h4 {
+    line-height: 24px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .user-profile-modal {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .subscribe-widget form.form .sideBySideWrap button.rightButton {
+    padding: 10px 12px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .pub-icon:hover .logo-hover,
+  .feed-item-icon:hover .logo-hover {
+    display: block;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper {
+    width: 100%;
+    padding: 16px;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper:empty {
+    display: none;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button {
+    width: 100%;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper {
+    padding: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor {
+    padding: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor:active {
+    padding: 0;
+  }
+}
+@media only screen and (max-width: 650px) {
+  .file-embed-button.wide,
+  .file-embed-error-button.wide {
+    display: none;
+  }
+}
+@media only screen and (min-width: 630px) {
+  .file-embed-button.narrow,
+  .file-embed-error-button.narrow {
+    display: none;
+  }
+}
+@media screen and (min-width: 541px) {
+  .audio-player-wrapper .audio-player {
+    min-width: 500px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+@media (min-width: 250px) {
+  .audio-player-wrapper-fancy .audio-player {
+    padding: 32px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:last-of-type {
+    display: block;
+  }
+}
+@media (min-width: 300px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-title {
+    margin-top: 16px;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 15%;
+    width: 15%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+}
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 25%;
+    width: 25%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+@media (min-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 40%;
+    width: 40%;
+  }
+}
+@media (max-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    margin-top: 12px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button {
+    font-size: 13px;
+    padding: 6px 12px;
+    height: auto;
+    margin-top: 10px;
+  }
+}
+@media (min-width: 600px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 55%;
+    width: 55%;
+  }
+}
+@media (max-width: 650px) {
+  .poll-editor-modal {
+    min-width: calc(100% - 20px);
+  }
+}
+@media (max-width: 750px) {
+  .poll-embed .poll-anchor-target .poll-anchor-copy-button {
+    left: 8px;
+    top: 45px;
+  }
+}&lt;/style&gt;&lt;/head&gt;&lt;body class="email-body" style="font-kerning: auto;--image-offset-margin: -120px;"&gt;&lt;img src="https://eotrx.substackcdn.com/o/8f0ce02473671af0/p.gif?token=eyJtIjoiPDIwMjYwNjA3MTIzMTMwLjMuNzg5ZjZjYTIzMDFhNDdlZkBtZzIuc3Vic3RhY2suY29tPiIsInUiOjUwMDkxMzQ2NiwiciI6ImtvYjYyMjkxNDA0QDE2My5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOjE5ODU5MTk1NiwidCI6InBvZGNhc3QiLCJhIjoib25seV9wYWlkIiwicyI6MTA4NDUsImMiOiJwb3N0IiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3ODA4MzYzMTQsImV4cCI6MTc4MzQyODMxNCwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.n7veXzJ-x0iXfiq3IzT55BewL85mCWraObz8MM96P0M" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/&gt;&lt;div class="preview" style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;"&gt;Listen now | The creator of iPod, iPhone, and Nest on opinion vs. data decisions, why marketing matters, the "three generations" rule behind everything he's shipped, and why AI will still need screens&lt;/div&gt;&lt;div class="preview" style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;"&gt;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&amp;#847; &amp;nbsp; &amp;#8199; &amp;#173;&lt;/div&gt;&lt;table class="email-body-container" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td class="content" width="550"&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td class="content" width="550" align="left"&gt;&lt;div style="font-size: 16px;line-height: 26px;max-width: 550px;width: 100%;margin: 0 auto;overflow-wrap: break-word;"&gt;&lt;table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="right" style="height:20px;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ tw-font-body tw-text-ssm tw-text-substack-secondary" style="font-family: SF Pro Text, -apple-system, system-ui, BlinkMacSystemFont, Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;font-size: 13px;color: unset;list-style: none;text-decoration: unset;margin: 0;"&gt;&lt;div class="pencraft pc-reset align-right-VJbKw5 size-12-mmZ61m reset-IxiVJZ" style="list-style: none;color: unset;text-align: right;font-size: 12px;line-height: 16px;text-decoration: unset;margin: 0;"&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ" translated="" style="list-style: none;color: unset;text-decoration: unset;margin: 0;"&gt;Forwarded this email? &lt;a class="pencraft pc-reset decoration-underline-ClTkYc reset-IxiVJZ" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cubGVubnlzbmV3c2xldHRlci5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9ZW1haWwmdXRtX2NhbXBhaWduPWVtYWlsLXN1YnNjcmliZSZyPThhOGJheSZuZXh0PWh0dHBzJTNBJTJGJTJGd3d3Lmxlbm55c25ld3NsZXR0ZXIuY29tJTJGcCUyRmZhdGhlci1vZi10aGUtaXBvZC1hbmQtaXBob25lLW9uIiwicCI6MTk4NTkxOTU2LCJzIjoxMDg0NSwiZiI6dHJ1ZSwidSI6NTAwOTEzNDY2LCJpYXQiOjE3ODA4MzYzMTMsImV4cCI6MjA5NjQxMjMxMywiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.lZDpfMXn_N07d4qEt4z2x7ovqZtH0Ve685ASFJ6uYow?" style="list-style: none;color: unset;text-decoration: unset;margin: 0;-webkit-text-decoration-line: underline;text-decoration-line: underline;"&gt;Subscribe here&lt;/a&gt; for more&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;div style="font-size: 16px;line-height: 26px;height: 8px"&gt;&amp;nbsp;&lt;/div&gt;&lt;a href="https://substack.com/app-link/post?publication_id=10845&amp;post_id=198591956&amp;utm_source=podcast-email&amp;play_audio=true&amp;r=8a8bay&amp;utm_campaign=email-play-on-substack&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5ODU5MTk1NiwiaWF0IjoxNzgwODM2MzEzLCJleHAiOjE3ODM0MjgzMTMsImlzcyI6InB1Yi0xMDg0NSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.gp3iZh9JH5bwvPVIVC3mG9d2c3MRhwIsEW3P0iE0Ano&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=play_card#play" style="text-decoration:none;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="background-color:#f47c55;border-radius:12px;table-layout:fixed;width:100%;max-width:100vw;padding:16px;padding-bottom:20px;background:linear-gradient(180deg, rgba(159,130,107,0.75), rgba(65,52,41,0.75)), rgb(35,37,37);white-space:normal;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="overflow:hidden;white-space:normal;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;a href="https://substack.com/app-link/post?publication_id=10845&amp;post_id=198591956&amp;utm_source=podcast-email&amp;play_audio=true&amp;r=8a8bay&amp;utm_campaign=email-play-on-substack&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5ODU5MTk1NiwiaWF0IjoxNzgwODM2MzEzLCJleHAiOjE3ODM0MjgzMTMsImlzcyI6InB1Yi0xMDg0NSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.gp3iZh9JH5bwvPVIVC3mG9d2c3MRhwIsEW3P0iE0Ano&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=play_card_show_logo#play" data-native="true" style="width:56px;height:56px;"&gt;&lt;img class="pencraft pc-reset outline-detail-vcQLyr pub-logo-m0IFm6 static-XUAQjT" src="https://substackcdn.com/image/fetch/$s_!qLXH!,w_112,h_112,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a35cda2-e0cd-4d94-87f0-cce699c3a853_2048x2048.png" width="56" height="56" alt="Lenny's Newsletter" name="Lenny's Newsletter" style="text-decoration: unset;list-style: none;outline: 1px solid rgb(0,0,0,.1);outline-offset: -1px;border-radius: 8px;box-sizing: border-box;background-color: rgb(255,255,255);margin: 0;flex-shrink: 0;max-width: 550px;border: none !important;vertical-align: middle;"&gt;&lt;/a&gt;&lt;/td&gt;&lt;td width="16" style="min-width:16px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a class="pencraft pc-opacity-80 pc-minWidth-0 pc-reset overflow-hidden-WdpwT6 ellipsis-Jb8om8 color-white-rGgpJs line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" href="https://substack.com/app-link/post?publication_id=10845&amp;post_id=198591956&amp;utm_source=podcast-email&amp;play_audio=true&amp;r=8a8bay&amp;utm_campaign=email-play-on-substack&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5ODU5MTk1NiwiaWF0IjoxNzgwODM2MzEzLCJleHAiOjE3ODM0MjgzMTMsImlzcyI6InB1Yi0xMDg0NSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.gp3iZh9JH5bwvPVIVC3mG9d2c3MRhwIsEW3P0iE0Ano&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=play_card_show_title#play" style="list-style: none;opacity: .8;min-width: 0;color: rgb(255,255,255);text-decoration: unset;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;margin: 0;font-size: 11px;line-height: 20px;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;"&gt;Lenny's Podcast: Product | Ca&amp;#8230;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class="pencraft pc-minWidth-0 pc-reset overflow-hidden-WdpwT6 ellipsis-Jb8om8 color-white-rGgpJs line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-semibold-uqA4FV reset-IxiVJZ" style="list-style: none;min-width: 0;color: rgb(255,255,255);text-decoration: unset;overflow: hidden;text-overflow: ellipsis;margin: 0;font-size: 15px;line-height: 20px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 600;max-width: 420px;white-space: normal" href="https://substack.com/app-link/post?publication_id=10845&amp;post_id=198591956&amp;utm_source=podcast-email&amp;play_audio=true&amp;r=8a8bay&amp;utm_campaign=email-play-on-substack&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5ODU5MTk1NiwiaWF0IjoxNzgwODM2MzEzLCJleHAiOjE3ODM0MjgzMTMsImlzcyI6InB1Yi0xMDg0NSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.gp3iZh9JH5bwvPVIVC3mG9d2c3MRhwIsEW3P0iE0Ano&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=play_card_post_title#play"&gt;Father of the iPod and iPhone&amp;#8230;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="16"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:center;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="background-color:rgba(0,0,0,0.6);padding:2px 8px;border-radius:6px;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;img src="https://substackcdn.com/image/fetch/$s_!Zpoh!,w_24,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideLock%3Fv%3D4%26height%3D24%26fill%3Dnone%26stroke%3D%2523fff%26strokeWidth%3D2" width="12" height="12" style="border: none;vertical-align: middle;max-width: 12px" alt=""&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;a class="pencraft pc-reset color-white-rGgpJs line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-regular-mUq6Gb transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" href="https://substack.com/app-link/post?publication_id=10845&amp;post_id=198591956&amp;utm_source=podcast-email&amp;play_audio=true&amp;r=8a8bay&amp;utm_campaign=email-play-on-substack&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5ODU5MTk1NiwiaWF0IjoxNzgwODM2MzEzLCJleHAiOjE3ODM0MjgzMTMsImlzcyI6InB1Yi0xMDg0NSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.gp3iZh9JH5bwvPVIVC3mG9d2c3MRhwIsEW3P0iE0Ano&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=play_card_preview_link#play" style="list-style: none;color: rgb(255,255,255);text-decoration: unset;margin: 0;font-size: 11px;line-height: 20px;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;text-transform: uppercase;letter-spacing: .2px;"&gt;Preview&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:center;white-space:nowrap;"&gt;&lt;a class="pencraft pc-reset color-white-rGgpJs line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-regular-mUq6Gb transform-uppercase-yKDgcq nowrap-QngyoB reset-IxiVJZ meta-EgzBVA" href="https://substack.com/app-link/post?publication_id=10845&amp;post_id=198591956&amp;utm_source=podcast-email&amp;play_audio=true&amp;r=8a8bay&amp;utm_campaign=email-play-on-substack&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5ODU5MTk1NiwiaWF0IjoxNzgwODM2MzEzLCJleHAiOjE3ODM0MjgzMTMsImlzcyI6InB1Yi0xMDg0NSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.gp3iZh9JH5bwvPVIVC3mG9d2c3MRhwIsEW3P0iE0Ano&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=play_card_duration#play" style="list-style: none;color: rgb(255,255,255);text-decoration: unset;margin: 0;font-size: 11px;line-height: 20px;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;text-transform: uppercase;white-space: nowrap;letter-spacing: .2px;"&gt;0:00&lt;/a&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:center;width:100%;"&gt;&lt;a href="https://substack.com/app-link/post?publication_id=10845&amp;post_id=198591956&amp;utm_source=podcast-email&amp;play_audio=true&amp;r=8a8bay&amp;utm_campaign=email-play-on-substack&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5ODU5MTk1NiwiaWF0IjoxNzgwODM2MzEzLCJleHAiOjE3ODM0MjgzMTMsImlzcyI6InB1Yi0xMDg0NSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.gp3iZh9JH5bwvPVIVC3mG9d2c3MRhwIsEW3P0iE0Ano&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=play_card_progress_bar#play" style="display:block;background-color:rgba(255,255,255,0.4);border-radius:9999px;height:4px;width:100%;"&gt;&lt;/a&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:center;white-space:nowrap;"&gt;&lt;a class="pencraft pc-reset color-white-rGgpJs line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-regular-mUq6Gb transform-uppercase-yKDgcq nowrap-QngyoB reset-IxiVJZ meta-EgzBVA" href="https://substack.com/app-link/post?publication_id=10845&amp;post_id=198591956&amp;utm_source=podcast-email&amp;play_audio=true&amp;r=8a8bay&amp;utm_campaign=email-play-on-substack&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5ODU5MTk1NiwiaWF0IjoxNzgwODM2MzEzLCJleHAiOjE3ODM0MjgzMTMsImlzcyI6InB1Yi0xMDg0NSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.gp3iZh9JH5bwvPVIVC3mG9d2c3MRhwIsEW3P0iE0Ano&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=play_card_duration#play" style="list-style: none;color: rgb(255,255,255);text-decoration: unset;margin: 0;font-size: 11px;line-height: 20px;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;text-transform: uppercase;white-space: nowrap;letter-spacing: .2px;"&gt;1:35:07&lt;/a&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td width="16" style="min-width:16px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:center;"&gt;&lt;a href="https://substack.com/app-link/post?publication_id=10845&amp;post_id=198591956&amp;utm_source=podcast-email&amp;play_audio=true&amp;r=8a8bay&amp;utm_campaign=email-play-on-substack&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5ODU5MTk1NiwiaWF0IjoxNzgwODM2MzEzLCJleHAiOjE3ODM0MjgzMTMsImlzcyI6InB1Yi0xMDg0NSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.gp3iZh9JH5bwvPVIVC3mG9d2c3MRhwIsEW3P0iE0Ano&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=play_card_play_button#play" data-testid="email-audio-play-button"&gt;&lt;img src="https://substackcdn.com/image/fetch/$s_!x5iK!,w_48,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FPlayIconRounded%3Fv%3D4%26height%3D48%26fill%3Drgba(255%252C255%252C255%252C0.8)%26stroke%3Dnone%26strokeWidth%3D3.6" width="24" height="24" style="border: none;vertical-align: middle;max-width: 24px" alt=""&gt;&lt;/a&gt;&lt;/td&gt;&lt;td width="4" style="min-width:4px;"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/a&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="width:100%;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="font-size: 16px;line-height: 26px;height: 16px"&gt;&amp;nbsp;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="8"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="width:100%;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;width:100%;"&gt;&lt;table class="fullWidth-mgXGs7" role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="box-sizing: border-box;width: 100%;min-height: 40px;padding-left: 0;padding-right: 0;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="fullWidth-mgXGs7 emailButtonTd-o2ymya priority_primary-vWRHI0" align="center" style="box-sizing: border-box;width: 100%;min-height: 40px;padding-left: 0;padding-right: 0;border-radius: 8px;background-color: #f47c55;"&gt;&lt;a class="fullWidth-mgXGs7 emailButtonA-Ktpg7h" href="https://substack.com/app-link/post?publication_id=10845&amp;post_id=198591956&amp;utm_source=podcast-email&amp;play_audio=true&amp;r=8a8bay&amp;utm_campaign=email-play-on-substack&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5ODU5MTk1NiwiaWF0IjoxNzgwODM2MzEzLCJleHAiOjE3ODM0MjgzMTMsImlzcyI6InB1Yi0xMDg0NSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.gp3iZh9JH5bwvPVIVC3mG9d2c3MRhwIsEW3P0iE0Ano&amp;utm_content=listen_now_button" style="box-sizing: border-box;width: 100%;min-height: 40px;padding-left: 0;padding-right: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;font-weight: 600;letter-spacing: -.15px;border-radius: 8px;padding: 12px 24px;line-height: 1;text-decoration: none;display: inline-block;color: #ffffff;border: none;"&gt;&lt;svg class="lucide lucide-headphones" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"&gt;&lt;path d="M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;span style="margin-left:8px;vertical-align:middle;"&gt;Listen now&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="8"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="font-size: 16px;line-height: 26px;height: 16px"&gt;&amp;nbsp;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;div class="post typography" dir="auto" style="--image-offset-margin: -120px;padding: 32px 0 0 0;font-size: 16px;line-height: 26px;"&gt;&lt;div class="post-header" role="region" aria-label="Post header" style="font-size: 16px;line-height: 26px;"&gt;&lt;h1 class="post-title published title-X77sOw" dir="auto" style="direction: auto;text-align: start;unicode-bidi: isolate;color: rgb(54,55,55);font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 0;line-height: 36px;font-size: 32px;"&gt;&lt;a href="https://substack.com/app-link/post?publication_id=10845&amp;post_id=198591956&amp;utm_source=post-email-title&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=8a8bay&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5ODU5MTk1NiwiaWF0IjoxNzgwODM2MzEzLCJleHAiOjE3ODM0MjgzMTMsImlzcyI6InB1Yi0xMDg0NSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.gp3iZh9JH5bwvPVIVC3mG9d2c3MRhwIsEW3P0iE0Ano" style="color: rgb(54,55,55);text-decoration: none;"&gt;Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell&lt;/a&gt;&lt;/h1&gt;&lt;h3 class="subtitle subtitle-HEEcLo" dir="auto" style="direction: auto;text-align: start;unicode-bidi: isolate;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: normal;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 4px 0 0;color: #777777;line-height: 24px;font-size: 18px;margin-top: 12px;"&gt;The creator of the iPod, iPhone, and Nest on opinion vs. data decisions, why marketing matters, the &amp;#8220;three generations&amp;#8221; rule behind everything he&amp;#8217;s shipped, and why AI will still need screens&lt;/h3&gt;&lt;table class="post-meta" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 1em 0;height: 20px;align-items: center;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA custom-css-email-post-author" style="list-style: none;font-size: 11px;line-height: 20px;text-decoration: unset;color: rgb(54,55,55);margin: 0;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;"&gt;&lt;a class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" style="list-style: none;color: rgb(54,55,55);margin: 0;font-size: 11px;line-height: 20px;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;text-decoration: none" href="https://substack.com/@lenny"&gt;Lenny Rachitsky&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" style="list-style: none;font-size: 11px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;"&gt;&lt;time datetime="2026-06-07T12:31:29.975Z"&gt;Jun 7&lt;/time&gt;&lt;/div&gt;&lt;/td&gt;&lt;td width="4" style="min-width:4px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" style="list-style: none;font-size: 11px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;"&gt;&amp;#8729;&lt;/div&gt;&lt;/td&gt;&lt;td width="4" style="min-width:4px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;div class="pencraft pc-reset color-paid-LmY0EP line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" translated="" style="list-style: none;font-size: 11px;line-height: 20px;text-decoration: unset;color: rgb(94,73,217);margin: 0;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;"&gt;Preview&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td align="right"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;a href="https://substack.com/@lenny"&gt;&lt;img class="custom-css-email-avatar avatar-QIQ5yR" src="https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png" style="box-sizing: border-box;max-width: 550px;border: none;vertical-align: middle;width: 40px;height: 40px;min-width: 40px;min-height: 40px;object-fit: cover;margin: 0px;display: inline;border-radius: 50%" width="40" height="40"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table class="email-ufi-2-top" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-top: 1px solid rgb(0,0,0,.1);border-bottom: 1px solid rgb(0,0,0,.1);min-width: 100%;"&gt;&lt;tbody&gt;&lt;tr height="16"&gt;&lt;td height="16" style="font-size:0px;line-height:0;"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=10845&amp;post_id=198591956&amp;utm_source=substack&amp;isFreemail=true&amp;submitLike=true&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5ODU5MTk1NiwicmVhY3Rpb24iOiLinaQiLCJpYXQiOjE3ODA4MzYzMTMsImV4cCI6MTc4MzQyODMxMywiaXNzIjoicHViLTEwODQ1Iiwic3ViIjoicmVhY3Rpb24ifQ.IkzXMPT_1P8KvO_33ZRiwKIbzDKmhoeyGSAZsfwKbE8&amp;utm_medium=email&amp;utm_campaign=email-reaction&amp;r=8a8bay" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!PeVs!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=10845&amp;post_id=198591956&amp;utm_source=substack&amp;utm_medium=email&amp;isFreemail=true&amp;comments=true&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5ODU5MTk1NiwiaWF0IjoxNzgwODM2MzEzLCJleHAiOjE3ODM0MjgzMTMsImlzcyI6InB1Yi0xMDg0NSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.gp3iZh9JH5bwvPVIVC3mG9d2c3MRhwIsEW3P0iE0Ano&amp;r=8a8bay&amp;utm_campaign=email-half-magic-comments&amp;action=post-comment&amp;utm_source=substack&amp;utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!x1tS!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=10845&amp;post_id=198591956&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;utm_campaign=email-share&amp;action=share&amp;triggerShare=true&amp;isFreemail=true&amp;r=8a8bay&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5ODU5MTk1NiwiaWF0IjoxNzgwODM2MzEzLCJleHAiOjE3ODM0MjgzMTMsImlzcyI6InB1Yi0xMDg0NSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.gp3iZh9JH5bwvPVIVC3mG9d2c3MRhwIsEW3P0iE0Ano" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!_L14!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideShare2%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-icon-button" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvbGVubnkvcC9mYXRoZXItb2YtdGhlLWlwb2QtYW5kLWlwaG9uZS1vbj91dG1fc291cmNlPXN1YnN0YWNrJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWVtYWlsLXJlc3RhY2stY29tbWVudCZhY3Rpb249cmVzdGFjay1jb21tZW50JnI9OGE4YmF5JnRva2VuPWV5SjFjMlZ5WDJsa0lqbzFNREE1TVRNME5qWXNJbkJ2YzNSZmFXUWlPakU1T0RVNU1UazFOaXdpYVdGMElqb3hOemd3T0RNMk16RXpMQ0psZUhBaU9qRTNPRE0wTWpnek1UTXNJbWx6Y3lJNkluQjFZaTB4TURnME5TSXNJbk4xWWlJNkluQnZjM1F0Y21WaFkzUnBiMjRpZlEuZ3AzaVpoOUpINWJ3dlBWSVZDM21HOWQyYzNNUmh3SXNFVzNQMGlFMEFubyIsInAiOjE5ODU5MTk1NiwicyI6MTA4NDUsImYiOnRydWUsInUiOjUwMDkxMzQ2NiwiaWF0IjoxNzgwODM2MzEzLCJleHAiOjIwOTY0MTIzMTMsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.s3IKI4wEJ4UV79HwsPQdDM7pyD5brl-PiXuqNQKummM?&amp;utm_source=substack&amp;utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!ubXF!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2Fnotes__NoteRestackIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2%26strokeLinecap%3Dround%26strokeLinejoin%3Dround" width="18" height="18" alt="" style="max-width: 550px;border: none !important;vertical-align: middle;"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td align="right"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-button-outline" href="https://open.substack.com/pub/lenny/p/father-of-the-ipod-and-iphone-on?utm_source=email&amp;redirect=app-store&amp;utm_campaign=email-read-in-app" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"&gt;&lt;div class="email-button-spacer" style="font-size: 16px;line-height: 26px;display: inline-block;vertical-align: middle;max-width: 0;min-height: 18px;"&gt;&lt;/div&gt;&lt;span class="email-button-text" style="vertical-align: middle;margin-right: 4px"&gt;READ IN APP&lt;/span&gt;&lt;img class="icon text-icon" src="https://substackcdn.com/image/fetch/$s_!ET-_!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideArrowUpRight%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="min-width: 18px;min-height: 18px;border: none;vertical-align: middle;margin-right: 0;margin-left: 0;max-width: 18px" alt=""&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="16"&gt;&lt;td height="16" style="font-size:0px;line-height:0;"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="post typography" dir="auto" style="--image-offset-margin: -120px;padding: 32px 0 0 0;font-size: 16px;line-height: 26px;"&gt;&lt;div class="body markup" dir="auto" style="text-align: initial;font-size: 16px;line-height: 26px;width: 100%;word-break: break-word;margin-bottom: 16px;"&gt;&lt;div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;margin-top: 0;"&gt;&lt;figure style="width: 100%;margin: 0 auto;"&gt;&lt;table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;/td&gt;&lt;td class="content" align="left" width="1456" style="text-align: center;"&gt;&lt;a class="image-link" target="_blank" href="https://substack.com/redirect/11a36f0a-e484-46a9-a14a-40ed20e7d4a1?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;margin-top: 0;margin-bottom: 0;"&gt;&lt;img class="wide-image" data-attrs="{&amp;quot;src&amp;quot;:&amp;quot;https://substack-post-media.s3.amazonaws.com/public/images/82d24bc6-c1a9-4dd8-9c91-37167359ac4d_1920x1080.png&amp;quot;,&amp;quot;srcNoWatermark&amp;quot;:null,&amp;quot;fullscreen&amp;quot;:null,&amp;quot;imageSize&amp;quot;:null,&amp;quot;height&amp;quot;:819,&amp;quot;width&amp;quot;:1456,&amp;quot;resizeWidth&amp;quot;:null,&amp;quot;bytes&amp;quot;:2228330,&amp;quot;alt&amp;quot;:null,&amp;quot;title&amp;quot;:null,&amp;quot;type&amp;quot;:&amp;quot;image/png&amp;quot;,&amp;quot;href&amp;quot;:&amp;quot;https://youtu.be/RJjl1TwyfWM&amp;quot;,&amp;quot;belowTheFold&amp;quot;:false,&amp;quot;topImage&amp;quot;:true,&amp;quot;internalRedirect&amp;quot;:&amp;quot;https://www.lennysnewsletter.com/i/198591956?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82d24bc6-c1a9-4dd8-9c91-37167359ac4d_1920x1080.png&amp;quot;,&amp;quot;isProcessing&amp;quot;:false,&amp;quot;align&amp;quot;:null,&amp;quot;offset&amp;quot;:false}" alt="" width="550" height="309.375" src="https://substackcdn.com/image/fetch/$s_!Bed3!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82d24bc6-c1a9-4dd8-9c91-37167359ac4d_1920x1080.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"&gt;&lt;/a&gt;&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;strong&gt;Tony Fadell&lt;/strong&gt;&lt;span&gt; created the iPod, co-created the iPhone, and founded Nest (which he sold to Google for $3.2 billion). He&amp;#8217;s co-authored over 300 patents, was part of the legendary team at General Magic, and wrote one of the most important and inspiring books for builders, called &lt;/span&gt;&lt;em&gt;Build&lt;/em&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;&lt;div class="pullquote" style="font-size: 16px;line-height: 26px;border-top: 1px solid rgb(0,0,0,.1);border-bottom: 1px solid rgb(0,0,0,.1);margin: 32px auto;text-align: center;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;font-size: 16px;margin: 32px 0;text-align: center;font-weight: 500;font-style: italic;"&gt;&lt;strong&gt;&lt;span&gt;Listen on &lt;/span&gt;&lt;a href="https://substack.com/redirect/11a36f0a-e484-46a9-a14a-40ed20e7d4a1?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;YouTube&lt;/a&gt;&lt;span&gt;, &lt;/span&gt;&lt;a href="https://substack.com/redirect/edaea144-06e7-4126-bc9c-d3c3ae4616a5?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Spotify&lt;/a&gt;&lt;span&gt;, and &lt;/span&gt;&lt;a href="https://substack.com/redirect/0c04b0b2-b614-49ef-9688-ea75d1721d24?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Apple Podcasts&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: calc(1.375em * 1);"&gt;In our in-depth conversation, we discuss:&lt;/h3&gt;&lt;ol style="margin-top: 0;padding: 0;"&gt;&lt;li style="margin: 8px 0 0 32px;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;The heated internal debates about whether the iPhone should have a physical keyboard&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;Why opinion-based decisions are essential for v1 products&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;Why marketing matters as much as the product itself, and how the iPod almost failed&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;Why voice will eventually become the primary interface with AI&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;Why cognitive surrender to AI is the biggest risk facing product builders today&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div style="font-size: 16px;line-height: 26px;"&gt;&lt;hr style="margin: 32px 0;padding: 0;height: 1px;background: rgb(0,0,0,.1);border: none;"&gt;&lt;/div&gt;&lt;div class="callout-block" data-callout="true" style="font-size: 16px;line-height: 26px;background-color: rgb(238,238,238);border-radius: 8px;margin: 32px 0;padding: 16px 32px;"&gt;&lt;h3 style="font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: calc(1.375em * 1);"&gt;Brought to you by:&lt;/h3&gt;&lt;div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;"&gt;&lt;figure style="width: 100%;margin: 0 auto;"&gt;&lt;table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;/td&gt;&lt;td class="content" align="left" width="1456" style="text-align: center;"&gt;&lt;a class="image-link" target="_blank" href="https://substack.com/redirect/142014d1-b492-41d5-9cf2-4249faeb3499?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"&gt;&lt;img class="wide-image" data-attrs="{&amp;quot;src&amp;quot;:&amp;quot;https://substack-post-media.s3.amazonaws.com/public/images/a427b9f9-7c95-4bd6-912f-16040e3676e8_1974x248.png&amp;quot;,&amp;quot;srcNoWatermark&amp;quot;:null,&amp;quot;fullscreen&amp;quot;:null,&amp;quot;imageSize&amp;quot;:null,&amp;quot;height&amp;quot;:183,&amp;quot;width&amp;quot;:1456,&amp;quot;resizeWidth&amp;quot;:null,&amp;quot;bytes&amp;quot;:52024,&amp;quot;alt&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;title&amp;quot;:null,&amp;quot;type&amp;quot;:&amp;quot;image/png&amp;quot;,&amp;quot;href&amp;quot;:null,&amp;quot;belowTheFold&amp;quot;:false,&amp;quot;topImage&amp;quot;:false,&amp;quot;internalRedirect&amp;quot;:&amp;quot;https://www.lennysnewsletter.com/i/194566669?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa427b9f9-7c95-4bd6-912f-16040e3676e8_1974x248.png&amp;quot;,&amp;quot;isProcessing&amp;quot;:false,&amp;quot;align&amp;quot;:null,&amp;quot;offset&amp;quot;:false}" alt="" title="" width="550" height="69.12774725274726" src="https://substackcdn.com/image/fetch/$s_!5HV4!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa427b9f9-7c95-4bd6-912f-16040e3676e8_1974x248.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"&gt;&lt;/a&gt;&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;font-size: 16px;margin: 8px 0;"&gt;&lt;strong&gt;&lt;a href="https://substack.com/redirect/bea6da9b-6fc1-407f-9812-13be309556e6?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;WorkOS&lt;/a&gt;&lt;/strong&gt;&lt;span&gt;&amp;#8212;Make your app enterprise-ready, with SSO, SCIM, RBAC, and more&lt;/span&gt;&lt;/p&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;font-size: 16px;margin: 8px 0;"&gt;&lt;strong&gt;&lt;a href="https://substack.com/redirect/0f32139f-8d3b-4f5d-86eb-67feb6017286?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Vanta&lt;/a&gt;&lt;/strong&gt;&lt;span&gt;&amp;#8212;Automate compliance, manage risk, and accelerate trust with AI&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;/p&gt;&lt;h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: calc(1.375em * 1);"&gt;Where to find Tony Fadell:&lt;/h3&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; X: &lt;/span&gt;&lt;a href="https://substack.com/redirect/56bca1aa-690e-4cc2-a84f-b19d0262a03b?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://x.com/tfadell&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; LinkedIn: &lt;/span&gt;&lt;a href="https://substack.com/redirect/8eea1788-27ec-4108-baca-f5abf163d49d?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://www.linkedin.com/in/tonyfadell&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Website: &lt;/span&gt;&lt;a href="https://substack.com/redirect/00a0d19b-b93d-44d8-a0c2-b64b44ab66f8?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://www.buildc.com&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;/p&gt;&lt;h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: calc(1.375em * 1);"&gt;Referenced:&lt;/h3&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; &lt;/span&gt;&lt;em&gt;BlackBerry&lt;/em&gt;&lt;span&gt;: &lt;/span&gt;&lt;a href="https://substack.com/redirect/80ba9616-336e-43d8-9a6f-643468fa4bac?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://www.netflix.com/title/81725542&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Functional systems: &lt;/span&gt;&lt;a href="https://substack.com/redirect/76e073d5-9825-4071-a774-522fce7757bb?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://x.com/bhalligan/status/2051873396896518558/photo/1&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Nest: &lt;/span&gt;&lt;a href="https://substack.com/redirect/57df1c8f-4fc2-4e82-86f9-8c1778f4ffd4?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://en.wikipedia.org/wiki/Google_Nest&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Everyone&amp;#8217;s an engineer now: Inside v0&amp;#8217;s mission to create a hundred million builders | Guillermo Rauch (founder and CEO of Vercel, creators of v0 and Next.js): &lt;/span&gt;&lt;a href="https://substack.com/redirect/d2146ed8-4965-4db6-b44a-aad6ea63260e?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://www.lennysnewsletter.com/p/everyones-an-engineer-now-guillermo-rauch&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Hermann Hauser on LinkedIn: &lt;/span&gt;&lt;a href="https://substack.com/redirect/e73ed869-47ad-42e3-be62-d22c123c5721?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://www.linkedin.com/in/hermannhauser&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Acorn Computers: &lt;/span&gt;&lt;a href="https://substack.com/redirect/e4a01225-ff56-4c59-9eba-1a24f2b457e5?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://en.wikipedia.org/wiki/Acorn_Computers&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Skunkworks project: &lt;/span&gt;&lt;a href="https://substack.com/redirect/51f80e84-6def-471a-b7e7-9eb1b87d66ac?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://en.wikipedia.org/wiki/Skunkworks_project&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Netscape Navigator: &lt;/span&gt;&lt;a href="https://substack.com/redirect/a135222d-44f7-44b9-85e8-a3a9db184875?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://en.wikipedia.org/wiki/Netscape_Navigator&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Unpacking Amazon&amp;#8217;s unique ways of working | Bill Carr (author of Working Backwards): &lt;/span&gt;&lt;a href="https://substack.com/redirect/01965745-2da5-4240-b5e9-6dc51d0e8255?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://www.lennysnewsletter.com/p/unpacking-amazons-unique-ways-of&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; &lt;/span&gt;&lt;em&gt;General Magic&lt;/em&gt;&lt;span&gt;: &lt;/span&gt;&lt;a href="https://substack.com/redirect/619e60ef-c87b-4b98-b34a-69903762db84?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://www.imdb.com/title/tt6849786&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Dario Amodei&amp;#8217;s website: &lt;/span&gt;&lt;a href="https://substack.com/redirect/7c990433-7f7b-487c-8fc0-b547fa8bde19?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://www.darioamodei.com&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Flighty: &lt;/span&gt;&lt;a href="https://substack.com/redirect/20faecce-7fa1-4a3b-9980-e6764317762b?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://flighty.com&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Dave Chappelle: &lt;/span&gt;&lt;a href="https://substack.com/redirect/38890339-8efc-4fdf-b20f-db799935384d?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://en.wikipedia.org/wiki/Dave_Chappelle&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Humane Inc.: &lt;/span&gt;&lt;a href="https://substack.com/redirect/d807ce7d-ad20-44f3-8025-20e174fa8a43?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://en.wikipedia.org/wiki/Humane_Inc&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; &lt;/span&gt;&lt;em&gt;Her&lt;/em&gt;&lt;span&gt;: &lt;/span&gt;&lt;a href="https://substack.com/redirect/748481b1-e2fd-4729-bda2-7097df0941e1?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://www.imdb.com/title/tt1798709&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Spike Jonze: &lt;/span&gt;&lt;a href="https://substack.com/redirect/e1a4189d-8c74-4bdb-9284-b9a5ec8dc1d2?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://en.wikipedia.org/wiki/Spike_Jonze&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Waymo: &lt;/span&gt;&lt;a href="https://substack.com/redirect/bd93d22c-dde6-41ab-a3ea-976178fe8483?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://waymo.com&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel: &lt;/span&gt;&lt;a href="https://substack.com/redirect/66bca6ab-8c8d-4d6d-a8ff-09134df27f6c?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Simbe Robotics: &lt;/span&gt;&lt;a href="https://substack.com/redirect/7cb269fd-9fb0-4bcc-ba9e-a305e0869ae6?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://www.simberobotics.com&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Greyparrot: &lt;/span&gt;&lt;a href="https://substack.com/redirect/7262e345-6234-42fb-83e4-d0d9dcc8299d?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://www.greyparrot.ai&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Grok: &lt;/span&gt;&lt;a href="https://substack.com/redirect/bc382484-2979-404e-ac01-590fed8ff7a6?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://grok.com&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Cerebras: &lt;/span&gt;&lt;a href="https://substack.com/redirect/bb67145d-29a4-47f8-b561-bb385aeda1c5?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://www.cerebras.ai&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; Esther 4:14: &lt;/span&gt;&lt;a href="https://substack.com/redirect/d9ee18b5-76c3-444e-a2ec-5ce3fd52a73f?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://www.biblegateway.com/verse/en/Esther%204%3A14&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; iPod Inventor and Nest Founder Tony Fadell Named MAD&amp;#8217;s Inaugural Designer in Residence: &lt;/span&gt;&lt;a href="https://substack.com/redirect/667d18e7-2a4b-410b-bd93-4ca706c788e0?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://mad.mit.edu/news/ipod-inventor-and-nest-founder-tony-fadell-named-mit-morningside-academy-for-design-s-inaugural-designer-in-residence&lt;/a&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;/p&gt;&lt;h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: calc(1.375em * 1);"&gt;Recommended books:&lt;/h3&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; &lt;/span&gt;&lt;em&gt;Build: An Unorthodox Guide to Making Things Worth Making&lt;/em&gt;&lt;span&gt;: &lt;/span&gt;&lt;a href="https://substack.com/redirect/d312b7a0-7208-4669-8e56-ab017fd36665?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://www.amazon.com/dp/0063046067&lt;/a&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;&amp;#8226; &lt;/span&gt;&lt;em&gt;Working Backwards: Insights, Stories, and Secrets from Inside Amazon&lt;/em&gt;&lt;span&gt;: &lt;/span&gt;&lt;a href="https://substack.com/redirect/fcc3f320-9b44-45c9-8350-edb2a40dbb0b?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250275717&lt;/a&gt;&lt;/p&gt;&lt;div style="font-size: 16px;line-height: 26px;"&gt;&lt;hr style="margin: 32px 0;padding: 0;height: 1px;background: rgb(0,0,0,.1);border: none;"&gt;&lt;/div&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;Production and marketing by &lt;/span&gt;&lt;a href="https://substack.com/redirect/1e94de41-fc01-4282-b9bf-08d06b2e7f7b?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;https://penname.co/&lt;/a&gt;&lt;span&gt;. For inquiries about sponsoring the podcast, email &lt;/span&gt;&lt;a href="https://substack.com/redirect/fade815e-839d-4be3-8c80-f580a1621780?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;podcast@lennyrachitsky.com&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;em&gt;Lenny may be an investor in the companies discussed.&lt;/em&gt;&lt;/p&gt;&lt;div style="font-size: 16px;line-height: 26px;"&gt;&lt;hr style="margin: 32px 0;padding: 0;height: 1px;background: rgb(0,0,0,.1);border: none;"&gt;&lt;/div&gt;&lt;h2 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: calc(1.625em * 1);margin-bottom: 0;"&gt;My biggest takeaways from this conversation:...&lt;/h2&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="paywall paywall-white-background" data-testid="paywall" data-component-name="Paywall" role="region" aria-label="Paywall" style="position: relative;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';text-align: center;margin-bottom: 16px;cursor: default;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;line-height: 26px;font-size: 16px;padding: 32px 24px 16px 24px;background: rgb(255,255,255);color: rgb(54,55,55);border-top: solid 2px #f47c55;margin-top: 6px;"&gt;&lt;h2 class="paywall-title" style="font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 0 auto;color: inherit !important;font-size: 22px;font-weight: 700;line-height: 33px;margin-bottom: 6px;"&gt;Subscribe to Lenny's Newsletter to unlock the rest.&lt;/h2&gt;&lt;p class="paywall-subtitle" style="margin: 0 auto;color: inherit !important;font-size: 16px;font-weight: light;line-height: 24px;margin-bottom: 24px;"&gt;Become a paying subscriber of Lenny's Newsletter to get access to this post and other subscriber-only content.&lt;/p&gt;&lt;div class="paywall-cta" style="font-size: 16px;line-height: 26px;margin-top: 0;"&gt;&lt;a class="button primary subscribe-btn" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cubGVubnlzbmV3c2xldHRlci5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9cG9zdCZ1dG1fY2FtcGFpZ249ZW1haWwtY2hlY2tvdXQmbmV4dD1odHRwcyUzQSUyRiUyRnd3dy5sZW5ueXNuZXdzbGV0dGVyLmNvbSUyRnAlMkZmYXRoZXItb2YtdGhlLWlwb2QtYW5kLWlwaG9uZS1vbiZyPThhOGJheSZ0b2tlbj1leUoxYzJWeVgybGtJam8xTURBNU1UTTBOallzSW1saGRDSTZNVGM0TURnek5qTXhNeXdpWlhod0lqb3hOemd6TkRJNE16RXpMQ0pwYzNNaU9pSndkV0l0TVRBNE5EVWlMQ0p6ZFdJaU9pSmphR1ZqYTI5MWRDSjkuSjB1ekd6T3pFNDNRdkp5OUtac1N2YXNlQnV4eVhOel9oNGI2UWJvTTY4QSIsInAiOjE5ODU5MTk1NiwicyI6MTA4NDUsImYiOnRydWUsInUiOjUwMDkxMzQ2NiwiaWF0IjoxNzgwODM2MzEzLCJleHAiOjIwOTY0MTIzMTMsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.bPAKlpcJ7RqcqaNt6YEeMM74ZYbe3GEyvvXDMWqNHgw?simple=true&amp;utm_source=paywall&amp;utm_medium=email&amp;utm_content=198591956&amp;next=https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;box-sizing: border-box;cursor: pointer;border: none;border-radius: 8px;font-size: 14px;text-align: center;margin: 0;opacity: 1;outline: none;white-space: nowrap;background-color: #f47c55;text-decoration: none !important;color: #ffffff !important;font-weight: 400;padding: 16px 20px;height: auto;line-height: 1em;"&gt;&lt;span style="color: #ffffff;text-decoration: none;"&gt;Upgrade to paid&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="subscription-benefits" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';margin-bottom: 32px;font-size: 16px;line-height: 26px;"&gt;&lt;h3 style="font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: 16px;font-weight: 600;margin-bottom: 26px;"&gt;A subscription gets you:&lt;/h3&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr style="height: 28.8px;"&gt;&lt;td class="check" style="font-weight: light;padding-right: 4px;color: rgb(27,196,125);"&gt;&lt;svg class="lucide lucide-check" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#187F22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"&gt;&lt;path d="M20 6 9 17l-5-5"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/td&gt;&lt;td style="font-weight: light;"&gt;Full archive: 500+ newsletter posts, podcast transcripts &amp;amp; key takeaways&lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 28.8px;"&gt;&lt;td class="check" style="font-weight: light;padding-right: 4px;color: rgb(27,196,125);"&gt;&lt;svg class="lucide lucide-check" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#187F22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"&gt;&lt;path d="M20 6 9 17l-5-5"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/td&gt;&lt;td style="font-weight: light;"&gt;Private Slack with 15K+ PMs, founders &amp;amp; leaders + local meetups, AMAs &amp;amp; mentorship&lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 28.8px;"&gt;&lt;td class="check" style="font-weight: light;padding-right: 4px;color: rgb(27,196,125);"&gt;&lt;svg class="lucide lucide-check" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#187F22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"&gt;&lt;path d="M20 6 9 17l-5-5"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/td&gt;&lt;td style="font-weight: light;"&gt;[Annual &amp;amp; Insider only] Product Pass access: 20+ free premium AI and product tools ($25,000+ in value)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;table class="email-ufi-2-bottom" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-top: 1px solid rgb(0,0,0,.1);border-bottom: 1px solid rgb(0,0,0,.1);min-width: 100%;"&gt;&lt;tbody&gt;&lt;tr height="16"&gt;&lt;td height="16" style="font-size:0px;line-height:0;"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="margin:0 auto;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-button-outline" href="https://substack.com/app-link/post?publication_id=10845&amp;post_id=198591956&amp;utm_source=substack&amp;isFreemail=true&amp;submitLike=true&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5ODU5MTk1NiwicmVhY3Rpb24iOiLinaQiLCJpYXQiOjE3ODA4MzYzMTMsImV4cCI6MTc4MzQyODMxMywiaXNzIjoicHViLTEwODQ1Iiwic3ViIjoicmVhY3Rpb24ifQ.IkzXMPT_1P8KvO_33ZRiwKIbzDKmhoeyGSAZsfwKbE8&amp;utm_medium=email&amp;utm_campaign=email-reaction&amp;r=8a8bay" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!PeVs!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""&gt;&lt;span class="email-button-text" style="vertical-align: middle;"&gt;Like&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-button-outline" href="https://substack.com/app-link/post?publication_id=10845&amp;post_id=198591956&amp;utm_source=substack&amp;utm_medium=email&amp;isFreemail=true&amp;comments=true&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5ODU5MTk1NiwiaWF0IjoxNzgwODM2MzEzLCJleHAiOjE3ODM0MjgzMTMsImlzcyI6InB1Yi0xMDg0NSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.gp3iZh9JH5bwvPVIVC3mG9d2c3MRhwIsEW3P0iE0Ano&amp;r=8a8bay&amp;utm_campaign=email-half-magic-comments&amp;action=post-comment&amp;utm_source=substack&amp;utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!x1tS!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""&gt;&lt;span class="email-button-text" style="vertical-align: middle;"&gt;Comment&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-button-outline" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvbGVubnkvcC9mYXRoZXItb2YtdGhlLWlwb2QtYW5kLWlwaG9uZS1vbj91dG1fc291cmNlPXN1YnN0YWNrJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWVtYWlsLXJlc3RhY2stY29tbWVudCZhY3Rpb249cmVzdGFjay1jb21tZW50JnI9OGE4YmF5JnRva2VuPWV5SjFjMlZ5WDJsa0lqbzFNREE1TVRNME5qWXNJbkJ2YzNSZmFXUWlPakU1T0RVNU1UazFOaXdpYVdGMElqb3hOemd3T0RNMk16RXpMQ0psZUhBaU9qRTNPRE0wTWpnek1UTXNJbWx6Y3lJNkluQjFZaTB4TURnME5TSXNJbk4xWWlJNkluQnZjM1F0Y21WaFkzUnBiMjRpZlEuZ3AzaVpoOUpINWJ3dlBWSVZDM21HOWQyYzNNUmh3SXNFVzNQMGlFMEFubyIsInAiOjE5ODU5MTk1NiwicyI6MTA4NDUsImYiOnRydWUsInUiOjUwMDkxMzQ2NiwiaWF0IjoxNzgwODM2MzEzLCJleHAiOjIwOTY0MTIzMTMsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.s3IKI4wEJ4UV79HwsPQdDM7pyD5brl-PiXuqNQKummM?&amp;utm_source=substack&amp;utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!ubXF!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2Fnotes__NoteRestackIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2%26strokeLinecap%3Dround%26strokeLinejoin%3Dround" width="18" height="18" alt="" style="margin-right: 8px;min-width: 18px;min-height: 18px;max-width: 550px;border: none !important;vertical-align: middle;"&gt;&lt;span class="email-button-text" style="vertical-align: middle;"&gt;Restack&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td align="right"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="16"&gt;&lt;td height="16" style="font-size:0px;line-height:0;"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;div class="footer footer-ZM59BM" style="color: rgb(119,119,119);text-align: center;font-size: 16px;line-height: 26px;padding: 24px0;"&gt;&lt;div style="font-size: 16px;line-height: 26px;padding-bottom: 24px"&gt;&lt;p class="pencraft pc-reset color-secondary-ls1g8s size-12-mmZ61m reset-IxiVJZ small meta-B2bqa5" style="list-style: none;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';padding-bottom: 0;font-size: 12px;line-height: 16px;margin: 0;color: rgb(119,119,119);text-decoration: unset;"&gt;&amp;#169; 2026 &lt;span&gt;&lt;/span&gt;&lt;br&gt;2443 Fillmore St., #380-8231, San Francisco, CA 94115 &lt;br&gt;&lt;a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cubGVubnlzbmV3c2xldHRlci5jb20vYWN0aW9uL2Rpc2FibGVfZW1haWw_dG9rZW49ZXlKMWMyVnlYMmxrSWpvMU1EQTVNVE0wTmpZc0luQnZjM1JmYVdRaU9qRTVPRFU1TVRrMU5pd2lhV0YwSWpveE56Z3dPRE0yTXpFekxDSmxlSEFpT2pFNE1USXpOekl6TVRNc0ltbHpjeUk2SW5CMVlpMHhNRGcwTlNJc0luTjFZaUk2SW1ScGMyRmliR1ZmWlcxaGFXd2lmUS41dmtDb01nQm9Eel9WTU51RHBjRll5THV6OGRXeXhjWFNmWUhKaVp5czJzIiwicCI6MTk4NTkxOTU2LCJzIjoxMDg0NSwiZiI6dHJ1ZSwidSI6NTAwOTEzNDY2LCJpYXQiOjE3ODA4MzYzMTMsImV4cCI6MjA5NjQxMjMxMywiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.B4yndLRuSkdeY_Jt2PE6K3hiV5oolzGaOwNWeZiJxVw?" style="text-decoration: underline;color: rgb(119,119,119);"&gt;&lt;span style="color: rgb(119,119,119);text-decoration: underline;"&gt;Unsubscribe&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;p class="footerSection-EHR0jG small powered-by-substack" style="padding: 0 24px;font-size: 12px;line-height: 20px;margin: 0;color: rgb(119,119,119);font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';padding-bottom: 0;margin-top: 0;"&gt;&lt;a href="https://substack.com/redirect/d66c5921-97c2-49f1-bb3f-165975614e32?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(119,119,119);text-decoration: none;display: inline-block;margin: 0 4px;"&gt;&lt;img src="https://substackcdn.com/image/fetch/$s_!IzGP!,w_262,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%402x.png" srcset="https://substackcdn.com/image/fetch/$s_!DIki!,w_131,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button.png, https://substackcdn.com/image/fetch/$s_!IzGP!,w_262,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%402x.png 2x, https://substackcdn.com/image/fetch/$s_!QWua!,w_393,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%403x.png 3x" width="131" alt="Get the app" height="40" style="max-width: 550px;border: none !important;vertical-align: middle;"&gt;&lt;/a&gt;&lt;a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1rb2I2MjI5MTQwNEAxNjMuY29tJnI9OGE4YmF5IiwicCI6MTk4NTkxOTU2LCJzIjoxMDg0NSwiZiI6dHJ1ZSwidSI6NTAwOTEzNDY2LCJpYXQiOjE3ODA4MzYzMTMsImV4cCI6MjA5NjQxMjMxMywiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.plotrxeV5oW4crRyZMdM4IKvBQGS6FbfWX3UCOYPXhQ?" style="color: rgb(119,119,119);text-decoration: none;display: inline-block;margin: 0 4px;"&gt;&lt;img src="https://substackcdn.com/image/fetch/$s_!LkrL!,w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png" srcset="https://substackcdn.com/image/fetch/$s_!wgfj!,w_135,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button.png, https://substackcdn.com/image/fetch/$s_!LkrL!,w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png 2x, https://substackcdn.com/image/fetch/$s_!KjtY!,w_405,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%403x.png 3x" width="135" alt="Start writing" height="40" style="max-width: 550px;border: none !important;vertical-align: middle;"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;img src="https://eotrx.substackcdn.com/o/b0700b96c2b71c0f/p.gif?token=eyJtIjoiPDIwMjYwNjA3MTIzMTMwLjMuNzg5ZjZjYTIzMDFhNDdlZkBtZzIuc3Vic3RhY2suY29tPiIsInUiOjUwMDkxMzQ2NiwiciI6ImtvYjYyMjkxNDA0QDE2My5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOjE5ODU5MTk1NiwidCI6InBvZGNhc3QiLCJhIjoib25seV9wYWlkIiwicyI6MTA4NDUsImMiOiJwb3N0IiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJib3R0b20iLCJpYXQiOjE3ODA4MzYzMTQsImV4cCI6MTc4MzQyODMxNCwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.gy1h1XndyikikbeAe_jx_ZEnSYCzJI7pnPPOCWsRyRI" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/&gt;&lt;img width="1" height="1" alt="" src="https://email.mg2.substack.com/o/eJxEkFGq8yAQRldTH4PjGKMPriWMOukvTTRE_SG7v7S9cF_PMIfDF6nzs163P2vrInmdwM5WsIfFSosGwQg-KO_rkwtf1Dmt1P-uGhYU_7wmIxO6ECJQkltCh1rjomYgOyNrkb2SykgjF1AIKCecFus2E0mhBNILbw8tj6ea2gitU3xNsR4it3W7-BPg-zVYvDNXGilziexr2e_1pJy-PCcPzs4O3Gy-pN8n-7OmSK2Lc4Q11uMYJfd75UJh5_SrHWHPkXqu5WORVs_i8q8ajFIOtNQPLcHgJ6qNkOpBufidS7lF_443Gl_v51lKB6iNEf-9-gkAAP__mK1xAw"&gt;&lt;/body&gt;&lt;/html&gt;
+</content:encoded></item><item><title>Your AI strategy has a trust problem, not a tooling problem</title><link>https://rss.longlone.de5.net/own/da3CNU1jcHUCVx2chac6FrA8DstXNxnw.xml#item-163</link><guid isPermaLink="false">own-newsletter:item:163</guid><pubDate>Fri, 05 Jun 2026 21:14:33 GMT</pubDate><author>Lenny's Newsletter &lt;lenny@substack.com&gt;</author><description>Your AI strategy has a trust problem, not a tooling problemSo maybe try actually trusting your employees a bit?͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏...</description><content:encoded>&lt;html lang="en" dir="ltr" style="scrollbar-width: thin;scrollbar-color: rgb(219,219,219)rgb(255,255,255);"&gt;&lt;head&gt;&lt;meta charset="utf-8"&gt;&lt;title&gt;Your AI strategy has a trust problem, not a tooling problem&lt;/title&gt;&lt;style&gt;
 @media (max-width: 1024px) {
   .typography .pullquote-align-left,
   .typography.editor .pullquote-align-left,
