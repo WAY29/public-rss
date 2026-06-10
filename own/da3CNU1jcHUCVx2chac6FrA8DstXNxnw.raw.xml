@@ -1,5 +1,791 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Lenny's NewsLetter</title><link>https://rss.longlone.de5.net/own/da3CNU1jcHUCVx2chac6FrA8DstXNxnw.xml</link><description>Messages from sources matching lenny@substack.com</description><lastBuildDate>Sun, 07 Jun 2026 13:38:25 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/da3CNU1jcHUCVx2chac6FrA8DstXNxnw.xml" rel="self" type="application/rss+xml"></atom:link><item><title>Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell</title><link>https://rss.longlone.de5.net/own/da3CNU1jcHUCVx2chac6FrA8DstXNxnw.xml#item-164</link><guid isPermaLink="false">own-newsletter:item:164</guid><pubDate>Sun, 07 Jun 2026 12:31:30 GMT</pubDate><author>Lenny's Newsletter &lt;lenny@substack.com&gt;</author><description>Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony FadellListen now | The creator of iPod, iPhone, and Nest on opinion vs. data decisions, why marketing matters, the "three generations" rule behind everything he's shipped, and why AI...</description><content:encoded>&lt;html lang="en" dir="ltr" style="scrollbar-width: thin;scrollbar-color: rgb(219,219,219)rgb(255,255,255);"&gt;&lt;head&gt;&lt;meta charset="utf-8"&gt;&lt;title&gt;Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell&lt;/title&gt;&lt;style&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Lenny's NewsLetter</title><link>https://rss.longlone.de5.net/own/da3CNU1jcHUCVx2chac6FrA8DstXNxnw.xml</link><description>Messages from sources matching lenny@substack.com</description><lastBuildDate>Wed, 10 Jun 2026 16:42:28 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/da3CNU1jcHUCVx2chac6FrA8DstXNxnw.xml" rel="self" type="application/rss+xml"></atom:link><item><title>5 Career Questions Your Old Playbook Can’t Answer</title><link>https://rss.longlone.de5.net/own/da3CNU1jcHUCVx2chac6FrA8DstXNxnw.xml#item-183</link><guid isPermaLink="false">own-newsletter:item:183</guid><pubDate>Wed, 10 Jun 2026 16:25:45 GMT</pubDate><author>Lenny's Newsletter &lt;lenny@substack.com&gt;</author><description>5 Career Questions Your Old Playbook Can’t AnswerLenny's Newsletter cross-posted an episode from The SkipLenny RachitskyJun 10 · Lenny's Newsletter Nikhyl explores the five most common questions bubbling up from senior product leaders right now: • The PM on the merry-go-round...</description><content:encoded>&lt;html lang="en" dir="ltr" style="scrollbar-width: thin;scrollbar-color: rgb(219,219,219)rgb(255,255,255);"&gt;&lt;head&gt;&lt;meta charset="utf-8"&gt;&lt;title&gt;5 Career Questions Your Old Playbook Can&amp;#8217;t Answer&lt;/title&gt;&lt;style&gt;
+@media (max-width: 1024px) {
+  .typography .pullquote-align-left,
+  .typography.editor .pullquote-align-left,
+  .typography .pullquote-align-right,
+  .typography.editor .pullquote-align-right,
+  .typography .pullquote-align-wide,
+  .typography.editor .pullquote-align-wide,
+  .typography .pullquote-align-center,
+  .typography.editor .pullquote-align-center {
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .typography .markup table.image-wrapper img,
+  .typography.editor .markup table.image-wrapper img,
+  .typography .markup table.kindle-wrapper img,
+  .typography.editor .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+@media (min-width: 1024px) {
+  .typography:not(:has(#toc)) .captioned-image-container figure:has(&gt; a.image2-offset-left),
+  .typography.editor:not(:has(#toc)) .captioned-image-container figure:has(&gt; a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  .typography:not(:has(#toc)) .captioned-image-container figure:has(&gt; a.image2-offset-right),
+  .typography.editor:not(:has(#toc)) .captioned-image-container figure:has(&gt; a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (min-width: 1300px) {
+  .typography .captioned-image-container figure:has(&gt; a.image2-offset-left),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  .typography .captioned-image-container figure:has(&gt; a.image2-offset-right),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (max-width: 1024px) {
+  .typography,
+  .typography.editor {
+    /* Disable offset on mobile/tablet */
+  }
+  .typography .captioned-image-container figure:has(&gt; a.image2-align-left),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-align-left),
+  .typography .captioned-image-container figure:has(&gt; a.image2-align-right),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-align-right) {
+    float: none;
+    margin: 1em auto;
+    max-width: 100%;
+    width: auto;
+    padding: 0;
+  }
+  .typography .captioned-image-container figure:has(&gt; a.image2-align-left.thefp),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-align-left.thefp),
+  .typography .captioned-image-container figure:has(&gt; a.image2-align-right.thefp),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-align-right.thefp) {
+    margin: 1em auto;
+  }
+  .typography .captioned-image-container figure:has(&gt; a.image2-offset-left),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-offset-left),
+  .typography .captioned-image-container figure:has(&gt; a.image2-offset-right),
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-offset-right) {
+    margin: 1em auto;
+  }
+  .typography .captioned-image-container figure:has(&gt; a.image2-align-left) .image2-inset,
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-align-left) .image2-inset,
+  .typography .captioned-image-container figure:has(&gt; a.image2-align-right) .image2-inset,
+  .typography.editor .captioned-image-container figure:has(&gt; a.image2-align-right) .image2-inset {
+    display: block;
+    justify-content: initial;
+  }
+}
+@media (max-width: 768px) {
+  .typography .markup div.sponsorship-campaign-embed,
+  .typography.editor .markup div.sponsorship-campaign-embed {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+  .typography .markup div.sponsorship-campaign-embed:first-child,
+  .typography.editor .markup div.sponsorship-campaign-embed:first-child {
+    margin-top: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.youtube-overlay,
+  .typography.editor .markup div.youtube-overlay,
+  .typography .markup div.vimeo-overlay,
+  .typography.editor .markup div.vimeo-overlay {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 370px) {
+  .typography .markup div.tiktok-wrap,
+  .typography.editor .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.embedded-publication-wrap .embedded-publication.show-subscribe,
+  .typography.editor .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 0px 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed,
+  .typography.editor .markup .twitter-embed,
+  .typography .markup .tweet,
+  .typography.editor .markup .tweet {
+    padding: 12px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed .tweet-text,
+  .typography.editor .markup .twitter-embed .tweet-text,
+  .typography .markup .tweet .tweet-text,
+  .typography.editor .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed .tweet-photos-container.two,
+  .typography.editor .markup .twitter-embed .tweet-photos-container.two,
+  .typography .markup .tweet .tweet-photos-container.two,
+  .typography.editor .markup .tweet .tweet-photos-container.two,
+  .typography .markup .twitter-embed .tweet-photos-container.three,
+  .typography.editor .markup .twitter-embed .tweet-photos-container.three,
+  .typography .markup .tweet .tweet-photos-container.three,
+  .typography.editor .markup .tweet .tweet-photos-container.three,
+  .typography .markup .twitter-embed .tweet-photos-container.four,
+  .typography.editor .markup .twitter-embed .tweet-photos-container.four,
+  .typography .markup .tweet .tweet-photos-container.four,
+  .typography.editor .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed a.expanded-link .expanded-link-img,
+  .typography.editor .markup .twitter-embed a.expanded-link .expanded-link-img,
+  .typography .markup .tweet a.expanded-link .expanded-link-img,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+@media (max-width: 650px) {
+  .typography .markup .twitter-embed a.expanded-link .expanded-link-description,
+  .typography.editor .markup .twitter-embed a.expanded-link .expanded-link-description,
+  .typography .markup .tweet a.expanded-link .expanded-link-description,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+@media screen and (max-width: 650px) {
+  .typography .markup .apple-podcast-container,
+  .typography.editor .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed img.install-substack-app-embed-img,
+  .typography.editor .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-text,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-link,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-link {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container {
+    height: 38px;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container a.comment {
+    height: 38px;
+    line-height: 38px;
+    padding-right: 10px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .share-button-container .separator {
+    display: block;
+    margin: 0;
+    height: 8px;
+    border-left: none;
+  }
+}
+@media screen and (max-width: 480px) {
+  .share-button-container a.share.first img {
+    padding-left: 0;
+  }
+}
+@media screen and (min-width: 481px) {
+  .share-button-container a.mobile {
+    display: none !important;
+  }
+}
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container {
+    padding: 36px;
+    height: 680px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container .footer {
+    position: absolute;
+    bottom: 36px;
+    margin: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .header-anchor-parent {
+    display: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  .post {
+    padding: 16px 0 0 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-header .post-label {
+    margin-top: 8px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-header .meta-author-wrap.alternative-meta .meta-right-column .post-meta {
+    margin-top: 6px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .footer-facepile-container {
+    height: 64px;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-footer.use-separators {
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .post-footer.next-prev {
+    height: 64px;
+    justify-content: space-between;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-contributor-footer .post-contributor-bio-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-table-row {
+    display: flex;
+    flex-direction: row;
+  }
+  .post-contributor-footer .post-contributor-bio-userhead-cell,
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    flex-grow: 1;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table-row {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell,
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell {
+    margin: 0 0 16px 0;
+  }
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    width: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls {
+    margin: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls .button.primary {
+    width: 100%;
+  }
+  .post-contributor-footer .post-contributor-bio-text {
+    font-size: 14px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .post-silhouette {
+    padding: 32px 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-title {
+    margin-top: 10.44225025px;
+    height: 120px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta {
+    width: 75%;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta.with-byline-image {
+    margin: 20px 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    padding-right: 16px;
+  }
+}
+@media screen and (max-width: 370px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item.guest-author-publication,
+  .post-meta.alternative-meta .post-meta-item.guest-author-publication {
+    display: none;
+  }
+}
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item .post-meta-button {
+    height: 36px !important;
+    /* important to override in-line height style on emails */
+  }
+  .post-meta .post-meta-item .post-meta-button .meta-button-label {
+    display: none;
+  }
+  .post-meta .post-meta-item .post-meta-button &gt; svg {
+    margin-right: 0;
+  }
+}
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item {
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post .floating-subscribe-button {
+    bottom: 20px;
+    right: 20px;
+  }
+}
+@media (max-width: 1024px) {
+  body .pullquote-align-left,
+  body .pullquote-align-right,
+  body .pullquote-align-wide,
+  body .pullquote-align-center {
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  body .markup table.image-wrapper img,
+  body .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+@media (min-width: 1024px) {
+  body:not(:has(#toc)) .captioned-image-container figure:has(&gt; a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  body:not(:has(#toc)) .captioned-image-container figure:has(&gt; a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (min-width: 1300px) {
+  body .captioned-image-container figure:has(&gt; a.image2-offset-left) {
+    margin-left: var(--image-offset-margin);
+  }
+  body .captioned-image-container figure:has(&gt; a.image2-offset-right) {
+    margin-right: var(--image-offset-margin);
+  }
+}
+@media (max-width: 1024px) {
+  body {
+    /* Disable offset on mobile/tablet */
+  }
+  body .captioned-image-container figure:has(&gt; a.image2-align-left),
+  body .captioned-image-container figure:has(&gt; a.image2-align-right) {
+    float: none;
+    margin: 1em auto;
+    max-width: 100%;
+    width: auto;
+    padding: 0;
+  }
+  body .captioned-image-container figure:has(&gt; a.image2-align-left.thefp),
+  body .captioned-image-container figure:has(&gt; a.image2-align-right.thefp) {
+    margin: 1em auto;
+  }
+  body .captioned-image-container figure:has(&gt; a.image2-offset-left),
+  body .captioned-image-container figure:has(&gt; a.image2-offset-right) {
+    margin: 1em auto;
+  }
+  body .captioned-image-container figure:has(&gt; a.image2-align-left) .image2-inset,
+  body .captioned-image-container figure:has(&gt; a.image2-align-right) .image2-inset {
+    display: block;
+    justify-content: initial;
+  }
+}
+@media (max-width: 768px) {
+  body .markup div.sponsorship-campaign-embed {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+  body .markup div.sponsorship-campaign-embed:first-child {
+    margin-top: 0px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.youtube-overlay,
+  body .markup div.vimeo-overlay {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 370px) {
+  body .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  body .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 0px 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.subscription-widget-wrap-editor .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed,
+  body .markup .tweet {
+    padding: 12px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed .tweet-text,
+  body .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed .tweet-photos-container.two,
+  body .markup .tweet .tweet-photos-container.two,
+  body .markup .twitter-embed .tweet-photos-container.three,
+  body .markup .tweet .tweet-photos-container.three,
+  body .markup .twitter-embed .tweet-photos-container.four,
+  body .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed a.expanded-link .expanded-link-img,
+  body .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+@media (max-width: 650px) {
+  body .markup .twitter-embed a.expanded-link .expanded-link-description,
+  body .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+@media screen and (max-width: 650px) {
+  body .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-link {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 500px) {
+  body .header a.logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+  }
+}
+@media screen and (max-width: 420px) {
+  body .subscription-receipt table:first-of-type .subscription-amount .subscription-discount {
+    width: 72px !important;
+  }
+}
+@media screen and (min-width: 481px) {
+  body .share-button-container {
+    height: auto;
+  }
+}
+@media screen and (max-width: 480px) {
+  body .share-button-container .separator {
+    display: block !important;
+    margin: 0 !important;
+    height: 8px !important;
+    border-left: none !important;
+  }
+}
+@media screen and (max-width: 650px) {
+  .digest .item .post-meta-item.audience {
+    display: none;
+  }
+}
+@media screen and (min-width: 500px) {
+  .digest-publication .logo img {
+    width: 42px;
+    height: 42px;
+    border-radius: 8px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .comments-page .container .comment-list .collapsed-reply {
+    margin-left: calc(10 + 32px - 24px);
+  }
+}
+@media screen and (max-width: 650px) {
+  .comment &gt; .comment-list {
+    padding-left: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .finish-magic-login-modal .modal-content .container {
+    padding: 24px 0;
+  }
+}
+@media (max-width: 650px) {
+  .reader2-text-b3 {
+    line-height: 24px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .reader2-text-h4 {
+    line-height: 24px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .user-profile-modal {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .subscribe-widget form.form .sideBySideWrap button.rightButton {
+    padding: 10px 12px;
+  }
+}
+@media screen and (min-width: 541px) {
+  .pub-icon:hover .logo-hover,
+  .feed-item-icon:hover .logo-hover {
+    display: block;
+  }
+}
+@media screen and (max-width: 650px) {
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper {
+    width: 100%;
+    padding: 16px;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper:empty {
+    display: none;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button {
+    width: 100%;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper {
+    padding: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor {
+    padding: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor:active {
+    padding: 0;
+  }
+}
+@media only screen and (max-width: 650px) {
+  .file-embed-button.wide,
+  .file-embed-error-button.wide {
+    display: none;
+  }
+}
+@media only screen and (min-width: 630px) {
+  .file-embed-button.narrow,
+  .file-embed-error-button.narrow {
+    display: none;
+  }
+}
+@media screen and (min-width: 541px) {
+  .audio-player-wrapper .audio-player {
+    min-width: 500px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+@media (min-width: 250px) {
+  .audio-player-wrapper-fancy .audio-player {
+    padding: 32px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:last-of-type {
+    display: block;
+  }
+}
+@media (min-width: 300px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-title {
+    margin-top: 16px;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 15%;
+    width: 15%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+}
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 25%;
+    width: 25%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+@media (min-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 40%;
+    width: 40%;
+  }
+}
+@media (max-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    margin-top: 12px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button {
+    font-size: 13px;
+    padding: 6px 12px;
+    height: auto;
+    margin-top: 10px;
+  }
+}
+@media (min-width: 600px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 55%;
+    width: 55%;
+  }
+}
+@media (max-width: 650px) {
+  .poll-editor-modal {
+    min-width: calc(100% - 20px);
+  }
+}
+@media (max-width: 750px) {
+  .poll-embed .poll-anchor-target .poll-anchor-copy-button {
+    left: 8px;
+    top: 45px;
+  }
+}&lt;/style&gt;&lt;/head&gt;&lt;body class="email-body" style="font-kerning: auto;--image-offset-margin: -120px;"&gt;&lt;img src="https://eotrx.substackcdn.com/o/f451e5458954d51d/p.gif?token=eyJtIjoiPDIwMjYwNjEwMTYyNTQ1LjMuZmRlMTZkYTg4M2Y4YTMyNEBtZzIuc3Vic3RhY2suY29tPiIsInUiOjUwMDkxMzQ2NiwiciI6ImtvYjYyMjkxNDA0QDE2My5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOjIwMTQ3NzM1NSwidCI6InJlc3RhY2siLCJhIjoiZXZlcnlvbmUiLCJzIjoxMDg0NSwiYyI6InBvc3QiLCJmIjp0cnVlLCJwb3NpdGlvbiI6InRvcCIsImlhdCI6MTc4MTEwOTUxNSwiZXhwIjoxNzgzNzAxNTE1LCJpc3MiOiJwdWItMCIsInN1YiI6ImVvIn0.Pe7s8tUEMq_oI30lvrl3OHn8uH_T7EOCmTzXU03G9_4" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/&gt;&lt;table class="email-body-container" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td class="content" width="550"&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td class="content restacked-post" width="550" align="left"&gt;&lt;div style="font-size: 16px;line-height: 26px;max-width: 550px;width: 100%;margin: 0 auto;overflow-wrap: break-word;"&gt;&lt;div class="post restack-before" style="padding: 32px 0 0 0;font-size: 16px;line-height: 26px;border-bottom: solid 1px rgb(0,0,0,.1);padding-bottom: 8px;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;img src="https://substackcdn.com/image/fetch/$s_!X4Ot!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideArrowLeftRight%3Fv%3D4%26height%3D36%26fill%3D%2523808080%26stroke%3D%2523808080%26strokeWidth%3D3.6" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;span class="pencraft pc-reset reset-IxiVJZ email-text-base email-text-b4 forward-text" translated="" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;line-height: 20px;letter-spacing: -.15px;list-style: none;font-weight: 600;color: rgb(119,119,119);text-decoration: unset;margin: 0;"&gt;&lt;a href="https://substack.com/redirect/bf97ff7f-6dc9-465d-b340-08b1818cd526?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(119,119,119);text-decoration: underline;"&gt;Lenny's Newsletter&lt;/a&gt; cross-posted an episode from &lt;a href="https://substack.com/redirect/71705d70-7412-4c13-8d3a-d22a9457577c?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(119,119,119);text-decoration: underline;"&gt;The Skip&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="18"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;img class="custom-css-email-avatar avatar-QIQ5yR" src="https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png" style="box-sizing: border-box;max-width: 550px;border: none;vertical-align: middle;width: 40px;height: 40px;min-width: 40px;min-height: 40px;object-fit: cover;margin: 0px;display: inline;border-radius: 50%" width="40" height="40"&gt;&lt;/td&gt;&lt;td width="12" style="min-width:12px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;div class="email-text-base restacker-name" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';color: #363737;font-size: 16px;line-height: 26px;"&gt;&lt;span style="display: block;font-weight: 600;"&gt;Lenny Rachitsky&lt;/span&gt;&lt;span class="email-text-b4" style="font-size: 14px;line-height: 20px;letter-spacing: -.15px;display: block;color: rgb(119,119,119);"&gt;Jun 10 &amp;#183; Lenny's Newsletter&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="18"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p class="email-text-base email-text-b3 intro-text" style="margin: 0 0 20px 0;color: #363737;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 16px;line-height: 22px;letter-spacing: -0.45px;margin-top: 0;"&gt;&lt;span&gt;Nikhyl explores the five most common questions bubbling up from senior product leaders right now:&lt;/span&gt;&lt;br&gt;&lt;span&gt;&amp;#8226; The PM on the merry-go-round&lt;/span&gt;&lt;br&gt;&lt;span&gt;&amp;#8226; The &amp;#8220;find a great manager&amp;#8221; trap&lt;/span&gt;&lt;br&gt;&lt;span&gt;&amp;#8226; When the safe move is also the lucrative one&lt;/span&gt;&lt;br&gt;&lt;span&gt;&amp;#8226; When the person you sponsored becomes unmanageable&lt;/span&gt;&lt;br&gt;&lt;span&gt;&amp;#8226; Managing someone far more senior than you&lt;/span&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;br&gt;&lt;span&gt;Enjoy!&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div style="font-size: 16px;line-height: 26px;height: 8px"&gt;&amp;nbsp;&lt;/div&gt;&lt;a href="https://substack.com/app-link/post?publication_id=92860&amp;post_id=199658325&amp;utm_source=podcast-email&amp;play_audio=true&amp;r=8a8bay&amp;utm_campaign=email-play-on-substack&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5OTY1ODMyNSwiaWF0IjoxNzgxMTA5NTE0LCJleHAiOjE3ODM3MDE1MTQsImlzcyI6InB1Yi05Mjg2MCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.qBfjZSDz7oL5LrgKZun2xJA8Vf5Z7ZiCce4I9ucbTqI&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=play_card#play" style="text-decoration:none;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="background-color:#f47c55;border-radius:12px;table-layout:fixed;width:100%;max-width:100vw;padding:16px;padding-bottom:20px;background:linear-gradient(180deg, rgba(124,124,124,0.75), rgba(72,72,72,0.75)), rgb(35,37,37);white-space:normal;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="overflow:hidden;white-space:normal;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;a href="https://substack.com/app-link/post?publication_id=92860&amp;post_id=199658325&amp;utm_source=podcast-email&amp;play_audio=true&amp;r=8a8bay&amp;utm_campaign=email-play-on-substack&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5OTY1ODMyNSwiaWF0IjoxNzgxMTA5NTE0LCJleHAiOjE3ODM3MDE1MTQsImlzcyI6InB1Yi05Mjg2MCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.qBfjZSDz7oL5LrgKZun2xJA8Vf5Z7ZiCce4I9ucbTqI&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=play_card_show_logo#play" data-native="true" style="width:56px;height:56px;"&gt;&lt;img class="pencraft pc-reset outline-detail-vcQLyr pub-logo-m0IFm6 static-XUAQjT" src="https://substackcdn.com/image/fetch/$s_!LShp!,w_112,h_112,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F92b2245d-f503-4ca2-a7bd-fad34f8a46c1_3000x3000.jpeg" width="56" height="56" alt="The Skip" name="The Skip" style="text-decoration: unset;list-style: none;outline: 1px solid rgb(0,0,0,.1);outline-offset: -1px;border-radius: 8px;box-sizing: border-box;background-color: rgb(255,255,255);margin: 0;flex-shrink: 0;max-width: 550px;border: none !important;vertical-align: middle;"&gt;&lt;/a&gt;&lt;/td&gt;&lt;td width="16" style="min-width:16px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a class="pencraft pc-opacity-80 pc-minWidth-0 pc-reset overflow-hidden-WdpwT6 ellipsis-Jb8om8 color-white-rGgpJs line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" href="https://substack.com/app-link/post?publication_id=92860&amp;post_id=199658325&amp;utm_source=podcast-email&amp;play_audio=true&amp;r=8a8bay&amp;utm_campaign=email-play-on-substack&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5OTY1ODMyNSwiaWF0IjoxNzgxMTA5NTE0LCJleHAiOjE3ODM3MDE1MTQsImlzcyI6InB1Yi05Mjg2MCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.qBfjZSDz7oL5LrgKZun2xJA8Vf5Z7ZiCce4I9ucbTqI&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=play_card_show_title#play" style="list-style: none;opacity: .8;min-width: 0;color: rgb(255,255,255);text-decoration: unset;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;margin: 0;font-size: 11px;line-height: 20px;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;"&gt;The Skip Podcast&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class="pencraft pc-minWidth-0 pc-reset overflow-hidden-WdpwT6 ellipsis-Jb8om8 color-white-rGgpJs line-height-20-t4M0El font-text-qe4AeH size-15-Psle70 weight-semibold-uqA4FV reset-IxiVJZ" style="list-style: none;min-width: 0;color: rgb(255,255,255);text-decoration: unset;overflow: hidden;text-overflow: ellipsis;margin: 0;font-size: 15px;line-height: 20px;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 600;max-width: 420px;white-space: normal" href="https://substack.com/app-link/post?publication_id=92860&amp;post_id=199658325&amp;utm_source=podcast-email&amp;play_audio=true&amp;r=8a8bay&amp;utm_campaign=email-play-on-substack&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5OTY1ODMyNSwiaWF0IjoxNzgxMTA5NTE0LCJleHAiOjE3ODM3MDE1MTQsImlzcyI6InB1Yi05Mjg2MCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.qBfjZSDz7oL5LrgKZun2xJA8Vf5Z7ZiCce4I9ucbTqI&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=play_card_post_title#play"&gt;5 Career Questions Your Old P&amp;#8230;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="16"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:center;white-space:nowrap;"&gt;&lt;a class="pencraft pc-reset color-white-rGgpJs line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-regular-mUq6Gb transform-uppercase-yKDgcq nowrap-QngyoB reset-IxiVJZ meta-EgzBVA" href="https://substack.com/app-link/post?publication_id=92860&amp;post_id=199658325&amp;utm_source=podcast-email&amp;play_audio=true&amp;r=8a8bay&amp;utm_campaign=email-play-on-substack&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5OTY1ODMyNSwiaWF0IjoxNzgxMTA5NTE0LCJleHAiOjE3ODM3MDE1MTQsImlzcyI6InB1Yi05Mjg2MCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.qBfjZSDz7oL5LrgKZun2xJA8Vf5Z7ZiCce4I9ucbTqI&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=play_card_duration#play" style="list-style: none;color: rgb(255,255,255);text-decoration: unset;margin: 0;font-size: 11px;line-height: 20px;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;text-transform: uppercase;white-space: nowrap;letter-spacing: .2px;"&gt;0:00&lt;/a&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:center;width:100%;"&gt;&lt;a href="https://substack.com/app-link/post?publication_id=92860&amp;post_id=199658325&amp;utm_source=podcast-email&amp;play_audio=true&amp;r=8a8bay&amp;utm_campaign=email-play-on-substack&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5OTY1ODMyNSwiaWF0IjoxNzgxMTA5NTE0LCJleHAiOjE3ODM3MDE1MTQsImlzcyI6InB1Yi05Mjg2MCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.qBfjZSDz7oL5LrgKZun2xJA8Vf5Z7ZiCce4I9ucbTqI&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=play_card_progress_bar#play" style="display:block;background-color:rgba(255,255,255,0.4);border-radius:9999px;height:4px;width:100%;"&gt;&lt;/a&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:center;white-space:nowrap;"&gt;&lt;a class="pencraft pc-reset color-white-rGgpJs line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-regular-mUq6Gb transform-uppercase-yKDgcq nowrap-QngyoB reset-IxiVJZ meta-EgzBVA" href="https://substack.com/app-link/post?publication_id=92860&amp;post_id=199658325&amp;utm_source=podcast-email&amp;play_audio=true&amp;r=8a8bay&amp;utm_campaign=email-play-on-substack&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5OTY1ODMyNSwiaWF0IjoxNzgxMTA5NTE0LCJleHAiOjE3ODM3MDE1MTQsImlzcyI6InB1Yi05Mjg2MCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.qBfjZSDz7oL5LrgKZun2xJA8Vf5Z7ZiCce4I9ucbTqI&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=play_card_duration#play" style="list-style: none;color: rgb(255,255,255);text-decoration: unset;margin: 0;font-size: 11px;line-height: 20px;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 400;text-transform: uppercase;white-space: nowrap;letter-spacing: .2px;"&gt;1:08:27&lt;/a&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td width="16" style="min-width:16px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:center;"&gt;&lt;a href="https://substack.com/app-link/post?publication_id=92860&amp;post_id=199658325&amp;utm_source=podcast-email&amp;play_audio=true&amp;r=8a8bay&amp;utm_campaign=email-play-on-substack&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5OTY1ODMyNSwiaWF0IjoxNzgxMTA5NTE0LCJleHAiOjE3ODM3MDE1MTQsImlzcyI6InB1Yi05Mjg2MCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.qBfjZSDz7oL5LrgKZun2xJA8Vf5Z7ZiCce4I9ucbTqI&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=play_card_play_button#play" data-testid="email-audio-play-button"&gt;&lt;img src="https://substackcdn.com/image/fetch/$s_!x5iK!,w_48,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FPlayIconRounded%3Fv%3D4%26height%3D48%26fill%3Drgba(255%252C255%252C255%252C0.8)%26stroke%3Dnone%26strokeWidth%3D3.6" width="24" height="24" style="border: none;vertical-align: middle;max-width: 24px" alt=""&gt;&lt;/a&gt;&lt;/td&gt;&lt;td width="4" style="min-width:4px;"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/a&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="width:100%;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="font-size: 16px;line-height: 26px;height: 16px"&gt;&amp;nbsp;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="8"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="width:100%;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;width:100%;"&gt;&lt;table class="fullWidth-mgXGs7" role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="box-sizing: border-box;width: 100%;min-height: 40px;padding-left: 0;padding-right: 0;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="fullWidth-mgXGs7 emailButtonTd-o2ymya priority_primary-vWRHI0" align="center" style="box-sizing: border-box;width: 100%;min-height: 40px;padding-left: 0;padding-right: 0;border-radius: 8px;background-color: #f47c55;"&gt;&lt;a class="fullWidth-mgXGs7 emailButtonA-Ktpg7h" href="https://substack.com/app-link/post?publication_id=92860&amp;post_id=199658325&amp;utm_source=podcast-email&amp;play_audio=true&amp;r=8a8bay&amp;utm_campaign=email-play-on-substack&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5OTY1ODMyNSwiaWF0IjoxNzgxMTA5NTE0LCJleHAiOjE3ODM3MDE1MTQsImlzcyI6InB1Yi05Mjg2MCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.qBfjZSDz7oL5LrgKZun2xJA8Vf5Z7ZiCce4I9ucbTqI&amp;utm_content=listen_now_button" style="box-sizing: border-box;width: 100%;min-height: 40px;padding-left: 0;padding-right: 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;font-weight: 600;letter-spacing: -.15px;border-radius: 8px;padding: 12px 24px;line-height: 1;text-decoration: none;display: inline-block;color: #ffffff;border: none;"&gt;&lt;svg class="lucide lucide-headphones" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;"&gt;&lt;path d="M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;span style="margin-left:8px;vertical-align:middle;"&gt;Listen now&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="8"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="font-size: 16px;line-height: 26px;height: 16px"&gt;&amp;nbsp;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;div class="post typography" dir="auto" style="--image-offset-margin: -120px;padding: 32px 0 0 0;font-size: 16px;line-height: 26px;"&gt;&lt;div class="post-header" role="region" aria-label="Post header" style="font-size: 16px;line-height: 26px;"&gt;&lt;h1 class="post-title published title-X77sOw" dir="auto" style="direction: auto;text-align: start;unicode-bidi: isolate;color: rgb(54,55,55);font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 0;line-height: 36px;font-size: 32px;"&gt;&lt;a href="https://substack.com/app-link/post?publication_id=92860&amp;post_id=199658325&amp;utm_source=cross-post&amp;utm_campaign=10845&amp;isFreemail=true&amp;r=8a8bay&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5OTY1ODMyNSwiaWF0IjoxNzgxMTA5NTE0LCJleHAiOjE3ODM3MDE1MTQsImlzcyI6InB1Yi05Mjg2MCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.qBfjZSDz7oL5LrgKZun2xJA8Vf5Z7ZiCce4I9ucbTqI" style="color: rgb(54,55,55);text-decoration: none;"&gt;5 Career Questions Your Old Playbook Can&amp;#8217;t Answer&lt;/a&gt;&lt;/h1&gt;&lt;h3 class="subtitle subtitle-HEEcLo" dir="auto" style="direction: auto;text-align: start;unicode-bidi: isolate;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: normal;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 4px 0 0;color: #777777;line-height: 24px;font-size: 18px;margin-top: 12px;"&gt;The higher you climb, the more nuanced the questions get &amp;#8212; and the less the old answers fit.&lt;/h3&gt;&lt;table class="post-meta" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 1em 0;height: 20px;align-items: center;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;div class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA custom-css-email-post-author" style="list-style: none;font-size: 11px;line-height: 20px;text-decoration: unset;color: rgb(54,55,55);margin: 0;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;"&gt;&lt;a class="pencraft pc-reset color-primary-zABazT line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" style="list-style: none;color: rgb(54,55,55);margin: 0;font-size: 11px;line-height: 20px;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;text-decoration: none" href="https://substack.com/@theskip"&gt;Nikhyl Singhal&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;div class="pencraft pc-reset color-secondary-ls1g8s line-height-20-t4M0El font-meta-MWBumP size-11-NuY2Zx weight-medium-fw81nC transform-uppercase-yKDgcq reset-IxiVJZ meta-EgzBVA" style="list-style: none;font-size: 11px;line-height: 20px;text-decoration: unset;color: rgb(119,119,119);margin: 0;font-family: 'SF Compact',-apple-system,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: 500;text-transform: uppercase;letter-spacing: .2px;"&gt;&lt;time datetime="2026-06-10T14:01:59.896Z"&gt;Jun 10&lt;/time&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td align="right"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;a href="https://substack.com/@theskip"&gt;&lt;img class="custom-css-email-avatar avatar-QIQ5yR" src="https://substackcdn.com/image/fetch/$s_!571n!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0cba4fd1-a2b7-4d3d-9f91-bec8caf4551e_256x256.png" style="box-sizing: border-box;max-width: 550px;border: none;vertical-align: middle;width: 40px;height: 40px;min-width: 40px;min-height: 40px;object-fit: cover;margin: 0px;display: inline;border-radius: 50%" width="40" height="40"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table class="email-ufi-2-top" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-top: 1px solid rgb(0,0,0,.1);border-bottom: 1px solid rgb(0,0,0,.1);min-width: 100%;"&gt;&lt;tbody&gt;&lt;tr height="16"&gt;&lt;td height="16" style="font-size:0px;line-height:0;"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=92860&amp;post_id=199658325&amp;utm_source=substack&amp;isFreemail=true&amp;submitLike=true&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5OTY1ODMyNSwicmVhY3Rpb24iOiLinaQiLCJpYXQiOjE3ODExMDk1MTQsImV4cCI6MTc4MzcwMTUxNCwiaXNzIjoicHViLTkyODYwIiwic3ViIjoicmVhY3Rpb24ifQ.t4kshigLykE9Rdm5XipLXV3FRER1YrwAgd8PnxZLUJ4&amp;utm_medium=email&amp;utm_campaign=email-reaction&amp;r=8a8bay" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!PeVs!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=92860&amp;post_id=199658325&amp;utm_source=substack&amp;utm_medium=email&amp;isFreemail=true&amp;comments=true&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5OTY1ODMyNSwiaWF0IjoxNzgxMTA5NTE0LCJleHAiOjE3ODM3MDE1MTQsImlzcyI6InB1Yi05Mjg2MCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.qBfjZSDz7oL5LrgKZun2xJA8Vf5Z7ZiCce4I9ucbTqI&amp;r=8a8bay&amp;utm_campaign=email-half-magic-comments&amp;action=post-comment&amp;utm_source=substack&amp;utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!x1tS!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-icon-button" href="https://substack.com/app-link/post?publication_id=92860&amp;post_id=199658325&amp;utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;utm_campaign=email-share&amp;action=share&amp;triggerShare=true&amp;isFreemail=true&amp;r=8a8bay&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5OTY1ODMyNSwiaWF0IjoxNzgxMTA5NTE0LCJleHAiOjE3ODM3MDE1MTQsImlzcyI6InB1Yi05Mjg2MCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.qBfjZSDz7oL5LrgKZun2xJA8Vf5Z7ZiCce4I9ucbTqI" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!_L14!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideShare2%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="border: none;vertical-align: middle;max-width: 18px" alt=""&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="38" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-icon-button" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvdGhlc2tpcC9wLzUtY2FyZWVyLXF1ZXN0aW9ucy15b3VyLW9sZC1wbGF5Ym9vaz91dG1fc291cmNlPXN1YnN0YWNrJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWVtYWlsLXJlc3RhY2stY29tbWVudCZhY3Rpb249cmVzdGFjay1jb21tZW50JnI9OGE4YmF5JnRva2VuPWV5SjFjMlZ5WDJsa0lqbzFNREE1TVRNME5qWXNJbkJ2YzNSZmFXUWlPakU1T1RZMU9ETXlOU3dpYVdGMElqb3hOemd4TVRBNU5URTBMQ0psZUhBaU9qRTNPRE0zTURFMU1UUXNJbWx6Y3lJNkluQjFZaTA1TWpnMk1DSXNJbk4xWWlJNkluQnZjM1F0Y21WaFkzUnBiMjRpZlEucUJmalpTRHo3b0w1THJnS1p1bjJ4SkE4VmY1WjdaaUNjZTRJOXVjYlRxSSIsInAiOjIwMTQ3NzM1NSwicyI6MTA4NDUsImYiOnRydWUsInUiOjUwMDkxMzQ2NiwiaWF0IjoxNzgxMTA5NTE0LCJleHAiOjIwOTY2ODU1MTQsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.TCqxL5Cygg2xfp3qN9eqebE91yr3rGm3a3dW2mjJvYQ?&amp;utm_source=substack&amp;utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 1;padding: 9px 0;text-decoration: none;color: rgb(119,119,119);min-width: 38px;box-sizing: border-box;width: 38px"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!ubXF!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2Fnotes__NoteRestackIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2%26strokeLinecap%3Dround%26strokeLinejoin%3Dround" width="18" height="18" alt="" style="max-width: 550px;border: none !important;vertical-align: middle;"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td align="right"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-button-outline" href="https://open.substack.com/pub/theskip/p/5-career-questions-your-old-playbook?utm_source=email&amp;redirect=app-store&amp;utm_campaign=email-read-in-app" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"&gt;&lt;div class="email-button-spacer" style="font-size: 16px;line-height: 26px;display: inline-block;vertical-align: middle;max-width: 0;min-height: 18px;"&gt;&lt;/div&gt;&lt;span class="email-button-text" style="vertical-align: middle;margin-right: 4px"&gt;READ IN APP&lt;/span&gt;&lt;img class="icon text-icon" src="https://substackcdn.com/image/fetch/$s_!ET-_!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideArrowUpRight%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="min-width: 18px;min-height: 18px;border: none;vertical-align: middle;margin-right: 0;margin-left: 0;max-width: 18px" alt=""&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="16"&gt;&lt;td height="16" style="font-size:0px;line-height:0;"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="post typography" dir="auto" style="--image-offset-margin: -120px;padding: 32px 0 0 0;font-size: 16px;line-height: 26px;"&gt;&lt;div class="body markup" dir="auto" style="text-align: initial;font-size: 16px;line-height: 26px;width: 100%;word-break: break-word;margin-bottom: 16px;"&gt;&lt;div class="captioned-image-container-static" style="font-size: 16px;line-height: 26px;margin: 32px auto;margin-top: 0;"&gt;&lt;figure style="width: 100%;margin: 0 auto;"&gt;&lt;table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;/td&gt;&lt;td class="content" align="left" width="1456" style="text-align: center;"&gt;&lt;a class="image-link" target="_blank" href="https://substack.com/redirect/1305526e-e63d-47d8-93b5-90d9e9ba9168?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;margin-top: 0;margin-bottom: 0;"&gt;&lt;img class="wide-image" data-attrs="{&amp;quot;src&amp;quot;:&amp;quot;https://substack-post-media.s3.amazonaws.com/public/images/2804023e-6483-4771-8011-beb82ec88dd0_1920x1080.jpeg&amp;quot;,&amp;quot;srcNoWatermark&amp;quot;:null,&amp;quot;fullscreen&amp;quot;:null,&amp;quot;imageSize&amp;quot;:null,&amp;quot;height&amp;quot;:819,&amp;quot;width&amp;quot;:1456,&amp;quot;resizeWidth&amp;quot;:null,&amp;quot;bytes&amp;quot;:1510300,&amp;quot;alt&amp;quot;:null,&amp;quot;title&amp;quot;:null,&amp;quot;type&amp;quot;:&amp;quot;image/jpeg&amp;quot;,&amp;quot;href&amp;quot;:&amp;quot;https://youtu.be/maU_bAlucv8&amp;quot;,&amp;quot;belowTheFold&amp;quot;:false,&amp;quot;topImage&amp;quot;:true,&amp;quot;internalRedirect&amp;quot;:&amp;quot;https://theskip.substack.com/i/199658325?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2804023e-6483-4771-8011-beb82ec88dd0_1920x1080.jpeg&amp;quot;,&amp;quot;isProcessing&amp;quot;:false,&amp;quot;align&amp;quot;:null,&amp;quot;offset&amp;quot;:false}" alt="" width="550" height="309.375" src="https://substackcdn.com/image/fetch/$s_!D_g2!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2804023e-6483-4771-8011-beb82ec88dd0_1920x1080.jpeg" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"&gt;&lt;/a&gt;&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div class="pullquote" style="font-size: 16px;line-height: 26px;border-top: 1px solid rgb(0,0,0,.1);border-bottom: 1px solid rgb(0,0,0,.1);margin: 32px auto;text-align: center;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;font-size: 16px;margin: 32px 0;text-align: center;font-weight: 500;font-style: italic;"&gt;&lt;strong&gt;&lt;span&gt;Listen on &lt;/span&gt;&lt;a href="https://substack.com/redirect/1305526e-e63d-47d8-93b5-90d9e9ba9168?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;YouTube&lt;/a&gt;&lt;span&gt;, &lt;/span&gt;&lt;a href="https://substack.com/redirect/0201bc3f-38ba-471c-9015-e5a9f03015df?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Spotify&lt;/a&gt;&lt;span&gt;, and &lt;/span&gt;&lt;a href="https://substack.com/redirect/a5f1d84a-cc49-4879-9f3b-c6e4605fa999?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Apple Podcasts&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: calc(1.375em * 1);"&gt;&lt;strong&gt;Brought to you by:&lt;/strong&gt;&lt;/h3&gt;&lt;blockquote style="border-left: 4px solid #f47c55;margin: 20px 0;padding: 0;"&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);margin-left: 20px;line-height: 26px;font-size: 16px;"&gt;&lt;a href="https://substack.com/redirect/09584efc-2944-4113-b657-f95164b2dcc2?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Glean&lt;/a&gt;&lt;span&gt;&amp;#8212;Work AI that works&lt;/span&gt;&lt;/p&gt;&lt;div class="captioned-image-container-static" style="margin-left: 20px;font-size: 16px;line-height: 26px;margin: 32px auto;"&gt;&lt;figure style="width: 100%;margin: 0 auto;"&gt;&lt;table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;/td&gt;&lt;td class="content" align="left" width="152" style="text-align: center;"&gt;&lt;a class="image-link" target="_blank" href="https://substack.com/redirect/09584efc-2944-4113-b657-f95164b2dcc2?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"&gt;&lt;img data-attrs="{&amp;quot;src&amp;quot;:&amp;quot;https://substack-post-media.s3.amazonaws.com/public/images/46400b1f-060c-4ca6-abba-fdcf90e5447b_1000x402.png&amp;quot;,&amp;quot;srcNoWatermark&amp;quot;:null,&amp;quot;fullscreen&amp;quot;:null,&amp;quot;imageSize&amp;quot;:null,&amp;quot;height&amp;quot;:402,&amp;quot;width&amp;quot;:1000,&amp;quot;resizeWidth&amp;quot;:152,&amp;quot;bytes&amp;quot;:148508,&amp;quot;alt&amp;quot;:null,&amp;quot;title&amp;quot;:null,&amp;quot;type&amp;quot;:&amp;quot;image/png&amp;quot;,&amp;quot;href&amp;quot;:&amp;quot;http://glean.com/skip&amp;quot;,&amp;quot;belowTheFold&amp;quot;:false,&amp;quot;topImage&amp;quot;:false,&amp;quot;internalRedirect&amp;quot;:&amp;quot;https://theskip.substack.com/i/199658325?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46400b1f-060c-4ca6-abba-fdcf90e5447b_1000x402.png&amp;quot;,&amp;quot;isProcessing&amp;quot;:false,&amp;quot;align&amp;quot;:null,&amp;quot;offset&amp;quot;:false}" alt="" width="152" height="61.104" src="https://substackcdn.com/image/fetch/$s_!am7U!,w_152,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46400b1f-060c-4ca6-abba-fdcf90e5447b_1000x402.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"&gt;&lt;/a&gt;&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);margin-left: 20px;line-height: 26px;font-size: 16px;"&gt;&lt;strong&gt;&lt;a href="https://substack.com/redirect/05ee3746-9967-4a50-8069-5fa86c738060?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Guru&lt;/a&gt;&lt;/strong&gt;&lt;span&gt;&amp;#8212;Trusted knowledge for every AI tool and team&lt;/span&gt;&lt;/p&gt;&lt;div class="captioned-image-container-static" style="margin-left: 20px;font-size: 16px;line-height: 26px;margin: 32px auto;margin-bottom: 0;"&gt;&lt;figure style="width: 100%;margin: 0 auto;"&gt;&lt;table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;/td&gt;&lt;td class="content" align="left" width="152" style="text-align: center;"&gt;&lt;a class="image-link" target="_blank" href="https://substack.com/redirect/05ee3746-9967-4a50-8069-5fa86c738060?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="position: relative;flex-direction: column;align-items: center;padding: 0;width: auto;height: auto;border: none;text-decoration: none;display: block;margin: 0;"&gt;&lt;img data-attrs="{&amp;quot;src&amp;quot;:&amp;quot;https://substack-post-media.s3.amazonaws.com/public/images/7e3105f6-ef08-4bb2-8beb-1993359556fa_1000x232.png&amp;quot;,&amp;quot;srcNoWatermark&amp;quot;:null,&amp;quot;fullscreen&amp;quot;:null,&amp;quot;imageSize&amp;quot;:null,&amp;quot;height&amp;quot;:232,&amp;quot;width&amp;quot;:1000,&amp;quot;resizeWidth&amp;quot;:152,&amp;quot;bytes&amp;quot;:42305,&amp;quot;alt&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;title&amp;quot;:null,&amp;quot;type&amp;quot;:&amp;quot;image/png&amp;quot;,&amp;quot;href&amp;quot;:&amp;quot;https://www.getguru.com/?utm_source=the-skip&amp;amp;utm_medium=podcast&amp;amp;utm_campaign=skip-promo&amp;quot;,&amp;quot;belowTheFold&amp;quot;:false,&amp;quot;topImage&amp;quot;:false,&amp;quot;internalRedirect&amp;quot;:&amp;quot;https://theskip.substack.com/i/196624701?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e3105f6-ef08-4bb2-8beb-1993359556fa_1000x232.png&amp;quot;,&amp;quot;isProcessing&amp;quot;:false,&amp;quot;align&amp;quot;:null,&amp;quot;offset&amp;quot;:false}" alt="" title="" width="152" height="35.264" src="https://substackcdn.com/image/fetch/$s_!g8Q_!,w_152,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e3105f6-ef08-4bb2-8beb-1993359556fa_1000x232.png" style="border: none !important;vertical-align: middle;display: block;-ms-interpolation-mode: bicubic;height: auto;margin-bottom: 0;width: auto !important;max-width: 100% !important;margin: 0 auto;"&gt;&lt;/a&gt;&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div style="font-size: 16px;line-height: 26px;"&gt;&lt;hr style="margin: 32px 0;padding: 0;height: 1px;background: rgb(0,0,0,.1);border: none;"&gt;&lt;/div&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;This was a particularly good month for the career questions I get from senior leaders. The pattern with these is that the obvious answer is usually the wrong one &amp;#8212; and the real issue is rarely the one being asked. If you&amp;#8217;re not at the leader level yet, they&amp;#8217;re still worth a read &amp;#8212; a window into what your manager is wrestling with, and a couple of them might be you in a few years. My co-host Carly and I worked through all five on &lt;/span&gt;&lt;a href="https://substack.com/redirect/f81e31cc-74f9-4e9c-9a84-b307fb4e8223?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;the latest podcast episode&lt;/a&gt;&lt;span&gt;. Here&amp;#8217;s the preview:&lt;/span&gt;&lt;/p&gt;&lt;ul style="margin-top: 0;padding: 0;"&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;strong&gt;When the person you sponsored becomes unmanageable.&lt;/strong&gt;&lt;span&gt; Years ago you took a bet on someone, gave them scope past their level, watched them crush it. Now they&amp;#8217;re a pain to manage, and you&amp;#8217;re the obstacle in their way. How did things get so out of hand &amp;#8212; and how do you get control back?&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;strong&gt;When the safe move is also the lucrative one.&lt;/strong&gt;&lt;span&gt; A senior product exec is being heavily recruited &amp;#8212; double or triple the pay of just a few years ago, especially at big tech. With AI washing out the little guys, taking the money and the safety looks like the obvious play. So when does it &lt;/span&gt;&lt;em&gt;not&lt;/em&gt;&lt;span&gt; make sense?&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;strong&gt;The PM on the merry-go-round.&lt;/strong&gt;&lt;span&gt; A director-level PM has had three short stints in five years &amp;#8212; a layoff, a fit issue, a performance miss &amp;#8212; and is asking whether AI-native roles or founding is the right reset. Conventional wisdom says find the best job at the best company. But once you&amp;#8217;re on the merry-go-round &amp;#8212; a pattern of abrupt endings, not just layoffs &amp;#8212; the honest answer flips: you need a new northstar, one that has you play defense and even settle, perhaps for the first time in your career.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;strong&gt;The &amp;#8220;find a great manager&amp;#8221; trap.&lt;/strong&gt;&lt;span&gt; A PM executive interviewing for her next role is optimizing hardest for finding a great manager. But most managers at the top of a company didn&amp;#8217;t get there because of their management skills &amp;#8212; so a great one is rarer than you&amp;#8217;d hope. The real question isn&amp;#8217;t how good your next manager is &amp;#8212; it&amp;#8217;s how much the role actually requires one.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;strong&gt;Managing someone far more senior than you.&lt;/strong&gt;&lt;span&gt; An IC PM at a hot startup is suddenly asked to manage someone who was a director at their last job. The intimidation is real. The mistake is assuming they don&amp;#8217;t need to be managed.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;What changes across all five is that the playbook that worked earlier in your career doesn&amp;#8217;t fit the same way once you have reports, real comp on the line, and the credibility that comes with seniority. The fuller diagnoses live on the podcast itself.&lt;/p&gt;&lt;div style="font-size: 16px;line-height: 26px;"&gt;&lt;hr style="margin: 32px 0;padding: 0;height: 1px;background: rgb(0,0,0,.1);border: none;"&gt;&lt;/div&gt;&lt;h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: calc(1.375em * 1);"&gt;&lt;strong&gt;When the Person You Sponsored Becomes Unmanageable&lt;/strong&gt;&lt;/h3&gt;&lt;blockquote style="border-left: 4px solid #f47c55;margin: 20px 0;padding: 0;"&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);margin-left: 20px;line-height: 26px;font-size: 16px;"&gt;&lt;em&gt;Is it strange that the toughest management challenge of my career is actually the person I made my biggest bet on? A few years ago I took someone under our wing &amp;#8212; gave them scope and responsibility well past their level, and sure enough they crushed it. Today they&amp;#8217;re recognized everywhere as one of the strongest people in their function. But now they&amp;#8217;re a pain to manage. They bulldoze, they badmouth peers, and the way they communicate with me is borderline disrespectful. Now I&amp;#8217;m the obstacle in their way, and I&amp;#8217;m at my wits&amp;#8217; end.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;Sometimes a great manager bets on someone non-obvious. You see what others don&amp;#8217;t, take a bet, clear space, push past doubters to give them scope well past their level. With enough effort and grit, the person flourishes &amp;#8212; and you, as the manager, feel like a hero. The wins compound. The trust compounds. For a long stretch, you and they are on the same side of every table.&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;Then the organization stops being able to give them what they want. Promotions don&amp;#8217;t come annually. Compensation can never meet expectations when they&amp;#8217;re working non-stop. Every hot project can&amp;#8217;t fall under them. And here&amp;#8217;s where their superpower starts working against them. Their strength has always been pushing through obstacles &amp;#8212; and companies create a lot of obstacles that are wasteful and unnecessary, so knowing how to delete or avoid them is a real strength.&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;But not every wall comes down with energy. Some require diplomacy. Some require patience. Some require accepting that the org isn&amp;#8217;t going to move on your timeline. Those aren&amp;#8217;t lessons this person ever learned, because for years their pattern paid off. So when you say &lt;/span&gt;&lt;em&gt;slow down,&lt;/em&gt;&lt;span&gt; they hear &lt;/span&gt;&lt;em&gt;push through.&lt;/em&gt;&lt;span&gt; And now you&amp;#8217;re the obstacle they push through &amp;#8212; same technique, now pointed at you. Going dark. Getting aggressive. Dismissing the person in the way.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;That&amp;#8217;s the moment you and they end up on opposite sides of a table you&amp;#8217;ve always sat on the same side of. Hard work and deep conversation always yielded results before, so you both keep investing &amp;#8212; hours of conversation, more discussions about how to navigate. But unlike the past, the problem just gets worse.&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;strong&gt;So what do you do?&lt;/strong&gt;&lt;span&gt; The hardest part &amp;#8212; and easily 80% of the solve &amp;#8212; is naming what&amp;#8217;s actually happening. And what&amp;#8217;s happening is two people with superpowers, each undone by their shadow. Your superpower is managing people; the shadow is the blind spot that rides along with it &amp;#8212; you&amp;#8217;ve coached your way through every hard case before, so you&amp;#8217;re certain you can coach your way through this one too. Their superpower is getting things done regardless of the obstacle; the shadow is that eventually the physics stop cooperating, and grit alone can&amp;#8217;t move the wall. The common mistake is treating it as a tactical glitch &amp;#8212; &lt;/span&gt;&lt;em&gt;&amp;#8220;this was working so well, let me just tweak it&amp;#8221;&lt;/em&gt;&lt;span&gt; &amp;#8212; and reaching for the same playbook that worked when you were on the same side. You can&amp;#8217;t. Naming the collision is the move that opens everything else.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;Then comes the uncomfortable question: &lt;/span&gt;&lt;strong&gt;are they actually open to being managed by you?&lt;/strong&gt;&lt;span&gt; Or has the relationship locked them into seeing you as their sponsor and only their sponsor? If they can&amp;#8217;t accept you in the manager role, no amount of coaching from you is going to land. It isn&amp;#8217;t a failure of your skills. It&amp;#8217;s the relationship needing a reset that you can&amp;#8217;t deliver from inside it.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;If the answer is no, it&amp;#8217;s graduation day. The honest move is to step aside &amp;#8212; loosely held guidance, part as friends, help them find their next thing. Sometimes the same lesson that didn&amp;#8217;t land from you lands from someone who wasn&amp;#8217;t their sponsor. Sometimes the flip from champion to challenger is itself the wake-up call. Often it isn&amp;#8217;t.&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;The hardest thing for a great manager to accept is that &lt;/span&gt;&lt;strong&gt;you cannot manage everyone &amp;#8212; including the ones you care about most.&lt;/strong&gt;&lt;span&gt; The moment you accept that is the moment both of you can grow.&lt;/span&gt;&lt;/p&gt;&lt;h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: calc(1.375em * 1);"&gt;&lt;strong&gt;Permission to Take the Paycheck&lt;/strong&gt;&lt;/h3&gt;&lt;blockquote style="border-left: 4px solid #f47c55;margin: 20px 0;padding: 0;"&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);margin-left: 20px;line-height: 26px;font-size: 16px;"&gt;&lt;em&gt;I&amp;#8217;m a product exec, multiple offers on the table, and frankly the comp is insane &amp;#8212; I&amp;#8217;d be making twice what I made three years ago. The roles split into two camps: earlier-stage build mode (my happy place every time I&amp;#8217;ve done it) and &amp;#8220;head to high ground&amp;#8221; &amp;#8212; bigger company, bigger title, show up and harvest. We&amp;#8217;re in a bubble. AI is taking jobs every quarter. Locking in the financial win before the music stops feels like the responsible call. My wife thinks I&amp;#8217;m being too pessimistic, my friends think I&amp;#8217;m being too cautious, I think I&amp;#8217;m being adult. Am I?&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;The asker&amp;#8217;s read on the market is accurate. Top product execs are being heavily recruited, and for the elite tier being chased this hard, the comp at big tech is double or triple what it was a few years ago. The story about AI washing out the little guys makes &lt;/span&gt;&lt;em&gt;&amp;#8220;take the money and ride out the cycle&amp;#8221;&lt;/em&gt;&lt;span&gt; sound like the responsible move.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;When someone in this position walks me through their list of offers, the question I&amp;#8217;m actually hearing isn&amp;#8217;t &lt;/span&gt;&lt;em&gt;what&amp;#8217;s the smartest career move.&lt;/em&gt;&lt;span&gt; It&amp;#8217;s: &lt;/span&gt;&lt;strong&gt;do I have permission to take a big paycheck?&lt;/strong&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;The answer might be yes. It might be no. But it&amp;#8217;s a different question &amp;#8212; and reframing it is where the conversation actually starts.&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;A few things make the bubble-narrative justification weak. &lt;/span&gt;&lt;strong&gt;The market loves you.&lt;/strong&gt;&lt;span&gt; You&amp;#8217;re walking around with multiple offers from every kind of company. If you&amp;#8217;re this in demand now, you&amp;#8217;ll be in demand in a few years &amp;#8212; it&amp;#8217;s hard to believe in a collapse so total that the best builders are left with no choices. The likelier story is the opposite: people this good get &lt;/span&gt;&lt;em&gt;more&lt;/em&gt;&lt;span&gt; desirable as the tools get more powerful, not less. Believing that takes a small amount of faith in your own talent &amp;#8212; but the offers in front of you are already pointing that way.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;So the honest question is &lt;/span&gt;&lt;strong&gt;mercenary or missionary.&lt;/strong&gt;&lt;span&gt; Both kinds of roles are legitimate. I&amp;#8217;ve taken mercenary roles myself &amp;#8212; to get paid, to build a specific skill, to get a brand I needed at the time. No judgment in choosing one &lt;/span&gt;&lt;em&gt;if you&amp;#8217;re actually a mercenary right now.&lt;/em&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;Here&amp;#8217;s the part worth slowing down on: many of the highest-paying, most liquid jobs aren&amp;#8217;t great fits for builders. A company usually pays well above market when it needs a rare kind of person &amp;#8212; someone skilled enough to navigate high degrees of internal friction to get something done. And these days, navigating a large conglomerate&amp;#8217;s internal friction matters less to your future employer than having built something creative and new. That kind of role might still be a joy for you, in which case it&amp;#8217;s a perfect fit and you should take it. But for a lot of product builders &amp;#8212; the ones in high demand right now &amp;#8212; that seat is a little soulless, and a real distraction from your talent. You take the money, and a few months in you feel like a mercenary, quietly asking whether it&amp;#8217;s worth it, the dissatisfaction leaking into your life outside of work.&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;So before you accept the paycheck, make sure you actually want the job. The worst outcome is joining, getting anxious, and leaving &amp;#8212; only to realize the &amp;#8220;riskier&amp;#8221; role was the better skill fit and would have earned you a longer, stronger tenure. One way to pressure-test the call: multiply tenure &amp;#215; happiness &amp;#215; compensation, rather than optimizing for the comp number alone. The money itself will be more or less predictable depending on the path &amp;#8212; but it&amp;#8217;s holding all three together that keeps you whole and lets you see the full board.&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;At different points in life, people legitimately want more liquidity or more guarantee. That&amp;#8217;s real, and it&amp;#8217;s a different decision worth being honest about. What I don&amp;#8217;t want is the AI bubble pushing builders into short-term thinking &amp;#8212; taking a job to chase a comp number that was never the actual reason you&amp;#8217;ve gotten this far.&lt;/p&gt;&lt;h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: calc(1.375em * 1);"&gt;&lt;strong&gt;When You&amp;#8217;re on the Merry-Go-Round&lt;/strong&gt;&lt;/h3&gt;&lt;blockquote style="border-left: 4px solid #f47c55;margin: 20px 0;padding: 0;"&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);margin-left: 20px;line-height: 26px;font-size: 16px;"&gt;&lt;em&gt;I&amp;#8217;m a director-level PM, four years in product. Quick backstory &amp;#8212; I&amp;#8217;ve had three abrupt endings in those four years. One performance issue, one fit issue, the most recent a layoff. I&amp;#8217;m two months out, getting good looks. Honestly what I really want is to build. Being on the wrong side of the AI shift in the next 18 months feels like its own kind of career risk. So should I just go all-in on AI-native roles, or should founding stay seriously on the table?&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;Start with the good news: short stints are fine in this market. When the ground shifts under you, you&amp;#8217;re justified in moving to maximize your career &amp;#8212; the alternative is staying somewhere that wasn&amp;#8217;t making you better, which is far harder to defend to your next employer. Shift around, learn, get current. A pattern of &lt;/span&gt;&lt;em&gt;multiple short stints&lt;/em&gt;&lt;span&gt;, though, is a different animal, and it deserves careful thought.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;When it&amp;#8217;s three or four short stints in five years, it&amp;#8217;s not the market anymore &amp;#8212; it&amp;#8217;s a pattern. That&amp;#8217;s the merry-go-round: a run of abrupt endings, whatever the mix of performance, fit, and layoffs, that never lets you put down roots. People land here for all sorts of reasons, and the &lt;/span&gt;&lt;em&gt;why&lt;/em&gt;&lt;span&gt; barely matters. The diagnosis does: a fourth short stint is far worse than a three- or four-year run in your next role. That gap is the only thing worth optimizing for right now.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;Which means the usual playbook is off the table. You can&amp;#8217;t chase the biggest job at the best company, and you can&amp;#8217;t reach for the hottest AI-native role. You need tenure &amp;#8212; long enough to find your flow, rebuild the confidence the cycle has been eating, and prove there&amp;#8217;s no real skill or behavior gap under the churn. So look for the role you can &lt;/span&gt;&lt;em&gt;crush&lt;/em&gt;&lt;span&gt;, not the one that stretches you. If three offers land on your desk, take the one where you&amp;#8217;d be the sharpest person in the room, on a project you know you can dominate &amp;#8212; even a later-stage company or a less shiny brand. One caveat: pick a meritocracy where good work gets seen, not a sinking ship where tenure won&amp;#8217;t matter because the company won&amp;#8217;t survive.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;Do that, and you become the manager, then the manager&amp;#8217;s manager &amp;#8212; and you walk into the next interview building on top of a winning story instead of explaining away a string of exits. That win hands you back the right to optimize for fit or frontier on the job after this one. Show up instead with four jobs in six years and no recent win, and the read flips to &lt;/span&gt;&lt;em&gt;&amp;#8220;something&amp;#8217;s going on &amp;#8212; either you&amp;#8217;re aiming too high or there&amp;#8217;s a gap.&amp;#8221;&lt;/em&gt;&lt;span&gt; Pair this with the exec from earlier: he&amp;#8217;d earned the right to play offense and was hiding from it; you haven&amp;#8217;t earned it yet. &lt;/span&gt;&lt;em&gt;Earned the right&lt;/em&gt;&lt;span&gt; cuts both ways &amp;#8212; and reading your own situation correctly is most of the work.&lt;/span&gt;&lt;/p&gt;&lt;h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: calc(1.375em * 1);"&gt;&lt;strong&gt;Stop Optimizing for a Great Manager&lt;/strong&gt;&lt;/h3&gt;&lt;blockquote style="border-left: 4px solid #f47c55;margin: 20px 0;padding: 0;"&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);margin-left: 20px;line-height: 26px;font-size: 16px;"&gt;I&amp;#8217;m a PM director, and I&amp;#8217;ve just spent two months doing a postmortem on my career. The honest answer: when I&amp;#8217;ve had a great manager, I&amp;#8217;ve been able to do my best work. When I haven&amp;#8217;t, I&amp;#8217;ve struggled. So the thing I&amp;#8217;m optimizing hardest for in my next role is finding that great-manager fit again. How do I actually evaluate that during interviews? Is there a clean way to tell if someone is going to be a strong manager for me before I sign?&lt;/p&gt;&lt;/blockquote&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;Everyone wants a great manager. The question worth sitting with is &lt;/span&gt;&lt;em&gt;why.&lt;/em&gt;&lt;span&gt; In her experience, the great ones translated the demands of the environment for her and made space for the way she naturally works; the bad ones couldn&amp;#8217;t, so she pretzeled herself to fit and the work suffered. Hence the natural conclusion: find a great manager next time.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;The hard truth &amp;#8212; as a leader, you probably won&amp;#8217;t.&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;Most leaders&amp;#8217; managers aren&amp;#8217;t great. Most CEOs aren&amp;#8217;t either. Becoming senior in tech has almost nothing to do with management quality &amp;#8212; nearly every executive got there on the strength of some &lt;/span&gt;&lt;em&gt;other&lt;/em&gt;&lt;span&gt; skill. Founders are the clearest case: they don&amp;#8217;t build successful companies because they coach well. Salespeople, domain experts, fundraisers &amp;#8212; same story; management was rarely the gating skill. And as more product work shifts toward builders and agents, the trend only points one way: over the next decade, expect weaker managers at the top, not stronger.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;There&amp;#8217;s a strange curve to it. Your very first manager is usually someone new to management. The middle of your career, you tend to get the best ones &amp;#8212; present enough to coach, far enough from the C-suite to focus on the work. As you climb past that, the quality drops again, because the skills they were promoted on were different ones.&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;So when a leader tells me her next job has to come with a great manager, my honest reaction is: &lt;/span&gt;&lt;em&gt;so you&amp;#8217;re looking for a junior role?&lt;/em&gt;&lt;span&gt; Because that&amp;#8217;s the layer of the org where you&amp;#8217;d actually get one. What&amp;#8217;s profound &amp;#8212; and what I want most leaders to get to &amp;#8212; is the version of this conversation where the leader says: &lt;/span&gt;&lt;em&gt;manager&amp;#8217;s not on my list.&lt;/em&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;The reframe is &lt;/span&gt;&lt;em&gt;what does a company need to look like such that I don&amp;#8217;t need a great manager?&lt;/em&gt;&lt;span&gt; That&amp;#8217;s a much more answerable question, and it puts the lever in your hands.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;This is where &lt;/span&gt;&lt;strong&gt;pretzeling&lt;/strong&gt;&lt;span&gt; comes in. A good manager translates the requirements of the environment to you and creates space for how you naturally operate. The more you pretzel to fit an environment that doesn&amp;#8217;t match how you do your best work, the more you need a manager to translate. Leaders don&amp;#8217;t get good translators. So the math is: be less pretzeled.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;The exercise I&amp;#8217;d run before any interview is to write down the three to five things that define where and how you do your best work. Be specific:&lt;/p&gt;&lt;ul style="margin-top: 0;padding: 0;"&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;em&gt;I&amp;#8217;m at my best surrounded by twenty excellent colleagues, not two hundred average ones.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;em&gt;I generate energy from working hard, but I need that intensity going into building, not bureaucracy and politics.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;em&gt;I translate well from sales to product, so I do best in sales-driven cultures, less well in pure technology-as-product ones.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;em&gt;Candor is non-negotiable &amp;#8212; politeness is optional.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;People usually come up with twenty of these. The work is figuring out which three or four are the actual non-negotiables.&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;The mate metaphor helps. When you&amp;#8217;re picking a partner, there&amp;#8217;s a long list of things you&amp;#8217;d like &amp;#8212; and a much shorter list of things that, if they&amp;#8217;re missing, the relationship doesn&amp;#8217;t work (how the two of you relate to money, say). Same logic for a company: some of your preferences are compromises you can make, and a few aren&amp;#8217;t &amp;#8212; and trying to operate without those few is the real reason you&amp;#8217;ve found yourself needing a great manager to come rescue you.&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;When I joined Meta, I had to pretzel into a heavily written, data-driven culture I&amp;#8217;d never operated in before. Meta has billions of users; they write everything down to keep the mistakes small. That was a lot to adapt to, and I did. But the thing I&amp;#8217;d put as non-negotiable &amp;#8212; product values translating all the way up the org, real product decisions getting real weight at every level &amp;#8212; was met. So the pretzel was acceptable, and my manager didn&amp;#8217;t have to be constantly translating for me, because the environment itself did that work.&lt;/p&gt;&lt;h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: calc(1.375em * 1);"&gt;&lt;strong&gt;Imposter Mode Turns Managers Into Cheerleaders&lt;/strong&gt;&lt;/h3&gt;&lt;blockquote style="border-left: 4px solid #f47c55;margin: 20px 0;padding: 0;"&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);margin-left: 20px;line-height: 26px;font-size: 16px;"&gt;I joined a hot company a couple of years ago, and I&amp;#8217;m crushing it. Now I&amp;#8217;m finally getting to manage people for the first time. My first report is a new hire &amp;#8212; and get this, she was a director at her last company. Turns out she&amp;#8217;s taking the &amp;#8220;join the rocketship in any seat&amp;#8221; thing seriously. I&amp;#8217;m thrilled because she&amp;#8217;s overqualified &amp;#8212; she&amp;#8217;s a more experienced manager than I am. So my plan, if she&amp;#8217;s cool with it: treat her as a peer, avoid over-managing, just be grateful for the experience. Any gotchas?&lt;/p&gt;&lt;/blockquote&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;This situation would have been very rare five or ten years ago. It&amp;#8217;s not rare anymore. The advice that&amp;#8217;s everywhere in 2026 &amp;#8212; &lt;/span&gt;&lt;em&gt;take a smaller role at a higher-quality company, the cream rises to the top&lt;/em&gt;&lt;span&gt; &amp;#8212; means hot companies now routinely hire directors and execs into IC seats. The managers catching them are often less experienced than the people they&amp;#8217;re managing.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;The new manager&amp;#8217;s instinct here is reasonable: &lt;/span&gt;&lt;em&gt;I don&amp;#8217;t want to over-manage someone with more experience than me.&lt;/em&gt;&lt;span&gt; The trouble is that this instinct, pushed a little further, becomes &lt;/span&gt;&lt;em&gt;I&amp;#8217;ll just stay out of the way and treat her as a peer.&lt;/em&gt;&lt;span&gt; That&amp;#8217;s the imposter speaking. The moment you accept the imposter&amp;#8217;s deal, you&amp;#8217;ve stopped being her manager. You&amp;#8217;ve become her cheerleader. Different job, and not the one you have.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;You earned this seat. Your report having more management experience than you doesn&amp;#8217;t change that. The job is to manage &amp;#8212; and that includes critical feedback when it&amp;#8217;s due, praise when she&amp;#8217;s doing well, and clarity about who is in which role.&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;The honest test to run on yourself: &lt;/span&gt;&lt;strong&gt;are you safe giving this person feedback?&lt;/strong&gt;&lt;span&gt; Same test we ran on the sponsor section earlier, but here it&amp;#8217;s preventive rather than forensic. If you&amp;#8217;ve already decided in advance that any feedback you give will land as stupid because she&amp;#8217;ll see through you, you&amp;#8217;ve already decided not to be her manager. A second diagnostic worth sitting with: &lt;/span&gt;&lt;em&gt;would it frustrate you if she needed real guidance from you?&lt;/em&gt;&lt;span&gt; The honest answer tells you whether your deference is grounded in respect for her, or in fear of the role.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;The safety check runs in both directions. You need to be safe giving her feedback &amp;#8212; &lt;/span&gt;&lt;em&gt;and&lt;/em&gt;&lt;span&gt; she needs to see you as her manager, not a peer she&amp;#8217;s politely tolerating. If either side breaks &amp;#8212; if you&amp;#8217;re walking on eggshells, or she&amp;#8217;s quietly waiting out the relationship &amp;#8212; it isn&amp;#8217;t doing its job.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;There&amp;#8217;s an advantage you have here that&amp;#8217;s easy to undervalue. A new-to-the-company senior IC mostly needs onboarding muscle right now, not management muscle. A manager who&amp;#8217;s &lt;/span&gt;&lt;em&gt;also&lt;/em&gt;&lt;span&gt; new to the company would be blind leading the blind. You&amp;#8217;re not. You&amp;#8217;ve got tenure, company context, and visibility into rooms she isn&amp;#8217;t in yet. That&amp;#8217;s a real asset to her &amp;#8212; not a consolation prize for you.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;The thing to land on: &lt;/span&gt;&lt;strong&gt;a first manager doesn&amp;#8217;t have to be the more skilled individual. They have to be able to provide key guidance and partner effectively.&lt;/strong&gt;&lt;span&gt; Connecting back to the great-manager question above, that partnership is &lt;/span&gt;&lt;em&gt;one less pretzel move&lt;/em&gt;&lt;span&gt; for her. Hot companies reorg constantly. Six months from now, the team might look completely different anyway. What she needs from her first manager right now is footing &amp;#8212; and you&amp;#8217;re well-positioned to give her exactly that.&lt;/span&gt;&lt;/p&gt;&lt;div style="font-size: 16px;line-height: 26px;"&gt;&lt;hr style="margin: 32px 0;padding: 0;height: 1px;background: rgb(0,0,0,.1);border: none;"&gt;&lt;/div&gt;&lt;h3 class="header-anchor-post" style="position: relative;font-family: 'SF Pro Display',-apple-system-headline,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-weight: bold;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: antialiased;-webkit-appearance: optimizelegibility;-moz-appearance: optimizelegibility;appearance: optimizelegibility;margin: 1em 0 0.625em 0;color: rgb(54,55,55);line-height: 1.16em;font-size: calc(1.375em * 1);"&gt;&lt;strong&gt;The Playbook&lt;/strong&gt;&lt;/h3&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;Five lines connect them all:&lt;/p&gt;&lt;ul style="margin-top: 0;padding: 0;"&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;strong&gt;When two superpowers collide, you get two shadows.&lt;/strong&gt;&lt;span&gt; Most great-manager and great-performer relationships that go bad are this pattern. The manager who can see the diamond stops seeing the warts. The underdog who sees past every obstacle eventually sees past the manager.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;strong&gt;&amp;#8220;Earned the right&amp;#8221; cuts both ways.&lt;/strong&gt;&lt;span&gt; Some leaders have earned the right to play offense and are hiding from it behind macro narratives like the AI bubble. Others haven&amp;#8217;t earned it yet and need to play defense. Reading your own situation correctly is a key piece in any transition framework.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;strong&gt;When you haven&amp;#8217;t earned that right, sticking is the job.&lt;/strong&gt;&lt;span&gt; Multiple short stints means the next role isn&amp;#8217;t about the frontier &amp;#8212; it&amp;#8217;s about a win. Take something you can crush, even if it&amp;#8217;s a step down in brand or stage. Let the role after that be the one that stretches you.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;strong&gt;Leaders should stop optimizing for a great manager.&lt;/strong&gt;&lt;span&gt; That&amp;#8217;s advice for early in your career, when you needed a translator and a coach. The further up you go, the less likely you are to get one &amp;#8212; and the less you should actually need one. Optimize instead for the environment that asks the least pretzeling of you.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style="margin: 8px 0 0 32px;mso-special-format: bullet;"&gt;&lt;p style="color: rgb(54,55,55);line-height: 26px;margin-bottom: 0;box-sizing: border-box;padding-left: 4px;font-size: 16px;margin: 0;"&gt;&lt;strong&gt;Managers manage.&lt;/strong&gt;&lt;span&gt; Imposter mindset turns first-time managers into cheerleaders. The honest diagnostic: would it frustrate you if they needed real guidance from you? And the same safety test as the unmanageable report &amp;#8212; &lt;/span&gt;&lt;em&gt;are you safe giving them feedback?&lt;/em&gt;&lt;span&gt; If you&amp;#8217;re not, you&amp;#8217;re not actually their manager.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;"&gt;&lt;span&gt;The thread under all five: &lt;/span&gt;&lt;strong&gt;the playbook that got you to a leadership seat is usually the wrong one for the hardest questions you&amp;#8217;ll face from it.&lt;/strong&gt;&lt;span&gt; The early-career advice you most internalized is often the advice that quietly stops working from this side of the table.&lt;/span&gt;&lt;/p&gt;&lt;div style="font-size: 16px;line-height: 26px;"&gt;&lt;hr style="margin: 32px 0;padding: 0;height: 1px;background: rgb(0,0,0,.1);border: none;"&gt;&lt;/div&gt;&lt;p style="margin: 0 0 20px 0;color: rgb(54,55,55);line-height: 26px;font-size: 16px;margin-bottom: 0;"&gt;&lt;strong&gt;Have your own career question?&lt;/strong&gt;&lt;span&gt; Get personalized guidance at &lt;/span&gt;&lt;a href="https://substack.com/redirect/2d6bd6ef-34c2-467f-8799-139e54fecfe3?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(54,55,55);text-decoration: underline;"&gt;Nikhyl.AI&lt;/a&gt;&lt;span&gt;. It&amp;#8217;s where the questions keep coming, and where I&amp;#8217;ll keep sharing what I&amp;#8217;m learning.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;table class="email-ufi-2-bottom" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-top: 1px solid rgb(0,0,0,.1);border-bottom: 1px solid rgb(0,0,0,.1);min-width: 100%;"&gt;&lt;tbody&gt;&lt;tr height="16"&gt;&lt;td height="16" style="font-size:0px;line-height:0;"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="margin:0 auto;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-button-outline" href="https://substack.com/app-link/post?publication_id=92860&amp;post_id=199658325&amp;utm_source=substack&amp;isFreemail=true&amp;submitLike=true&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5OTY1ODMyNSwicmVhY3Rpb24iOiLinaQiLCJpYXQiOjE3ODExMDk1MTQsImV4cCI6MTc4MzcwMTUxNCwiaXNzIjoicHViLTkyODYwIiwic3ViIjoicmVhY3Rpb24ifQ.t4kshigLykE9Rdm5XipLXV3FRER1YrwAgd8PnxZLUJ4&amp;utm_medium=email&amp;utm_campaign=email-reaction&amp;r=8a8bay" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!PeVs!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""&gt;&lt;span class="email-button-text" style="vertical-align: middle;"&gt;Like&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-button-outline" href="https://substack.com/app-link/post?publication_id=92860&amp;post_id=199658325&amp;utm_source=substack&amp;utm_medium=email&amp;isFreemail=true&amp;comments=true&amp;token=eyJ1c2VyX2lkIjo1MDA5MTM0NjYsInBvc3RfaWQiOjE5OTY1ODMyNSwiaWF0IjoxNzgxMTA5NTE0LCJleHAiOjE3ODM3MDE1MTQsImlzcyI6InB1Yi05Mjg2MCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.qBfjZSDz7oL5LrgKZun2xJA8Vf5Z7ZiCce4I9ucbTqI&amp;r=8a8bay&amp;utm_campaign=email-half-magic-comments&amp;action=post-comment&amp;utm_source=substack&amp;utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!x1tS!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideComments%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2" width="18" height="18" style="margin-right: 8px;min-width: 18px;min-height: 18px;border: none;vertical-align: middle;max-width: 18px" alt=""&gt;&lt;span class="email-button-text" style="vertical-align: middle;"&gt;Comment&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td width="8" style="min-width:8px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a class="email-button-outline" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvdGhlc2tpcC9wLzUtY2FyZWVyLXF1ZXN0aW9ucy15b3VyLW9sZC1wbGF5Ym9vaz91dG1fc291cmNlPXN1YnN0YWNrJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWVtYWlsLXJlc3RhY2stY29tbWVudCZhY3Rpb249cmVzdGFjay1jb21tZW50JnI9OGE4YmF5JnRva2VuPWV5SjFjMlZ5WDJsa0lqbzFNREE1TVRNME5qWXNJbkJ2YzNSZmFXUWlPakU1T1RZMU9ETXlOU3dpYVdGMElqb3hOemd4TVRBNU5URTBMQ0psZUhBaU9qRTNPRE0zTURFMU1UUXNJbWx6Y3lJNkluQjFZaTA1TWpnMk1DSXNJbk4xWWlJNkluQnZjM1F0Y21WaFkzUnBiMjRpZlEucUJmalpTRHo3b0w1THJnS1p1bjJ4SkE4VmY1WjdaaUNjZTRJOXVjYlRxSSIsInAiOjIwMTQ3NzM1NSwicyI6MTA4NDUsImYiOnRydWUsInUiOjUwMDkxMzQ2NiwiaWF0IjoxNzgxMTA5NTE0LCJleHAiOjIwOTY2ODU1MTQsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.TCqxL5Cygg2xfp3qN9eqebE91yr3rGm3a3dW2mjJvYQ?&amp;utm_source=substack&amp;utm_medium=email" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';display: inline-block;font-weight: 500;border: 1px solid rgb(0,0,0,.1);border-radius: 9999px;text-transform: uppercase;font-size: 12px;line-height: 12px;padding: 9px 14px;text-decoration: none;color: rgb(119,119,119);"&gt;&lt;img class="icon" src="https://substackcdn.com/image/fetch/$s_!ubXF!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2Fnotes__NoteRestackIcon%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2%26strokeLinecap%3Dround%26strokeLinejoin%3Dround" width="18" height="18" alt="" style="margin-right: 8px;min-width: 18px;min-height: 18px;max-width: 550px;border: none !important;vertical-align: middle;"&gt;&lt;span class="email-button-text" style="vertical-align: middle;"&gt;Restack&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td align="right"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="16"&gt;&lt;td height="16" style="font-size:0px;line-height:0;"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;div class="post email-text-base restack-after" style="padding: 32px 0 0 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';color: #363737;font-size: 16px;line-height: 26px;border-top: solid 1px rgb(0,0,0,.1);border-bottom: solid 1px rgb(0,0,0,.1);padding-top: 20px;padding-bottom: 5px;margin-top: 20px;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="width:100%;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;span class="email-text-base email-text-b4 forward-text" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;line-height: 20px;letter-spacing: -.15px;font-weight: 600;color: rgb(119,119,119);"&gt;Originally posted on&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="14"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0" style="width:100%;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="vertical-align:middle;"&gt;&lt;a href="https://substack.com/redirect/71705d70-7412-4c13-8d3a-d22a9457577c?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" data-native="true" style="color: #f47c55;text-decoration: none;width: 40px;height: 40px"&gt;&lt;img class="static-XUAQjT" src="https://substackcdn.com/image/fetch/$s_!HgtS!,w_80,h_80,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a6bf0f8-e23e-40a9-ad6e-f66b3745298b_1280x1280.png" width="40" height="40" alt="The Skip" name="The Skip" style="border-radius: 8px;box-sizing: border-box;background-color: rgb(255,255,255);margin: 0;max-width: 550px;border: none !important;vertical-align: middle;"&gt;&lt;/a&gt;&lt;/td&gt;&lt;td width="12" style="min-width:12px;"&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;div class="email-text-base restacker-name" style="font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';color: #363737;font-size: 16px;line-height: 26px;"&gt;&lt;span class="pub-name" style="display: block;font-weight: 600;"&gt;&lt;a href="https://substack.com/redirect/71705d70-7412-4c13-8d3a-d22a9457577c?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="text-decoration: none;color: rgb(54,55,55);"&gt;The Skip&lt;/a&gt;&lt;/span&gt;&lt;span class="email-text-b4" style="font-size: 14px;line-height: 20px;letter-spacing: -.15px;display: block;color: rgb(119,119,119);"&gt;Nikhyl Singhal&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td style="vertical-align:middle;"&gt;&lt;div class="subscribe-button" style="font-size: 16px;line-height: 26px;float: right;"&gt;&lt;table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="email-button-td" align="center" style="border-radius: 8px;background-color: #f47c55;"&gt;&lt;a class="email-button-a" href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly90aGVza2lwLnN1YnN0YWNrLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1jcm9zcy1wb3N0JnV0bV9jYW1wYWlnbj0xMDg0NSZuZXh0PWh0dHBzJTNBJTJGJTJGdGhlc2tpcC5zdWJzdGFjay5jb20lMkZwJTJGNS1jYXJlZXItcXVlc3Rpb25zLXlvdXItb2xkLXBsYXlib29rJnI9OGE4YmF5IiwicCI6MjAxNDc3MzU1LCJzIjoxMDg0NSwiZiI6dHJ1ZSwidSI6NTAwOTEzNDY2LCJpYXQiOjE3ODExMDk1MTQsImV4cCI6MjA5NjY4NTUxNCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.fLqq0C1Rr86Xis7BeBftSbrxCKanclnKzh-eBcbJiqE?" style="color: #ffffff;text-decoration: none;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';font-size: 14px;font-weight: 600;letter-spacing: -.15px;line-height: 1;border-radius: 8px;padding: 12px 24px;border: 1px solid #f47c55;display: inline-block;"&gt;Subscribe&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr height="14"&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p class="email-text-base email-text-b4 hero-text" style="margin: 0 0 20px 0;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';letter-spacing: -.15px;font-size: 16px;line-height: 26px;color: rgb(119,119,119);margin-top: 0;"&gt;Career advice for tech professionals&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div class="footer footer-ZM59BM" style="color: rgb(119,119,119);text-align: center;font-size: 16px;line-height: 26px;padding: 24px0;"&gt;&lt;div style="font-size: 16px;line-height: 26px;padding-bottom: 24px"&gt;&lt;p class="pencraft pc-reset color-secondary-ls1g8s size-12-mmZ61m reset-IxiVJZ small meta-B2bqa5" style="list-style: none;font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';padding-bottom: 0;font-size: 12px;line-height: 16px;margin: 0;color: rgb(119,119,119);text-decoration: unset;"&gt;&amp;#169; 2026 &lt;span&gt;&lt;/span&gt;&lt;br&gt;2443 Fillmore St., #380-8231, San Francisco, CA 94115 &lt;br&gt;&lt;a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cubGVubnlzbmV3c2xldHRlci5jb20vYWN0aW9uL2Rpc2FibGVfZW1haWw_dG9rZW49ZXlKMWMyVnlYMmxrSWpvMU1EQTVNVE0wTmpZc0luQnZjM1JmYVdRaU9qSXdNVFEzTnpNMU5Td2lhV0YwSWpveE56Z3hNVEE1TlRFMExDSmxlSEFpT2pFNE1USTJORFUxTVRRc0ltbHpjeUk2SW5CMVlpMHhNRGcwTlNJc0luTjFZaUk2SW1ScGMyRmliR1ZmWlcxaGFXd2lmUS5tRm5iSFRUaUpOd1NCNm1aeGVtalZYSHFUUkJyS243bXJMSkNEdjBQLWZVIiwicCI6MjAxNDc3MzU1LCJzIjoxMDg0NSwiZiI6dHJ1ZSwidSI6NTAwOTEzNDY2LCJpYXQiOjE3ODExMDk1MTQsImV4cCI6MjA5NjY4NTUxNCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.jG9tBfCg3NlN2VRZdKn0ZeHJoY4K-F-hy5hIClexNX0?" style="text-decoration: underline;color: rgb(119,119,119);"&gt;&lt;span style="color: rgb(119,119,119);text-decoration: underline;"&gt;Unsubscribe&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;p class="footerSection-EHR0jG small powered-by-substack" style="padding: 0 24px;font-size: 12px;line-height: 20px;margin: 0;color: rgb(119,119,119);font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';padding-bottom: 0;margin-top: 0;"&gt;&lt;a href="https://substack.com/redirect/80f49869-9f31-4d1a-a30f-fa3408debb46?j=eyJ1IjoiOGE4YmF5In0.KHS6HMDdHIBtymIGSuwpkS0DCXGklZtdBNsEExOOEHs" style="color: rgb(119,119,119);text-decoration: none;display: inline-block;margin: 0 4px;"&gt;&lt;img src="https://substackcdn.com/image/fetch/$s_!IzGP!,w_262,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%402x.png" srcset="https://substackcdn.com/image/fetch/$s_!DIki!,w_131,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button.png, https://substackcdn.com/image/fetch/$s_!IzGP!,w_262,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%402x.png 2x, https://substackcdn.com/image/fetch/$s_!QWua!,w_393,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%403x.png 3x" width="131" alt="Get the app" height="40" style="max-width: 550px;border: none !important;vertical-align: middle;"&gt;&lt;/a&gt;&lt;a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1rb2I2MjI5MTQwNEAxNjMuY29tJnI9OGE4YmF5IiwicCI6MjAxNDc3MzU1LCJzIjoxMDg0NSwiZiI6dHJ1ZSwidSI6NTAwOTEzNDY2LCJpYXQiOjE3ODExMDk1MTQsImV4cCI6MjA5NjY4NTUxNCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.jibp9v0By8ONbe92JIJtfFkraK9BlcK-DfL-WxQpKdk?" style="color: rgb(119,119,119);text-decoration: none;display: inline-block;margin: 0 4px;"&gt;&lt;img src="https://substackcdn.com/image/fetch/$s_!LkrL!,w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png" srcset="https://substackcdn.com/image/fetch/$s_!wgfj!,w_135,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button.png, https://substackcdn.com/image/fetch/$s_!LkrL!,w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png 2x, https://substackcdn.com/image/fetch/$s_!KjtY!,w_405,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%403x.png 3x" width="135" alt="Start writing" height="40" style="max-width: 550px;border: none !important;vertical-align: middle;"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;img src="https://eotrx.substackcdn.com/o/f33ee83adea58fcf/p.gif?token=eyJtIjoiPDIwMjYwNjEwMTYyNTQ1LjMuZmRlMTZkYTg4M2Y4YTMyNEBtZzIuc3Vic3RhY2suY29tPiIsInUiOjUwMDkxMzQ2NiwiciI6ImtvYjYyMjkxNDA0QDE2My5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOjIwMTQ3NzM1NSwidCI6InJlc3RhY2siLCJhIjoiZXZlcnlvbmUiLCJzIjoxMDg0NSwiYyI6InBvc3QiLCJmIjp0cnVlLCJwb3NpdGlvbiI6ImJvdHRvbSIsImlhdCI6MTc4MTEwOTUxNSwiZXhwIjoxNzgzNzAxNTE1LCJpc3MiOiJwdWItMCIsInN1YiI6ImVvIn0.WY0xp3x7U2IgFhCIODWMyAAa-rucxRj8OpL5ncExaCo" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/&gt;&lt;img width="1" height="1" alt="" src="https://email.mg2.substack.com/o/eJxEkN2KwyAQRp9mvQwz_sVe-Cxh1ElXmmgxWsjbL2kLe3uGORy-SJ3vtZ3-WY8uktcJnXGCPc4OEW4GneCd8rbcuXCjzmmh_n81YI349Ux6Tml1GOSKSim2UlliZjAWQlQiewnSgkVAK402k5rWxGgTOadWR0rqHw37XU7HCEen-Jhi3UU-lrXxO8D3NlhcmQuNlLlE9vzidtbyxTl5CajnWRnzIf18sm_89onnCEus-z5K7ufChcLG6WsdYcuReq7lsiA4bUTzjxqslDfUcMWhVe-mY4RUd8rFb1zKKfpnu3Fwu54NwA2Vtla8vPwLAAD__-ExcWA"&gt;&lt;/body&gt;&lt;/html&gt;</content:encoded></item><item><title>Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell</title><link>https://rss.longlone.de5.net/own/da3CNU1jcHUCVx2chac6FrA8DstXNxnw.xml#item-164</link><guid isPermaLink="false">own-newsletter:item:164</guid><pubDate>Sun, 07 Jun 2026 12:31:30 GMT</pubDate><author>Lenny's Newsletter &lt;lenny@substack.com&gt;</author><description>Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony FadellListen now | The creator of iPod, iPhone, and Nest on opinion vs. data decisions, why marketing matters, the "three generations" rule behind everything he's shipped, and why AI...</description><content:encoded>&lt;html lang="en" dir="ltr" style="scrollbar-width: thin;scrollbar-color: rgb(219,219,219)rgb(255,255,255);"&gt;&lt;head&gt;&lt;meta charset="utf-8"&gt;&lt;title&gt;Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell&lt;/title&gt;&lt;style&gt;
 @media (max-width: 1024px) {
   .typography .pullquote-align-left,
   .typography.editor .pullquote-align-left,
