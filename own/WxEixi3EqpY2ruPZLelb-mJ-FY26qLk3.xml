@@ -1,5 +1,519 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>TLDR AI</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml</link><description>Messages from sources matching dan@tldrnewsletter.com</description><lastBuildDate>Thu, 11 Jun 2026 10:43:00 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml" rel="self" type="application/rss+xml"></atom:link><item><title>SpaceX IPO oversubscribed 💰, OpenAI's price war 📉, Stack Overflow for Agents 🤖</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-184</link><guid isPermaLink="false">own-newsletter:item:184</guid><pubDate>Thu, 11 Jun 2026 10:34:54 GMT</pubDate><author>TLDR &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR The demand for SpaceX's initial public offering is more than four times the shares available. SpaceX's IPO is set to price today and trade tomorrow ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|V...</description><content:encoded>TLDR
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>TLDR AI</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml</link><description>Messages from sources matching dan@tldrnewsletter.com</description><lastBuildDate>Thu, 11 Jun 2026 11:43:19 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml" rel="self" type="application/rss+xml"></atom:link><item><title>Unwritten SWE laws ⚖️, being good at research 🔬, building faster websites ⚡️</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-185</link><guid isPermaLink="false">own-newsletter:item:185</guid><pubDate>Thu, 11 Jun 2026 11:09:24 GMT</pubDate><author>TLDR Dev &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR Dev Software engineering relies on unwritten principles learned through experience that prioritize system stability and proactive risk mitigation ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|Vie...</description><content:encoded>TLDR Dev
+
+
+
+Software engineering relies on unwritten principles learned through experience that prioritize system stability and proactive risk mitigation&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;
+
+&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fdev%3Futm_source=tldrdev/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/cwOSl09wH8WSpOzIqNaGVyyK9wMe8AkM3qwOVbGNn04=452" rel="noopener noreferrer"&gt;Sign Up&lt;/a&gt;
+|&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/MezvUvJaC5mfo4LVFL-a0gPFG60yL6aimynT9oMDKoQ=452" rel="noopener noreferrer"&gt;Advertise&lt;/a&gt;|&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=149d365e-456d-11f1-8ba2-498e51b65b4e%26p=e4963f64-654c-11f1-ad1f-513234910752%26pt=campaign%26t=1781176164%26s=f1e6fe99c4159b7ebb4e44c2b272a24565fda94762bdfb61fd3b1472f98dc768/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/Oj3QQ5aC-mZTjgNim4t8bJPPUxLlpbOjYhyaeFCK6zg=452" rel="noopener noreferrer"&gt;View Online&lt;/a&gt;
+&lt;br&gt;
+
+
+
+TLDR
+&lt;br&gt;
+
+
+&lt;br&gt;
+
+&lt;strong&gt;Together With &lt;/strong&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbuildkite.com%2Fpricing%2F%3Futm_source=TLDR%26utm_medium=newsletter%26utm_campaign=2026-06-11_Primary_Buildkite%26utm_content=header_agentic_codegen_blowing/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/2dfgghBjTZtlGCGr3iUOGHVbWwZSMM5O7DD2Pk2VzX0=452" rel="noopener noreferrer"&gt;&lt;img src="https://images.tldr.tech/buildkite2.png" alt="Buildkite"&gt;&lt;/a&gt;
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;&amp;nbsp;TLDR Dev 2026-06-11&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbuildkite.com%2Fpricing%2F%3Futm_source=TLDR%26utm_medium=newsletter%26utm_campaign=2026-06-11_Primary_Buildkite%26utm_content=header_agentic_codegen_blowing/2/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/xQh42v-mlnlCXpZLnewDMjyoiF_fy5ouWDVtuwhdwSQ=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Agentic codegen is blowing up build queues. CI that turns scale into speed, reliably, is more important than ever. (Sponsor)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Buildkite has run CI for OpenAI, Airbnb, Canva, Uber and Shopify for 7-12 yrs as they grew.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Now we also orchestrate for Cursor, NVIDIA, Anthropic, Meta, Mistral, xAI, Discord, Reddit, Ramp, Planetscale, Pierre and Bun...&lt;/p&gt;&lt;p&gt;...and the workloads that build vLLM, Lambda, Bazel and Backstage.&lt;/p&gt;&lt;p&gt;Quietly powering software used by 1B+ people daily, since 2013.&lt;/p&gt;&lt;p&gt;Parallelize, fan-out and orchestrate at depths a slightly faster runner won't reach.&lt;/p&gt;&lt;p&gt;Start with our all-access 30-day trial. &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbuildkite.com%2Fpricing%2F%3Futm_source=TLDR%26utm_medium=newsletter%26utm_campaign=2026-06-11_Primary_Buildkite%26utm_content=cta_signup_here/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/a0Rj9vKTCbZJzLVv54tKHdCyp3oRu_R-haK3Xv9iTEo=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Signup here →&lt;/strong&gt;&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+🧑‍💻
+
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Articles &amp;amp; Tutorials&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmohkohn.co.uk%2Fwriting%2Fhtml-first%2F%3Futm_source=tldrdev/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/vjdC50hVZQAKkQdNZbUzRpA2kz8r6FDtxKN_1irYf8k=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;How building an HTML-first site doubled our users overnight (6 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Rebuilding a utility company's failed React application into an HTML-first site using Astro instantly doubled its user completion rates overnight. Focusing on progressive enhancement, lightweight code, and backend data storage made the user experience much better for low-spec devices and poor connections.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fplain.jxd.dev%2Fblog%2Frealtime%3Futm_source=tldrdev/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/iBlBqBYNb7Nr3ztRh3iHlnRxE19m09xgSPpk501lfVY=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Instant by default, multiplayer by design (15 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Plain is a developer platform that replaces the traditional request-response model with a sync-based architecture that maintains a live replica of the database within the browser. The system uses two specialized engines to handle different data types, using ElectricSQL for Postgres rows and Yjs for character-level concurrent document editing. By subscribing to live state instead of individual endpoints, every view stays updated automatically without the need for manual page refreshes.
+                                
+
+
+
+
+
+
+
+
+
+🧠
+
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Opinions &amp;amp; Advice&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdarioamodei.com%2Fpost%2Fpolicy-on-the-ai-exponential%3Futm_source=tldrdev/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/43vN9qo3RSz7b3W-5TbeRXxmN6LtR3PVD-TtGd59cf0=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Policy on the AI Exponential (30 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Anthropic CEO Dario Amodei writes that rapid technological progress is currently outpacing legislative capacity, creating an urgent need for mandatory safety testing and government oversight of frontier models to prevent catastrophic risks in cybersecurity and biology. Addressing the potential for huge labor displacement and hyper-inequality requires a multi-faceted economic response.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnewsletter.manager.dev%2Fp%2Fthe-unwritten-laws-of-software-engineering%3Futm_source=tldrdev/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/9gQ7Wzc5wNrgkqzzKdJbvwFSThdQzQ6rNcks73p087c=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;The unwritten laws of software engineering (9 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Software engineering relies on unwritten principles learned through experience that prioritize system stability and proactive risk mitigation. When production issues occur, the most effective approach is to perform an immediate rollback before debugging and to make sure that all backups have been verified through actual restoration tests. Engineers must also plan for the inevitable failure of external dependencies.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FxhtBUi/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/ny6JNUr3URKYu_NN92u9yLaZAUBJ5MW11-Ai5_M9r2k=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;How to be good at research (5 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    True research mastery requires moving beyond just imitation by deliberately training specific skills, starting with the selection of original problems rather than simply following current trends. Diversifying information inputs by studying foundational papers and reading full documents instead of summaries helps build the unique insights necessary for genuine innovation.
+                                
+
+
+
+
+
+
+
+
+🚀
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Launches &amp;amp; Tools&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.extend.ai%2Fui%3Futm_source=tldrdev/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/tGRRFvV_ytpSEnj2CiRXdznLQhvYKHqCucvy_WV6aE8=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Extend UI (Website)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Extend UI is an open-source toolkit designed for building modern document applications with integrated file viewers and management features. The library includes specialized components for handling various formats like PDF, DOCX, and XLSX, alongside tools for e-signatures and file uploads.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fapache%2Fburr%3Futm_source=tldrdev/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/SMyunsEe2btTTyKl8n3OlrA2VOsAUwB1mHzVTqCFHFw=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Apache Burr (GitHub Repo)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Apache Burr is an open-source Python framework for developing decision-making applications, such as chatbots and agents, using a state machine architecture. The system allows devs to model complex workflows as graphs of simple Python functions, providing a clear structure for managing state and transitions.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FHelixDB%2Fhelix-db%2Ftree%2Fmain%3Futm_source=tldrdev/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/CwskoIPWWTcbCGdDIjf8zDFeIORLAgVn7fknJAI6IWU=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Helix DB (GitHub Repo)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    HelixDB is an OLTP graph-vector database written in Rust that unifies vector, graph, relational, and document data into one system to simplify AI memory management. It provides a CLI and SDKs for local development while offering a managed cloud service with high availability, ACID transactions, and auto-scaling.
+                                
+
+
+
+
+
+
+
+
+
+🎁
+
+
+
+
+&lt;strong&gt;&lt;h1&gt;Miscellaneous&lt;/h1&gt;&lt;/strong&gt;
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fforestwalk.ai%2Fblog%2Fsurprise-blacksmith-costs%2F%3Futm_source=tldrdev/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/53n0FcRoSsyUiENzPV-dITLiHnZC6djbCw435_zS2OY=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Surprise! Pay $1,000 (6 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    A development team seeking a faster alternative to GitHub Actions tested Blacksmith, a service offering a free trial with no credit card requirement. After exceeding the trial limits, the users unexpectedly received an invoice for over $1,000 because the service continued running rather than automatically suspending as anticipated.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fp2claw.com%2Fblog%2F2026-06-09-the-ipad-was-on-tailscale%2F%3Futm_source=tldrdev/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/3voA1ZWpM0YoEZlY6yo0YZGqti6wXhFfr3bfrS0biX8=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;The iPad was on Tailscale (14 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    An investigation into why a WebRTC-based application failed exclusively on an iPad revealed a complex interaction between two separate software bugs. The first issue involved a hardcoded constant in the webrtc-rs library that generated data packets exceeding the maximum size allowed by Tailscale's VPN tunnel. Although these oversized packets were fragmented to fit the tunnel, Tailscale's policy of dropping all IPv6 fragments prevented the data from ever reaching the destination.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fredmonk.com%2Fsogrady%2F2026%2F06%2F04%2Fbun-two-lessons%2F%3Futm_source=tldrdev/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/_VO32AK42QL99hbsU7b1ipxDb9jxXaovuY0jFAIrrKM=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;What Bun Can Tell Us About AI, Open Source, and Anthropic (15 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Anthropic acquired Bun's maker Oven in December 2025, and the runtime has kept growing fast (npm installs up ~16X to 7.3M/month). However, two shifts stand out: AI now writes most commits (peaking above 80%), while human contributors have roughly halved, with most of the original team gone and external contributions falling sharply.
+                                
+
+
+
+
+
+
+
+
+
+
+⚡
+
+
+
+
+
+
+&lt;h1&gt;&lt;strong&gt;Quick Links&lt;/strong&gt;&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftabstack.ai%2Fstructured-extraction%3Futm_source=tldrdev/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/sBrjqrHiHqktKaCqwKTzN4lrRM3EzfQg6xwftVq4Dt0=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Structured output from one API call without managing the LLM, browser, or pipeline. (Sponsor)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Pass a URL and a JSON schema to Tabstack's /extract and /generate endpoints and get back structured data that matches your schema exactly, no scraping pipeline or LLM prompt engineering required.&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftabstack.ai%2Fstructured-extraction/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/McFL-4d7FuMDr0DDAl3xhGrjU2H85MCWnrqAY-nKYn8=452" rel="noopener noreferrer"&gt;Extract Structured Data&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsamwilkinson.io%2Fposts%2F2026-06-09-anthropics-model-naming-extrapolated%3Futm_source=tldrdev/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/mytCwWPQSg10b8Nouh9CpRbvwnYHyswV3WU5yDPWPac=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Anthropic's Model Naming, Extrapolated (1 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Anthropic's literary-inspired model naming convention is funnily projected into a future where AI products scale from simple verses to increasingly complex and absurd narrative formats.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjonready.com%2Fblog%2Fposts%2Fclaude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html%3Futm_source=tldrdev/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/ABhvSIhG1C8v1t733gTjt0Z8oCb5C9VhA9yJ9rXoE2Q=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;If Claude Fable stops helping you, you'll never know (3 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Anthropic's implementation of invisible performance restrictions on AI development tasks creates a supply chain risk because developers can no longer distinguish between a model's natural failure and intentional, silent policy enforcement.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.salesforce.com%2Fnews%2Fstories%2Fhow-engineering-became-agentic%2F%3Futm_source=tldrdev/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/JVnRPHY0fh3Xi10Ab8j2X1khkU6IwhQR8ltfUC0LBpg=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;Pioneering the Agentic Shift Within Salesforce Engineering (6 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    Salesforce transitioned to a fully agentic software development lifecycle by standardizing on Claude Code and removing token limits.
+                                
+
+
+
+
+
+
+
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNmrYoH/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/Hgyuznx5O2ogbcZ8TRgYq7nJuhBegR4Y31JK1rtXagI=452" rel="noopener noreferrer"&gt;
+                                    
+                                        &lt;strong&gt;AI Creativity and Discovery (4 minute read)&lt;/strong&gt;
+                                    
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+                                    True scientific discovery and creativity in AI require a transition from just mimicry of generative models toward systems that use variation, evaluation, and selective retention to produce results that are both novel and effective.
+                                
+
+
+
+
+
+
+
+
+
+&lt;p&gt;
+Love TLDR? Tell your friends and get rewards!
+&lt;/p&gt;
+
+
+
+Share your referral link below with friends to get free TLDR swag!
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F1e1623f3%2F3/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/m-AftAHlmJuRMblzFZOtBC5QF7gmnVkp_Y8f4rUgaAc=452" rel="noopener noreferrer"&gt;https://refer.tldr.tech/1e1623f3/3&lt;/a&gt;
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_25c61f0023f9%2F3/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/0IF0WHyyJZlBtlj3nTU6_Zt9r-KvO1trOzfz3gP4KYo=452" rel="noopener noreferrer"&gt;Track your referrals here.&lt;/a&gt;
+
+
+
+
+
+
+
+&lt;p&gt;
+Want to advertise in TLDR? 📰
+&lt;/p&gt;
+
+If your company is interested in reaching an audience of web developers and engineering decision makers, you may want to &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/0YDpEkZ9SXYYz56UioU-DMZbZL0DEfB5_icBnV-XtDE=452" rel="noopener noreferrer"&gt;&lt;strong&gt;advertise with us&lt;/strong&gt;&lt;/a&gt;.
+
+&lt;br&gt;
+
+
+
+&lt;p&gt;
+Want to work at TLDR? 💼
+&lt;/p&gt;
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/9-FlkcuWQw0rsqlU5PZxISGsiFof0GohWGZZykKDt-A=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Apply here&lt;/strong&gt;&lt;/a&gt;,
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/kY7FmWK5q2LEUXqjYZnQjfUHb8CLr2rhgWWgt1_eAns=452" rel="noopener noreferrer"&gt;&lt;strong&gt;create your own role&lt;/strong&gt;&lt;/a&gt; or send a friend's resume to &lt;a href="mailto:jobs@tldr.tech" rel="noopener noreferrer"&gt;jobs@tldr.tech&lt;/a&gt; and get $1k if we hire them! TLDR is one of &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/PX1K_ltmsmytK6KGnaR4jacuh7bkTMhGZ6aE_0lPEzY=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Inc.'s Best Bootstrapped businesses&lt;/strong&gt;&lt;/a&gt; of 2025.
+
+&lt;br&gt;
+
+
+If you have any comments or feedback, just respond to this email!
+&lt;br&gt;
+&lt;br&gt; Thanks for reading,
+&lt;br&gt;
+Priyam Mohanty, &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/fm8E9Fk01VwAwAbeIc7PwTlR3TLOhWN7PLHhO3cNGgU=452" rel="noopener noreferrer"&gt;Jenny Xu&lt;/a&gt; &amp;amp; Ceora Ford
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;br&gt;
+
+
+
+
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fdev%2Fmanage%3Femail=kob62291404%2540163.com/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/LW8Dy78ahbOgmQD-G_qz2CLwR26AlEmjP386NN8er5c=452" rel="noopener noreferrer"&gt;Manage your subscriptions&lt;/a&gt; to our other newsletters on tech, startups, and programming. Or if TLDR Dev isn't for you, please &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=149d365e-456d-11f1-8ba2-498e51b65b4e%26p=e4963f64-654c-11f1-ad1f-513234910752%26pt=campaign%26pv=4%26spa=1781175722%26t=1781176164%26s=99b9905cacd6202433f5bd379ea4a58e928ab9ed1e0199824d881bab6f178f94/1/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/H-gQLlHBkXsQbm7OAPHHQAGs5UBBghg7-K_JDrWIFAM=452" rel="noopener noreferrer"&gt;unsubscribe&lt;/a&gt;.
+&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019eb65f5fa4-d766c75d-c7d6-49ce-a0ca-f6cc239664d9-000000/RQsKOqtGhGHR4GI1Ftz3hGaTi3-bQZZIV13jPB2Oz2Y=452"&gt;
+</content:encoded></item><item><title>SpaceX IPO oversubscribed 💰, OpenAI's price war 📉, Stack Overflow for Agents 🤖</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-184</link><guid isPermaLink="false">own-newsletter:item:184</guid><pubDate>Thu, 11 Jun 2026 10:34:54 GMT</pubDate><author>TLDR &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR The demand for SpaceX's initial public offering is more than four times the shares available. SpaceX's IPO is set to price today and trade tomorrow ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|V...</description><content:encoded>TLDR
 
 
 
@@ -26313,442 +26827,4 @@ If you have any comments or feedback, just respond to this email!
 
 
 &lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019e7348702b-5cd2577e-2c9b-433e-b804-2f716dc1b02d-000000/CruXOAN1qyJiZCRCOU79tPV1I6Zv8GbCsXFpT_V-FSo=452"&gt;
-</content:encoded></item><item><title>The future of PMs 🔮, designing for adoption 🐶🐱, sell where you're heading next ☝️</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-126</link><guid isPermaLink="false">own-newsletter:item:126</guid><pubDate>Fri, 29 May 2026 10:06:13 GMT</pubDate><author>TLDR Product &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR Product PMs are not “dying” but changing in scope depending on the organization. This article shares a framework for PMs’ past, present, and future ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|V...</description><content:encoded>TLDR Product
-
-
-
-PMs are not “dying” but changing in scope depending on the organization. This article shares a framework for PMs’ past, present, and future&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;
-
-
-&lt;br&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fproduct%3Futm_source=tldrproduct/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/afn9KdVmr7yvq2NH0SVpUl01JprPoiMR_XAjT_bshdE=452" rel="noopener noreferrer"&gt;Sign Up&lt;/a&gt;
-|&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrproduct%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/1ssaHSj6JxrI3fz3h5ICFcet-_YTvw4W1OTGe79u1To=452" rel="noopener noreferrer"&gt;Advertise&lt;/a&gt;|&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=149f99e4-456d-11f1-8408-47608eee5fa8%26p=bbd5b878-5b21-11f1-9120-ed6a8e23021a%26pt=campaign%26t=1780049173%26s=426fa65624cd7d0a7f526e15fbdcf9a7c8efba64021c982f8da948814a8b78fa/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/JZRKpyh4IzvazLvLB-ZOm0s-mnNO2zo5RocThrQ-lXw=452" rel="noopener noreferrer"&gt;View Online&lt;/a&gt;
-&lt;br&gt;
-
-
-
-TLDR
-&lt;br&gt;
-
-
-&lt;br&gt;
-
-&lt;strong&gt;Together With &lt;/strong&gt;
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.harness.io%2Fevent%2Fflagship%3Fcampaign_id=701Uw00000jEtPUIA0%26utm_source=tldr%26utm_medium=email-paid%23register_header/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/_8Ysjj42I-y2Cq2PCRhN0ug45szwZABo47e_3DveBMU=452" rel="noopener noreferrer"&gt;&lt;img src="https://images.tldr.tech/harness.png" alt="Harness"&gt;&lt;/a&gt;
-
-
-
-
-
-&lt;h1&gt;&lt;strong&gt;TLDR Product Management 2026-05-29&lt;/strong&gt;&lt;/h1&gt;
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.harness.io%2Fevent%2Fflagship%3Fcampaign_id=701Uw00000jEtPUIA0%26utm_source=tldr%26utm_medium=email-paid%23register_header/2/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/cA4yAL0Zi_c82x3oxOFKBo2LG_sKiUE42112zuIfITw=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Cursor, Box, and United Airlines Talk AI-Powered Product Releases on One Virtual Stage (Sponsor)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    Product teams are shipping AI-powered features faster than ever. But how do you experiment, release, and optimize AI experiences without increasing risk?&lt;br&gt;&lt;br&gt;At &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.harness.io%2Fevent%2Fflagship%3Fcampaign_id=701Uw00000jEtPUIA0%26utm_source=tldr%26utm_medium=email-paid%23register_body/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/N2IikSzGfnBWF8GNcwbR-T-5ejEzrDes5FFTm6nqwfk=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Flagship: The Feature Management and Experimentation Summit hosted by Harness&lt;/strong&gt;&lt;/a&gt;, leaders from &lt;strong&gt;&lt;em&gt;Cursor&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;Box&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;United Airlines&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;JPMC&lt;/em&gt;&lt;/strong&gt;, &lt;em&gt;and more&lt;/em&gt; will share how modern product and engineering teams are adapting feature delivery for the AI era, including how to:
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;✅Release AI-powered features with confidence&lt;/p&gt;
-
-&lt;p&gt;✅Experiment safely before changes impact customers&lt;/p&gt;
-
-&lt;p&gt;✅Scale rollout strategies without sacrificing control&lt;/p&gt;
-
-&lt;p&gt;Featuring sessions on feature flags, experimentation, and AI-driven product delivery.
-&lt;br&gt;
-&lt;br&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.harness.io%2Fevent%2Fflagship%3Fcampaign_id=701Uw00000jEtPUIA0%26utm_source=tldr%26utm_medium=email-paid%23register_cta/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/iqjFBAN3y762Gu0Jncv7D1K8cgDaHkK1Qq34pbtpcEM=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Join live&lt;/strong&gt;&lt;/a&gt; on &lt;strong&gt;June 17 (10:00 AM PT / CET)&lt;/strong&gt;
-&lt;br&gt;
-&lt;br&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.harness.io%2Fevent%2Fflagship%3Fcampaign_id=701Uw00000jEtPUIA0%26utm_source=tldr%26utm_medium=email-paid%23register_cta/2/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/Pto5hPbRjb14VSM-Ut4c4KN4FdGSNg2FENRKRezmqkk=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Register now &amp;gt;&lt;/strong&gt;&lt;/a&gt;
-
-
-&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-📱
-
-
-
-
-
-
-&lt;h1&gt;&lt;strong&gt;News &amp;amp; Trends&lt;/strong&gt;&lt;/h1&gt;
-
-
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdpereira.substack.com%2Fp%2Fpast-present-and-future-of-pms-with%3Futm_source=tldrproduct/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/6-_qRCSXmc_4PcoQucDzgvAcVUKcNNmPcW1fsClAe_k=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Past, present, and future of PMs (18 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    PMs are not “dying” but changing in scope depending on the organization. This article shares a framework for PMs' past, present, and future across several areas, with special emphasis on how AI and AGI pressure will reshape responsibilities.
-                                
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.figma.com%2Fblog%2F4-new-ways-to-go-from-idea-to-product-with-ai-tools%2F%3Futm_source=tldrproduct/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/Zp5X7YHU0RVjw0rPtbdf6Gg7qYVgF2-zw5S9b7oaBmQ=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;4 new ways to go from idea to product with AI tools (4 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    AI tools are changing product development workflows. New approaches move teams from early ideas to building and production, showing what changes across the product lifecycle.
-                                
-
-
-
-
-
-
-
-
-🚀
-
-
-
-
-
-
-
-&lt;h1&gt;&lt;strong&gt;Opinions &amp;amp; Tutorials&lt;/strong&gt;&lt;/h1&gt;
-
-
-
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhackernoon.com%2Fwhy-ai-products-lose-users-after-the-first-try-and-how-to-design-for-adoption%3Futm_source=tldrproduct/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/fL2g4r_MAOD6oiP6WRSs5lMt5PIDvP_3ZC5A1uuO3V4=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Why AI Products Lose Users After the First Try - How to Design for Adoption (7 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    AI products often lose users not because the model is weak, but because adoption design decisions are missing or wrong. There are four common failure modes: activation cliffs, a trust gap, broken correction loops, and an agent autonomy ceiling.
-                                
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsimonwillison.net%2F2026%2FMay%2F27%2Fproduct-market-fit%2F%23atom-everything%3Futm_source=tldrproduct/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/vsRrfxmVJ6AASUQ-rUJcgDUQQlX602qjzSIoSLA8zYI=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;I think Anthropic and OpenAI have found product-market fit (9 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    Anthropic and OpenAI have achieved PMF for enterprise coding/general-purpose agent tools. The shift is driven by real enterprise demand for products like Claude Code/Cowork and Codex, despite thin “AI cost failure” anecdotes.
-                                
-
-
-
-
-
-
-
-
-🧑‍💻
-
-
-
-
-
-
-
-&lt;h1&gt;&lt;strong&gt;Resources &amp;amp; Tools&lt;/strong&gt;&lt;/h1&gt;
-
-
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.prose.md%2Ftldr-prod%3Futm_source=tldr-product%26utm_medium=newsletter%26utm_campaign=openprose-2026-launch%26utm_content=secondary-w2/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/eKg-MbYFS4mTu2oUySY7holNNvMdREl8IE_26cF6rWw=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;OpenProse: Give your agents SLAs that hold over time (Sponsor)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    Tired of babysitting agents? With &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.prose.md%2Ftldr-prod%3Futm_source=tldr-product%26utm_medium=newsletter%26utm_campaign=openprose-2026-launch%26utm_content=secondary-w2/2/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/KSG69YMCKVig78mmKa95dfn3t_SHAgwExRzMVDyUBQ8=452" rel="noopener noreferrer"&gt;OpenProse&lt;/a&gt;, you define your outcome ("Inbox at zero by 5pm") - the runtime executes, watches for drift, and pings you when it's done. Write your goal once in plain English, let the system keeps it true. To start, simply open terminal and type &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.prose.md%2Ftldr-install%3Futm_source=tldr-product%26utm_medium=newsletter%26utm_campaign=openprose-2026-launch%26utm_content=secondary-w2/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/iV7VMSHPDbgKy2cFCQadz6BLrt-XY_RhumQmEwMWdg4=452" rel="noopener noreferrer"&gt;&lt;em&gt;npx skills add openprose/prose&lt;/em&gt;&lt;/a&gt;
-
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwerd.io%2Fto-reach-your-big-goal-you-need-to-sell-where-youre-heading-next%2F%3Futm_source=tldrproduct/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/T39uJqEfy_o5SSkKHnpRTuiAAjt51OkqDulhQCfYLl0=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;To reach your big goal, you need to sell where you're heading next (4 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    To achieve a big long-term goal, teams must “sell Point C”- a concrete, vivid next destination they will reach in the next 12–24 months - rather than settling for “continue existing.” This should be a strategic, fundable milestone aligned with mission, vision, strategy, and anchored in the needs of the community the team serves.
-                                
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthedesignersfieldguide.substack.com%2Fp%2Fhow-user-segmentation-rather-than%3Futm_source=tldrproduct/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/xt-MurrqaF6ayhP5MXDpecgkqYINaOyCICzy6fpXoss=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;How user segmentation, rather than personas, helps you get design buy-in (7 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    User segmentation gets more design buy-in than relying on personas alone. Personas often get dismissed, and there are four segmentation elements to reinforce personas: total audience size, time period/seasonality, device/tech context, and new vs. returning customer.
-                                
-
-
-
-
-
-
-
-
-🎁
-
-
-
-
-&lt;strong&gt;&lt;h1&gt;Miscellaneous&lt;/h1&gt;&lt;/strong&gt;
-
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fslack.engineering%2Fslack-ai-the-path-to-multi-cloud%2F%3Futm_source=tldrproduct/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/smhbBGfeVS4lEVbPXdNGL5Lbmm18OitS0a1nhnQx5vs=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;Slack AI: The Path to Multi-Cloud (17 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    Slack evolved its AI infrastructure from self-managed AWS SageMaker to managed Amazon Bedrock to solve scaling and latency issues. By moving to Bedrock, Slack reduced engineering overhead and improved efficiency through Provisioned Throughput and on-demand capacity.
-                                
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FIeef0U/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/Bio2TN4P6yxBbOe1diFJho3Rl3LLKYnRqLl7QSU_wL4=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;AI apps aren't dead, but thin wrappers are (11 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    AI labs will own many horizontal AI tools, but startups can still win in complex vertical workflows. The strongest AI app companies will own the system of work, including customer data, governance, integrations, and measurable business outcomes.
-                                
-
-
-
-
-
-
-
-
-
-
-⚡
-
-
-
-
-
-
-&lt;h1&gt;&lt;strong&gt;Quick Links&lt;/strong&gt;&lt;/h1&gt;
-
-
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.jrothman.com%2Fmpd%2F2026%2F05%2Fhow-much-can-you-trust-an-llm-to-tell-you-what-your-customers-want%2F%3Futm_source=tldrproduct/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/2earDShVmRx9f056w1IozOgkT8Sfj2wnUsKj8_qWcJA=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;How Much Can You Trust an LLM to Tell You What Your Customers Want? (3 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    Product leaders shouldn't outsource customer thinking to LLMs.
-                                
-
-
-
-
-
-
-
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnews.theuncommonexecutive.com%2Fp%2Fhow-calibration-sessions-mess-with%3Futm_source=tldrproduct/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/lMIcT4bIvzpzp8p3kvp48MjfC_O56196_Dm4cVK_fZE=452" rel="noopener noreferrer"&gt;
-                                    
-                                        &lt;strong&gt;How calibration sessions mess with your performance review (3 minute read)&lt;/strong&gt;
-                                    
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-                                    At senior levels, promotions depend on more than your manager's support.
-                                
-
-
-
-
-
-
-
-
-
-
-
-&lt;p&gt;
-Love TLDR? Tell your friends and get rewards!
-&lt;/p&gt;
-
-
-
-Share your referral link below with friends to get free TLDR swag!
-
-
-
-
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F7f1d0cef%2F9/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/Ur339ym8T-tXQMNWlNrxD0odjlXif0ApunBBdyfOi9Q=452" rel="noopener noreferrer"&gt;https://refer.tldr.tech/7f1d0cef/9&lt;/a&gt;
-
-
-
-
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_95f747497977%2F9/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/SBmMS-Gb-Uud8Xs3VrqTDmo3U7bC7p-HcHb83_A8a_U=452" rel="noopener noreferrer"&gt;Track your referrals here.&lt;/a&gt;
-
-
-
-
-
-
-
-&lt;p&gt;
-Want to advertise in TLDR? 📰
-&lt;/p&gt;
-
-If your company is interested in reaching an audience of product management professionals and decision makers, you may want to &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrproduct%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/dEoDJef98n7docRJDMclUvCLwHrSxk2JVG5NmKxyEMc=452" rel="noopener noreferrer"&gt;&lt;strong&gt;advertise with us&lt;/strong&gt;&lt;/a&gt;.
-
-&lt;br&gt;
-
-
-
-&lt;p&gt;
-Want to work at TLDR? 💼
-&lt;/p&gt;
-
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/Iy9BLuBxJMDSRaJeZtOXR5t6PaBt8kMzlTMsPFpjB84=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Apply here&lt;/strong&gt;&lt;/a&gt;,
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/lehEzniTmVSMKfx3eWhS26JWMdpJ1zqy_x69AUZICFg=452" rel="noopener noreferrer"&gt;&lt;strong&gt;create your own role&lt;/strong&gt;&lt;/a&gt; or send a friend's resume to &lt;a href="mailto:jobs@tldr.tech" rel="noopener noreferrer"&gt;jobs@tldr.tech&lt;/a&gt; and get $1k if we hire them! TLDR is one of &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/N-Fg17tIIjDUArguUMYQncl6eSPzAE7UhLTMGH0feLY=452" rel="noopener noreferrer"&gt;&lt;strong&gt;Inc.'s Best Bootstrapped businesses&lt;/strong&gt;&lt;/a&gt; of 2025.
-
-&lt;br&gt;
-
-
-If you have any comments or feedback, just respond to this email!
-&lt;br&gt;
-&lt;br&gt; Thanks for reading,
-&lt;br&gt;
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fellenle%2F/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/LZ25rS2Aa4c1-_Y4uws8nmO3297oGZ2Rg0HSW0us9-4=452" rel="noopener noreferrer"&gt;Ellen Le&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-&lt;br&gt;
-
-
-
-
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fproduct%2Fmanage%3Femail=kob62291404%2540163.com/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/_tjw4AdpK2xwfMxtj4W42VlLkm8i0VAsuP9ddhV6cVk=452" rel="noopener noreferrer"&gt;Manage your subscriptions&lt;/a&gt; to our other newsletters on tech, startups, and programming. Or if TLDR Product Management isn't for you, please &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=c8e26b12-3e94-11ed-9a32-0241b9615763%26lc=149f99e4-456d-11f1-8408-47608eee5fa8%26p=bbd5b878-5b21-11f1-9120-ed6a8e23021a%26pt=campaign%26pv=4%26spa=1780048865%26t=1780049173%26s=727653906f2adfd5c76b6a9d41e9c87d4470be0c41baf4827d324c83d9a64588/1/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/Wg2LS2XE-XPLghAkycCFOyQ8QuHdyUUIRqhovWh4EW8=452" rel="noopener noreferrer"&gt;unsubscribe&lt;/a&gt;.
-&lt;br&gt;
-
-
-
-
-
-
-
-
-
-&lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019e7332dd80-f15a7ede-01c9-48b0-a71f-634e42cb9dc1-000000/NvNcFJUJGdIvsvaPvSedFDcVE5sAD1Z8wwbHs_h-efc=452"&gt;
 </content:encoded></item></channel></rss>
