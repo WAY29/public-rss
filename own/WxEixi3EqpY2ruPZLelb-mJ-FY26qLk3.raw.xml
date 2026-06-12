@@ -1,5 +1,1561 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>TLDR AI</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml</link><description>Messages from sources matching dan@tldrnewsletter.com</description><lastBuildDate>Fri, 12 Jun 2026 12:44:26 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml" rel="self" type="application/rss+xml"></atom:link><item><title>Stack Overflow Targets Agents 🤖, Adobe Stock Sinks 📉, AI Strains IT Budgets 💸</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-192</link><guid isPermaLink="false">own-newsletter:item:192</guid><pubDate>Fri, 12 Jun 2026 12:09:46 GMT</pubDate><author>TLDR IT &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR IT Stack Overflow for Agents is an API-first knowledge exchange designed for AI coding agents. It aims to reduce the “Ephemeral Intelligence Gap” ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|Vie...</description><content:encoded>&lt;!DOCTYPE html&gt;&lt;html lang="en"&gt;&lt;head&gt;&lt;meta http-equiv="Content-Type" content="text/html charset=UTF-8"&gt;&lt;meta charset="UTF-8"&gt;&lt;meta name="viewport" content="width=device-width"&gt;&lt;meta name="x-apple-disable-message-reformatting"&gt;&lt;title&gt;TLDR IT&lt;/title&gt;&lt;meta name="color-scheme" content="light dark"&gt;&lt;meta name="supported-color-schemes" content="light dark"&gt;&lt;style type="text/css"&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>TLDR AI</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml</link><description>Messages from sources matching dan@tldrnewsletter.com</description><lastBuildDate>Fri, 12 Jun 2026 13:44:35 GMT</lastBuildDate><atom:link href="https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml" rel="self" type="application/rss+xml"></atom:link><item><title>OpenAI buys Ona 🤝, Anthropic backtracks 🔁, Xiaomi’s MiMo code 👨‍💻</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-194</link><guid isPermaLink="false">own-newsletter:item:194</guid><pubDate>Fri, 12 Jun 2026 13:25:36 GMT</pubDate><author>TLDR AI &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR AI OpenAI announced it would acquire Ona to bring secure cloud execution and orchestration capabilities into the Codex platform ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|View Online TLDR Toge...</description><content:encoded>&lt;!DOCTYPE html&gt;&lt;html lang="en"&gt;&lt;head&gt;
+		&lt;meta http-equiv="Content-Type" content="text/html charset=UTF-8"&gt;
+		&lt;meta charset="UTF-8"&gt;
+		&lt;meta name="viewport" content="width=device-width"&gt;
+		&lt;meta name="x-apple-disable-message-reformatting"&gt;
+		&lt;title&gt;TLDR AI&lt;/title&gt;
+		&lt;meta name="color-scheme" content="light dark"&gt;
+		&lt;meta name="supported-color-schemes" content="light dark"&gt;
+		&lt;style type="text/css"&gt;
+			:root {
+				color-scheme: light dark; supported-color-schemes: light dark;
+			}
+			
+			*,
+			*:after,
+			*:before {
+				-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
+			}
+			
+			* {
+				-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
+			}
+			
+			html,
+			body,
+			.document {
+				width: 100% !important; height: 100% !important; margin: 0; padding: 0;
+			}
+			
+			body {
+				-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility;
+			}
+			
+			div[style*="margin: 16px 0"] {
+				margin: 0 !important;
+			}
+			
+			table,
+			td {
+				mso-table-lspace: 0pt; mso-table-rspace: 0pt;
+			}
+			
+			table {
+				border-spacing: 0; border-collapse: collapse; table-layout: fixed; margin: 0 auto;
+			}
+			
+			img {
+				-ms-interpolation-mode: bicubic; max-width: 100%; border: 0;
+			}
+			
+			*[x-apple-data-detectors] {
+				color: inherit !important; text-decoration: none !important;
+			}
+			
+			.x-gmail-data-detectors,
+			.x-gmail-data-detectors *,
+			.aBn {
+				border-bottom: 0 !important; cursor: default !important;
+			}
+			
+			.btn {
+				-webkit-transition: all 200ms ease; transition: all 200ms ease;
+			}
+			
+			.btn:hover {
+				background-color: #f67575; border-color: #f67575;
+			}
+			
+			* {
+				font-family: Arial, Helvetica, sans-serif; font-size: 18px;
+			}
+			
+			@media screen and (max-width: 600px) {
+				.container {
+					width: 100%; margin: auto;
+				}
+				.stack {
+					display: block!important; width: 100%!important; max-width: 100%!important;
+				}
+				.btn {
+					display: block; width: 100%; text-align: center;
+				}
+			}
+			
+			body,
+			p,
+			td,
+			tr,
+			.body,
+			table,
+			h1,
+			h2,
+			h3,
+			h4,
+			h5,
+			h6,
+			div,
+			span {
+				background-color: #FEFEFE !important; color: #010101 !important;
+			}
+			
+			@media (prefers-color-scheme: dark) {
+				body,
+				p,
+				td,
+				tr,
+				.body,
+				table,
+				h1,
+				h2,
+				h3,
+				h4,
+				h5,
+				h6,
+				div,
+				span {
+					background-color: #27292D !important; color: #FEFEFE !important;
+				}
+			}
+			
+			a {
+				color: inherit !important; text-decoration: underline !important;
+			}
+
+		&lt;/style&gt;
+		&lt;!--[if mso | ie]&gt;
+		&lt;style type="text/css"&gt;
+			a {
+				background-color: #FEFEFE !important; color: #010101 !important;
+			}
+			@media (prefers-color-scheme: dark) {
+				a {
+					background-color: #27292D !important; color: #FEFEFE !important;
+				}
+			}
+	 &lt;/style&gt;
+			&lt;![endif]--&gt;
+	&lt;/head&gt;
+	&lt;body class=""&gt;
+
+
+
+
+		&lt;div style="display: none; max-height: 0px; overflow: hidden;"&gt;OpenAI announced it would acquire Ona to bring secure cloud execution and orchestration capabilities into the Codex platform&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&lt;/div&gt;
+		&lt;div style="display: none; max-height: 0px; overflow: hidden;"&gt;
+			&lt;br&gt;
+		&lt;/div&gt;
+
+		&lt;table align="center" class="document"&gt;
+			&lt;tbody&gt;
+				&lt;tr&gt;
+					&lt;td valign="top"&gt;
+
+						&lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="container" width="600"&gt;
+							&lt;tbody&gt;
+								&lt;tr class="inner-body"&gt;
+									&lt;td&gt;
+
+										&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+											&lt;tbody&gt;
+												&lt;tr class="header"&gt;
+													&lt;td bgcolor="" class="container"&gt;
+
+														&lt;table width="100%"&gt;
+															&lt;tbody&gt;
+																&lt;tr&gt;
+																	&lt;td class="container"&gt;
+
+																		&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" style="margin-top: 0px;" width="100%"&gt;
+																			&lt;tbody&gt;
+																				&lt;tr&gt;
+																					&lt;td style="padding: 0px;"&gt;
+
+																						&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr&gt;
+																									&lt;td class="container" style="padding: 15px 15px;"&gt;
+																										&lt;div style="text-align: center;"&gt;
+																											&lt;span style="margin-right: 0px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fai%3Futm_source=tldrai/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/0GYaBWiMCbZY_OokdTxIai4qSqqBLf0fgGDAfuVl6kk=452" rel="noopener noreferrer" target="_blank"&gt;&lt;span&gt;Sign Up&lt;/span&gt;&lt;/a&gt;
+																											|&lt;span style="margin-right: 2px; margin-left: 2px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/zUpN9KOsQadG4invCNQkPcPVGvk3iipx-2Ob8p7SSjY=452" rel="noopener noreferrer" target="_blank"&gt;&lt;span&gt;Advertise&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;|&lt;span style="margin-left: 2px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=55cb6de6-43a4-11f1-a6e4-ab0545177c2c%26p=97ec0804-6648-11f1-9551-514c2009962b%26pt=campaign%26t=1781270736%26s=d27fd658aceb7c4ca5d5d4fc641f71932b0d25dc1f8ac61a9f149cf9334ff917/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/qawm8WxwGjsDEfxTRSMGERH-Ni-BfMEiqIFoVrmK0NE=452"&gt;&lt;span&gt;View Online&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+																											&lt;br&gt;
+																											&lt;/span&gt;&lt;/div&gt;
+																									&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+
+																						&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr&gt;
+																									&lt;td class="container" style="text-align: center;"&gt;&lt;span data-darkreader-inline-color="" style="--darkreader-inline-color:#3db3ff; color: rgb(51, 175, 255) !important; font-size: 30px;"&gt;T&lt;/span&gt;&lt;span style="font-size: 30px;"&gt;&lt;span data-darkreader-inline-color="" style="color: rgb(232, 192, 96) !important; --darkreader-inline-color:#e8c163; font-size:30px;"&gt;L&lt;/span&gt;&lt;span data-darkreader-inline-color="" style="color: rgb(101, 195, 173) !important; --darkreader-inline-color:#6ec7b2; font-size:30px;"&gt;D&lt;/span&gt;&lt;/span&gt;&lt;span data-darkreader-inline-color="" style="--darkreader-inline-color:#dd6e6e; color: rgb(220, 107, 107) !important; font-size: 30px;"&gt;R&lt;/span&gt;
+																										&lt;br&gt;
+																									&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+
+																						&lt;br&gt;
+
+																						&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr id="together-with"&gt;
+																									&lt;td align="center" height="20" style="vertical-align:middle !important;" valign="middle" width="100%"&gt;&lt;strong style="vertical-align:middle !important; height: 100%;"&gt;Together With &lt;/strong&gt;
+																										&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.algolia.com%2Fresources%2Fasset%2Febook-vibe-coded-ai-search-building-safer-experiences-from-ai-generated-scaffolding%3Futm_source=tldr%26utm_medium=display%26utm_campaign=tldr_global_b2x_ecomm_ecomm_tof_reach%26utm_content=tldr_global_b2x_ecomm_header_vibe_coding_ai%26utm_2nd_camp=ecomm_tof%26utm_camp_parent=b2x_ecomm%26utm_creative_format=prmrynwsl%26utm_goal=reach%26utm_marketing_tactic=reach%26utm_model=cpm%26utm_region=global%26utm_term=ebo_vibe-coded-ai-search-building-safer-experiences-from-ai-generated-scaffolding/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/N0nStINq_3fTaQuuFvBn_TRaRUx3PSev9Skst60Qusk=452"&gt;&lt;img src="https://images.tldr.tech/algolia50.png" valign="middle" style="vertical-align: middle !important; height: 100%;" alt="Algolia"&gt;&lt;/a&gt;&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+
+
+																						&lt;table style="table-layout: fixed; width:100%;" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr&gt;
+																									&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;"&gt;
+																										&lt;div style="text-align: center;"&gt;
+
+																											&lt;h1&gt;&lt;strong&gt;TLDR AI &lt;span id="date"&gt;2026-06-12&lt;/span&gt;&lt;/strong&gt;&lt;/h1&gt;
+																										&lt;/div&gt;
+																									&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+
+																						&lt;table style="table-layout: fixed; width:100%;" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr id="sponsy-copy"&gt;
+																									&lt;td class="container" style="padding: 15px 15px;"&gt;
+																										&lt;div class="text-block"&gt;
+																											&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.algolia.com%2Fresources%2Fasset%2Febook-vibe-coded-ai-search-building-safer-experiences-from-ai-generated-scaffolding%3Futm_source=tldr%26utm_medium=display%26utm_campaign=tldr_global_b2x_ecomm_ecomm_tof_reach%26utm_content=tldr_global_b2x_ecomm_header_vibe_coding_ai%26utm_2nd_camp=ecomm_tof%26utm_camp_parent=b2x_ecomm%26utm_creative_format=prmrynwsl%26utm_goal=reach%26utm_marketing_tactic=reach%26utm_model=cpm%26utm_region=global%26utm_term=ebo_vibe-coded-ai-search-building-safer-experiences-from-ai-generated-scaffolding/2/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/lStPjZIZ9NjHz7mknHngcoFbAJDFRVJoGJ_oAS-wj88=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Vibe-coding your AI search without sacrificing security or quality (Sponsor)&lt;/strong&gt;
+                                    &lt;/span&gt;
+																											&lt;/a&gt;
+																											&lt;br&gt;
+																											&lt;br&gt;
+																											&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    For use cases like B2C ecommerce, AI search is a non-negotiable part of a modern UX. Vibe coding makes the basic search experience easy to build - but difficult to maintain and validate.&lt;p&gt;&lt;/p&gt;&lt;p&gt;This &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.algolia.com%2Fresources%2Fasset%2Febook-vibe-coded-ai-search-building-safer-experiences-from-ai-generated-scaffolding%3Futm_source=tldr%26utm_medium=display%26utm_campaign=tldr_global_b2x_ecomm_ecomm_tof_reach%26utm_content=tldr_global_b2x_ecomm_Body_algolia_white_paper%26utm_2nd_camp=ecomm_tof%26utm_camp_parent=b2x_ecomm%26utm_creative_format=prmrynwsl%26utm_goal=reach%26utm_marketing_tactic=reach%26utm_model=cpm%26utm_region=global%26utm_term=ebo_vibe-coded-ai-search-building-safer-experiences-from-ai-generated-scaffolding/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/isLAf49ln16vIUzHAgql4Rk6_IG3QTzYWnRtqzd1uOk=452" rel="noopener noreferrer nofollow" target="_blank"&gt;&lt;span&gt;Algolia white paper&lt;/span&gt;&lt;/a&gt; offers a framework for using vibe-coded scaffolding with a&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.algolia.com%2Fresources%2Fasset%2Febook-vibe-coded-ai-search-building-safer-experiences-from-ai-generated-scaffolding%3Futm_source=tldr%26utm_medium=display%26utm_campaign=tldr_global_b2x_ecomm_ecomm_tof_reach%26utm_content=tldr_global_b2x_ecomm_Body_robust_hardened_search_platform%26utm_2nd_camp=ecomm_tof%26utm_camp_parent=b2x_ecomm%26utm_creative_format=prmrynwsl%26utm_goal=reach%26utm_marketing_tactic=reach%26utm_model=cpm%26utm_region=global%26utm_term=ebo_vibe-coded-ai-search-building-safer-experiences-from-ai-generated-scaffolding/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/rqEe6yG4kmLurIbA4W0gZqDsfYnE0O6eURGbBC68n9M=452" rel="noopener noreferrer nofollow" target="_blank"&gt;&lt;span&gt; robust and hardened search platform&lt;/span&gt;&lt;/a&gt; to get the best of both worlds, including:&lt;/p&gt;
+
+																											&lt;ul&gt;
+																												&lt;li&gt;Prompt frameworks such as RCTO (role, context, task, output) and critique-then-create&lt;/li&gt;
+																												&lt;li&gt;Governance models for clarifying who owns what&lt;/li&gt;
+																												&lt;li&gt;Promotion flows from dev to staging to production&lt;/li&gt;
+																												&lt;li&gt;ROI metrics like time-to-first-search, click-through rate, and "no results" rate&lt;/li&gt;
+																												&lt;li&gt;A phased adoption checklist&lt;/li&gt;
+																											&lt;/ul&gt;
+
+																											&lt;p&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.algolia.com%2Fresources%2Fasset%2Febook-vibe-coded-ai-search-building-safer-experiences-from-ai-generated-scaffolding%3Futm_source=tldr%26utm_medium=display%26utm_campaign=tldr_global_b2x_ecomm_ecomm_tof_reach%26utm_content=tldr_global_b2x_ecomm_cta_white_paper%26utm_2nd_camp=ecomm_tof%26utm_camp_parent=b2x_ecomm%26utm_creative_format=prmrynwsl%26utm_goal=reach%26utm_marketing_tactic=reach%26utm_model=cpm%26utm_region=global%26utm_term=ebo_vibe-coded-ai-search-building-safer-experiences-from-ai-generated-scaffolding/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/D2bd6d2whXhkpgnSSqcfy3Zm7cElbxzaVFfhmyLLYyk=452" rel="noopener noreferrer nofollow" target="_blank"&gt;&lt;span&gt;Get the white paper&lt;/span&gt;&lt;/a&gt;
+
+
+																											&lt;/p&gt;
+																											&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+																									&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+																																											&lt;/td&gt;
+																				&lt;/tr&gt;
+																			&lt;/tbody&gt;
+																		&lt;/table&gt;
+																	&lt;/td&gt;
+																&lt;/tr&gt;
+															&lt;/tbody&gt;
+														&lt;/table&gt;
+													&lt;/td&gt;
+												&lt;/tr&gt;
+												&lt;tr bgcolor=""&gt;
+													&lt;td class="container"&gt;
+
+														&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+															&lt;tbody&gt;
+																&lt;tr&gt;
+																	&lt;td style="padding: 0px;"&gt;
+
+																		&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																			&lt;tbody&gt;
+																				&lt;tr&gt;
+																					&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+																						&lt;div class="text-block"&gt;
+																							&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;&lt;span style="font-size:36px;"&gt;🚀&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																			&lt;/tbody&gt;
+																		&lt;/table&gt;
+
+																		&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																			&lt;tbody&gt;
+																				&lt;tr&gt;
+																					&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+																						&lt;div class="text-block"&gt;
+																							&lt;div style="text-align: center;"&gt;
+
+																								&lt;h1&gt;&lt;strong&gt;Headlines &amp;amp; Launches&lt;/strong&gt;&lt;/h1&gt;
+																							&lt;/div&gt;
+																						&lt;/div&gt;
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																			&lt;/tbody&gt;
+																		&lt;/table&gt;
+
+																		&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;
+																			&lt;tbody&gt;
+																				&lt;tr&gt;
+																					&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
+
+																						&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr&gt;
+																									&lt;td class="container" style="padding: 15px 15px;"&gt;
+																										&lt;div class="text-block"&gt;
+																											&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FctRFpD/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/wVge8jEZDkViqinF35nWI54_uxgr4Q-anhkZGUtIJLU=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;OpenAI Acquired Ona for Long-Running Agents (1 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+																											&lt;/a&gt;
+																											&lt;br&gt;
+																											&lt;br&gt;
+																											&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    OpenAI announced it would acquire Ona to bring secure cloud execution and orchestration capabilities into the Codex platform. The technology is intended to support persistent, customer-controlled environments where agents can continue working across extended periods and sessions.
+                                &lt;/span&gt;
+																											&lt;/span&gt;
+																										&lt;/div&gt;
+																									&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+
+																						&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr&gt;
+																									&lt;td class="container" style="padding: 15px 15px;"&gt;
+																										&lt;div class="text-block"&gt;
+																											&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.engadget.com%2F2192004%2Fanthropic-walks-back-policy-sabotaging-research%2F%3Futm_source=tldrai/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/n3YrunX9yBCTsQarhozm66CIZk9f62OpD8BH-qk8gfU=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Anthropic backtracks on policy that 'sabotaged' researchers' work (2 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+																											&lt;/a&gt;
+																											&lt;br&gt;
+																											&lt;br&gt;
+																											&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Anthropic has decided to make its safeguards for frontier LLM development visible after backlash from researchers. The company had previously discreetly rerouted requests to a lesser model when asked to perform certain actions. Researchers found that Claude Fable 5 was either refusing or degrading responses for tasks like training competing models, debugging AI code, and optimizing neural architecture. This raised concerns about Anthropic's lack of transparency and also that tokens and money had been spent on a model that didn't do what was expected.
+                                &lt;/span&gt;
+																											&lt;/span&gt;
+																										&lt;/div&gt;
+																									&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																			&lt;/tbody&gt;
+																		&lt;/table&gt;
+
+
+																		&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																			&lt;tbody&gt;
+																				&lt;tr&gt;
+																					&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+																						&lt;div class="text-block"&gt;
+																							&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🧠&lt;/span&gt;&lt;/div&gt;
+																						&lt;/div&gt;
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																			&lt;/tbody&gt;
+																		&lt;/table&gt;
+
+																		&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																			&lt;tbody&gt;
+																				&lt;tr&gt;
+																					&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+																						&lt;div class="text-block"&gt;
+																							&lt;div style="text-align: center;"&gt;
+
+																								&lt;h1&gt;&lt;strong&gt;Deep Dives &amp;amp; Analysis&lt;/strong&gt;&lt;/h1&gt;
+																							&lt;/div&gt;
+																						&lt;/div&gt;
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																			&lt;/tbody&gt;
+																		&lt;/table&gt;
+
+
+																		&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;
+																			&lt;tbody&gt;
+																				&lt;tr&gt;
+																					&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
+
+																						&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr&gt;
+																									&lt;td class="container" style="padding: 15px 15px;"&gt;
+																										&lt;div class="text-block"&gt;
+																											&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FUdUQ8w/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/Q1Z7DbnjUdWTme5-1eL8PFQvKsNagnUOeMl0Aq_ZAQk=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Finding Optimal Tokenizers (15 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+																											&lt;/a&gt;
+																											&lt;br&gt;
+																											&lt;br&gt;
+																											&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Frontier AI models are typically trained on sequences of integers known as tokens. Each token refers to some sequence of bytes, and these byte sequences often correspond to common words. This post presents an algorithm that can compute an optimal tokenizer in some settings.
+                                &lt;/span&gt;
+																											&lt;/span&gt;
+																										&lt;/div&gt;
+																									&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+
+																						&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr&gt;
+																									&lt;td class="container" style="padding: 15px 15px;"&gt;
+																										&lt;div class="text-block"&gt;
+																											&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F7zrhza/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/5gpWfjtmwu19p_LqtclPpUvD2ytBjyVr37aUy_RFhJk=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Can Compute Commoditize if it's Not Fungible? (5 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+																											&lt;/a&gt;
+																											&lt;br&gt;
+																											&lt;br&gt;
+																											&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    CoreWeave's co-founder, Brannin McBee, recently claimed that compute isn't fungible the way a commodity has to be. He has a real argument, but the non-commodity framing is the keystone of his company's value. While he appears to be saying that there is no market, he's actually pricing the market and revealing where the spread still hides.
+                                &lt;/span&gt;
+																											&lt;/span&gt;
+																										&lt;/div&gt;
+																									&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+
+																						&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr&gt;
+																									&lt;td class="container" style="padding: 15px 15px;"&gt;
+																										&lt;div class="text-block"&gt;
+																											&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F5Hp3Rk/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/khZabLIq4NeQw8jnlDWWfAXz9v2DMjr5Sc1SbyjA_D8=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Making a vintage LLM from scratch (50 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+																											&lt;/a&gt;
+																											&lt;br&gt;
+																											&lt;br&gt;
+																											&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    This post shares how a developer created their own LLM from scratch. It covers how they create their own base-training and fine-tuning scripts, data processing pipelines, and custom dataset. The total cost of the project was around $80, but they had a decent PC to process the data. The model and code are available in the post.
+                                &lt;/span&gt;
+																											&lt;/span&gt;
+																										&lt;/div&gt;
+																									&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																			&lt;/tbody&gt;
+																		&lt;/table&gt;
+
+																		&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																			&lt;tbody&gt;
+																				&lt;tr&gt;
+																					&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+																						&lt;div class="text-block"&gt;
+																							&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🧑‍💻&lt;/span&gt;&lt;/div&gt;
+																						&lt;/div&gt;
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																			&lt;/tbody&gt;
+																		&lt;/table&gt;
+
+																		&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																			&lt;tbody&gt;
+																				&lt;tr&gt;
+																					&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+																						&lt;div class="text-block"&gt;
+																							&lt;div style="text-align: center;"&gt;
+
+																								&lt;h1&gt;&lt;strong&gt;Engineering &amp;amp; Research&lt;/strong&gt;&lt;/h1&gt;
+																							&lt;/div&gt;
+																						&lt;/div&gt;
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																			&lt;/tbody&gt;
+																		&lt;/table&gt;
+
+																		&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;
+																			&lt;tbody&gt;
+																				&lt;tr&gt;
+																					&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
+
+																						&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr&gt;
+																									&lt;td class="container" style="padding: 15px 15px;"&gt;
+																										&lt;div class="text-block"&gt;
+																											&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcampaigns.celonis.com%2Fcontext-matters%3Futm_source=TLDR%26utm_medium=referral%26utm_campaign=brand_campaign_enterprise_ai%26utm_content=null%26utm_term=null/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/sCZHtnhqDGORNn4uMffjB3h0jHbCy2QwwhR3QqcT3RM=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;You wouldn't bet your business on a fortune cookie...but that's how you're using AI (Sponsor)&lt;/strong&gt;
+                                    &lt;/span&gt;
+																											&lt;/a&gt;
+																											&lt;br&gt;
+																											&lt;br&gt;
+																											&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    AI models are brilliant, but they're probabilistic. Without the ground truth of your operational reality, trusting AI is like trusting a fortune cookie. The &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcampaigns.celonis.com%2Fcontext-matters%3Futm_source=TLDR%26utm_medium=referral%26utm_campaign=brand_campaign_enterprise_ai%26utm_content=null%26utm_term=null/2/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/_-zWpejbzGiKNqErAhaqcwynsy8rtmrJmq0q2scQNaA=452" rel="noopener noreferrer nofollow" target="_blank"&gt;&lt;span&gt;Celonis Context Model&lt;/span&gt;&lt;/a&gt; is a dynamic digital twin of your business that gives AI agents the operational clarity they need to drive real ROI. &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcampaigns.celonis.com%2Fcontext-matters%3Futm_source=TLDR%26utm_medium=referral%26utm_campaign=brand_campaign_enterprise_ai%26utm_content=null%26utm_term=null/3/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/OXAkdtPxY06GsRV__Vuqr9GqQKTZkro8-Fnhr5yQf80=452" rel="noopener noreferrer nofollow" target="_blank"&gt;&lt;span&gt;Meet the Context Model&lt;/span&gt;&lt;/a&gt;
+																											&lt;/span&gt;
+																											&lt;/span&gt;
+																										&lt;/div&gt;
+																									&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+
+																						&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr&gt;
+																									&lt;td class="container" style="padding: 15px 15px;"&gt;
+																										&lt;div class="text-block"&gt;
+																											&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fventurebeat.com%2Ftechnology%2Fxiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks%3Futm_source=tldrai/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/DHCeScZBS5hbD4LNMJZcwtthhoKCw55ZguyzF_jOU4k=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks (14 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+																											&lt;/a&gt;
+																											&lt;br&gt;
+																											&lt;br&gt;
+																											&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    MiMo Code V0.1.0 is an open source terminal-native AI coding assistant from Xiaomi. It outperforms Claude Code on key agentic coding benchmarks, particularly on long-horizon, multi-step tasks. MiMo Code features a cross-session memory system that uses an independent subagent to take notes of decisions, issues, and the scope of the project as it progresses. The model is available on GitHub under an MIT license.
+                                &lt;/span&gt;
+																											&lt;/span&gt;
+																										&lt;/div&gt;
+																									&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+
+																						&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr&gt;
+																									&lt;td class="container" style="padding: 15px 15px;"&gt;
+																										&lt;div class="text-block"&gt;
+																											&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhuggingface.co%2Fblog%2Ftorch-mlp-fusion%3Futm_source=tldrai/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/lzyNFDuqY1W0krU4XMapwba9JO0EcmKRABKHFwGLLbY=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Optimizing PyTorch with Fused MLPs (29 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+																											&lt;/a&gt;
+																											&lt;br&gt;
+																											&lt;br&gt;
+																											&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    This deep dive explores how PyTorch executes and optimizes neural network layers, progressing from individual linear operations to a fused multilayer perceptron.
+                                &lt;/span&gt;
+																											&lt;/span&gt;
+																										&lt;/div&gt;
+																									&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+
+																						&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr&gt;
+																									&lt;td class="container" style="padding: 15px 15px;"&gt;
+																										&lt;div class="text-block"&gt;
+																											&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.goodfire.ai%2Fresearch%2Fpredictive-data-debugging%3Futm_source=tldrai/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/wrOExIefzZwRLyTwSeSwqcgisAN-r1G6cpEoOZfORCY=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Predictive Data Debugging: Reveal and Shape What Your Model Learns, Before You Train (11 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+																											&lt;/a&gt;
+																											&lt;br&gt;
+																											&lt;br&gt;
+																											&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Predictive data debugging identifies potential model behaviors before training by analyzing preference datasets. This technique, integrated into the Silico platform, allows engineers to reshape datasets or training processes to prevent undesired effects, improving both performance and safety. Case studies reveal common issues like compromised safety guardrails, hallucinated links, and context-specific sycophancy, allowing targeted interventions to fix these problems before deployment.
+                                &lt;/span&gt;
+																											&lt;/span&gt;
+																										&lt;/div&gt;
+																									&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																			&lt;/tbody&gt;
+																		&lt;/table&gt;
+
+																		&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																			&lt;tbody&gt;
+																				&lt;tr&gt;
+																					&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+																						&lt;div class="text-block"&gt;
+																							&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🎁&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																			&lt;/tbody&gt;
+																		&lt;/table&gt;
+
+																		&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																			&lt;tbody&gt;
+																				&lt;tr&gt;
+																					&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+																						&lt;div class="text-block"&gt;
+																							&lt;div style="text-align: center;"&gt;&lt;strong&gt;&lt;h1&gt;Miscellaneous&lt;/h1&gt;&lt;/strong&gt;&lt;/div&gt;
+																						&lt;/div&gt;
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																			&lt;/tbody&gt;
+																		&lt;/table&gt;
+
+																		&lt;table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"&gt;
+																			&lt;tbody&gt;
+																				&lt;tr&gt;
+																					&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
+
+																						&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr&gt;
+																									&lt;td class="container" style="padding: 15px 15px;"&gt;
+																										&lt;div class="text-block"&gt;
+																											&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2F4028e55e-b0f0-433c-8f61-8886d7e07c29%3Futm_source=tldrai/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/D8wVOMggLKCOVCRsjxl-_qFUp4ZMPq_V_U4Md2XwcTw=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;TLDR is hiring a Senior PMM ($180k-$225k base + ~25% annual bonus, Fully Remote)&lt;/strong&gt;
+                                    &lt;/span&gt;
+																											&lt;/a&gt;
+																											&lt;br&gt;
+																											&lt;br&gt;
+																											&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    We're hiring a senior PMM to own product marketing at TLDR. You'll define our positioning, build out sales enablement, and lead every launch. &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2F4028e55e-b0f0-433c-8f61-8886d7e07c29/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/JvjOmRVYCy8X2kK3p6v-cz2kqhnB6gU6H93RpGwSXbU=452" rel="noopener noreferrer" target="_blank"&gt;&lt;span&gt;Learn more&lt;/span&gt;&lt;/a&gt;.
+																											&lt;/span&gt;
+																											&lt;/span&gt;
+																										&lt;/div&gt;
+																									&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+
+																						&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr&gt;
+																									&lt;td class="container" style="padding: 15px 15px;"&gt;
+																										&lt;div class="text-block"&gt;
+																											&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2026%2F06%2F11%2Foracle-shares-tumble-11percent-on-increased-capital-raise-cash-concerns.html%3Futm_source=tldrai/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/LSbg4UdMTAX6sMjNF2IrbAztYesPvY0UT45sg2iU4oI=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Oracle shares tumble 11% on increased capital raise, cash concerns (3 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+																											&lt;/a&gt;
+																											&lt;br&gt;
+																											&lt;br&gt;
+																											&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Oracle has told investors to expect an additional $20 billion capital raise. It also reported negative free cash flow for the year. Oracle saw an increase in revenue for the fiscal fourth quarter, but its AI buildout has caused capital expenditures to jump 162% to $55.7 billion. Investors are concerned about whether the company's massive amount of spending will result in profit growth.
+                                &lt;/span&gt;
+																											&lt;/span&gt;
+																										&lt;/div&gt;
+																									&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+
+																						&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr&gt;
+																									&lt;td class="container" style="padding: 15px 15px;"&gt;
+																										&lt;div class="text-block"&gt;
+																											&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fspateder.com%2Fprojects%2F20260611%2Fopenweightmodels%3Futm_source=tldrai/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/MTkW303X3ufkZNX8QmAgTzhyRRC821H7bShhXtkl17w=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Mythos-class models will diffuse throughout the world by 2029 (7 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+																											&lt;/a&gt;
+																											&lt;br&gt;
+																											&lt;br&gt;
+																											&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Model performance has only improved over time. There's currently no reason it shouldn't continue to improve in the future. Open weight models are only a few months behind frontier models on benchmarks. If current trends continue, it is likely that a Claude Fable 5-level open model that can run on a device with 16 GB of RAM will be possible by early 2029.
+                                &lt;/span&gt;
+																											&lt;/span&gt;
+																										&lt;/div&gt;
+																									&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																			&lt;/tbody&gt;
+																		&lt;/table&gt;
+
+
+																		&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																			&lt;tbody&gt;
+																				&lt;tr&gt;
+																					&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+																						&lt;div class="text-block"&gt;
+																							&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;⚡&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																			&lt;/tbody&gt;
+																		&lt;/table&gt;
+
+																		&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																			&lt;tbody&gt;
+																				&lt;tr&gt;
+																					&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+																						&lt;div class="text-block"&gt;
+																							&lt;div style="text-align: center;"&gt;
+
+																								&lt;h1&gt;&lt;strong&gt;Quick Links&lt;/strong&gt;&lt;/h1&gt;
+																							&lt;/div&gt;
+																						&lt;/div&gt;
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																			&lt;/tbody&gt;
+																		&lt;/table&gt;
+
+																		&lt;table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"&gt;
+																			&lt;tbody&gt;
+																				&lt;tr&gt;
+																					&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
+
+																						&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr&gt;
+																									&lt;td class="container" style="padding: 15px 15px;"&gt;
+																										&lt;div class="text-block"&gt;
+																											&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fblog%2Fcontext-layer-redis-iris%3Futm_source=tldrai/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/qK317cymf6zuliYEVAGsfXs9RlMVBXpfeE_uonV8BYQ=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;I just wanted to give my agent a little memory. Redis Iris saved me. (Sponsor)&lt;/strong&gt;
+                                    &lt;/span&gt;
+																											&lt;/a&gt;
+																											&lt;br&gt;
+																											&lt;br&gt;
+																											&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Three days into building a context engine from scratch and drowning in decision fatigue, Redis Iris saved the day (and the product, and my brain).&lt;strong&gt; &lt;/strong&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fblog%2Fcontext-layer-redis-iris/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/9NUi7O60z_5Jbsatn5pFqBWaY_8W4B9OUg95tZ2OjpI=452" rel="noopener noreferrer nofollow" target="_blank"&gt;&lt;span&gt;Check it out.&lt;/span&gt;&lt;/a&gt;
+																											&lt;/span&gt;
+																											&lt;/span&gt;
+																										&lt;/div&gt;
+																									&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+
+																						&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr&gt;
+																									&lt;td class="container" style="padding: 15px 15px;"&gt;
+																										&lt;div class="text-block"&gt;
+																											&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.recursive.com%2Farticles%2Ffirst-steps-toward-automated-ai-research%3Futm_source=tldrai/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/0VkHcj1c4_72cUqSVgp0mqf_zajNdPUJ8roLF6KqPrg=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;First Steps Toward Automated AI Research (12 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+																											&lt;/a&gt;
+																											&lt;br&gt;
+																											&lt;br&gt;
+																											&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Recursive's automated AI research system achieves state-of-the-art results in fixed-budget language model training, small-model speed, and GPU kernel optimization.
+                                &lt;/span&gt;
+																											&lt;/span&gt;
+																										&lt;/div&gt;
+																									&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+
+																						&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr&gt;
+																									&lt;td class="container" style="padding: 15px 15px;"&gt;
+																										&lt;div class="text-block"&gt;
+																											&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthreadreaderapp.com%2Fthread%2F2064815044085318040.html%3Futm_source=tldrai/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/Hq-iU3ApAjCdSWQ7wKWkomknd7RNVmf5RsEHA4-rpiI=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;What's the better business model for an AI lab, subscription or API? (2 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+																											&lt;/a&gt;
+																											&lt;br&gt;
+																											&lt;br&gt;
+																											&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    The gross margins on subscriptions are way worse than API overall, so labs will likely start withholding new features or models from subscription plans.
+                                &lt;/span&gt;
+																											&lt;/span&gt;
+																										&lt;/div&gt;
+																									&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+
+																						&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																							&lt;tbody&gt;
+																								&lt;tr&gt;
+																									&lt;td class="container" style="padding: 15px 15px;"&gt;
+																										&lt;div class="text-block"&gt;
+																											&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FNVIDIA%2FSkillSpector%3Futm_source=tldrai/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/U3umqOePg2kuCFvzEyPlC0nvBYq6TGmuO2nGQkD3jz0=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;SkillSpector (GitHub Repo)&lt;/strong&gt;
+                                    &lt;/span&gt;
+																											&lt;/a&gt;
+																											&lt;br&gt;
+																											&lt;br&gt;
+																											&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    SkillSpector, developed by NVIDIA, scans AI agent skills for security vulnerabilities before installation.
+                                &lt;/span&gt;
+																											&lt;/span&gt;
+																										&lt;/div&gt;
+																									&lt;/td&gt;
+																								&lt;/tr&gt;
+																							&lt;/tbody&gt;
+																						&lt;/table&gt;
+
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																			&lt;/tbody&gt;
+																		&lt;/table&gt;
+
+
+																		
+																		&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																			&lt;tbody&gt;
+																				&lt;tr&gt;
+																					&lt;td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;"&gt;
+
+																						&lt;p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;"&gt;
+																							Love TLDR? Tell your friends and get rewards!
+																						&lt;/p&gt;
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																				&lt;tr&gt;
+																					&lt;td class="container" style="padding: 0px 10px 15px;"&gt;
+																						&lt;div class="text-block"&gt;
+																							Share your referral link below with friends to get free TLDR swag!
+																						&lt;/div&gt;
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																				&lt;tr&gt;
+																					&lt;td align="left" style="padding: 10px;"&gt;
+																						&lt;div class="text-block"&gt;
+																							&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2Ffdcd85a2%2F2/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/04XC6S1NvBRVcgWLWdHIBbGFA4XOO0_zE7qvIYRFJv8=452" style="color: #464ba4; text-decoration: underline;"&gt;https://refer.tldr.tech/fdcd85a2/2&lt;/a&gt;
+																						&lt;/div&gt;
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																				&lt;tr&gt;&lt;/tr&gt;
+																				&lt;tr&gt;
+																					&lt;td align="left" style="padding:5px 10px;"&gt;
+																						&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_7241837f4944%2F2/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/z8mBb4W3p28JM9RqWKlKkbPus4b0z7duuG2OAMFDzzc=452" style="font-size: 16px; line-height: 1.6;  padding: 10px 0; display: inline-block;  text-decoration: underline;"&gt;&lt;span style="mso-text-raise:13pt; text-decoration: underline;"&gt;Track your referrals here.&lt;/span&gt;&lt;/a&gt;
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																			&lt;/tbody&gt;
+																		&lt;/table&gt;
+
+																		
+
+
+																		&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																			&lt;tbody&gt;
+																				&lt;tr&gt;
+																					&lt;td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;"&gt;
+
+																						&lt;p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;"&gt;
+																							Want to advertise in TLDR? 📰
+																						&lt;/p&gt;
+																						&lt;div class="text-block" style="margin-top: 10px;"&gt;
+																							If your company is interested in reaching an audience of AI professionals and decision makers, you may want to &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/6KZxAVr4VoDF_A9i7HgNVGooOZ0XKYgOb5rZqnsbReY=452"&gt;&lt;strong&gt;&lt;span&gt;advertise with us&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;.
+																						&lt;/div&gt;
+																						&lt;br&gt;
+
+																						&lt;!-- New "Want to work at TLDR?" section --&gt;
+
+																						&lt;p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;"&gt;
+																							Want to work at TLDR? 💼
+																						&lt;/p&gt;
+																						&lt;div class="text-block" style="margin-top: 10px;"&gt;
+																							&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/Svt3SUcW8mVCG5jdnw8Yn1Al2LoBYmnTJEEx8VqZ3GM=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;Apply here&lt;/strong&gt;&lt;/a&gt;,
+																							&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/wP6BbhdOV-U1nQ6qO2v6stUHfZbJDldvGVqhLaGMn6M=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;create your own role&lt;/strong&gt;&lt;/a&gt; or send a friend's resume to &lt;a href="mailto:jobs@tldr.tech" style="color: #0000EE; text-decoration: underline;"&gt;jobs@tldr.tech&lt;/a&gt; and get $1k if we hire them! TLDR is one of &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/DVGs8kZgWLG4nEBF-mCDeLCbY7BZ29eoYJI7bDEP4kk=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;Inc.'s Best Bootstrapped businesses&lt;/strong&gt;&lt;/a&gt; of 2025.
+																						&lt;/div&gt;
+																						&lt;br&gt;
+
+																						&lt;div class="text-block"&gt;
+																							If you have any comments or feedback, just respond to this email!
+																							&lt;br&gt;
+																							&lt;br&gt; Thanks for reading,
+																							&lt;br&gt;
+																							&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwitter.com%2Fandrewztan/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/0fZGikX2epDFZzEmliejUS_24Omte7Y5AezkYENkrXs=452"&gt;&lt;span&gt;Andrew Tan&lt;/span&gt;&lt;/a&gt;, &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/QWh0BerT5LMyfHH6id8W5EEvv9mM5hMZ_PNo8wEYEng=452"&gt;&lt;span&gt;Ali Aminian&lt;/span&gt;&lt;/a&gt;, &amp;amp; &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fjacob-turner-7521a8198%2F/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/j78zMUj-bxVrl4p52Wvlb1I1xulLOLnByqu0d3JJk30=452"&gt;&lt;span&gt;Jacob Turner&lt;/span&gt;&lt;/a&gt;
+																							&lt;br&gt;
+																							&lt;br&gt;
+																						&lt;/div&gt;
+																						&lt;br&gt;
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																			&lt;/tbody&gt;
+																		&lt;/table&gt;
+
+																		&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+																			&lt;tbody&gt;
+																				&lt;tr&gt;
+																					&lt;td class="container" style="padding: 15px 15px;"&gt;
+																						&lt;div class="text-block" id="testing-id"&gt;
+																							&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fai%2Fmanage%3Femail=kob62291404%2540163.com/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/Nak78YzNBtJO9az9WVJqnj6p4bRwM57w2G9_JWl4xcI=452"&gt;Manage your subscriptions&lt;/a&gt; to our other newsletters on tech, startups, and programming. Or if TLDR AI isn't for you, please &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=55cb6de6-43a4-11f1-a6e4-ab0545177c2c%26p=97ec0804-6648-11f1-9551-514c2009962b%26pt=campaign%26pv=4%26spa=1781269339%26t=1781270736%26s=fde5eb7cb99248ccbc365fbe0500acdd57201a6cb97899ba482dc2f7101aa923/1/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/6M3jiprhpXFdrWbpSfqcPdajoeG6BFfASswcuJf2-zo=452"&gt;unsubscribe&lt;/a&gt;.
+																							&lt;br&gt;
+&lt;/div&gt;
+																					&lt;/td&gt;
+																				&lt;/tr&gt;
+																			&lt;/tbody&gt;
+																		&lt;/table&gt;
+																	&lt;/td&gt;
+																&lt;/tr&gt;
+															&lt;/tbody&gt;
+														&lt;/table&gt;
+													&lt;/td&gt;
+												&lt;/tr&gt;
+											&lt;/tbody&gt;
+										&lt;/table&gt;
+									&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/tbody&gt;
+						&lt;/table&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tbody&gt;
+		&lt;/table&gt;
+
+
+
+
+
+	
+
+&lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019ebc026e89-17c709c0-fe0d-4ed7-97a1-49130944b215-000000/a29ekjPamjRM8bBxUpTuo8ow8ycwWl7SxeMzXYoQFeM=452" style="display: none; width: 1px; height: 1px;"&gt;
+&lt;/body&gt;&lt;/html&gt;</content:encoded></item><item><title>Nottingham Uni Breached 🏫, Exchange Email Spoofing ✉️, GitHub pulls npm auto-run 📦</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-193</link><guid isPermaLink="false">own-newsletter:item:193</guid><pubDate>Fri, 12 Jun 2026 13:05:49 GMT</pubDate><author>TLDR InfoSec &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR InfoSec ShinyHunters compromised the University of Nottingham's Oracle PeopleSoft instance via a zero-day gadget chain, exfiltrating 40GB of data ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|Vie...</description><content:encoded>&lt;!DOCTYPE html&gt;&lt;html lang="en"&gt;&lt;head&gt;&lt;meta http-equiv="Content-Type" content="text/html charset=UTF-8"&gt;&lt;meta charset="UTF-8"&gt;&lt;meta name="viewport" content="width=device-width"&gt;&lt;meta name="x-apple-disable-message-reformatting"&gt;&lt;title&gt;TLDR InfoSec&lt;/title&gt;&lt;meta name="color-scheme" content="light dark"&gt;&lt;meta name="supported-color-schemes" content="light dark"&gt;&lt;style type="text/css"&gt;
+			:root {
+				color-scheme: light dark; supported-color-schemes: light dark;
+			}
+			
+			*,
+			*:after,
+			*:before {
+				-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
+			}
+			
+			* {
+				-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
+			}
+			
+			html,
+			body,
+			.document {
+				width: 100% !important; height: 100% !important; margin: 0; padding: 0;
+			}
+			
+			body {
+				-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility;
+			}
+			
+			div[style*="margin: 16px 0"] {
+				margin: 0 !important;
+			}
+			
+			table,
+			td {
+				mso-table-lspace: 0pt; mso-table-rspace: 0pt;
+			}
+			
+			table {
+				border-spacing: 0; border-collapse: collapse; table-layout: fixed; margin: 0 auto;
+			}
+			
+			img {
+				-ms-interpolation-mode: bicubic; max-width: 100%; border: 0;
+			}
+			
+			*[x-apple-data-detectors] {
+				color: inherit !important; text-decoration: none !important;
+			}
+			
+			.x-gmail-data-detectors,
+			.x-gmail-data-detectors *,
+			.aBn {
+				border-bottom: 0 !important; cursor: default !important;
+			}
+			
+			.btn {
+				-webkit-transition: all 200ms ease; transition: all 200ms ease;
+			}
+			
+			.btn:hover {
+				background-color: #f67575; border-color: #f67575;
+			}
+			
+			* {
+				font-family: Arial, Helvetica, sans-serif; font-size: 18px;
+			}
+			
+			@media screen and (max-width: 600px) {
+				.container {
+					width: 100%; margin: auto;
+				}
+				.stack {
+					display: block!important; width: 100%!important; max-width: 100%!important;
+				}
+				.btn {
+					display: block; width: 100%; text-align: center;
+				}
+			}
+			
+			body,
+			p,
+			td,
+			tr,
+			.body,
+			table,
+			h1,
+			h2,
+			h3,
+			h4,
+			h5,
+			h6,
+			div,
+			span {
+				background-color: #FEFEFE !important; color: #010101 !important;
+			}
+			
+			@media (prefers-color-scheme: dark) {
+				body,
+				p,
+				td,
+				tr,
+				.body,
+				table,
+				h1,
+				h2,
+				h3,
+				h4,
+				h5,
+				h6,
+				div,
+				span {
+					background-color: #27292D !important; color: #FEFEFE !important;
+				}
+			}
+			
+			a {
+				color: inherit !important; text-decoration: underline !important;
+			}
+
+		&lt;/style&gt;&lt;!--[if mso | ie]&gt;
+		&lt;style type="text/css"&gt;
+			a {
+				background-color: #FEFEFE !important; color: #010101 !important;
+			}
+			@media (prefers-color-scheme: dark) {
+				a {
+					background-color: #27292D !important; color: #FEFEFE !important;
+				}
+			}
+	 &lt;/style&gt;
+			&lt;![endif]--&gt;&lt;/head&gt;&lt;body class=""&gt;
+
+
+
+&lt;div style="display: none; max-height: 0px; overflow: hidden;"&gt;ShinyHunters compromised the University of Nottingham&amp;#039;s Oracle PeopleSoft instance via a zero-day gadget chain, exfiltrating 40GB of data&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&lt;/div&gt;
+&lt;div style="display: none; max-height: 0px; overflow: hidden;"&gt;
+&lt;br&gt;
+&lt;/div&gt;
+
+&lt;table align="center" class="document"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td valign="top"&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="container" width="600"&gt;&lt;tbody&gt;&lt;tr class="inner-body"&gt;&lt;td&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr class="header"&gt;&lt;td bgcolor="" class="container"&gt;
+
+&lt;table width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container"&gt;
+
+
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" style="margin-top: 0px;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding: 0px;"&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div style="text-align: center;"&gt;
+&lt;span style="margin-right: 0px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Finfosec%3Futm_source=tldrinfosec/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/uTgbuXa2f0tBmqPMsF5-EpD8mqc_epBu8gq_8y4ukJo=452" rel="noopener noreferrer" target="_blank"&gt;&lt;span&gt;Sign Up&lt;/span&gt;&lt;/a&gt;
+|&lt;span style="margin-right: 2px; margin-left: 2px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrinfosec%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/RZ_twM8fgwlZVRuHBYQ3g8zi02GcD1_tszxw1CIkiBM=452" rel="noopener noreferrer" target="_blank"&gt;&lt;span&gt;Advertise&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;|&lt;span style="margin-left: 2px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=14a14690-456d-11f1-9623-47608eee5fa8%26p=05c6ebac-6633-11f1-8ef6-2b48d94c0181%26pt=campaign%26t=1781269549%26s=34ad95bf4c357d267e12db32cf924601f76928fb57c68c6f6472f1cc371b29bf/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/HBJfALsGESszNZgsyKJGrLIUFoIbXmDNXcV5iXpuzsw=452"&gt;&lt;span&gt;View Online&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;/span&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="text-align: center;"&gt;&lt;span data-darkreader-inline-color="" style="--darkreader-inline-color:#3db3ff; color: rgb(51, 175, 255) !important; font-size: 30px;"&gt;T&lt;/span&gt;&lt;span style="font-size: 30px;"&gt;&lt;span data-darkreader-inline-color="" style="color: rgb(232, 192, 96) !important; --darkreader-inline-color:#e8c163; font-size:30px;"&gt;L&lt;/span&gt;&lt;span data-darkreader-inline-color="" style="color: rgb(101, 195, 173) !important; --darkreader-inline-color:#6ec7b2; font-size:30px;"&gt;D&lt;/span&gt;&lt;/span&gt;&lt;span data-darkreader-inline-color="" style="--darkreader-inline-color:#dd6e6e; color: rgb(220, 107, 107) !important; font-size: 30px;"&gt;R&lt;/span&gt;
+&lt;br&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;br&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr id="together-with"&gt;&lt;td align="center" height="20" style="vertical-align:middle !important;" valign="middle" width="100%"&gt;&lt;strong style="vertical-align:middle !important; height: 100%;"&gt;Together With &lt;/strong&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdr-resources.darkreading.com%2Ffree%2Fw_cato490%2F%3Futm_source=TLDR%26utm_medium=newsletter%26utm_campaign=2026-06-12_Primary_Cato%2BNetworks%26utm_content=header_ai_driven_attacks/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/HBFaabj5OnnJERdWbIqN3TUlxITy7p6wozGhnYDiyOs=452"&gt;&lt;img src="https://images.tldr.tech/cato2.png" valign="middle" style="vertical-align: middle !important; height: 100%;" alt="Cato Networks"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+
+&lt;table style="table-layout: fixed; width:100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;"&gt;
+&lt;div style="text-align: center;"&gt;
+
+&lt;h1&gt;&lt;strong&gt;TLDR Information Security &lt;span id="date"&gt;2026-06-12&lt;/span&gt;&lt;/strong&gt;&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table style="table-layout: fixed; width:100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr id="sponsy-copy"&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdr-resources.darkreading.com%2Ffree%2Fw_cato490%2F%3Futm_source=TLDR%26utm_medium=newsletter%26utm_campaign=2026-06-12_Primary_Cato%2BNetworks%26utm_content=header_ai_driven_attacks/2/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/ZaS3tWXJgL6rv4JmlYAqYw-cK4sk3A6WHbgsu6xh6vs=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;AI-Driven Attacks Are Here. Is Your Architecture Ready? (Sponsor)&amp;nbsp;&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    AI is compressing the gap between vulnerability discovery and exploitation. Attacks that once took time and skill are now automated, adaptive, and continuous.&lt;p&gt;&lt;/p&gt;&lt;p&gt;As that window shrinks, the limits of fragmented tools, manual workflows, and hardware-centric architectures are exposed.&lt;/p&gt;&lt;p&gt;Join Cato and DarkReading on June 23 to learn how to:&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reduce time-to-protection against AI attacks&lt;/li&gt;&lt;li&gt;Eliminate blind spots created by fragmented security architectures&lt;/li&gt;&lt;li&gt;Enforce real-time protection across the full attack path &amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdr-resources.darkreading.com%2Ffree%2Fw_cato490%2F%3Futm_source=TLDR%26utm_medium=newsletter%26utm_campaign=2026-06-12_Primary_Cato%2BNetworks%26utm_content=cta_register/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/c9fRk-UygTJN0tZNHQL5ZtPol1eSAK52E6xLFUM1-6s=452" rel="noopener noreferrer nofollow" target="_blank"&gt;&lt;span&gt;→ Register now&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdr-resources.darkreading.com%2Ffree%2Fw_cato490%2F%3Futm_source=TLDR%26utm_medium=newsletter%26utm_campaign=2026-06-12_Primary_Cato%2BNetwork%26utm_content=cta_recording_if_you/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/e31UE1tJbJ7V9Rjw1rMN-JdV5jhTwVyROKc56mXRCwc=452" rel="noopener noreferrer nofollow" target="_blank"&gt;&lt;span&gt;→ Get the recording if you can't attend live&amp;nbsp;&lt;/span&gt;&lt;/a&gt;
+
+
+&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr bgcolor=""&gt;&lt;td class="container"&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding: 0px;"&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🔓&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;
+
+&lt;h1&gt;&lt;strong&gt;Attacks &amp;amp; Vulnerabilities&lt;/strong&gt;&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fo1BuY9/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/mJvtTMyELUVyc9B86k50ASsQEf5jD7qUhmsw64o-abU=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Nottingham University data breach affects over 450,000 students (3 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    ShinyHunters compromised the University of Nottingham's Oracle PeopleSoft instance via a zero-day gadget chain, exfiltrating 40GB of data on 454,600 students, including passport numbers, billing records, addresses, and disability details. This incident was part of a campaign that targeted 100+ organizations using chained zero-days and legacy vulnerabilities. Exploitation success depends on PeopleSoft configuration and exposure. Monitor PSAPPSRV.LOG and PS_HOME/appserv logs for anomalous SQL data extraction and access patterns, validate PeopleSoft patch versions, and enforce IP allow-listing with MFA on admin accounts.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FXweku1/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/qOi7IN5OzVasAeyvn20efbw-VV4OI1GurwBB-E0pxNo=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Japanese Energy Firm Loses Drive With Data of 10.9M Clients (2 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Kyushu Electric Power Co has disclosed a physical security incident that affects the private data of more than 10M customers. Due to capacity constraints during a routine backup, the company stored the data on an external drive. However, when they went to retrieve it the following month, it was missing. The data on the drive includes names, service-location addresses, electricity usage data, telephone numbers, names of retail electricity providers, and other related information.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🧠&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;
+
+&lt;h1&gt;&lt;strong&gt;Strategies &amp;amp; Tactics&lt;/strong&gt;&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+
+&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.doyensec.com%2F2026%2F05%2F27%2Faikido-xbow.html%3Futm_source=tldrinfosec/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/z0rvaU983FKxTZINuAFlSep6rYBCJMoBktKVBooQ_HA=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Comparing AI Application Security Testing Platforms: Aikido vs. XBOW (22 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Doyensec ran an Aikido-sponsored head-to-head of Aikido's Attack AI Pentest and XBOW's Lightspeed against two OSS web apps (Fider and Photoview), manually validating every finding as true or false positive. Aikido surfaced more true positives (49 vs. 31), set up in under 20 minutes, and ran cleanly, while XBOW edged it on false-positive ratio (3% vs. 4%) but suffered a sales-gated, week-long flow whose scans crashed, disabled auth, and deleted the test account, plus a single-admin-credential limitation that may have masked authorization bugs. Both platforms reliably overstated severities (corrections trended downward on review) and beat legacy SAST/DAST on ROI, though the two-app sample keeps this a test drive rather than a verdict.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsafedep.io%2Finside-the-miasma-supply-chain-attack-toolkit%2F%3Futm_source=tldrinfosec/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/qbFLFreycTIOPJxcnA7MtLdZF7RiJJ4vnbipNWI8-gI=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Inside the Miasma Software Supply Chain Attack Toolkit (22 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Miasma exploits GitHub as C2 via three commit search channels ("DontRevokeOrItGoesBoom", "TheBeautifulSandsOfTime", and "firedalazer"), each delivering encrypted credentials, JavaScript payloads, or remote Python commands without touching traditional infrastructure. The kill chain harvests secrets from AWS/Azure/GCP/Kubernetes and password managers, then propagates via npm/PyPI/RubyGems OIDC or stolen tokens, SSH lateral movement, GitHub Actions orphan-commit hijacking, and injection into 13 AI coding tools via config poisoning. Detect by hunting GitHub commits for those three search terms, enforce OIDC token scope restrictions in Actions, revoke compromised PATs immediately (triggers the dead-man switch), and monitor for binding.gyp injections and .claude/.cursor/.vscode/.gemini/ config payloads.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbrutecat.com%2Farticles%2Fhacking-google-with-ai%2F%3Futm_source=tldrinfosec/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/sd8F0iIzO5rZs2lhiyJCxRaAhtPVKcPAxZEq4MJZG0o=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Hacking Google with AI for $500,000 (42 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    A security researcher targeted Google's internal and public APIs using automated key collection, discovery document scraping, and a custom API explorer wired into an AI-driven fuzzer. They harvested thousands of valid Google API keys from apps, web traffic, and binaries, then mapped which keys unlocked more than 1,500 APIs with different visibility labels and restrictions. By replaying and clustering multi-key probes, parsing Google's standardized error patterns, and layering in strong authentication support, the system reliably surfaced real access control bugs, including internal-only endpoints leaking sensitive account, content, and configuration data, which translated into over $500,000 in bounties.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🧑‍💻&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;
+
+&lt;h1&gt;&lt;strong&gt;Launches &amp;amp; Tools&lt;/strong&gt;&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faws.amazon.com%2Fblogs%2Faws%2Fanthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available%2F%3Futm_source=tldrinfosec/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/OGdlHCyLQ4SkaGgdFcNmSotFVIlr-DvbhGwH7QlrYjM=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available (3 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Claude Fable 5 has launched on Amazon Bedrock with Mythos-level performance in long-running tasks and vision, but enabling access requires opting into mandatory 30-day data retention and allowing inference data to exit AWS' security boundary for Anthropic's misuse detection.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fseqra%2Fopentaint%3Futm_source=tldrinfosec/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/T3DBa1xQqzEH3qWXPu9rHgvIQJFf-wpoadB8ayqqdGs=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;OpenTaint (GitHub Repo)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Formal taint analysis for application security — finds what AST-pattern matchers miss, lets LLM agents enact vulnerabilities as rules, and scales where neither can alone.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.emphere.com%2F%3Futm_source=tldrinfosec/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/UycicbYF0QUIWYfeF9ws2Rduc6O1u9HBO3ymTTcDn8s=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Emphere (Product Launch)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Emphere provides a platform that scans software dependency graphs, identifies exploitable vulnerabilities, automatically applies and validates patches, and ships fixed components, enabling engineering teams to ship releases faster without manual remediation.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🎁&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;&lt;strong&gt;&lt;h1&gt;Miscellaneous&lt;/h1&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FPuL12d/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/4hLpGcoOh8TZ2g76y-ZPczydXLTiyPc7O1-59qf2bIM=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Microsoft Exchange Flaw Lets Attackers Spoof Any Email Address (4 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    InfoGuard's "Ghost-Sender" lets attackers send spoofed internal or external email (including from real CEO or noreply addresses, with Outlook resolving profile pictures) to Exchange Online and hybrid on-prem tenants that use a third-party MX record via a one-line PowerShell command, bypassing SPF, DKIM, and DMARC entirely. It is reportedly being abused in the wild. Microsoft is treating it as an architectural limitation rather than a vulnerability. Defenders should disable Direct Send, deploy a partner connector with IP/certificate validation, or add a mail flow rule quarantining mail where X-MS-Exchange-Organization-AuthAs is not Internal from unexpected IPs.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.endorlabs.com%2Flearn%2Fclaude-fable-5-mythos-grade-hype%3Futm_source=tldrinfosec/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/zq3B06X7DD2lLJtThY1UlSyIlvswzSyLQsMdCB28Hos=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Claude Fable 5: Mythos-grade hype, record cheating, and a few hall-of-fame entries (4 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Anthropic's Claude Fable 5 scored 59.8% functional and 19.0% security passes on 200 real-world vulnerability-fix tasks, with many runs timing out and 38 confirmed cheating cases, mostly training recall. The model still produced four novel, effective patches for real CVEs in Streamlit, jwcrypto, lxml, and scrapy-splash, which matter for anyone relying on AI agents to touch production security fixes.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2Fsecurity%2F2026%2F06%2F11%2F24m-vrchat-users-data-accessed-following-cloud-breach%2F5254246%3Futm_source=tldrinfosec/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/R0Nmh1SpZ7wpHPHNU3GSvxFmFD3Hih-ojitkBvyexwc=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;VRChat says somebody faked a breach notice with the Maine AG's office (2 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Maine's AG site published a fake VRChat breach notice that named a non-existent employee and listed a dead phone line, prompting VRChat to deny any compromise and contact the AG to remove it. The bogus filing claimed access to cloud data for roughly 2.4 million users, including usernames, emails, login histories, and platform IDs, but not passwords or payment data.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;⚡&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;div style="text-align: center;"&gt;
+
+&lt;h1&gt;&lt;strong&gt;Quick Links&lt;/strong&gt;&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fluma.com%2Fla76gltj%3Futm_campaign=adversarial_misuse_genai%26utm_medium=newsletter%26utm_source=tldr_infosec/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/at0dLazRLZAeIQXGXXaQmpxkgVPZCDoQynZS7n-P4a8=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;AI crime will cost the US $40 billion by 2027. (Sponsor)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Pangram's hosting "How AI detection arms compliance and cybersecurity." Virtual on June 24 → &lt;a class="notion-link-token notion-focusable-token notion-enable-hover" href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fluma.com%2Fla76gltj%3Futm_source=tldr_infosec%26utm_medium=newsletter%26utm_campaign=adversarial_misuse_genai/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/x-ebRP605yPGcyI87-iakgpBLEDt3lLS99J7mECjIjw=452" rel="noopener noreferrer" target="_blank"&gt;&lt;span&gt;Save your seat&lt;/span&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2Fdevops%2F2026%2F06%2F10%2Fgithub-pulls-pin-on-npms-auto-run-scripts%2F5253453%3Futm_source=tldrinfosec/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/Uettp9qTO39osCOhzsqdStNuXbEQLCKzqaGTbhIx_gw=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;GitHub pulls pin on npm's auto-run scripts (2 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    npm 12 (July) disables preinstall/install/postinstall scripts by default, requiring explicit allow-scripts allowlists.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.neowin.net%2Fnews%2Fgoogle-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow%2F%3Futm_source=tldrinfosec/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/L3HdMgGXI0-rOCvnyMbq5cQBSwqGdCjoB-1n8hzkXBY=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Google Chrome is killing all uBlock Origin bypasses, Microsoft Edge, Opera to follow (5 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    Chromium 150 strips ExtensionManifestV2Disabled and version 151 removes ExtensionManifestV2Unsupported, AllowLegacyMV2Extensions, and related flags, permanently blocking MV2 extensions like uBlock Origin and all Windows Registry workarounds.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;span&gt;
+                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F8GhAdU/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/HChOW0_aWj0LVnk18Yx67oeYbZz_MG1MFH8mdQ5m45s=452"&gt;
+                                    &lt;span&gt;
+                                        &lt;strong&gt;Microsoft fixes BitLocker recovery bug on Windows Server 2025 (3 minute read)&lt;/strong&gt;
+                                    &lt;/span&gt;
+&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
+                                    KB5094125 (Windows Server 2025) and KB5093998 (Windows 11 23H2) patch BitLocker recovery prompts triggered by April 2026 updates on systems with TPM platform validation policy, including PCR7, Windows UEFI CA 2023 certificate in Secure Boot DB, and incompatible boot manager.
+                                &lt;/span&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;"&gt;
+
+&lt;p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;"&gt;
+Love TLDR? Tell your friends and get rewards!
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="container" style="padding: 0px 10px 15px;"&gt;
+&lt;div class="text-block"&gt;
+Share your referral link below with friends to get free TLDR swag!
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td align="left" style="padding: 10px;"&gt;
+&lt;div class="text-block"&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F48f299f3%2F8/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/pEGkt_3ZYq4EM0bsTt_ji_Nq6geXKn3Us4o_tEFTfNw=452" style="color: #464ba4; text-decoration: underline;"&gt;https://refer.tldr.tech/48f299f3/8&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td align="left" style="padding:5px 10px;"&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_969617670871%2F8/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/Xb0iOKjm_V3YSTfEztZiKFIQ6XLDlaPFfWWMZtNsy2Q=452" style="font-size: 16px; line-height: 1.6;  padding: 10px 0; display: inline-block;  text-decoration: underline;"&gt;&lt;span style="mso-text-raise:13pt; text-decoration: underline;"&gt;Track your referrals here.&lt;/span&gt;&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+
+
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;"&gt;
+
+&lt;p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;"&gt;
+Want to advertise in TLDR? 📰
+&lt;/p&gt;
+&lt;div class="text-block" style="margin-top: 10px;"&gt;
+If your company is interested in reaching an audience of cybersecurity professionals and decision makers, you may want to &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrinfosec%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/RmTHtr9HuRvohYW6oyY3jmq1Cly3Fm4qhK5xn69E_Uo=452"&gt;&lt;strong&gt;&lt;span&gt;advertise with us&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;.
+&lt;/div&gt;
+&lt;br&gt;
+
+&lt;!-- New "Want to work at TLDR?" section --&gt;
+
+&lt;p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;"&gt;
+Want to work at TLDR? 💼
+&lt;/p&gt;
+&lt;div class="text-block" style="margin-top: 10px;"&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/6CRMku_xTTHp29Gdgb5LlJA5F9GYmJPIYNwDthTIVFI=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;Apply here&lt;/strong&gt;&lt;/a&gt;,
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/X3vG6z1DRmAA_DxN8qDIA5meei3KwbwpWzldUpPH7hM=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;create your own role&lt;/strong&gt;&lt;/a&gt; or send a friend's resume to &lt;a href="mailto:jobs@tldr.tech" style="color: #0000EE; text-decoration: underline;"&gt;jobs@tldr.tech&lt;/a&gt; and get $1k if we hire them! TLDR is one of &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/oO_frBgGyaQEdqGpceesHmTU9OZdl69LEDf3RC9WLeE=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;Inc.'s Best Bootstrapped businesses&lt;/strong&gt;&lt;/a&gt; of 2025.
+&lt;/div&gt;
+&lt;br&gt;
+
+&lt;div class="text-block"&gt;
+If you have any comments or feedback, just respond to this email!
+&lt;br&gt;
+&lt;br&gt; Thanks for reading,
+&lt;br&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fprasannagautam%2F/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/XakEkrGSajnH6wzfhk_-D1sH0UDH7Eoi8DX15BaTkUA=452"&gt;&lt;span&gt;Prasanna Gautam&lt;/span&gt;&lt;/a&gt;, &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fericfernandezdelcampo%2F/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/NnjOHwugJ0fTQyXPDvRhzh5IMXgFb5s_X4ka7RkfOgE=452"&gt;&lt;span&gt;Eric Fernandez&lt;/span&gt;&lt;/a&gt; &amp;amp; &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsammy-tbeile%2F/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/6rr800QdwntQwTji5VT_fIHDgAStQCdUpHD5gH7nhbA=452"&gt;&lt;span&gt;Sammy Tbeile&lt;/span&gt;&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
+&lt;div class="text-block" id="testing-id"&gt;
+&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Finfosec%2Fmanage%3Femail=kob62291404%2540163.com/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/6gwXrSuUX9Y0A1IHxC5wn_xeahWoLzeM1PCOYu_YHpk=452"&gt;Manage your subscriptions&lt;/a&gt; to our other newsletters on tech, startups, and programming. Or if TLDR Information Security isn't for you, please &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=8d9cea11-3e94-11ed-9a32-0241b9615763%26lc=14a14690-456d-11f1-9623-47608eee5fa8%26p=05c6ebac-6633-11f1-8ef6-2b48d94c0181%26pt=campaign%26pv=4%26spa=1781269235%26t=1781269549%26s=ff9cdbe47b8424798e06324e0790b8e592e73eb908f1a5eb3c866495dfa51cff/1/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/iJT5J5goPtRUDSwbSi11rxB864qnmQz3icyXuRljgZQ=452"&gt;unsubscribe&lt;/a&gt;.
+&lt;br&gt;
+
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+
+
+&lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019ebbf05298-e2e8d342-eed1-4b1e-988a-331ff1c821fb-000000/X5jg3ddm4QuTmcQyOLeMB1T7sUwZFOeYHFGt63HttZg=452" style="display: none; width: 1px; height: 1px;"&gt;
+&lt;/body&gt;&lt;/html&gt;</content:encoded></item><item><title>Stack Overflow Targets Agents 🤖, Adobe Stock Sinks 📉, AI Strains IT Budgets 💸</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-192</link><guid isPermaLink="false">own-newsletter:item:192</guid><pubDate>Fri, 12 Jun 2026 12:09:46 GMT</pubDate><author>TLDR IT &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR IT Stack Overflow for Agents is an API-first knowledge exchange designed for AI coding agents. It aims to reduce the “Ephemeral Intelligence Gap” ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|Vie...</description><content:encoded>&lt;!DOCTYPE html&gt;&lt;html lang="en"&gt;&lt;head&gt;&lt;meta http-equiv="Content-Type" content="text/html charset=UTF-8"&gt;&lt;meta charset="UTF-8"&gt;&lt;meta name="viewport" content="width=device-width"&gt;&lt;meta name="x-apple-disable-message-reformatting"&gt;&lt;title&gt;TLDR IT&lt;/title&gt;&lt;meta name="color-scheme" content="light dark"&gt;&lt;meta name="supported-color-schemes" content="light dark"&gt;&lt;style type="text/css"&gt;
 			:root {
 				color-scheme: light dark; supported-color-schemes: light dark;
 			}
@@ -31664,1100 +33220,4 @@ If you have any comments or feedback, just respond to this email!
 	
 
 &lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019e8364110d-85accbbb-feb1-4742-ad26-739cb4a4caf5-000000/p9Gx7flG6IP62wzh2xj6HnrGbkSxKK4NMTaPg4GAX6w=452" style="display: none; width: 1px; height: 1px;"&gt;
-&lt;/body&gt;&lt;/html&gt;</content:encoded></item><item><title>FortiClient RCE Active 💥, Claude Code ClickFix 🛑, LLMReaper Steals Chats 🤖</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-136</link><guid isPermaLink="false">own-newsletter:item:136</guid><pubDate>Mon, 01 Jun 2026 13:05:38 GMT</pubDate><author>TLDR InfoSec &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR InfoSec Attackers are chaining CVE-2026-35616, an unauthenticated improper-access-control flaw in FortiClient Enterprise Management Server ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|View Onlin...</description><content:encoded>&lt;!DOCTYPE html&gt;&lt;html lang="en"&gt;&lt;head&gt;&lt;meta http-equiv="Content-Type" content="text/html charset=UTF-8"&gt;&lt;meta charset="UTF-8"&gt;&lt;meta name="viewport" content="width=device-width"&gt;&lt;meta name="x-apple-disable-message-reformatting"&gt;&lt;title&gt;TLDR InfoSec&lt;/title&gt;&lt;meta name="color-scheme" content="light dark"&gt;&lt;meta name="supported-color-schemes" content="light dark"&gt;&lt;style type="text/css"&gt;
-			:root {
-				color-scheme: light dark; supported-color-schemes: light dark;
-			}
-			
-			*,
-			*:after,
-			*:before {
-				-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
-			}
-			
-			* {
-				-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
-			}
-			
-			html,
-			body,
-			.document {
-				width: 100% !important; height: 100% !important; margin: 0; padding: 0;
-			}
-			
-			body {
-				-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility;
-			}
-			
-			div[style*="margin: 16px 0"] {
-				margin: 0 !important;
-			}
-			
-			table,
-			td {
-				mso-table-lspace: 0pt; mso-table-rspace: 0pt;
-			}
-			
-			table {
-				border-spacing: 0; border-collapse: collapse; table-layout: fixed; margin: 0 auto;
-			}
-			
-			img {
-				-ms-interpolation-mode: bicubic; max-width: 100%; border: 0;
-			}
-			
-			*[x-apple-data-detectors] {
-				color: inherit !important; text-decoration: none !important;
-			}
-			
-			.x-gmail-data-detectors,
-			.x-gmail-data-detectors *,
-			.aBn {
-				border-bottom: 0 !important; cursor: default !important;
-			}
-			
-			.btn {
-				-webkit-transition: all 200ms ease; transition: all 200ms ease;
-			}
-			
-			.btn:hover {
-				background-color: #f67575; border-color: #f67575;
-			}
-			
-			* {
-				font-family: Arial, Helvetica, sans-serif; font-size: 18px;
-			}
-			
-			@media screen and (max-width: 600px) {
-				.container {
-					width: 100%; margin: auto;
-				}
-				.stack {
-					display: block!important; width: 100%!important; max-width: 100%!important;
-				}
-				.btn {
-					display: block; width: 100%; text-align: center;
-				}
-			}
-			
-			body,
-			p,
-			td,
-			tr,
-			.body,
-			table,
-			h1,
-			h2,
-			h3,
-			h4,
-			h5,
-			h6,
-			div,
-			span {
-				background-color: #FEFEFE !important; color: #010101 !important;
-			}
-			
-			@media (prefers-color-scheme: dark) {
-				body,
-				p,
-				td,
-				tr,
-				.body,
-				table,
-				h1,
-				h2,
-				h3,
-				h4,
-				h5,
-				h6,
-				div,
-				span {
-					background-color: #27292D !important; color: #FEFEFE !important;
-				}
-			}
-			
-			a {
-				color: inherit !important; text-decoration: underline !important;
-			}
-
-		&lt;/style&gt;&lt;!--[if mso | ie]&gt;
-		&lt;style type="text/css"&gt;
-			a {
-				background-color: #FEFEFE !important; color: #010101 !important;
-			}
-			@media (prefers-color-scheme: dark) {
-				a {
-					background-color: #27292D !important; color: #FEFEFE !important;
-				}
-			}
-	 &lt;/style&gt;
-			&lt;![endif]--&gt;&lt;/head&gt;&lt;body class=""&gt;
-
-
-
-&lt;div style="display: none; max-height: 0px; overflow: hidden;"&gt;Attackers are chaining CVE-2026-35616, an unauthenticated improper-access-control flaw in FortiClient Enterprise Management Server&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&lt;/div&gt;
-&lt;div style="display: none; max-height: 0px; overflow: hidden;"&gt;
-&lt;br&gt;
-&lt;/div&gt;
-
-&lt;table align="center" class="document"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td valign="top"&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="container" width="600"&gt;&lt;tbody&gt;&lt;tr class="inner-body"&gt;&lt;td&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr class="header"&gt;&lt;td bgcolor="" class="container"&gt;
-
-&lt;table width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container"&gt;
-
-
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" style="margin-top: 0px;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding: 0px;"&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div style="text-align: center;"&gt;
-&lt;span style="margin-right: 0px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Finfosec%3Futm_source=tldrinfosec/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/wYGDEDXEK4OnOjOVb0JTbsJ7VLgLm0vhaz8gLsyrSI8=452" rel="noopener noreferrer" target="_blank"&gt;&lt;span&gt;Sign Up&lt;/span&gt;&lt;/a&gt;
-|&lt;span style="margin-right: 2px; margin-left: 2px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrinfosec%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/nJxRyclEB6NSE9aa7T8-U9_3adoIG4F6SYh_vEfOdHU=452" rel="noopener noreferrer" target="_blank"&gt;&lt;span&gt;Advertise&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;|&lt;span style="margin-left: 2px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=14a14690-456d-11f1-9623-47608eee5fa8%26p=1027767a-5d87-11f1-9ea8-37f8dcaabf73%26pt=campaign%26t=1780319138%26s=ebb65d2e2a6f8869d75859b9251bb53e7d17bd0d18ce08bf2b86c3365ed97985/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/KswR_ikbpgPJ-K_qJdB-NtjnftTaVChj-KqCbKaIBY8=452"&gt;&lt;span&gt;View Online&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
-&lt;br&gt;
-&lt;/span&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="text-align: center;"&gt;&lt;span data-darkreader-inline-color="" style="--darkreader-inline-color:#3db3ff; color: rgb(51, 175, 255) !important; font-size: 30px;"&gt;T&lt;/span&gt;&lt;span style="font-size: 30px;"&gt;&lt;span data-darkreader-inline-color="" style="color: rgb(232, 192, 96) !important; --darkreader-inline-color:#e8c163; font-size:30px;"&gt;L&lt;/span&gt;&lt;span data-darkreader-inline-color="" style="color: rgb(101, 195, 173) !important; --darkreader-inline-color:#6ec7b2; font-size:30px;"&gt;D&lt;/span&gt;&lt;/span&gt;&lt;span data-darkreader-inline-color="" style="--darkreader-inline-color:#dd6e6e; color: rgb(220, 107, 107) !important; font-size: 30px;"&gt;R&lt;/span&gt;
-&lt;br&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;br&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-
-&lt;table style="table-layout: fixed; width:100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;"&gt;
-&lt;div style="text-align: center;"&gt;
-
-&lt;h1&gt;&lt;strong&gt;TLDR Information Security &lt;span id="date"&gt;2026-06-01&lt;/span&gt;&lt;/strong&gt;&lt;/h1&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table style="table-layout: fixed; width:100%;" width="100%"&gt;&lt;tbody&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/td&gt;&lt;/tr&gt;
-&lt;tr bgcolor=""&gt;&lt;td class="container"&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding: 0px;"&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🔓&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;
-
-&lt;h1&gt;&lt;strong&gt;Attacks &amp;amp; Vulnerabilities&lt;/strong&gt;&lt;/h1&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FTsBxbd/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/QSCxQ7xchNXWqQUWMqrdY-QmEyyGZxUS5BtzvABEAhs=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;Hackers exploit FortiClient EMS flaw to push infostealer malware (3 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Attackers are chaining CVE-2026-35616, an unauthenticated improper-access-control flaw in FortiClient Enterprise Management Server versions 7.4.5 and 7.4.6, to modify EMS configurations and VPN policies so that fortitray.exe launches malicious batch scripts seconds after an IPsec tunnel establishes to a FortiGate. The scripts run base64-encoded PowerShell that downloads the EKZ infostealer disguised as a Fortinet patch (FortiEndpoint_Patch.exe), which dumps Chromium and Firefox credentials, credit cards, addresses, and cookies before exfiltrating to an attacker VPS over HTTP and wiping local artifacts. Defenders should apply the April hotfixes, hunt for the log sequence "Certificate not found in request header" followed by "Certificate user: fortinet-ca2 … successfully updated," and audit Remote Access Profile changes and administrative logins from Tor or VPS origins.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhackread.com%2Ffake-anthropic-sites-fileless-infostealer-claude-code-users%2F%3Futm_source=tldrinfosec/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/z_iV6sAe4myvAWmyHOIRhaAX7A41Uj9L9HJL6hc93A8=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;Fake Anthropic Sites Deliver Fileless Infostealer to Claude Code Users (2 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Cyderes uncovered a ClickFix campaign that uses SEO-poisoned "claude code install" results to lure victims to spoofed Anthropic pages, which instruct them to paste a mshta.exe command into Win+R that fetches a 6.7 MB MP3/HTA polyglot from download.version-516[.]com, playable as audio in VLC but parsed as script by mshta. The HTA spawns 32-bit PowerShell to evade EDR coverage, performs an AMSI bypass with key BWJFEesMEqRvjQbm, and pulls a 17 MB next stage from oakenfjrod[.]ru before reflectively loading a .NET infostealer via Assembly.Load(byte[]) entirely in PowerShell memory, beaconing browser credentials to 185.177.239[.]255:443 on Russian infrastructure. Defenders should block wildcard queries to *.oakenfjrod[.]ru, alert on mshta.exe spawning cmd.exe or PowerShell with outbound network activity, and watch for 32-bit PowerShell launched from HTA contexts.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F9nv8bC/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/SFdPk8Orgkj7D2yw3AX-AQLVH-PwF8DI0eSme9XwJx8=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;New CIFSwitch Linux Flaw Gives root on Multiple Distractions (2 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Security researchers have uncovered a new Linux local privilege-escalation flaw that allows attackers to forge CIFS authentication key descriptions, exploit the kernel's key-request mechanism, and gain root privileges. The problem is that the Linux kernel's CIFS subsystem fails to verify that the cifs.spnego requests originate from the kernel's CIFS client. Some distributions that were confirmed to be vulnerable by default include Linux Mint 21.3 and 22.3, CentOS Stream 9, Rocky Linux 9, Alma Linux 9, Kali Linux 2021.4-2026.1, and SLES 15S P7.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🧠&lt;/span&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;
-
-&lt;h1&gt;&lt;strong&gt;Strategies &amp;amp; Tactics&lt;/strong&gt;&lt;/h1&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-
-&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FfxwkVm/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/gylDDU86loQEf1dwyTkLrESHdislJ7juOPiB4u7a_cA=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;Parallel Reconstruction of Lawful TLS Wiretapping (11 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    A researcher reproduced a plausible covert path for the 2023 jabber.ru TLS interception by chaining CVE-2023-38198, a command-injection flaw in acme.sh exploited via a crafted http-01 challenge Token, with the network-routing control already needed for a fraudulent-certificate MitM. The proof-of-concept smuggles a base64-encoded Python stager through the Token field using echo|nl to synthesize whitespace and stay under the 255-byte filename limit, landing a privileged reverse shell when acme.sh contacts the attacker-controlled CA while leaving only a transient python3 process and a /tmp artifact wiped at reboot. Defenders running ACME clients should patch acme.sh past the June 2023 fix, run renewal flows under least privilege, monitor for python3 or other interpreters spawned as children of ACME clients, and watch Certificate Transparency logs for unexpected issuances on owned domains.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthewhiteh4t.github.io%2Fblog%2Fai-chat-llmreaper%2F%3Futm_source=tldrinfosec/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/R3JZjW4NPDFQsrTz4mkmctcKkaWS7c5qROneQYUsr54=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;LLMReaper - DOM Based AI Conversation Exfiltration via Browser Extensions (4 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    LLMReaper is a Manifest V3 proof-of-concept Chrome extension that uses MutationObserver to scrape full ChatGPT, Claude, and Gemini conversations from the DOM in real time, keying response completion off each platform's stop-button selector and shipping JSON payloads (including username, chat title, and Gemini Gmail ID) to a FastAPI backend through the service worker to bypass Same Origin Policy. The capture requires no special permissions beyond the standard "read and change all your data on websites you visit," and the accompanying backend runs regex to surface OpenAI keys, AWS access keys, Stripe secrets, JWTs, and database URLs from pasted content. Defenders should audit installed extensions, treat AI chat as an unencrypted channel, isolate AI use to dedicated browser profiles, and fold extension risk into awareness training, since legitimate-looking utilities can map cleanly to MITRE T1056.003, T1041, and T1555.003.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.yaelwrites.com%2Fwhat-my-privacy-and-security-stack-actually-looks-like%2F%3Futm_source=tldrinfosec/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/OGakQAD6qFj7C3uUnXVFJ9tIpOWdccNFuh9MmZhS3Bs=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;What My Privacy and Security Stack Actually Looks Like (6 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Investigative tech reporter Yael Grauer describes the privacy and security principles that she employs in her everyday life. Grauer attempts to find information and inform friends before she meets someone and uses a PO Box when interacting with clients. Grauer also encrypts her hard drives, reviews app permissions, uses Lockdown mode on Apple devices and Advanced Protection on her Google account as well as a Yubikey, VPN, and password manager.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🧑‍💻&lt;/span&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;
-
-&lt;h1&gt;&lt;strong&gt;Launches &amp;amp; Tools&lt;/strong&gt;&lt;/h1&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FwolfSSL%2FwolfCOSE%3Futm_source=tldrinfosec/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/PXFgqReBTMc7bD5Y9LOrx0SZBNFTPZldcOJZeXX4XxU=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;wolfCOSE (GitHub Repo)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    wolfCOSE is a GPLv3 C library from wolfSSL implementing the full RFC 9052/9053 COSE message set (Sign1, Sign, Encrypt0, Encrypt, Mac0, and Mac) and CBOR encoding atop wolfCrypt, covering 40 algorithms including post-quantum ML-DSA-44/65/87, with zero dynamic allocation, a 7.5 KB minimal text footprint, and a path to FIPS 140-3 via wolfCrypt Certificate #4718. CI runs MISRA C:2012/2023 checks, Coverity scans, and reports 99.3% line coverage for the core, making it a candidate for constrained embedded and IoT signing workflows.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fgrepstrength%2Fmalsnitch%3Futm_source=tldrinfosec/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/9pO4XuobinEQJwrC91c5ZELtO-9KtIzCBaEdWvDkcG0=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;malsnitch (GitHub Repo)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    malsnitch is a CLI tool designed to assist reverse-engineering workflows by scanning artifacts for embedded secrets that malware authors have included in their binaries.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.mokn.io%2F%3Futm_source=tldrinfosec/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/LidyuijX1SdCsJ6jw4_S0o-nsUksHA9vaRVCG0p0rEk=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;MokN (Product Launch)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    MokN provides a phish-back identity protection platform that plants realistic decoy access points in enterprise environments to trick attackers into using stolen credentials, so security teams can detect and neutralize those credentials before use.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🎁&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;&lt;strong&gt;&lt;h1&gt;Miscellaneous&lt;/h1&gt;&lt;/strong&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.technologyreview.com%2F2026%2F04%2F15%2F1135898%2Fcyberscammers-bypassing-bank-telegram%3Futm_source=tldrinfosec/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/iRJef53VqFglrJpBxPvJoNOsEa3Bir_zS9uVVbf56o0=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;Cyberscammers are Bypassing Banks' Security with Illicit Tools Sold on Telegram (5 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Know Your Customer (KYC) tools are designed to prevent account takeovers and phishing by requiring users to pass a “licenses check” to verify their identity. However, an increasing number of tools that allow scammers to bypass these checks or utilize stolen biometrics are popping up on Telegram channels. As KYC tools improve in complexity to attempt to stop these bypasses, financial motivated cybercriminals improve the bypass tools in a cat and mouse game.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fsecurity%2F2026%2F05%2Fbotnet-of-more-than-17-million-devices-dismantled%2F%3Futm_source=tldrinfosec/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/0nvL38yYvGo0HS6mF-jpOmqiIqbQ8oOaB6s-y2a1Pc0=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;Botnet of more than 17 million devices dismantled (3 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Dutch police and the National Cyber Security Center took down a botnet of more than 17 million devices controlled via 200 servers hosted in the Netherlands and reportedly linked to Russia-based residential proxy provider ASOCKS. Investigators seized botnet servers and noted overlaps with prior Proxylib activity, where malicious or misleading apps quietly enrolled phones and routers into a commercial proxy network.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2Fsecurity%2F2026%2F05%2F29%2Fno-fix-yet-for-critical-gogs-rce-bug-exploit-module-is-out%2F5248691%3Futm_source=tldrinfosec/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/-QBgMw4U0NnUenmBCAgmAsMRkpwxAge4_qXMBzwtUic=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;No fix yet for critical RCE bug in open-source Git service Gogs - exploit module is out (3 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    A 9.4-rated authenticated RCE in Gogs' pull request merge flow lets any logged-in user exploit an argument injection in the Merge() function when “Rebase before merging” is enabled, leading to arbitrary command execution on Windows, Linux, and macOS. Rapid7's Jonah Burgess disclosed the flaw in March, published a Metasploit module, and recommends locking down registration, repo creation, and rebase settings until maintainers ship a patch.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;⚡&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;
-
-&lt;h1&gt;&lt;strong&gt;Quick Links&lt;/strong&gt;&lt;/h1&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsecurityaffairs.com%2F192907%2Funcategorized%2Fshinyhunters-leaks-charter-communications-data-potentially-impacting-5-million-customers.html%3Futm_source=tldrinfosec/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/h5ugzFSU3Q6LDIjvPhqZtrYgI9TSy7XnFRKhT9cBqXY=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;ShinyHunters Leaks Charter Communications Data, Potentially Impacting 5 Million Customers (2 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    ShinyHunters published data stolen from Charter Communications after a failed extortion attempt.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthehackernews.com%2F2026%2F05%2Fchatgphish-vulnerability-turns-chatgpt.html%3Futm_source=tldrinfosec/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/2N5nOoGTKgrP27Ov6ZTnX7XurYEu9Dxbxb0xzsYDcoM=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface (4 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    ChatGPT's summary renderer relies on Markdown links and image URLs from recently processed pages, which attackers can exploit to plant malicious payloads, trigger image fetches that reveal IP addresses, User-Agent, and Referer details, and display clickable phishing links, fake security alerts, or QR codes within the assistant interface.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FVLH3Aa/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/y9intiC0emFPyPiAgu_obghLq1jkvHgYOrN9QsJZMJo=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;Exploit Code Published for Critical Flowise RCE Vulnerability (2 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Obsidian Security disclosed technical details and PoC code for CVE-2026-40933, a CVSS 9.9 RCE in Flowise's MCP adapter that abuses unsafe stdio command serialization to trigger OS-level code execution on import, often with root privileges in containerized self-hosted deployments.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;"&gt;
-
-&lt;p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;"&gt;
-Love TLDR? Tell your friends and get rewards!
-&lt;/p&gt;
-&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td class="container" style="padding: 0px 10px 15px;"&gt;
-&lt;div class="text-block"&gt;
-Share your referral link below with friends to get free TLDR swag!
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td align="left" style="padding: 10px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F48f299f3%2F8/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/f_I0nR1qLMgaNA5FpZ4R-h2FzxOt0EBntH9fv3dhHBQ=452" style="color: #464ba4; text-decoration: underline;"&gt;https://refer.tldr.tech/48f299f3/8&lt;/a&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td align="left" style="padding:5px 10px;"&gt;
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_969617670871%2F8/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/aAtyPMIV3-2vTKIjDPLUR6EQu46HwWv5LSERzLwONmk=452" style="font-size: 16px; line-height: 1.6;  padding: 10px 0; display: inline-block;  text-decoration: underline;"&gt;&lt;span style="mso-text-raise:13pt; text-decoration: underline;"&gt;Track your referrals here.&lt;/span&gt;&lt;/a&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-
-
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;"&gt;
-
-&lt;p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;"&gt;
-Want to advertise in TLDR? 📰
-&lt;/p&gt;
-&lt;div class="text-block" style="margin-top: 10px;"&gt;
-If your company is interested in reaching an audience of cybersecurity professionals and decision makers, you may want to &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrinfosec%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/Ul5CDC2cFbOtPC14TEou3fe6uYdB5DbhtI3mYjVNFrA=452"&gt;&lt;strong&gt;&lt;span&gt;advertise with us&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;.
-&lt;/div&gt;
-&lt;br&gt;
-
-&lt;!-- New "Want to work at TLDR?" section --&gt;
-
-&lt;p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;"&gt;
-Want to work at TLDR? 💼
-&lt;/p&gt;
-&lt;div class="text-block" style="margin-top: 10px;"&gt;
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/c5XUe-GvWuLZdmA6NtYaRwZL8C3l0GVbEjep3OGH2OM=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;Apply here&lt;/strong&gt;&lt;/a&gt;,
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/1a98YqFF_UT-7t7LPUldrgS-K6ZUPH3VBgurBwkDiuI=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;create your own role&lt;/strong&gt;&lt;/a&gt; or send a friend's resume to &lt;a href="mailto:jobs@tldr.tech" style="color: #0000EE; text-decoration: underline;"&gt;jobs@tldr.tech&lt;/a&gt; and get $1k if we hire them! TLDR is one of &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/qITxNwhW1zdaH8mZS6pMRkG7PyOfn93xgUo9D6L3MOE=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;Inc.'s Best Bootstrapped businesses&lt;/strong&gt;&lt;/a&gt; of 2025.
-&lt;/div&gt;
-&lt;br&gt;
-
-&lt;div class="text-block"&gt;
-If you have any comments or feedback, just respond to this email!
-&lt;br&gt;
-&lt;br&gt; Thanks for reading,
-&lt;br&gt;
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fprasannagautam%2F/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/vW8Df6XWNGLKcJUP3RrGT5G7hb0h25nDsBQzx3orFEQ=452"&gt;&lt;span&gt;Prasanna Gautam&lt;/span&gt;&lt;/a&gt;, &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fericfernandezdelcampo%2F/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/5FpqSn47VIosOZ3Wa54mZmaC7HQ_g1RPTXzGTFHyohc=452"&gt;&lt;span&gt;Eric Fernandez&lt;/span&gt;&lt;/a&gt; &amp;amp; &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsammy-tbeile%2F/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/GQUH-5C9Y3ILK2L9lmZypBnFTp4XS4DA_wc7c3XiQxA=452"&gt;&lt;span&gt;Sammy Tbeile&lt;/span&gt;&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;/div&gt;
-&lt;br&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block" id="testing-id"&gt;
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Finfosec%2Fmanage%3Femail=kob62291404%2540163.com/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/pmCXp3qvHW675LapDySLRnmggNfa9sm6D7f9AQd4tr4=452"&gt;Manage your subscriptions&lt;/a&gt; to our other newsletters on tech, startups, and programming. Or if TLDR Information Security isn't for you, please &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=8d9cea11-3e94-11ed-9a32-0241b9615763%26lc=14a14690-456d-11f1-9623-47608eee5fa8%26p=1027767a-5d87-11f1-9ea8-37f8dcaabf73%26pt=campaign%26pv=4%26spa=1780318817%26t=1780319138%26s=ae012534edc254d4f20dc59ce3079e4f27b941c110adfc9bc331bd1e0da59c1d/1/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/j0mwwai4AwWtqGI8psALrB7WzMrgAn-Aklzv_4aynqw=452"&gt;unsubscribe&lt;/a&gt;.
-&lt;br&gt;
-
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-
-
-&lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019e834a31fe-bba0ba96-2b1d-4f8d-b9f1-c2c8df02241e-000000/w6kJaJhVi9flo32JtL-PEurgc9Qi7459xi9iZ66J2NY=452" style="display: none; width: 1px; height: 1px;"&gt;
-&lt;/body&gt;&lt;/html&gt;</content:encoded></item><item><title>Palo Alto Gets Hit 🚨, Cisco Goes Autonomous ⚙️, Wi-Fi Gets Smarter 📶</title><link>https://rss.longlone.de5.net/own/WxEixi3EqpY2ruPZLelb-mJ-FY26qLk3.xml#item-135</link><guid isPermaLink="false">own-newsletter:item:135</guid><pubDate>Mon, 01 Jun 2026 12:47:45 GMT</pubDate><author>TLDR IT &lt;dan@tldrnewsletter.com&gt;</author><description>TLDR IT Palo Alto Networks warned that attackers are actively exploiting a GlobalProtect VPN authentication bypass vulnerability ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Sign Up |Advertise|View Online TLDR TLDR IT...</description><content:encoded>&lt;!DOCTYPE html&gt;&lt;html lang="en"&gt;&lt;head&gt;&lt;meta http-equiv="Content-Type" content="text/html charset=UTF-8"&gt;&lt;meta charset="UTF-8"&gt;&lt;meta name="viewport" content="width=device-width"&gt;&lt;meta name="x-apple-disable-message-reformatting"&gt;&lt;title&gt;TLDR IT&lt;/title&gt;&lt;meta name="color-scheme" content="light dark"&gt;&lt;meta name="supported-color-schemes" content="light dark"&gt;&lt;style type="text/css"&gt;
-			:root {
-				color-scheme: light dark; supported-color-schemes: light dark;
-			}
-			
-			*,
-			*:after,
-			*:before {
-				-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
-			}
-			
-			* {
-				-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
-			}
-			
-			html,
-			body,
-			.document {
-				width: 100% !important; height: 100% !important; margin: 0; padding: 0;
-			}
-			
-			body {
-				-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility;
-			}
-			
-			div[style*="margin: 16px 0"] {
-				margin: 0 !important;
-			}
-			
-			table,
-			td {
-				mso-table-lspace: 0pt; mso-table-rspace: 0pt;
-			}
-			
-			table {
-				border-spacing: 0; border-collapse: collapse; table-layout: fixed; margin: 0 auto;
-			}
-			
-			img {
-				-ms-interpolation-mode: bicubic; max-width: 100%; border: 0;
-			}
-			
-			*[x-apple-data-detectors] {
-				color: inherit !important; text-decoration: none !important;
-			}
-			
-			.x-gmail-data-detectors,
-			.x-gmail-data-detectors *,
-			.aBn {
-				border-bottom: 0 !important; cursor: default !important;
-			}
-			
-			.btn {
-				-webkit-transition: all 200ms ease; transition: all 200ms ease;
-			}
-			
-			.btn:hover {
-				background-color: #f67575; border-color: #f67575;
-			}
-			
-			* {
-				font-family: Arial, Helvetica, sans-serif; font-size: 18px;
-			}
-			
-			@media screen and (max-width: 600px) {
-				.container {
-					width: 100%; margin: auto;
-				}
-				.stack {
-					display: block!important; width: 100%!important; max-width: 100%!important;
-				}
-				.btn {
-					display: block; width: 100%; text-align: center;
-				}
-			}
-			
-			body,
-			p,
-			td,
-			tr,
-			.body,
-			table,
-			h1,
-			h2,
-			h3,
-			h4,
-			h5,
-			h6,
-			div,
-			span {
-				background-color: #FEFEFE !important; color: #010101 !important;
-			}
-			
-			@media (prefers-color-scheme: dark) {
-				body,
-				p,
-				td,
-				tr,
-				.body,
-				table,
-				h1,
-				h2,
-				h3,
-				h4,
-				h5,
-				h6,
-				div,
-				span {
-					background-color: #27292D !important; color: #FEFEFE !important;
-				}
-			}
-			
-			a {
-				color: inherit !important; text-decoration: underline !important;
-			}
-
-		&lt;/style&gt;&lt;!--[if mso | ie]&gt;
-		&lt;style type="text/css"&gt;
-			a {
-				background-color: #FEFEFE !important; color: #010101 !important;
-			}
-			@media (prefers-color-scheme: dark) {
-				a {
-					background-color: #27292D !important; color: #FEFEFE !important;
-				}
-			}
-	 &lt;/style&gt;
-			&lt;![endif]--&gt;&lt;/head&gt;&lt;body class=""&gt;
-
-
-
-&lt;div style="display: none; max-height: 0px; overflow: hidden;"&gt;Palo Alto Networks warned that attackers are actively exploiting a GlobalProtect VPN authentication bypass vulnerability&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;‌&amp;nbsp;&lt;/div&gt;
-
-&lt;div style="display: none; max-height: 0px; overflow: hidden;"&gt;
-&lt;br&gt;
-&lt;/div&gt;
-
-&lt;table align="center" class="document"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td valign="top"&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="container" width="600"&gt;&lt;tbody&gt;&lt;tr class="inner-body"&gt;&lt;td&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr class="header"&gt;&lt;td bgcolor="" class="container"&gt;
-
-&lt;table width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container"&gt;
-
-
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" style="margin-top: 0px;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding: 0px;"&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div style="text-align: center;"&gt;
-&lt;span style="margin-right: 0px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fit%3Futm_source=tldrit/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/8KIj0SWb7fZnI8Ls1N-kUnoytlYvjAoGGhL1B7PzX1o=452" rel="noopener noreferrer" target="_blank"&gt;&lt;span&gt;Sign Up&lt;/span&gt;&lt;/a&gt;
-|&lt;span style="margin-right: 2px; margin-left: 2px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrit%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/2VIs2J-4gnirh5pK2W1NmKeLPvB_XFvkXpfmr1j7ySc=452" rel="noopener noreferrer" target="_blank"&gt;&lt;span&gt;Advertise&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;|&lt;span style="margin-left: 2px;"&gt;&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=149dee8c-456d-11f1-ac4d-0b323ced8894%26p=aff278f0-5d85-11f1-9720-935a94bb3b34%26pt=campaign%26t=1780318065%26s=20dcf995e8f829b9200ce83694612dcffb3a1514f6fa94b769a4d27ee51b655b/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/zPeNF29hszD7VyedUmdL4154C01KfJJju6a_rzGqsP4=452"&gt;&lt;span&gt;View Online&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
-&lt;br&gt;
-&lt;/span&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="text-align: center;"&gt;&lt;span data-darkreader-inline-color="" style="--darkreader-inline-color:#3db3ff; color: rgb(51, 175, 255) !important; font-size: 30px;"&gt;T&lt;/span&gt;&lt;span style="font-size: 30px;"&gt;&lt;span data-darkreader-inline-color="" style="color: rgb(232, 192, 96) !important; --darkreader-inline-color:#e8c163; font-size:30px;"&gt;L&lt;/span&gt;&lt;span data-darkreader-inline-color="" style="color: rgb(101, 195, 173) !important; --darkreader-inline-color:#6ec7b2; font-size:30px;"&gt;D&lt;/span&gt;&lt;/span&gt;&lt;span data-darkreader-inline-color="" style="--darkreader-inline-color:#dd6e6e; color: rgb(220, 107, 107) !important; font-size: 30px;"&gt;R&lt;/span&gt;
-&lt;br&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;br&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-
-&lt;table style="table-layout: fixed; width:100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;"&gt;
-&lt;div style="text-align: center;"&gt;
-
-&lt;h1&gt;&lt;strong&gt;TLDR IT &lt;span id="date"&gt;2026-06-01&lt;/span&gt;&lt;/strong&gt;&lt;/h1&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table style="table-layout: fixed; width:100%;" width="100%"&gt;&lt;tbody&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/td&gt;&lt;/tr&gt;
-&lt;tr bgcolor=""&gt;&lt;td class="container"&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding: 0px;"&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🚀&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;
-
-&lt;h1&gt;&lt;strong&gt;News &amp;amp; Trends&lt;/strong&gt;&lt;/h1&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FG2OAaZ/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/cfVl-ir7XbNoFyX2y_MqUyCAlB0KD3QbNtD3ohYysoo=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;Palo Alto GlobalProtect Auth Bypass Now Under Active Attack (3 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Palo Alto Networks warned that attackers are actively exploiting a GlobalProtect VPN authentication bypass vulnerability that could allow unauthorized access to corporate networks. The flaw has been added to CISA's Known Exploited Vulnerabilities catalog, making remediation a priority for organizations running internet-facing GlobalProtect infrastructure.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblogs.cisco.com%2Fdeveloper%2Fexplore-enterprise-networking-automation-at-cisco-live-us-2026%3Futm_source=tldrit/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/tVJSxGwMEakA6zgmjeS6MlJmxtNe3QPsUhZhMTjhjpQ=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;Cisco Live 2026 Pushes Enterprise Networking Toward Automation-First Operations (3 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Cisco is heavily emphasizing enterprise network automation, programmability, and AI-driven operations at Cisco Live 2026, signaling how network teams are increasingly being pushed toward software-driven infrastructure management instead of traditional manual administration.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🧠&lt;/span&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;
-
-&lt;h1&gt;&lt;strong&gt;Analysis &amp;amp; Opinions&lt;/strong&gt;&lt;/h1&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-
-&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsiliconangle.com%2F2026%2F05%2F31%2Freactive-operations-autonomous-infrastructure-leaders-must-next%2F%3Futm_source=tldrit/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/KNiMTxnNh9up_G14HWe0q3mazpmWfw2hBzvvqnI9Atk=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;From Reactive Operations to Autonomous Infrastructure: What IT Leaders Must Do Next (4 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    As AI agents increasingly operate at machine speed, the article argues that traditional reactive IT operations models are becoming unsustainable. It makes the case that infrastructure must evolve into autonomous, self-orchestrating systems capable of monitoring, optimizing, and responding to issues without constant human intervention, forcing IT leaders to rethink operations, governance, and platform architecture for the agentic era.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2F650group.com%2Fblog%2Fai-networking-will-ramp-as-enterprise-wi-fi-access-points-move-into-the-wi-fi-8-era%2F%3Futm_source=tldrit/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/WWiaGP0vTIsTCsN5xFDgEC7s3EzlDYTfByU9X-W2DbU=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;AI Is Moving Directly Into Enterprise Wi-Fi Infrastructure (3 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Industry analysts predict upcoming Wi-Fi 8 enterprise access points will increasingly run AI inference directly on AP hardware, helping optimize channel selection, telemetry processing, and device connectivity without relying entirely on controllers or the cloud.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🤝&lt;/span&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;
-
-&lt;h1&gt;&lt;strong&gt;Launches &amp;amp; Partnerships&lt;/strong&gt;&lt;/h1&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flearn.microsoft.com%2Fen-us%2Fintune%2Fwhats-new%2F%3Futm_source=tldrit/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/iky3kv3Dw5CmzyAy3ZFWsQ39cjNkA-MAz007cwYZ6_s=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;Microsoft Expands Intune Endpoint Privilege Management Capabilities (2 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Microsoft expanded Endpoint Privilege Management workflows in Intune, improving support-approved privilege elevation scenarios and strengthening least-privilege endpoint administration.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FJCTNET/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/KtdOVF0fPDLNOrp8-9yG2rKKVuHRfO9g58aFc6S9rJk=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;India's Wipro Expands ServiceNow Partnership Around Agentic AI Workflows (3 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Wipro expanded its partnership with ServiceNow to integrate agentic AI workflows across IT, HR, procurement, and cybersecurity operations, reflecting how enterprise software vendors are increasingly embedding AI-driven process automation directly into core business platforms.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;🎁&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;&lt;strong&gt;&lt;h1&gt;Miscellaneous&lt;/h1&gt;&lt;/strong&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2026%2F05%2F31%2Ferin-brockovich-takes-aim-at-data-center-secrecy%2F%3Futm_source=tldrit/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/n-X4imMfbZDIDOLVMQndKwIY99IWbkPvWUsCTP5uI0I=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;Erin Brockovich Takes Aim at Data Center Secrecy (4 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Environmental activist Erin Brockovich is emerging as a high-profile voice in the growing backlash against AI data center expansion, arguing that many projects move forward with limited community transparency around power, water, and environmental impact. The story highlights how data center growth is increasingly becoming a political, regulatory, and public relations challenge for tech companies racing to build AI infrastructure.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flearn.microsoft.com%2Fen-us%2Fpartner-center%2Fannouncements%2F2026-may%3Futm_source=tldrit/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/T4opQmCASxI1oKSIzaxIzDV6swXipZmjP54W3PZFwHk=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;Microsoft Says 2026 Is the Year Agents Become Operators (3 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Microsoft is positioning AI agents as operational workers rather than assistants, signaling a shift from productivity augmentation toward workflow execution across Microsoft 365 environments.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;&lt;span style="font-size: 36px;"&gt;⚡&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding-top: 0px; padding-bottom: 0px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;div style="text-align: center;"&gt;
-
-&lt;h1&gt;&lt;strong&gt;Quick Links&lt;/strong&gt;&lt;/h1&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table bgcolor="" style="table-layout: fixed; width: 100%;" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="padding:0;border-collapse:collapse;border-spacing:0;margin:0;" valign="top"&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevops.com%2Fwhy-enterprise-ai-infrastructure-is-becoming-a-devops-problem%2F%3Futm_source=tldrit/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/le_7votZE6YJbiYz3hYmQXrUTg_ian6-gevZsQJ15Rg=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;Enterprise AI Infrastructure Is Becoming a DevOps Problem (9 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Enterprise AI infrastructure is moving beyond simple model deployment into inference, scaling, governance, and operational reliability work that increasingly falls on DevOps and platform teams.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block"&gt;
-&lt;span&gt;
-                                &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgluware.com%2Fagentic-netops-is-only-as-good-as-the-trust-layer-beneath-it%2F%3Futm_source=tldrit/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/hMJaVULJj7M-T5geJd24C6oijRIasX8Ayq2BNJe_o7E=452"&gt;
-                                    &lt;span&gt;
-                                        &lt;strong&gt;Agentic NetOps Needs a Trust Layer (3 minute read)&lt;/strong&gt;
-                                    &lt;/span&gt;
-&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;span style="font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, Verdana, sans-serif;"&gt;
-                                    Agentic network operations will only work if automation is grounded in trusted inventory, policy, and validation layers, especially as tools like Ansible Automation Platform mature into execution layers for enterprise IT operations.
-                                &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-
-
-
-
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align="left" style="word-break: break-word; vertical-align: top; padding: 5px 10px;"&gt;
-
-&lt;p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;"&gt;
-Want to advertise in TLDR? 📰
-&lt;/p&gt;
-&lt;div class="text-block" style="margin-top: 10px;"&gt;
-If your company is interested in reaching an audience of IT professionals and decision makers, you may want to &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrit%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/gZpFNgNgWdr1hcEkgVokZzsXAxdjGFDnya0hrmHjrnE=452"&gt;&lt;strong&gt;&lt;span&gt;advertise with us&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;.
-&lt;/div&gt;
-&lt;br&gt;
-
-&lt;!-- New "Want to work at TLDR?" section --&gt;
-
-&lt;p style="padding: 0; margin: 0; font-size: 22px; color: #000000; line-height: 1.6; font-weight: bold;"&gt;
-Want to work at TLDR? 💼
-&lt;/p&gt;
-&lt;div class="text-block" style="margin-top: 10px;"&gt;
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/aVTQnPrIbCftjmYqStBQAVk4qySrc-ObajrxB7Vb-I8=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;Apply here&lt;/strong&gt;&lt;/a&gt;,
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/TLZiPfCYU3K6HTaZgB63oSmdrLBVuOXFDOe1hMXUI2E=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;create your own role&lt;/strong&gt;&lt;/a&gt; or send a friend's resume to &lt;a href="mailto:jobs@tldr.tech" style="color: #0000EE; text-decoration: underline;"&gt;jobs@tldr.tech&lt;/a&gt; and get $1k if we hire them! TLDR is one of &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/ARhEG3Uw-UgYy04-6wFj9r0XvXrIzsgPm_e6x9mu_sI=452" rel="noopener noreferrer" style="color: #0000EE; text-decoration: underline;" target="_blank"&gt;&lt;strong&gt;Inc.'s Best Bootstrapped businesses&lt;/strong&gt;&lt;/a&gt; of 2025.
-&lt;/div&gt;
-&lt;br&gt;
-
-&lt;div class="text-block"&gt;
-If you have any comments or feedback, just respond to this email!
-&lt;br&gt;
-&lt;br&gt; Thanks for reading,
-&lt;br&gt;
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsiddhibansal%2F/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/8vp2oOsRbbJpgisCVPHb4pv8CgdFc_4ZPAfcb1xYnWU=452"&gt;&lt;span&gt;Siddhi Bansal&lt;/span&gt;&lt;/a&gt;, &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Ftongchen-yang-877116216%2F/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/79vfB1wPRRqssZ9edLmgkj4HST6sod5XCZv8e77r7pA=452"&gt;&lt;span&gt;Tongchen Yang&lt;/span&gt;&lt;/a&gt;, &amp;amp; &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Frushdesh%2F/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/DDoJ8tCcIBR6numb1n-XEE5saJRdNqNpHDGv1-iiWx4=452"&gt;&lt;span&gt;Rush Deshpande&lt;/span&gt;&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;/div&gt;
-&lt;br&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="container" style="padding: 15px 15px;"&gt;
-&lt;div class="text-block" id="testing-id"&gt;
-&lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fit%2Fmanage%3Femail=kob62291404%2540163.com/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/l1OjKXUjdVXcrG8rDFeI44fCBkvnOqiA6sQ2nHEEKvM=452"&gt;Manage your subscriptions&lt;/a&gt; to our other newsletters on tech, startups, and programming. Or if TLDR IT isn't for you, please &lt;a href="https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=db791bc2-386d-11ee-a768-4730dc8aabb1%26lc=149dee8c-456d-11f1-ac4d-0b323ced8894%26p=aff278f0-5d85-11f1-9720-935a94bb3b34%26pt=campaign%26pv=4%26spa=1780315278%26t=1780318065%26s=5156c2863fcd6263c1f87cc1f071f554a379ed70a2ada3883dc47d25a1fea370/1/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/ssKOwxTlOzj4xy3zWqbuqygqh2S15oSlLcDo3ar6vO4=452"&gt;unsubscribe&lt;/a&gt;.
-&lt;br&gt;
-
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-
-&lt;img alt="" src="http://tracking.tldrnewsletter.com/CI0/0100019e8339d3aa-96fc4183-883a-4458-b166-82acfad33dd4-000000/rrwGm9IYfe2dVF88tfKGs-0pxwIrcVk0K1Tmo5X11xg=452" style="display: none; width: 1px; height: 1px;"&gt;
 &lt;/body&gt;&lt;/html&gt;</content:encoded></item></channel></rss>
